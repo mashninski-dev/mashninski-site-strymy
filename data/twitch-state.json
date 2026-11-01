@@ -338,6 +338,21 @@
       "display_name": "annigilatormg42",
       "history": [
         {
+          "duration_min": 245,
+          "ended_at": "2026-11-01T21:04:41Z",
+          "game": "Total War: WARHAMMER III",
+          "source": "vod",
+          "started_at": "2026-11-01T16:59:34Z",
+          "stream_id": "319230576870",
+          "title": "Змагаемся за жыццёвы прастор для нашай Цёмнай Прыгажуні)",
+          "vod": {
+            "gone": false,
+            "id": "2916821188",
+            "seen_at": "2026-11-01T21:06:19Z",
+            "url": "https://www.twitch.tv/videos/2916821188"
+          }
+        },
+        {
           "duration_min": 269,
           "ended_at": "2026-10-31T21:54:22Z",
           "game": "Tropico 6",
@@ -621,44 +636,29 @@
             "seen_at": "2026-10-04T11:06:01Z",
             "url": "https://www.twitch.tv/videos/2882189268"
           }
-        },
-        {
-          "duration_min": 122,
-          "ended_at": "2026-09-21T20:32:28Z",
-          "game": "Gallipoli",
-          "source": "vod",
-          "started_at": "2026-09-21T18:30:27Z",
-          "stream_id": "318533220839",
-          "title": "Разслабляем мазгі пасля першага працоўнага дня)",
-          "vod": {
-            "gone": false,
-            "id": "2880379835",
-            "seen_at": "2026-10-04T11:06:01Z",
-            "url": "https://www.twitch.tv/videos/2880379835"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 269,
-        "ended_at": "2026-10-31T21:54:22Z",
-        "game": "Tropico 6",
+        "duration_min": 245,
+        "ended_at": "2026-11-01T21:04:41Z",
+        "game": "Total War: WARHAMMER III",
         "source": "vod",
-        "started_at": "2026-10-31T17:25:35Z",
-        "stream_id": "319025492199",
-        "title": "Будуем Свабоду з калючым дротам ды вышкамі з аўтаматчыкамі))",
+        "started_at": "2026-11-01T16:59:34Z",
+        "stream_id": "319230576870",
+        "title": "Змагаемся за жыццёвы прастор для нашай Цёмнай Прыгажуні)",
         "vod": {
           "gone": false,
-          "id": "2915921182",
-          "seen_at": "2026-10-31T21:55:55Z",
-          "url": "https://www.twitch.tv/videos/2915921182"
+          "id": "2916821188",
+          "seen_at": "2026-11-01T21:06:19Z",
+          "url": "https://www.twitch.tv/videos/2916821188"
         }
       },
       "live": {
-        "game": "Total War: WARHAMMER III",
-        "since": "2026-11-01T16:59:34Z",
-        "stream_id": "319230576870",
-        "title": "Змагаемся за жыццёвы прастор для нашай Цёмнай Прыгажуні)",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6f85ccf-8f12-43f4-90e3-1e1cf95ab956-profile_image-300x300.jpeg",
@@ -3378,7 +3378,7 @@
         "since": "2026-11-01T18:52:58Z",
         "stream_id": "317145548885",
         "title": "Фінал!",
-        "viewers": 17
+        "viewers": 22
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4269,7 +4269,7 @@
         "since": "2026-11-01T18:32:26Z",
         "stream_id": "319042072935",
         "title": "Працягваем Велен від Іринка подруга",
-        "viewers": 17
+        "viewers": 15
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5027,5 +5027,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-01T21:00:39Z"
+  "updated_at": "2026-11-01T21:06:19Z"
 }
