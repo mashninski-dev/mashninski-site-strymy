@@ -1496,7 +1496,7 @@
           "stream_id": "318978652133",
           "title": "майстар III ліга",
           "vod": {
-            "gone": false,
+            "gone": true,
             "id": "2903159412",
             "seen_at": "2026-10-17T16:25:33Z",
             "url": "https://www.twitch.tv/videos/2903159412"
@@ -1527,7 +1527,7 @@
         "stream_id": "318978652133",
         "title": "майстар III ліга",
         "vod": {
-          "gone": false,
+          "gone": true,
           "id": "2903159412",
           "seen_at": "2026-10-17T16:25:33Z",
           "url": "https://www.twitch.tv/videos/2903159412"
@@ -5027,5 +5027,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-01T02:03:42Z"
+  "updated_at": "2026-11-01T06:00:38Z"
 }
