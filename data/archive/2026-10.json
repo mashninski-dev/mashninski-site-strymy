@@ -2062,8 +2062,12 @@
           "minutes": 1645
         },
         "Outlast": {
+          "launches": 2,
+          "minutes": 458
+        },
+        "Phasmophobia": {
           "launches": 1,
-          "minutes": 267
+          "minutes": 220
         },
         "R.E.P.O.": {
           "launches": 3,
@@ -2097,9 +2101,9 @@
       "display_name": "ShagraeL_BY",
       "followers_end": 1019,
       "followers_start": 998,
-      "hours": [1620,1620,1585,1547,1351,1233,877,358,68,0,0,0,0,0,0,0,0,13,80,342,551,1123,1542,1620],
-      "launches": 27,
-      "minutes": 15530,
+      "hours": [1680,1680,1645,1607,1411,1235,877,358,68,0,0,0,0,0,0,0,0,13,80,342,551,1123,1592,1680],
+      "launches": 28,
+      "minutes": 15942,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-01T01:57:14Z",
       "sessions": [
@@ -2237,6 +2241,11 @@
           "duration_min": 706,
           "ended_at": "2026-10-31T02:33:19Z",
           "started_at": "2026-10-30T14:47:19Z"
+        },
+        {
+          "duration_min": 412,
+          "ended_at": "2026-11-01T02:02:08Z",
+          "started_at": "2026-10-31T19:10:08Z"
         }
       ]
     },
@@ -2747,5 +2756,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-31T22:34:42Z"
+  "updated_at": "2026-11-01T02:03:42Z"
 }

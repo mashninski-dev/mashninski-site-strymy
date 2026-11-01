@@ -3949,6 +3949,21 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 412,
+          "ended_at": "2026-11-01T02:02:08Z",
+          "game": "Outlast",
+          "source": "vod",
+          "started_at": "2026-10-31T19:10:08Z",
+          "stream_id": "317138815957",
+          "title": "[СКРЫМЕРЫ ЎКЛЮЧАНЫ] Бясстрашны кот у справе! (першае праходжанне) від Іринка подруга",
+          "vod": {
+            "gone": false,
+            "id": "2916015059",
+            "seen_at": "2026-11-01T02:03:44Z",
+            "url": "https://www.twitch.tv/videos/2916015059"
+          }
+        },
+        {
           "duration_min": 706,
           "ended_at": "2026-10-31T02:33:19Z",
           "game": "Valheim",
@@ -4232,44 +4247,29 @@
             "seen_at": "2026-10-10T03:42:34Z",
             "url": "https://www.twitch.tv/videos/2896295301"
           }
-        },
-        {
-          "duration_min": 711,
-          "ended_at": "2026-10-09T03:51:40Z",
-          "game": "Valheim",
-          "source": "vod",
-          "started_at": "2026-10-08T16:00:50Z",
-          "stream_id": "318732976103",
-          "title": "Вальхеймімся від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2895224552",
-            "seen_at": "2026-10-09T03:53:21Z",
-            "url": "https://www.twitch.tv/videos/2895224552"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 706,
-        "ended_at": "2026-10-31T02:33:19Z",
-        "game": "Valheim",
+        "duration_min": 412,
+        "ended_at": "2026-11-01T02:02:08Z",
+        "game": "Outlast",
         "source": "vod",
-        "started_at": "2026-10-30T14:47:19Z",
-        "stream_id": "317163178966",
-        "title": "Ну вікінгі від Іринка подруга",
+        "started_at": "2026-10-31T19:10:08Z",
+        "stream_id": "317138815957",
+        "title": "[СКРЫМЕРЫ ЎКЛЮЧАНЫ] Бясстрашны кот у справе! (першае праходжанне) від Іринка подруга",
         "vod": {
           "gone": false,
-          "id": "2914848836",
-          "seen_at": "2026-10-31T02:35:02Z",
-          "url": "https://www.twitch.tv/videos/2914848836"
+          "id": "2916015059",
+          "seen_at": "2026-11-01T02:03:44Z",
+          "url": "https://www.twitch.tv/videos/2916015059"
         }
       },
       "live": {
-        "game": "Outlast",
-        "since": "2026-10-31T19:10:08Z",
-        "stream_id": "317138815957",
-        "title": "[СКРЫМЕРЫ ЎКЛЮЧАНЫ] Бясстрашны кот у справе! (першае праходжанне) від Іринка подруга",
-        "viewers": 13
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5027,5 +5027,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-01T01:50:38Z"
+  "updated_at": "2026-11-01T02:03:42Z"
 }
