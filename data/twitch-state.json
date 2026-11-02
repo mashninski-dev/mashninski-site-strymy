@@ -3378,7 +3378,7 @@
         "since": "2026-11-02T18:54:30Z",
         "stream_id": "317151646805",
         "title": "Вітанкі Петрык",
-        "viewers": 0
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -3605,7 +3605,7 @@
         "since": "2026-11-01T07:54:14Z",
         "stream_id": "319033542503",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 4
+        "viewers": 3
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/feb426c4-d99b-47bb-a9dc-8c4259f88e1d-profile_image-300x300.png",
@@ -4265,11 +4265,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "The Witcher 3: Wild Hunt Remastered",
+        "since": "2026-11-02T18:57:49Z",
+        "stream_id": "319181933157",
+        "title": "Кіт-руіна від Іринка подруга",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4782,7 +4782,7 @@
         "since": "2026-11-02T18:19:27Z",
         "stream_id": "317151368917",
         "title": "[BEL] уладзік акуратна едзе на пежо",
-        "viewers": 12
+        "viewers": 15
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-08-16T21:51:53Z",
@@ -5027,5 +5027,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-02T18:55:06Z"
+  "updated_at": "2026-11-02T18:58:22Z"
 }
