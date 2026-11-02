@@ -1,13 +1,17 @@
-"""Тесты collect.py: дневные снимки подписчиков (followers.daily), каапы (общий чат).
+"""Тесты collect.py: дневные снимки подписчиков (followers.daily), каапы (общий чат),
+гадзіны прагляду (зрителе-секунды сессий).
 
 Запуск: python -m unittest test_collect
 """
 
 import copy
+import json
+import os
 import tempfile
 import unittest
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from unittest import mock
 
 import collect
 
@@ -250,6 +254,206 @@ class CoopsTest(unittest.TestCase):
         self.assertEqual(sorted(october["coops"]), ["S1", "S2"])
         # Месяц без каапов ключа не получает.
         self.assertNotIn("coops", september)
+
+
+def stream(sid, started, viewers, game="Dota 2"):
+    """Ответ Get Streams для одного канала."""
+    return {"id": sid, "user_id": "1", "started_at": started, "game_name": game,
+            "title": "t", "viewer_count": viewers}
+
+
+def live_from(s):
+    return {"since": s["started_at"], "title": s["title"], "game": s["game_name"],
+            "viewers": s["viewer_count"], "stream_id": s["id"]}
+
+
+def closed_at(s, ended):
+    return collect.session_from_live(live_from(s), ended)
+
+
+class ViewersTest(unittest.TestCase):
+    def test_trapezoid_on_uneven_runs(self):
+        ss = collect.blank_stats()
+        s = stream("A", "2026-11-02T10:00:00Z", 10)
+        # Первый прогон через 5 минут после начала, потом через 7 и через 23 минуты.
+        collect.track_live("a", ss, s, utc("2026-11-02T10:05:00"))
+        collect.track_live("a", ss, dict(s, viewer_count=30), utc("2026-11-02T10:12:00"))
+        collect.track_live("a", ss, dict(s, viewer_count=20), utc("2026-11-02T10:35:00"))
+        # 10 × 300 с (до первого замера — по нему) + (10+30)/2 × 420 + (30+20)/2 × 1380.
+        self.assertEqual(ss["in_progress"]["viewer_sec"], 3000 + 8400 + 34500)
+        self.assertEqual(ss["in_progress"]["viewers"], 20)
+
+    def test_edges_by_nearest_sample(self):
+        ss = collect.blank_stats()
+        s = stream("A", "2026-11-02T10:00:00Z", 12)
+        collect.track_live("a", ss, s, utc("2026-11-02T10:10:00"))
+        collect.track_live("a", ss, dict(s, viewer_count=18), utc("2026-11-02T10:20:00"))
+        # Конец — через 15 минут после последнего замера: хвост по нему, 18 зрителей.
+        collect.close_stats(ss, live_from(s), closed_at(s, utc("2026-11-02T10:35:00")))
+        self.assertIsNone(ss["in_progress"])
+        rec = ss["recent_sessions"][0]
+        # 12 × 600 + 15 × 600 + 18 × 900 = 32 400 с = 540 мин.
+        self.assertEqual(rec["viewer_minutes"], 540)
+        self.assertEqual(rec["viewers_last"], 18)
+        self.assertEqual(ss["monthly"]["2026-11"]["viewer_minutes"], 540)
+        # Границы те же, что у часов эфира: 35 минут.
+        self.assertEqual(ss["monthly"]["2026-11"]["minutes"], 35)
+
+    def test_vod_cuts_tail(self):
+        ss = collect.blank_stats()
+        s = stream("A", "2026-11-02T10:00:00Z", 10)
+        collect.track_live("a", ss, s, utc("2026-11-02T10:10:00"))
+        collect.track_live("a", ss, dict(s, viewer_count=20), utc("2026-11-02T10:20:00"))
+        # Офлайн бот увидел только через два часа — хвост 120 минут по 20 зрителей.
+        collect.close_stats(ss, live_from(s), closed_at(s, utc("2026-11-02T12:20:00")))
+        self.assertEqual(ss["recent_sessions"][0]["viewer_minutes"], 100 + 150 + 2400)
+        # Запись говорит: эфир кончился в 10:30. Хвост 110 минут × 20 снимается.
+        self.assertTrue(collect.retime_stats(ss, "2026-11-02T10:00:00Z", "2026-11-02T10:30:00Z"))
+        rec = ss["recent_sessions"][0]
+        self.assertEqual(rec["viewer_minutes"], 100 + 150 + 200)
+        self.assertEqual(ss["monthly"]["2026-11"]["viewer_minutes"], 450)
+        self.assertEqual(ss["monthly"]["2026-11"]["minutes"], 30)
+        # Повторный пересчёт ничего не меняет.
+        before = copy.deepcopy(ss)
+        self.assertFalse(collect.retime_stats(ss, "2026-11-02T10:00:00Z", "2026-11-02T10:30:00Z"))
+        self.assertEqual(ss, before)
+
+    def test_old_in_progress_does_not_count(self):
+        # in_progress, открытый до появления полей, зрителей не копит и ключей не даёт:
+        # октябрь, в котором зрителей не собирали, не меняется.
+        ss = collect.blank_stats()
+        s = stream("A", "2026-10-31T20:00:00Z", 10)
+        prog = collect.open_progress("A", s["started_at"], "Dota 2")
+        del prog["viewer_sec"], prog["viewers"]
+        prog["last_seen_at"] = "2026-10-31T20:30:00Z"
+        ss["in_progress"] = prog
+        collect.track_live("a", ss, s, utc("2026-10-31T21:00:00"))
+        self.assertNotIn("viewer_sec", ss["in_progress"])
+        collect.close_stats(ss, live_from(s), closed_at(s, utc("2026-10-31T21:10:00")))
+        self.assertNotIn("viewer_minutes", ss["recent_sessions"][0])
+        self.assertNotIn("viewer_minutes", ss["monthly"]["2026-10"])
+
+    def test_missed_session_is_zero(self):
+        st = {"live": {"stream_id": None, "since": None},
+              "history": [{"started_at": "2026-11-01T10:00:00Z", "ended_at": "2026-11-01T12:00:00Z",
+                           "stream_id": "OLD"}]}
+        ss = collect.blank_stats()
+        video = {"id": "v1", "url": "u", "stream_id": "NEW", "created_at": "2026-11-02T08:00:00Z",
+                 "duration": "1h0m0s", "title": "t", "view_count": 900}
+        with mock.patch.object(collect, "fetch_chapters", return_value=[("Dota 2", 3600)]), \
+                mock.patch.object(collect, "now", return_value=utc("2026-11-02T12:00:00")):
+            collect.missed_sessions("a", st, ss, [video], "2026-09-23", None)
+        self.assertEqual(ss["recent_sessions"][0]["viewer_minutes"], 0)
+        self.assertEqual(ss["monthly"]["2026-11"]["viewer_minutes"], 0)
+        self.assertEqual(ss["monthly"]["2026-11"]["minutes"], 60)
+
+    def test_archive_month_gets_viewers_only_where_counted(self):
+        stats = {"collecting_since": "2026-09-23", "streamers": {"a": collect.blank_stats()}}
+        ss = stats["streamers"]["a"]
+        ss["monthly"]["2026-10"] = collect.blank_month()
+        s = stream("A", "2026-11-02T10:00:00Z", 10)
+        collect.track_live("a", ss, s, utc("2026-11-02T10:10:00"))
+        collect.close_stats(ss, live_from(s), closed_at(s, utc("2026-11-02T10:20:00")))
+        with tempfile.TemporaryDirectory() as d:
+            collect.update_archive(stats, {"streamers": {"a": {"history": []}}}, [{"login": "a"}],
+                                   ["a"], utc("2026-11-02T11:00:00"), {}, Path(d))
+            nov = collect.load_json(Path(d) / "2026-11.json", {})["streamers"]["a"]
+            octo = collect.load_json(Path(d) / "2026-10.json", {})["streamers"]["a"]
+        self.assertEqual(nov["viewer_minutes"], 200)
+        self.assertEqual(nov["sessions"][0]["viewer_minutes"], 200)
+        self.assertNotIn("viewer_minutes", octo)
+
+
+class FakeHelix:
+    """Twitch для полного прогона run(): один канал «a» (user_id 1)."""
+    live = {}
+
+    def __init__(self, *_):
+        pass
+
+    def users(self, logins):
+        return {"a": {"id": "1", "login": "a", "display_name": "A", "profile_image_url": "p",
+                      "description": "", "broadcaster_type": ""}}
+
+    def users_by_id(self, ids):
+        return {}
+
+    def streams(self, ids):
+        return dict(FakeHelix.live)
+
+    def archives(self, user_id, limit=20):
+        return []
+
+    def shared_chat(self, uid):
+        return None
+
+
+class RunTest(unittest.TestCase):
+    """Полный прогон run() на временной папке: Twitch и GraphQL подменены."""
+
+    def setUp(self):
+        self.dir = tempfile.TemporaryDirectory()
+        d = Path(self.dir.name)
+        (d / "streamers.json").write_text(json.dumps(
+            {"streamers": [{"login": "a", "added_at": "2026-09-11"}]}), encoding="utf-8")
+        patches = [
+            mock.patch.object(collect, "REGISTRY_PATH", d / "streamers.json"),
+            mock.patch.object(collect, "STATE_PATH", d / "data" / "twitch-state.json"),
+            mock.patch.object(collect, "STATS_PATH", d / "data" / "twitch-stats.json"),
+            mock.patch.object(collect, "ARCHIVE_DIR", d / "data" / "archive"),
+            mock.patch.object(collect, "Twitch", FakeHelix),
+            mock.patch.object(collect, "fetch_followers", return_value=({"a": 100}, {})),
+            mock.patch.dict(os.environ, {"TWITCH_CLIENT_ID": "x", "TWITCH_CLIENT_SECRET": "y"}),
+        ]
+        for p in patches:
+            p.start()
+            self.addCleanup(p.stop)
+        self.addCleanup(self.dir.cleanup)
+        self.data = d / "data"
+
+    def run_at(self, when, live=None):
+        FakeHelix.live = live or {}
+        with mock.patch.object(collect, "now", return_value=utc(when)):
+            self.assertEqual(collect.run(), 0)
+
+    def files(self):
+        return {p.relative_to(self.data).as_posix(): p.read_text(encoding="utf-8")
+                for p in sorted(self.data.rglob("*.json"))}
+
+    def stats(self):
+        return collect.load_json(self.data / "twitch-stats.json", {})
+
+    def test_viewers_since_written_once(self):
+        self.run_at("2026-11-02T10:05:00")
+        self.assertEqual(self.stats()["viewers_since"], "2026-11-02")
+        self.run_at("2026-11-05T10:05:00")
+        self.assertEqual(self.stats()["viewers_since"], "2026-11-02")
+
+    def test_run_without_streams_changes_nothing(self):
+        s = stream("A", "2026-11-02T10:00:00Z", 10)
+        self.run_at("2026-11-02T10:13:00", {"1": s})
+        self.run_at("2026-11-02T10:23:00")  # эфир закончился — сессия закрыта
+        before = self.files()
+        self.run_at("2026-11-02T10:33:00")
+        self.run_at("2026-11-02T10:43:00")
+        self.assertEqual(self.files(), before)
+        self.assertEqual(self.stats()["streamers"]["a"]["recent_sessions"][0]["viewer_minutes"], 230)
+
+    def test_restart_does_not_double(self):
+        a = stream("A", "2026-11-02T10:00:00Z", 10)
+        self.run_at("2026-11-02T10:10:00", {"1": a})
+        # Канал упал в 10:15 и поднялся в 10:16 новым stream_id — офлайна бот не видел.
+        b = stream("B", "2026-11-02T10:16:00Z", 40)
+        self.run_at("2026-11-02T10:20:00", {"1": b})
+        ss = self.stats()["streamers"]["a"]
+        first = ss["recent_sessions"][0]
+        # Первая — до начала второй: 16 минут по 10 зрителей (хвост по последнему замеру).
+        self.assertEqual(first["ended_at"], "2026-11-02T10:16:00Z")
+        self.assertEqual(first["viewer_minutes"], 160)
+        # Вторая — с собственного начала, 4 минуты по первому замеру 40.
+        self.assertEqual(ss["in_progress"]["stream_id"], "B")
+        self.assertEqual(ss["in_progress"]["viewer_sec"], 40 * 240)
+        self.assertEqual(ss["monthly"]["2026-11"]["viewer_minutes"], 160)
 
 
 if __name__ == "__main__":

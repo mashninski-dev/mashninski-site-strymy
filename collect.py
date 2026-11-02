@@ -13,7 +13,7 @@
      по найденной записи пересчитывает статистику сессии;
   6. пишет data/twitch-state.json, только если состояние изменилось;
   7. копит статистику (категории, часы суток по Мінску, месячные счётчики,
-     подписчики) и пишет data/twitch-stats.json — тоже только при изменениях;
+     зрителе-минуты, подписчики) и пишет data/twitch-stats.json — тоже только при изменениях;
   8. пишет архив месяцев data/archive/YYYY-MM.json для текущего и прошлого
      месяца — тоже только при изменениях.
 
@@ -309,7 +309,9 @@ def fetch_chapters(session: requests.Session, video_id: str) -> list:
 def progress_from_chapters(started: datetime, ended: datetime, chapters: list) -> dict:
     """Те же секунды по часам суток и сегментам категорий, что копит живая сессия, —
     но по главам записи. Последняя глава тянется до конца записи."""
-    prog = {"last_seen_at": iso(started), "hours_sec": [0] * 24, "categories": []}
+    # Зрители — 0: эфир бот не видел, замеров нет. view_count записи — другое число
+    # (просмотры записи, а не зрители эфира), его не подставляем.
+    prog = {"last_seen_at": iso(started), "hours_sec": [0] * 24, "categories": [], "viewer_sec": 0}
     cur = started
     for i, (game, sec) in enumerate(chapters):
         until = ended if i == len(chapters) - 1 else min(ended, cur + timedelta(seconds=sec))
@@ -469,13 +471,41 @@ def blank_month() -> dict:
 def open_progress(stream_id: str, started_at: str, game) -> dict:
     # last_seen_at = начало эфира: время от старта до первого прогона, который эфир
     # увидел, тоже засчитывается — иначе сумма часов не сходилась бы с duration_min.
+    # viewer_sec — зрителе-секунды, viewers — последний замер зрителей (None — замеров
+    # ещё не было). in_progress, открытый до этих полей, зрителей не копит вовсе.
     return {
         "stream_id": stream_id,
         "started_at": started_at,
         "last_seen_at": started_at,
         "hours_sec": [0] * 24,
         "categories": [{"game": game or None, "sec": 0}],
+        "viewer_sec": 0,
+        "viewers": None,
     }
+
+
+def advance_viewers(prog: dict, until: datetime, viewers=None) -> None:
+    """Зрителе-секунды с прошлого прогона до until — зовётся до advance_progress,
+    пока last_seen_at ещё прошлый. viewers — замер этого прогона (viewer_count из
+    Get Streams) или None, если замера нет (закрытие сессии).
+    Между двумя замерами — трапеция по реальному времени между прогонами: прогоны
+    неровные, «×10 минут на замер» врал бы. От начала эфира до первого замера и от
+    последнего до конца — по ближайшему замеру: границы те же, что у часов эфира.
+    Секунды целые: дробь меньше секунды на прогон ничего не значит."""
+    if "viewer_sec" not in prog:
+        return
+    prev = prog.get("viewers")
+    dt = int((until - parse_iso(prog["last_seen_at"])).total_seconds())
+    if dt > 0:
+        if viewers is None:
+            per = 2 * (prev or 0)
+        elif prev is None:
+            per = 2 * viewers
+        else:
+            per = prev + viewers
+        prog["viewer_sec"] += per * dt // 2
+    if viewers is not None:
+        prog["viewers"] = viewers
 
 
 def advance_progress(prog: dict, until: datetime, game_now=None, switch: bool = False) -> None:
@@ -506,6 +536,8 @@ def track_live(login: str, ss: dict, stream: dict, ts: datetime) -> None:
     if not prog:
         prog = open_progress(stream.get("id"), stream["started_at"], stream.get("game_name"))
         ss["in_progress"] = prog
+    viewers = stream.get("viewer_count")
+    advance_viewers(prog, ts, viewers if isinstance(viewers, int) else None)
     advance_progress(prog, ts, stream.get("game_name"), switch=True)
 
 
@@ -516,7 +548,12 @@ def close_stats(ss: dict, live: dict, closed: dict) -> None:
         # Статистика эту сессию не видела (файл статистики появился позже или потерялся) —
         # восстанавливаем из того, что знает состояние: всё время на последнюю категорию.
         prog = open_progress(live.get("stream_id"), live["since"], live.get("game"))
-    advance_progress(prog, parse_iso(closed["ended_at"]))
+        # Единственный замер — последний, что лежит в состоянии.
+        if isinstance(live.get("viewers"), int):
+            prog["viewers"] = live["viewers"]
+    ended = parse_iso(closed["ended_at"])
+    advance_viewers(prog, ended)
+    advance_progress(prog, ended)
     ss["in_progress"] = None
     add_session_stats(ss, prog, closed)
 
@@ -531,6 +568,12 @@ def add_session_stats(ss: dict, prog: dict, closed: dict) -> None:
         "categories": [{"game": c["game"], "minutes": round(c["sec"] / 60)}
                        for c in prog["categories"] if c["sec"] > 0],
     }
+    # Зрителе-минуты — один раз здесь, как минуты эфира. viewers_last — последний
+    # замер: им retime_stats срезает хвост сессии, когда конец уточнился по записи.
+    # Сессия из in_progress, открытого до этих полей, их не получает вовсе.
+    if "viewer_sec" in prog:
+        session["viewer_minutes"] = round(prog["viewer_sec"] / 60)
+        session["viewers_last"] = prog.get("viewers") or 0
     # Свежие сверху. Закрытая сессия и так самая свежая, а пропущенная, добавленная
     # по записи задним числом, встаёт на своё место.
     recent = ss["recent_sessions"]
@@ -544,6 +587,8 @@ def add_session_stats(ss: dict, prog: dict, closed: dict) -> None:
     m["launches"] += 1
     m["minutes"] += closed["duration_min"]
     m["hours"] = [a + b for a, b in zip(m["hours"], session["hours"])]
+    if "viewer_minutes" in session:
+        m["viewer_minutes"] = m.get("viewer_minutes", 0) + session["viewer_minutes"]
     for c in session["categories"]:
         if not c["game"]:
             continue
@@ -574,6 +619,14 @@ def retime_stats(ss: dict, started_at: str, ended_at: str) -> bool:
     new_hours = hours_minutes(start, end)
     # Ровно столько close_stats когда-то прибавил к monthly.minutes — столько и сдвигаем.
     delta = minutes_between(start, end) - session_minutes(rec)
+    # Зрителе-минуты хвоста: после последнего замера время шло по нему, им и снимаем
+    # (удлинение — им же прибавляем). Месяц сдвигается на разницу округлённых значений
+    # сессии, чтобы сумма по сессиям сходилась с месяцем.
+    viewer_delta = 0
+    if "viewer_minutes" in rec:
+        tail_sec = (end - parse_iso(rec["ended_at"])).total_seconds()
+        new_vm = max(0, rec["viewer_minutes"] + round(rec.get("viewers_last", 0) * tail_sec / 60))
+        viewer_delta = new_vm - rec["viewer_minutes"]
 
     old_cats = rec["categories"]
     cats = [dict(c) for c in old_cats]
@@ -593,6 +646,8 @@ def retime_stats(ss: dict, started_at: str, ended_at: str) -> bool:
     m = ss["monthly"].get(minsk_month(start))
     if m is not None:
         m["minutes"] = max(0, m["minutes"] + delta)
+        if viewer_delta and "viewer_minutes" in m:
+            m["viewer_minutes"] = max(0, m["viewer_minutes"] + viewer_delta)
         m["hours"] = [max(0, a - b + c) for a, b, c in zip(m["hours"], rec["hours"], new_hours)]
         for o, c, gone in zip(old_cats, cats, dropped):
             mc = m["categories"].get(o["game"]) if o["game"] else None
@@ -606,6 +661,8 @@ def retime_stats(ss: dict, started_at: str, ended_at: str) -> bool:
 
     rec["ended_at"] = ended_at
     rec["hours"] = new_hours
+    if "viewer_minutes" in rec:
+        rec["viewer_minutes"] += viewer_delta
     rec["categories"] = [c for c, gone in zip(cats, dropped) if not gone]
     return True
 
@@ -866,6 +923,8 @@ def archive_entry(month: str, old: dict, ss: dict, st: dict, added_at) -> dict:
         if minsk_month(parse_iso(s["started_at"])) == month:
             sessions[s["started_at"]] = {"started_at": s["started_at"], "ended_at": s["ended_at"],
                                          "duration_min": session_minutes(s)}
+            if "viewer_minutes" in s:
+                sessions[s["started_at"]]["viewer_minutes"] = s["viewer_minutes"]
     sessions = sorted(sessions.values(), key=lambda s: parse_iso(s["started_at"]))
 
     # Конец последней сессии до первой сессии месяца — для «Вяртання» с первой же сессии.
@@ -901,7 +960,7 @@ def archive_entry(month: str, old: dict, ss: dict, st: dict, added_at) -> dict:
             prev_broadcast_at = max(candidates, key=parse_iso)
 
     snaps = ss["followers"]["snapshots"]
-    return {
+    entry = {
         "display_name": st.get("display_name") or old.get("display_name"),
         "added_at": added_at or old.get("added_at"),
         **{k: counters.get(k, v) for k, v in blank_month().items()},
@@ -911,6 +970,11 @@ def archive_entry(month: str, old: dict, ss: dict, st: dict, added_at) -> dict:
         "followers_start": snaps.get(f"{month}-01", old.get("followers_start")),
         "followers_end": snaps.get(f"{next_month(month)}-01", old.get("followers_end")),
     }
+    # Зрителе-минуты — только у месяца, где они есть: месяцы до запуска сбора
+    # ключа не получают и не меняются.
+    if "viewer_minutes" in counters:
+        entry["viewer_minutes"] = counters["viewer_minutes"]
+    return entry
 
 
 def update_archive(stats: dict, state: dict, registry: list, logins: list, ts: datetime,
@@ -1129,6 +1193,10 @@ def run() -> int:
     if not stats.get("collecting_since"):
         # Пишется один раз: по нему сайт отличает «не стримил» от «бот ещё не собирал».
         stats["collecting_since"] = ts.astimezone(MINSK).strftime("%Y-%m-%d")
+    if not stats.get("viewers_since"):
+        # Начало сбора зрителе-минут, тоже один раз: сайт подписывает гадзіны
+        # прагляду «з N …», пока с этой даты не прошло 30 дней.
+        stats["viewers_since"] = ts.astimezone(MINSK).strftime("%Y-%m-%d")
 
     # --- VOD ---
     # Всем — раз в час, в первом прогоне часа; у кого есть сессия без записи за
