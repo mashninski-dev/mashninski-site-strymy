@@ -6,6 +6,21 @@
       "display_name": "AngryRalef",
       "history": [
         {
+          "duration_min": 229,
+          "ended_at": "2026-11-02T12:58:49Z",
+          "game": "CONTROL Resonant",
+          "source": "vod",
+          "started_at": "2026-11-02T09:09:22Z",
+          "stream_id": "317147981269",
+          "title": "Бясконцы горад, ад верху да нізу. Control Resonant",
+          "vod": {
+            "gone": false,
+            "id": "2917433795",
+            "seen_at": "2026-11-02T13:00:33Z",
+            "url": "https://www.twitch.tv/videos/2917433795"
+          }
+        },
+        {
           "duration_min": 222,
           "ended_at": "2026-10-30T12:58:11Z",
           "game": "Games + Demos",
@@ -289,44 +304,29 @@
             "seen_at": "2026-10-08T12:03:20Z",
             "url": "https://www.twitch.tv/videos/2894995661"
           }
-        },
-        {
-          "duration_min": 209,
-          "ended_at": "2026-10-07T11:38:38Z",
-          "game": "CONTROL Resonant",
-          "source": "vod",
-          "started_at": "2026-10-07T08:09:36Z",
-          "stream_id": "317060093908",
-          "title": "Бюро Кантролю нешта нічога ўжо не кантралюе. Control Resonant",
-          "vod": {
-            "gone": false,
-            "id": "2894129921",
-            "seen_at": "2026-10-07T11:40:13Z",
-            "url": "https://www.twitch.tv/videos/2894129921"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 222,
-        "ended_at": "2026-10-30T12:58:11Z",
-        "game": "Games + Demos",
+        "duration_min": 229,
+        "ended_at": "2026-11-02T12:58:49Z",
+        "game": "CONTROL Resonant",
         "source": "vod",
-        "started_at": "2026-10-30T09:15:45Z",
-        "stream_id": "317161292246",
-        "title": "2d Сайлэнт Хілл у змрочным фэнтэзі. Fear & Hunger",
+        "started_at": "2026-11-02T09:09:22Z",
+        "stream_id": "317147981269",
+        "title": "Бясконцы горад, ад верху да нізу. Control Resonant",
         "vod": {
           "gone": false,
-          "id": "2914686935",
-          "seen_at": "2026-10-30T12:59:44Z",
-          "url": "https://www.twitch.tv/videos/2914686935"
+          "id": "2917433795",
+          "seen_at": "2026-11-02T13:00:33Z",
+          "url": "https://www.twitch.tv/videos/2917433795"
         }
       },
       "live": {
-        "game": "CONTROL Resonant",
-        "since": "2026-11-02T09:09:22Z",
-        "stream_id": "317147981269",
-        "title": "Бясконцы горад, ад верху да нізу. Control Resonant",
-        "viewers": 21
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -2565,7 +2565,7 @@
         "since": "2026-11-02T12:41:36Z",
         "stream_id": "319050201191",
         "title": "Гэта не боль. Гэта шлях",
-        "viewers": 1
+        "viewers": 2
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -3937,7 +3937,7 @@
         "since": "2026-11-02T10:56:26Z",
         "stream_id": "319049317991",
         "title": "Брама Балдура 3 (беларуская)- недзе пасярод разборак",
-        "viewers": 32
+        "viewers": 34
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -5027,5 +5027,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-02T12:50:38Z"
+  "updated_at": "2026-11-02T13:00:32Z"
 }
