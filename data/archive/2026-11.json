@@ -323,6 +323,10 @@
     "nine_ravens_cemetery": {
       "added_at": "2026-09-11",
       "categories": {
+        "Art": {
+          "launches": 1,
+          "minutes": 137
+        },
         "Thief: Deadly Shadows": {
           "launches": 1,
           "minutes": 164
@@ -331,9 +335,9 @@
       "display_name": "Nine_Ravens_Cemetery",
       "followers_end": null,
       "followers_start": 304,
-      "hours": [37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,60,60],
-      "launches": 1,
-      "minutes": 164,
+      "hours": [48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,120,120],
+      "launches": 2,
+      "minutes": 301,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T22:32:57Z",
       "sessions": [
@@ -341,8 +345,15 @@
           "duration_min": 164,
           "ended_at": "2026-11-01T21:37:26Z",
           "started_at": "2026-11-01T18:52:58Z"
+        },
+        {
+          "duration_min": 137,
+          "ended_at": "2026-11-02T21:11:13Z",
+          "started_at": "2026-11-02T18:54:30Z",
+          "viewer_minutes": 1014
         }
-      ]
+      ],
+      "viewer_minutes": 1014
     },
     "radyjo_holas": {
       "added_at": "2026-09-11",
@@ -527,5 +538,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-02T20:25:15Z"
+  "updated_at": "2026-11-02T21:12:54Z"
 }
