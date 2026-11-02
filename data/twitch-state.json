@@ -1814,6 +1814,21 @@
       "display_name": "lepus81",
       "history": [
         {
+          "duration_min": 156,
+          "ended_at": "2026-11-02T21:28:17Z",
+          "game": "Dishonored",
+          "source": "vod",
+          "started_at": "2026-11-02T18:52:27Z",
+          "stream_id": "317185854422",
+          "title": "Прыносім ДАБРО! Без забойстваў.",
+          "vod": {
+            "gone": false,
+            "id": "2917767753",
+            "seen_at": "2026-11-02T21:30:03Z",
+            "url": "https://www.twitch.tv/videos/2917767753"
+          }
+        },
+        {
           "duration_min": 193,
           "ended_at": "2026-10-29T20:06:23Z",
           "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
@@ -2097,44 +2112,29 @@
             "seen_at": "2026-10-04T11:06:01Z",
             "url": "https://www.twitch.tv/videos/2889005290"
           }
-        },
-        {
-          "duration_min": 208,
-          "ended_at": "2026-09-30T20:52:36Z",
-          "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-          "source": "vod",
-          "started_at": "2026-09-30T17:24:56Z",
-          "stream_id": "316939235029",
-          "title": "Слабасць вялікая, а сіла нікчэмная... (с)",
-          "vod": {
-            "gone": false,
-            "id": "2888200928",
-            "seen_at": "2026-10-04T11:06:01Z",
-            "url": "https://www.twitch.tv/videos/2888200928"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 193,
-        "ended_at": "2026-10-29T20:06:23Z",
-        "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "duration_min": 156,
+        "ended_at": "2026-11-02T21:28:17Z",
+        "game": "Dishonored",
         "source": "vod",
-        "started_at": "2026-10-29T16:53:23Z",
-        "stream_id": "317157759830",
-        "title": "\"Cталкераў у Рай без чаргі не пускаюць\" (с)",
+        "started_at": "2026-11-02T18:52:27Z",
+        "stream_id": "317185854422",
+        "title": "Прыносім ДАБРО! Без забойстваў.",
         "vod": {
           "gone": false,
-          "id": "2914047375",
-          "seen_at": "2026-10-29T20:08:04Z",
-          "url": "https://www.twitch.tv/videos/2914047375"
+          "id": "2917767753",
+          "seen_at": "2026-11-02T21:30:03Z",
+          "url": "https://www.twitch.tv/videos/2917767753"
         }
       },
       "live": {
-        "game": "Dishonored",
-        "since": "2026-11-02T18:52:27Z",
-        "stream_id": "317185854422",
-        "title": "Прыносім ДАБРО! Без забойстваў.",
-        "viewers": 12
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -3605,7 +3605,7 @@
         "since": "2026-11-01T07:54:14Z",
         "stream_id": "319033542503",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 1
+        "viewers": 2
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/feb426c4-d99b-47bb-a9dc-8c4259f88e1d-profile_image-300x300.png",
@@ -4269,7 +4269,7 @@
         "since": "2026-11-02T18:57:49Z",
         "stream_id": "319181933157",
         "title": "Глядзім Украінскую АГУЧКУ Вядзьмара від Іринка подруга",
-        "viewers": 22
+        "viewers": 33
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5057,5 +5057,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-02T21:20:38Z"
+  "updated_at": "2026-11-02T21:30:02Z"
 }

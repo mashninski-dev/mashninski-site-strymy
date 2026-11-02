@@ -189,16 +189,29 @@
     },
     "lepus81": {
       "added_at": "2026-09-11",
-      "categories": {},
+      "categories": {
+        "Dishonored": {
+          "launches": 1,
+          "minutes": 156
+        }
+      },
       "display_name": "lepus81",
       "followers_end": null,
       "followers_start": 645,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-      "launches": 0,
-      "minutes": 0,
+      "hours": [28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,60,60],
+      "launches": 1,
+      "minutes": 156,
       "prev_broadcast_at": null,
-      "prev_ended_at": null,
-      "sessions": []
+      "prev_ended_at": "2026-10-29T20:06:23Z",
+      "sessions": [
+        {
+          "duration_min": 156,
+          "ended_at": "2026-11-02T21:28:17Z",
+          "started_at": "2026-11-02T18:52:27Z",
+          "viewer_minutes": 1479
+        }
+      ],
+      "viewer_minutes": 1479
     },
     "lilzorka_": {
       "added_at": "2026-09-11",
@@ -538,5 +551,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-02T21:12:54Z"
+  "updated_at": "2026-11-02T21:30:02Z"
 }
