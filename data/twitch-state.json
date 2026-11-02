@@ -1109,6 +1109,21 @@
       "display_name": "DzedMaksim",
       "history": [
         {
+          "duration_min": 161,
+          "ended_at": "2026-11-02T12:00:14Z",
+          "game": "Farming Simulator 25",
+          "source": "vod",
+          "started_at": "2026-11-02T09:19:13Z",
+          "stream_id": "319048599911",
+          "title": "Панядзелак на ферме | Farming Simulator 2025 беларуская мова",
+          "vod": {
+            "gone": false,
+            "id": "2917436772",
+            "seen_at": "2026-11-02T12:00:45Z",
+            "url": "https://www.twitch.tv/videos/2917436772"
+          }
+        },
+        {
           "duration_min": 147,
           "ended_at": "2026-10-30T12:00:37Z",
           "game": "The Witcher 3: Wild Hunt",
@@ -1392,44 +1407,29 @@
             "seen_at": "2026-10-13T11:04:59Z",
             "url": "https://www.twitch.tv/videos/2899508526"
           }
-        },
-        {
-          "duration_min": 174,
-          "ended_at": "2026-10-12T11:05:03Z",
-          "game": "Forever Ago",
-          "source": "vod",
-          "started_at": "2026-10-12T08:11:25Z",
-          "stream_id": "318916592613",
-          "title": "Спрабуем нешта новае! | Forever Ago стрымім беларускаю",
-          "vod": {
-            "gone": false,
-            "id": "2898659620",
-            "seen_at": "2026-10-12T11:06:40Z",
-            "url": "https://www.twitch.tv/videos/2898659620"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 147,
-        "ended_at": "2026-10-30T12:00:37Z",
-        "game": "The Witcher 3: Wild Hunt",
+        "duration_min": 161,
+        "ended_at": "2026-11-02T12:00:14Z",
+        "game": "Farming Simulator 25",
         "source": "vod",
-        "started_at": "2026-10-30T09:33:16Z",
-        "stream_id": "319199228006",
-        "title": "#16 Задачы і сюжэт Навіграда і Велена закрылі. Рэжым бадзягі \"ON\" | The Witcher 3 беларуская мова",
+        "started_at": "2026-11-02T09:19:13Z",
+        "stream_id": "319048599911",
+        "title": "Панядзелак на ферме | Farming Simulator 2025 беларуская мова",
         "vod": {
           "gone": false,
-          "id": "2914692742",
-          "seen_at": "2026-10-30T12:02:16Z",
-          "url": "https://www.twitch.tv/videos/2914692742"
+          "id": "2917436772",
+          "seen_at": "2026-11-02T12:00:45Z",
+          "url": "https://www.twitch.tv/videos/2917436772"
         }
       },
       "live": {
-        "game": "Farming Simulator 25",
-        "since": "2026-11-02T09:19:13Z",
-        "stream_id": "319048599911",
-        "title": "Панядзелак на ферме | Farming Simulator 2025 беларуская мова",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -3937,7 +3937,7 @@
         "since": "2026-11-02T10:56:26Z",
         "stream_id": "319049317991",
         "title": "Брама Балдура 3 (беларуская)- недзе пасярод разборак",
-        "viewers": 23
+        "viewers": 25
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -5027,5 +5027,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-02T11:50:39Z"
+  "updated_at": "2026-11-02T12:00:43Z"
 }
