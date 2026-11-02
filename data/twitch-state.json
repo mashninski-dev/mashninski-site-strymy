@@ -2245,6 +2245,21 @@
       "display_name": "mashninski",
       "history": [
         {
+          "duration_min": 154,
+          "ended_at": "2026-11-02T15:15:16Z",
+          "game": "ELDEN RING",
+          "source": "vod",
+          "started_at": "2026-11-02T12:41:36Z",
+          "stream_id": "319050201191",
+          "title": "Гэта не боль. Гэта шлях",
+          "vod": {
+            "gone": false,
+            "id": "2917515559",
+            "seen_at": "2026-11-02T15:16:54Z",
+            "url": "https://www.twitch.tv/videos/2917515559"
+          }
+        },
+        {
           "duration_min": 203,
           "ended_at": "2026-11-01T14:47:07Z",
           "game": "ELDEN RING",
@@ -2528,44 +2543,29 @@
             "seen_at": "2026-10-09T18:24:13Z",
             "url": "https://www.twitch.tv/videos/2896112560"
           }
-        },
-        {
-          "duration_min": 189,
-          "ended_at": "2026-10-08T19:24:06Z",
-          "game": "The Witcher 3: Wild Hunt Remastered",
-          "source": "vod",
-          "started_at": "2026-10-08T16:15:20Z",
-          "stream_id": "318733202791",
-          "title": "Гервальд і яго скура",
-          "vod": {
-            "gone": false,
-            "id": "2895235668",
-            "seen_at": "2026-10-08T19:25:35Z",
-            "url": "https://www.twitch.tv/videos/2895235668"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 203,
-        "ended_at": "2026-11-01T14:47:07Z",
+        "duration_min": 154,
+        "ended_at": "2026-11-02T15:15:16Z",
         "game": "ELDEN RING",
         "source": "vod",
-        "started_at": "2026-11-01T11:24:07Z",
-        "stream_id": "319164803557",
-        "title": "Ні кропкі не гарыць",
+        "started_at": "2026-11-02T12:41:36Z",
+        "stream_id": "319050201191",
+        "title": "Гэта не боль. Гэта шлях",
         "vod": {
           "gone": false,
-          "id": "2916592511",
-          "seen_at": "2026-11-01T14:48:45Z",
-          "url": "https://www.twitch.tv/videos/2916592511"
+          "id": "2917515559",
+          "seen_at": "2026-11-02T15:16:54Z",
+          "url": "https://www.twitch.tv/videos/2917515559"
         }
       },
       "live": {
-        "game": "ELDEN RING",
-        "since": "2026-11-02T12:41:36Z",
-        "stream_id": "319050201191",
-        "title": "Гэта не боль. Гэта шлях",
-        "viewers": 16
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -5027,5 +5027,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-02T14:50:38Z"
+  "updated_at": "2026-11-02T15:16:53Z"
 }

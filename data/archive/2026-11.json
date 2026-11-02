@@ -243,16 +243,16 @@
       "added_at": "2026-09-11",
       "categories": {
         "ELDEN RING": {
-          "launches": 1,
-          "minutes": 203
+          "launches": 2,
+          "minutes": 357
         }
       },
       "display_name": "mashninski",
       "followers_end": null,
       "followers_start": 176,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,60,60,47,0,0,0,0,0,0],
-      "launches": 1,
-      "minutes": 203,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,78,120,107,15,0,0,0,0,0],
+      "launches": 2,
+      "minutes": 357,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T20:36:05Z",
       "sessions": [
@@ -260,8 +260,15 @@
           "duration_min": 203,
           "ended_at": "2026-11-01T14:47:07Z",
           "started_at": "2026-11-01T11:24:07Z"
+        },
+        {
+          "duration_min": 154,
+          "ended_at": "2026-11-02T15:15:16Z",
+          "started_at": "2026-11-02T12:41:36Z",
+          "viewer_minutes": 2504
         }
-      ]
+      ],
+      "viewer_minutes": 2504
     },
     "mihas_gareza": {
       "added_at": "2026-09-11",
@@ -507,5 +514,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-02T13:09:59Z"
+  "updated_at": "2026-11-02T15:16:53Z"
 }
