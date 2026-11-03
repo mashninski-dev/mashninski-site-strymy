@@ -2565,7 +2565,7 @@
         "since": "2026-11-03T12:38:46Z",
         "stream_id": "319063847911",
         "title": "Крыху пабегаем і будзем траіць боса",
-        "viewers": 4
+        "viewers": 13
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -3617,6 +3617,21 @@
       "display_name": "Rudzi_Belarus",
       "history": [
         {
+          "duration_min": 136,
+          "ended_at": "2026-11-03T13:28:33Z",
+          "game": "Dead Space 2",
+          "source": "vod",
+          "started_at": "2026-11-03T11:12:11Z",
+          "stream_id": "319063188839",
+          "title": "Касмічны дзед 2! Жахі Dead Space 2 (выбар гледачоў)",
+          "vod": {
+            "gone": false,
+            "id": "2918351075",
+            "seen_at": "2026-11-03T13:30:03Z",
+            "url": "https://www.twitch.tv/videos/2918351075"
+          }
+        },
+        {
           "duration_min": 132,
           "ended_at": "2026-11-02T13:08:29Z",
           "game": "Baldur's Gate 3",
@@ -3900,44 +3915,29 @@
             "seen_at": "2026-10-14T11:09:27Z",
             "url": "https://www.twitch.tv/videos/2900447445"
           }
-        },
-        {
-          "duration_min": 125,
-          "ended_at": "2026-10-09T13:09:13Z",
-          "game": "Fallout 2",
-          "source": "vod",
-          "started_at": "2026-10-09T11:04:22Z",
-          "stream_id": "318879927653",
-          "title": "Глядзім Fallout 2 (+беларуская лакалізацыя)",
-          "vod": {
-            "gone": false,
-            "id": "2895922065",
-            "seen_at": "2026-10-09T13:10:48Z",
-            "url": "https://www.twitch.tv/videos/2895922065"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 132,
-        "ended_at": "2026-11-02T13:08:29Z",
-        "game": "Baldur's Gate 3",
+        "duration_min": 136,
+        "ended_at": "2026-11-03T13:28:33Z",
+        "game": "Dead Space 2",
         "source": "vod",
-        "started_at": "2026-11-02T10:56:26Z",
-        "stream_id": "319049317991",
-        "title": "Брама Балдура 3 (беларуская)- недзе пасярод разборак",
+        "started_at": "2026-11-03T11:12:11Z",
+        "stream_id": "319063188839",
+        "title": "Касмічны дзед 2! Жахі Dead Space 2 (выбар гледачоў)",
         "vod": {
           "gone": false,
-          "id": "2917469778",
-          "seen_at": "2026-11-02T13:10:01Z",
-          "url": "https://www.twitch.tv/videos/2917469778"
+          "id": "2918351075",
+          "seen_at": "2026-11-03T13:30:03Z",
+          "url": "https://www.twitch.tv/videos/2918351075"
         }
       },
       "live": {
-        "game": "Dead Space 2",
-        "since": "2026-11-03T11:12:11Z",
-        "stream_id": "319063188839",
-        "title": "Касмічны дзед 2! Жахі Dead Space 2 (выбар гледачоў)",
-        "viewers": 33
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -5057,5 +5057,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-03T13:20:41Z"
+  "updated_at": "2026-11-03T13:30:03Z"
 }
