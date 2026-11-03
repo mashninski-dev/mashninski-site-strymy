@@ -3949,6 +3949,21 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 451,
+          "ended_at": "2026-11-03T02:29:09Z",
+          "game": "The Witcher 3: Wild Hunt Remastered",
+          "source": "vod",
+          "started_at": "2026-11-02T18:57:49Z",
+          "stream_id": "319181933157",
+          "title": "Глядзім Украінскую АГУЧКУ Вядзьмара від Іринка подруга",
+          "vod": {
+            "gone": false,
+            "id": "2917772649",
+            "seen_at": "2026-11-03T02:30:49Z",
+            "url": "https://www.twitch.tv/videos/2917772649"
+          }
+        },
+        {
           "duration_min": 515,
           "ended_at": "2026-11-02T03:07:06Z",
           "game": "R.E.P.O.",
@@ -4232,44 +4247,29 @@
             "seen_at": "2026-10-13T01:59:03Z",
             "url": "https://www.twitch.tv/videos/2899019198"
           }
-        },
-        {
-          "duration_min": 453,
-          "ended_at": "2026-10-12T00:57:10Z",
-          "game": "Valheim",
-          "source": "vod",
-          "started_at": "2026-10-11T17:24:10Z",
-          "stream_id": "317089898324",
-          "title": "Трошкі. Ну зусім трошкі, ага від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2898087827",
-            "seen_at": "2026-10-12T00:58:50Z",
-            "url": "https://www.twitch.tv/videos/2898087827"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 515,
-        "ended_at": "2026-11-02T03:07:06Z",
-        "game": "R.E.P.O.",
+        "duration_min": 451,
+        "ended_at": "2026-11-03T02:29:09Z",
+        "game": "The Witcher 3: Wild Hunt Remastered",
         "source": "vod",
-        "started_at": "2026-11-01T18:32:26Z",
-        "stream_id": "319042072935",
-        "title": "Неаканая рэпа від Іринка подруга",
+        "started_at": "2026-11-02T18:57:49Z",
+        "stream_id": "319181933157",
+        "title": "Глядзім Украінскую АГУЧКУ Вядзьмара від Іринка подруга",
         "vod": {
           "gone": false,
-          "id": "2916902400",
-          "seen_at": "2026-11-02T03:08:43Z",
-          "url": "https://www.twitch.tv/videos/2916902400"
+          "id": "2917772649",
+          "seen_at": "2026-11-03T02:30:49Z",
+          "url": "https://www.twitch.tv/videos/2917772649"
         }
       },
       "live": {
-        "game": "The Witcher 3: Wild Hunt Remastered",
-        "since": "2026-11-02T18:57:49Z",
-        "stream_id": "319181933157",
-        "title": "Глядзім Украінскую АГУЧКУ Вядзьмара від Іринка подруга",
-        "viewers": 11
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5057,5 +5057,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-03T02:20:39Z"
+  "updated_at": "2026-11-03T02:30:49Z"
 }
