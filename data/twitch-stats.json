@@ -93,20 +93,7 @@
           "2026-11-01": 1302
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "CONTROL Resonant",
-            "sec": 13227
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2987,3600,3600,3040,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-03T12:50:40Z",
-        "started_at": "2026-11-03T09:10:13Z",
-        "stream_id": "317235766740",
-        "viewer_sec": 205880,
-        "viewers": 16
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -178,16 +165,30 @@
         "2026-11": {
           "categories": {
             "CONTROL Resonant": {
-              "launches": 1,
-              "minutes": 229
+              "launches": 2,
+              "minutes": 456
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,51,60,60,59,0,0,0,0,0,0,0,0],
-          "launches": 1,
-          "minutes": 229
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,101,120,120,116,0,0,0,0,0,0,0,0],
+          "launches": 2,
+          "minutes": 456,
+          "viewer_minutes": 3532
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "CONTROL Resonant",
+              "minutes": 227
+            }
+          ],
+          "ended_at": "2026-11-03T12:56:59Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,50,60,60,57,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-03T09:10:13Z",
+          "viewer_minutes": 3532,
+          "viewers_last": 16
+        },
         {
           "categories": [
             {
@@ -2254,14 +2255,14 @@
         "categories": [
           {
             "game": "ELDEN RING",
-            "sec": 714
+            "sec": 1190
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,714,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-03T12:50:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1190,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-03T12:58:36Z",
         "started_at": "2026-11-03T12:38:46Z",
         "stream_id": "319063847911",
-        "viewer_sec": 301,
+        "viewer_sec": 777,
         "viewers": 1
       },
       "monthly": {
@@ -3639,14 +3640,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 17774
+            "sec": 18250
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,334,3600,3600,3600,3600,3040,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-03T12:50:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,334,3600,3600,3600,3600,3516,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-03T12:58:36Z",
         "started_at": "2026-11-03T07:54:26Z",
         "stream_id": "319247739110",
-        "viewer_sec": 16491,
+        "viewer_sec": 16967,
         "viewers": 1
       },
       "monthly": {
@@ -3903,15 +3904,15 @@
         "categories": [
           {
             "game": "Dead Space 2",
-            "sec": 5909
+            "sec": 6385
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,2869,3040,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-03T12:50:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,2869,3516,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-03T12:58:36Z",
         "started_at": "2026-11-03T11:12:11Z",
         "stream_id": "319063188839",
-        "viewer_sec": 114236,
-        "viewers": 25
+        "viewer_sec": 125898,
+        "viewers": 24
       },
       "monthly": {
         "2026-10": {
@@ -5911,6 +5912,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-03T12:50:40Z",
+  "updated_at": "2026-11-03T12:58:36Z",
   "viewers_since": "2026-11-02"
 }

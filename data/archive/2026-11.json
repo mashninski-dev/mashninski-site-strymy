@@ -28,16 +28,16 @@
       "added_at": "2026-09-11",
       "categories": {
         "CONTROL Resonant": {
-          "launches": 1,
-          "minutes": 229
+          "launches": 2,
+          "minutes": 456
         }
       },
       "display_name": "AngryRalef",
       "followers_end": null,
       "followers_start": 1302,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,51,60,60,59,0,0,0,0,0,0,0,0],
-      "launches": 1,
-      "minutes": 229,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,101,120,120,116,0,0,0,0,0,0,0,0],
+      "launches": 2,
+      "minutes": 456,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T12:58:11Z",
       "sessions": [
@@ -45,8 +45,15 @@
           "duration_min": 229,
           "ended_at": "2026-11-02T12:58:49Z",
           "started_at": "2026-11-02T09:09:22Z"
+        },
+        {
+          "duration_min": 227,
+          "ended_at": "2026-11-03T12:56:59Z",
+          "started_at": "2026-11-03T09:10:13Z",
+          "viewer_minutes": 3532
         }
-      ]
+      ],
+      "viewer_minutes": 3532
     },
     "annigilatormg42": {
       "added_at": "2026-09-11",
@@ -586,5 +593,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-03T11:57:44Z"
+  "updated_at": "2026-11-03T12:58:36Z"
 }
