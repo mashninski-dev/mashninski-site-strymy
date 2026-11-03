@@ -3190,15 +3190,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 512
+            "sec": 996
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,512,0,0,0],
-        "last_seen_at": "2026-11-03T17:10:43Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,996,0,0,0],
+        "last_seen_at": "2026-11-03T17:18:47Z",
         "started_at": "2026-11-03T17:02:11Z",
         "stream_id": "319190552933",
-        "viewer_sec": 1431,
-        "viewers": 6
+        "viewer_sec": 4819,
+        "viewers": 8
       },
       "monthly": {
         "2026-10": {
@@ -3642,14 +3642,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 33377
+            "sec": 33861
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,334,3600,3600,3600,3600,3600,3600,3600,3600,3600,643,0,0,0],
-        "last_seen_at": "2026-11-03T17:10:43Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,334,3600,3600,3600,3600,3600,3600,3600,3600,3600,1127,0,0,0],
+        "last_seen_at": "2026-11-03T17:18:47Z",
         "started_at": "2026-11-03T07:54:26Z",
         "stream_id": "319247739110",
-        "viewer_sec": 33528,
+        "viewer_sec": 34496,
         "viewers": 2
       },
       "monthly": {
@@ -4285,7 +4285,20 @@
           "2026-11-01": 1019
         }
       },
-      "in_progress": null,
+      "in_progress": {
+        "categories": [
+          {
+            "game": "The Witcher 3: Wild Hunt Remastered",
+            "sec": 32
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0],
+        "last_seen_at": "2026-11-03T17:18:47Z",
+        "started_at": "2026-11-03T17:18:15Z",
+        "stream_id": "319067372135",
+        "viewer_sec": 0,
+        "viewers": 0
+      },
       "monthly": {
         "2026-10": {
           "categories": {
@@ -5907,6 +5920,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-03T17:10:43Z",
+  "updated_at": "2026-11-03T17:18:47Z",
   "viewers_since": "2026-11-02"
 }
