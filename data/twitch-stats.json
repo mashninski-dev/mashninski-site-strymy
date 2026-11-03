@@ -2251,20 +2251,7 @@
           "2026-11-01": 176
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "ELDEN RING",
-            "sec": 8517
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1274,3600,3600,43,0,0,0,0,0],
-        "last_seen_at": "2026-11-03T15:00:43Z",
-        "started_at": "2026-11-03T12:38:46Z",
-        "stream_id": "319063847911",
-        "viewer_sec": 78871,
-        "viewers": 14
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -2336,17 +2323,30 @@
         "2026-11": {
           "categories": {
             "ELDEN RING": {
-              "launches": 2,
-              "minutes": 357
+              "launches": 3,
+              "minutes": 502
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,78,120,107,15,0,0,0,0,0],
-          "launches": 2,
-          "minutes": 357,
-          "viewer_minutes": 2504
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,99,180,167,19,0,0,0,0,0],
+          "launches": 3,
+          "minutes": 502,
+          "viewer_minutes": 3859
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "ELDEN RING",
+              "minutes": 145
+            }
+          ],
+          "ended_at": "2026-11-03T15:03:36Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,60,60,4,0,0,0,0,0],
+          "started_at": "2026-11-03T12:38:46Z",
+          "viewer_minutes": 1355,
+          "viewers_last": 14
+        },
         {
           "categories": [
             {
@@ -3640,14 +3640,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 25577
+            "sec": 25846
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,334,3600,3600,3600,3600,3600,3600,3600,43,0,0,0,0,0],
-        "last_seen_at": "2026-11-03T15:00:43Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,334,3600,3600,3600,3600,3600,3600,3600,312,0,0,0,0,0],
+        "last_seen_at": "2026-11-03T15:05:12Z",
         "started_at": "2026-11-03T07:54:26Z",
         "stream_id": "319247739110",
-        "viewer_sec": 24294,
+        "viewer_sec": 24563,
         "viewers": 1
       },
       "monthly": {
@@ -5905,6 +5905,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-03T15:00:43Z",
+  "updated_at": "2026-11-03T15:05:12Z",
   "viewers_since": "2026-11-02"
 }
