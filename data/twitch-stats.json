@@ -93,7 +93,20 @@
           "2026-11-01": 1302
         }
       },
-      "in_progress": null,
+      "in_progress": {
+        "categories": [
+          {
+            "game": "CONTROL Resonant",
+            "sec": 27
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-03T09:10:40Z",
+        "started_at": "2026-11-03T09:10:13Z",
+        "stream_id": "317235766740",
+        "viewer_sec": 0,
+        "viewers": 0
+      },
       "monthly": {
         "2026-10": {
           "categories": {
@@ -1007,15 +1020,15 @@
         "categories": [
           {
             "game": "The Long Dark",
-            "sec": 3406
+            "sec": 4007
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,3367,39,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-03T09:00:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,3367,640,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-03T09:10:40Z",
         "started_at": "2026-11-03T08:03:53Z",
         "stream_id": "319186465765",
-        "viewer_sec": 16647,
-        "viewers": 11
+        "viewer_sec": 23558,
+        "viewers": 12
       },
       "monthly": {
         "2026-10": {
@@ -3613,14 +3626,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 3973
+            "sec": 4574
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,334,3600,39,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-03T09:00:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,334,3600,640,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-03T09:10:40Z",
         "started_at": "2026-11-03T07:54:26Z",
         "stream_id": "319247739110",
-        "viewer_sec": 2690,
+        "viewer_sec": 3291,
         "viewers": 1
       },
       "monthly": {
@@ -5872,6 +5885,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-03T09:00:39Z",
+  "updated_at": "2026-11-03T09:10:40Z",
   "viewers_since": "2026-11-02"
 }
