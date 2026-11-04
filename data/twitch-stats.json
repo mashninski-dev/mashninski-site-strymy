@@ -1831,8 +1831,8 @@
     },
     "lepus81": {
       "followers": {
-        "changed_at": "2026-11-02T13:40:41Z",
-        "count": 646,
+        "changed_at": "2026-11-04T16:18:49Z",
+        "count": 647,
         "daily": {
           "2026-10-22": 634,
           "2026-10-23": 636,
@@ -1859,14 +1859,14 @@
         "categories": [
           {
             "game": "KILLFLOW",
-            "sec": 55
+            "sec": 140
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0],
-        "last_seen_at": "2026-11-04T16:17:24Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140,0,0,0,0],
+        "last_seen_at": "2026-11-04T16:18:49Z",
         "started_at": "2026-11-04T16:16:29Z",
         "stream_id": "317245693396",
-        "viewer_sec": 550,
+        "viewer_sec": 1400,
         "viewers": 10
       },
       "monthly": {
@@ -2293,20 +2293,7 @@
           "2026-11-01": 176
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Lucky Tower Ultimate",
-            "sec": 4831
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,3600,1044,0,0,0,0],
-        "last_seen_at": "2026-11-04T16:17:24Z",
-        "started_at": "2026-11-04T14:56:53Z",
-        "stream_id": "319199956069",
-        "viewer_sec": 64003,
-        "viewers": 13
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -2380,15 +2367,32 @@
             "ELDEN RING": {
               "launches": 4,
               "minutes": 626
+            },
+            "Lucky Tower Ultimate": {
+              "launches": 1,
+              "minutes": 80
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,108,240,222,19,0,0,0,0,0],
-          "launches": 4,
-          "minutes": 626,
-          "viewer_minutes": 5972
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,108,240,225,79,17,0,0,0,0],
+          "launches": 5,
+          "minutes": 706,
+          "viewer_minutes": 7036
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Lucky Tower Ultimate",
+              "minutes": 80
+            }
+          ],
+          "ended_at": "2026-11-04T16:17:13Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,60,17,0,0,0,0],
+          "started_at": "2026-11-04T14:56:53Z",
+          "viewer_minutes": 1064,
+          "viewers_last": 13
+        },
         {
           "categories": [
             {
@@ -3719,14 +3723,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 116578
+            "sec": 116663
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3934,7200,7200,7200,7200,7200,7200,7200,7200,4644,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-04T16:17:24Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3934,7200,7200,7200,7200,7200,7200,7200,7200,4729,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-04T16:18:49Z",
         "started_at": "2026-11-03T07:54:26Z",
         "stream_id": "319247739110",
-        "viewer_sec": 123870,
+        "viewer_sec": 123955,
         "viewers": 1
       },
       "monthly": {
@@ -5972,6 +5976,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-04T16:17:24Z",
+  "updated_at": "2026-11-04T16:18:49Z",
   "viewers_since": "2026-11-02"
 }

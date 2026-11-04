@@ -2245,6 +2245,21 @@
       "display_name": "mashninski",
       "history": [
         {
+          "duration_min": 80,
+          "ended_at": "2026-11-04T16:17:13Z",
+          "game": "Lucky Tower Ultimate",
+          "source": "vod",
+          "started_at": "2026-11-04T14:56:53Z",
+          "stream_id": "319199956069",
+          "title": "Праверка беларускай лакалізацыі",
+          "vod": {
+            "gone": false,
+            "id": "2919350114",
+            "seen_at": "2026-11-04T16:18:50Z",
+            "url": "https://www.twitch.tv/videos/2919350114"
+          }
+        },
+        {
           "duration_min": 124,
           "ended_at": "2026-11-04T14:54:44Z",
           "game": "ELDEN RING",
@@ -2528,44 +2543,29 @@
             "seen_at": "2026-10-14T16:38:06Z",
             "url": "https://www.twitch.tv/videos/2900635748"
           }
-        },
-        {
-          "duration_min": 13,
-          "ended_at": "2026-10-14T16:16:30Z",
-          "game": "The Witcher 3: Wild Hunt Remastered",
-          "source": "vod",
-          "started_at": "2026-10-14T16:03:02Z",
-          "stream_id": "318807418983",
-          "title": "Выконваем дурацкія ачыўкі (мы не хацелі гэтага)",
-          "vod": {
-            "gone": false,
-            "id": "2900618933",
-            "seen_at": "2026-10-14T16:17:59Z",
-            "url": "https://www.twitch.tv/videos/2900618933"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 124,
-        "ended_at": "2026-11-04T14:54:44Z",
-        "game": "ELDEN RING",
+        "duration_min": 80,
+        "ended_at": "2026-11-04T16:17:13Z",
+        "game": "Lucky Tower Ultimate",
         "source": "vod",
-        "started_at": "2026-11-04T12:51:04Z",
-        "stream_id": "319261670758",
-        "title": "Зноў крыху пабегаем і будзем траіць боса",
+        "started_at": "2026-11-04T14:56:53Z",
+        "stream_id": "319199956069",
+        "title": "Праверка беларускай лакалізацыі",
         "vod": {
           "gone": false,
-          "id": "2919278315",
-          "seen_at": "2026-11-04T14:56:45Z",
-          "url": "https://www.twitch.tv/videos/2919278315"
+          "id": "2919350114",
+          "seen_at": "2026-11-04T16:18:50Z",
+          "url": "https://www.twitch.tv/videos/2919350114"
         }
       },
       "live": {
-        "game": "Lucky Tower Ultimate",
-        "since": "2026-11-04T14:56:53Z",
-        "stream_id": "319199956069",
-        "title": "Праверка беларускай лакалізацыі",
-        "viewers": 13
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -5057,5 +5057,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-04T16:17:10Z"
+  "updated_at": "2026-11-04T16:18:49Z"
 }
