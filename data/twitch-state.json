@@ -4269,7 +4269,7 @@
         "since": "2026-11-04T18:12:44Z",
         "stream_id": "317246811604",
         "title": "Нуу лапкі, шо від Іринка подруга",
-        "viewers": 10
+        "viewers": 23
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4444,6 +4444,21 @@
       "description": "♦️ Тэхстрымер твічоўскі. Жыццё - жураві́ны з цукрам",
       "display_name": "Ucenamescy",
       "history": [
+        {
+          "duration_min": 216,
+          "ended_at": "2026-11-04T22:34:42Z",
+          "game": "Silver Pines",
+          "source": "vod",
+          "started_at": "2026-11-04T18:58:44Z",
+          "stream_id": "319081589223",
+          "title": "Аддзіраем Дошкі ◉ Silver Pines",
+          "vod": {
+            "gone": false,
+            "id": "2919527753",
+            "seen_at": "2026-11-04T22:36:21Z",
+            "url": "https://www.twitch.tv/videos/2919527753"
+          }
+        },
         {
           "duration_min": 192,
           "ended_at": "2026-11-01T20:46:26Z",
@@ -4728,44 +4743,29 @@
             "seen_at": "2026-10-06T13:50:03Z",
             "url": "https://www.twitch.tv/videos/2893318312"
           }
-        },
-        {
-          "duration_min": 324,
-          "ended_at": "2026-10-05T21:54:52Z",
-          "game": "How to Fish",
-          "source": "vod",
-          "started_at": "2026-10-05T16:30:37Z",
-          "stream_id": "318698341607",
-          "title": "Ханцім Карасікаў ◉ How To Fish",
-          "vod": {
-            "gone": false,
-            "id": "2892667877",
-            "seen_at": "2026-10-05T22:04:09Z",
-            "url": "https://www.twitch.tv/videos/2892667877"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 192,
-        "ended_at": "2026-11-01T20:46:26Z",
-        "game": "Just Chatting",
+        "duration_min": 216,
+        "ended_at": "2026-11-04T22:34:42Z",
+        "game": "Silver Pines",
         "source": "vod",
-        "started_at": "2026-11-01T17:34:05Z",
-        "stream_id": "319041006439",
-        "title": "Чылім і малюем ◉ Just Chatting",
+        "started_at": "2026-11-04T18:58:44Z",
+        "stream_id": "319081589223",
+        "title": "Аддзіраем Дошкі ◉ Silver Pines",
         "vod": {
           "gone": false,
-          "id": "2916850963",
-          "seen_at": "2026-11-01T20:48:07Z",
-          "url": "https://www.twitch.tv/videos/2916850963"
+          "id": "2919527753",
+          "seen_at": "2026-11-04T22:36:21Z",
+          "url": "https://www.twitch.tv/videos/2919527753"
         }
       },
       "live": {
-        "game": "Silver Pines",
-        "since": "2026-11-04T18:58:44Z",
-        "stream_id": "319081589223",
-        "title": "Аддзіраем Дошкі ◉ Silver Pines",
-        "viewers": 10
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5057,5 +5057,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-04T22:30:40Z"
+  "updated_at": "2026-11-04T22:36:20Z"
 }
