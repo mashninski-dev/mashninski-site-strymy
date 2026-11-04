@@ -3644,14 +3644,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 65182
+            "sec": 65804
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,48,0,0,0,0,334,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-04T02:00:48Z",
+        "hours_sec": [3600,3600,3600,3600,3600,670,0,0,0,0,334,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-04T02:11:10Z",
         "started_at": "2026-11-03T07:54:26Z",
         "stream_id": "319247739110",
-        "viewer_sec": 70074,
+        "viewer_sec": 70696,
         "viewers": 1
       },
       "monthly": {
@@ -4278,28 +4278,7 @@
           "2026-11-01": 1019
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 16344
-          },
-          {
-            "game": "Valheim",
-            "sec": 600
-          },
-          {
-            "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 14409
-          }
-        ],
-        "hours_sec": [3600,3600,3600,3600,3600,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2505,3600,3600,3600],
-        "last_seen_at": "2026-11-04T02:00:48Z",
-        "started_at": "2026-11-03T17:18:15Z",
-        "stream_id": "319067372135",
-        "viewer_sec": 373025,
-        "viewers": 10
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -4391,17 +4370,42 @@
               "minutes": 197
             },
             "The Witcher 3: Wild Hunt Remastered": {
-              "launches": 2,
-              "minutes": 769
+              "launches": 4,
+              "minutes": 1290
+            },
+            "Valheim": {
+              "launches": 1,
+              "minutes": 10
             }
           },
-          "hours": [120,120,120,120,120,89,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,120,120],
-          "launches": 2,
-          "minutes": 966,
-          "viewer_minutes": 6874
+          "hours": [180,180,180,180,180,99,7,0,0,0,0,0,0,0,0,0,0,0,0,0,42,90,180,180],
+          "launches": 3,
+          "minutes": 1497,
+          "viewer_minutes": 13179
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 272
+            },
+            {
+              "game": "Valheim",
+              "minutes": 10
+            },
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 249
+            }
+          ],
+          "ended_at": "2026-11-04T02:09:35Z",
+          "hours": [60,60,60,60,60,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,60,60,60],
+          "started_at": "2026-11-03T17:18:15Z",
+          "viewer_minutes": 6305,
+          "viewers_last": 10
+        },
         {
           "categories": [
             {
@@ -5902,6 +5906,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-04T02:00:48Z",
+  "updated_at": "2026-11-04T02:11:10Z",
   "viewers_since": "2026-11-02"
 }
