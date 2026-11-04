@@ -22,7 +22,7 @@ cron раз на 10 хв     пытае Twitch API, лічыць       JSON-фа
 - **`worker/`** — Cloudflare Worker-«будзільнік». Запускае збор кожныя 10 хвілін
   і адразу, калі Twitch EventSub паведамляе пра пачатак або канец эфіру. Ён жа сам
   падпісвае і адпісвае стрымераў ад EventSub і раз на дзве гадзіны запускае
-  суседні бот навін [mashninski-site-naviny](https://github.com/mashninski/mashninski-site-naviny).
+  суседні бот навін [mashninski-site-naviny](https://github.com/mashninski-dev/mashninski-site-naviny).
 
 Базы даных няма: стан — гэта файлы ў git, а GitHub Actions і Cloudflare Workers
 укладаюцца ў бясплатныя ліміты.

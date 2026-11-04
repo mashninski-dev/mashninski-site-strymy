@@ -19,7 +19,7 @@ const MAX_AGE_MS = 10 * 60 * 1000;
 export const MAX_CHANGES_PER_RUN = 40;
 
 const REGISTRY_URL =
-  "https://raw.githubusercontent.com/mashninski/mashninski-site-strymy/main/streamers.json";
+  "https://raw.githubusercontent.com/mashninski-dev/mashninski-site-strymy/main/streamers.json";
 
 /* ---------- приём уведомлений ---------- */
 

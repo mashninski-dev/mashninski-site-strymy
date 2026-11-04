@@ -7,7 +7,7 @@
    и один ждущий, лишние ждущие GitHub сам заменяет последним. */
 
 const COLLECT_URL =
-  "https://api.github.com/repos/mashninski/mashninski-site-strymy/actions/workflows/collect.yml/dispatches";
+  "https://api.github.com/repos/mashninski-dev/mashninski-site-strymy/actions/workflows/collect.yml/dispatches";
 
 /**
  * POST на адрес dispatches с телом { ref: "main", inputs }. Токен —
