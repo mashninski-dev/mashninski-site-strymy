@@ -492,15 +492,15 @@
         "categories": [
           {
             "game": "Tropico 6",
-            "sec": 34
+            "sec": 519
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0],
-        "last_seen_at": "2026-11-04T19:01:16Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,519,0],
+        "last_seen_at": "2026-11-04T19:09:21Z",
         "started_at": "2026-11-04T19:00:42Z",
         "stream_id": "319081627111",
-        "viewer_sec": 0,
-        "viewers": 0
+        "viewer_sec": 485,
+        "viewers": 2
       },
       "monthly": {
         "2026-10": {
@@ -1857,28 +1857,7 @@
           "2026-11-01": 645
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "KILLFLOW",
-            "sec": 801
-          },
-          {
-            "game": "Metal Thunder",
-            "sec": 5402
-          },
-          {
-            "game": "Battlefield 6",
-            "sec": 3035
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1962,3600,3600,76,0],
-        "last_seen_at": "2026-11-04T19:01:16Z",
-        "started_at": "2026-11-04T16:27:18Z",
-        "stream_id": "317245788884",
-        "viewer_sec": 131890,
-        "viewers": 15
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -1913,22 +1892,51 @@
         },
         "2026-11": {
           "categories": {
+            "Battlefield 6": {
+              "launches": 1,
+              "minutes": 57
+            },
             "Dishonored": {
               "launches": 1,
               "minutes": 156
             },
             "KILLFLOW": {
-              "launches": 2,
-              "minutes": 33
+              "launches": 3,
+              "minutes": 46
+            },
+            "Metal Thunder": {
+              "launches": 1,
+              "minutes": 90
             }
           },
-          "hours": [28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,26,0,8,60,60],
-          "launches": 3,
-          "minutes": 189,
-          "viewer_minutes": 1697
+          "hours": [28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,59,60,68,68,60],
+          "launches": 4,
+          "minutes": 349,
+          "viewer_minutes": 3990
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "KILLFLOW",
+              "minutes": 13
+            },
+            {
+              "game": "Metal Thunder",
+              "minutes": 90
+            },
+            {
+              "game": "Battlefield 6",
+              "minutes": 57
+            }
+          ],
+          "ended_at": "2026-11-04T19:07:38Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,60,60,8,0],
+          "started_at": "2026-11-04T16:27:18Z",
+          "viewer_minutes": 2293,
+          "viewers_last": 15
+        },
         {
           "categories": [
             {
@@ -2753,15 +2761,15 @@
         "categories": [
           {
             "game": "Grand Theft Auto V",
-            "sec": 3909
+            "sec": 4394
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,233,3600,76,0],
-        "last_seen_at": "2026-11-04T19:01:16Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,233,3600,561,0],
+        "last_seen_at": "2026-11-04T19:09:21Z",
         "started_at": "2026-11-04T17:56:07Z",
         "stream_id": "317246647764",
-        "viewer_sec": 22505,
-        "viewers": 5
+        "viewer_sec": 27840,
+        "viewers": 17
       },
       "monthly": {
         "2026-10": {
@@ -3298,15 +3306,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 127
+            "sec": 612
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,76,0],
-        "last_seen_at": "2026-11-04T19:01:16Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,561,0],
+        "last_seen_at": "2026-11-04T19:09:21Z",
         "started_at": "2026-11-04T18:59:09Z",
         "stream_id": "317199599574",
-        "viewer_sec": 54,
-        "viewers": 3
+        "viewer_sec": 1994,
+        "viewers": 5
       },
       "monthly": {
         "2026-10": {
@@ -3761,14 +3769,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 126410
+            "sec": 126895
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3934,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,3676,3600],
-        "last_seen_at": "2026-11-04T19:01:16Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3934,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,4161,3600],
+        "last_seen_at": "2026-11-04T19:09:21Z",
         "started_at": "2026-11-03T07:54:26Z",
         "stream_id": "319247739110",
-        "viewer_sec": 133702,
+        "viewer_sec": 134187,
         "viewers": 1
       },
       "monthly": {
@@ -4416,15 +4424,15 @@
         "categories": [
           {
             "game": "Counter-Strike",
-            "sec": 2912
+            "sec": 3397
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2836,76,0],
-        "last_seen_at": "2026-11-04T19:01:16Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2836,561,0],
+        "last_seen_at": "2026-11-04T19:09:21Z",
         "started_at": "2026-11-04T18:12:44Z",
         "stream_id": "317246811604",
-        "viewer_sec": 20016,
-        "viewers": 7
+        "viewer_sec": 23168,
+        "viewers": 6
       },
       "monthly": {
         "2026-10": {
@@ -5228,15 +5236,15 @@
         "categories": [
           {
             "game": "Silver Pines",
-            "sec": 152
+            "sec": 637
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,76,0],
-        "last_seen_at": "2026-11-04T19:01:16Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,561,0],
+        "last_seen_at": "2026-11-04T19:09:21Z",
         "started_at": "2026-11-04T18:58:44Z",
         "stream_id": "319081589223",
-        "viewer_sec": 65,
-        "viewers": 1
+        "viewer_sec": 792,
+        "viewers": 2
       },
       "monthly": {
         "2026-10": {
@@ -6040,6 +6048,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-04T19:01:16Z",
+  "updated_at": "2026-11-04T19:09:21Z",
   "viewers_since": "2026-11-02"
 }
