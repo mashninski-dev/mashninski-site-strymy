@@ -1814,6 +1814,21 @@
       "display_name": "lepus81",
       "history": [
         {
+          "duration_min": 10,
+          "ended_at": "2026-11-04T16:26:59Z",
+          "game": "KILLFLOW",
+          "source": "vod",
+          "started_at": "2026-11-04T16:16:29Z",
+          "stream_id": "317245693396",
+          "title": "Адразу ТЭСТУЕМ індзі-гульню па просьбе распрацоўшчыка",
+          "vod": {
+            "gone": false,
+            "id": "2919403788",
+            "seen_at": "2026-11-04T16:28:49Z",
+            "url": "https://www.twitch.tv/videos/2919403788"
+          }
+        },
+        {
           "duration_min": 23,
           "ended_at": "2026-11-04T16:15:35Z",
           "game": "KILLFLOW",
@@ -2097,44 +2112,29 @@
             "seen_at": "2026-10-04T22:06:14Z",
             "url": "https://www.twitch.tv/videos/2891692815"
           }
-        },
-        {
-          "duration_min": 173,
-          "ended_at": "2026-10-02T19:34:26Z",
-          "game": "Dishonored",
-          "source": "vod",
-          "started_at": "2026-10-02T16:41:06Z",
-          "stream_id": "316984515542",
-          "title": "Ці пасуне гэта гульня Bioshok з майго п'едысталу",
-          "vod": {
-            "gone": false,
-            "id": "2889899223",
-            "seen_at": "2026-10-04T11:06:01Z",
-            "url": "https://www.twitch.tv/videos/2889899223"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 23,
-        "ended_at": "2026-11-04T16:15:35Z",
+        "duration_min": 10,
+        "ended_at": "2026-11-04T16:26:59Z",
         "game": "KILLFLOW",
         "source": "vod",
-        "started_at": "2026-11-04T15:52:25Z",
-        "stream_id": "317245465812",
+        "started_at": "2026-11-04T16:16:29Z",
+        "stream_id": "317245693396",
         "title": "Адразу ТЭСТУЕМ індзі-гульню па просьбе распрацоўшчыка",
         "vod": {
           "gone": false,
-          "id": "2919386244",
-          "seen_at": "2026-11-04T16:17:10Z",
-          "url": "https://www.twitch.tv/videos/2919386244"
+          "id": "2919403788",
+          "seen_at": "2026-11-04T16:28:49Z",
+          "url": "https://www.twitch.tv/videos/2919403788"
         }
       },
       "live": {
         "game": "KILLFLOW",
-        "since": "2026-11-04T16:16:29Z",
-        "stream_id": "317245693396",
+        "since": "2026-11-04T16:27:18Z",
+        "stream_id": "317245788884",
         "title": "Адразу ТЭСТУЕМ індзі-гульню па просьбе распрацоўшчыка",
-        "viewers": 10
+        "viewers": 15
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -5057,5 +5057,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-04T16:18:49Z"
+  "updated_at": "2026-11-04T16:28:46Z"
 }
