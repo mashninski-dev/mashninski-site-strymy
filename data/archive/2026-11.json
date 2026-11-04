@@ -378,6 +378,10 @@
     "mihas_gareza": {
       "added_at": "2026-09-11",
       "categories": {
+        "Grand Theft Auto V": {
+          "launches": 1,
+          "minutes": 180
+        },
         "Poppy Playtime": {
           "launches": 1,
           "minutes": 75
@@ -390,9 +394,9 @@
       "display_name": "Mihas_Gareza",
       "followers_end": null,
       "followers_start": 201,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,78,32],
-      "launches": 2,
-      "minutes": 202,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,152,138,88],
+      "launches": 3,
+      "minutes": 382,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-29T21:31:30Z",
       "sessions": [
@@ -406,9 +410,15 @@
           "ended_at": "2026-11-03T19:17:33Z",
           "started_at": "2026-11-03T18:03:01Z",
           "viewer_minutes": 312
+        },
+        {
+          "duration_min": 180,
+          "ended_at": "2026-11-04T20:55:37Z",
+          "started_at": "2026-11-04T17:56:07Z",
+          "viewer_minutes": 1112
         }
       ],
-      "viewer_minutes": 312
+      "viewer_minutes": 1424
     },
     "ms_bahiema": {
       "added_at": "2026-09-11",
@@ -712,5 +722,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-04T19:09:21Z"
+  "updated_at": "2026-11-04T20:57:20Z"
 }
