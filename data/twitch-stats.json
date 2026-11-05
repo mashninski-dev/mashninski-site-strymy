@@ -95,20 +95,7 @@
           "2026-11-01": 1302
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "From Dust",
-            "sec": 13846
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,3008,3600,3600,3600,38,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-05T13:00:38Z",
-        "started_at": "2026-11-05T09:09:52Z",
-        "stream_id": "319087938919",
-        "viewer_sec": 226317,
-        "viewers": 19
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -182,15 +169,32 @@
             "CONTROL Resonant": {
               "launches": 3,
               "minutes": 688
+            },
+            "From Dust": {
+              "launches": 1,
+              "minutes": 232
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,146,180,180,176,7,0,0,0,0,0,0,0],
-          "launches": 3,
-          "minutes": 688,
-          "viewer_minutes": 7579
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,196,240,240,236,8,0,0,0,0,0,0,0],
+          "launches": 4,
+          "minutes": 920,
+          "viewer_minutes": 11365
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "From Dust",
+              "minutes": 232
+            }
+          ],
+          "ended_at": "2026-11-05T13:01:23Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,50,60,60,60,1,0,0,0,0,0,0,0],
+          "started_at": "2026-11-05T09:09:52Z",
+          "viewer_minutes": 3786,
+          "viewers_last": 19
+        },
         {
           "categories": [
             {
@@ -2341,14 +2345,14 @@
         "categories": [
           {
             "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 3359
+            "sec": 3502
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3321,38,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-05T13:00:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3321,181,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-05T13:03:01Z",
         "started_at": "2026-11-05T12:04:39Z",
         "stream_id": "319089221863",
-        "viewer_sec": 16945,
+        "viewer_sec": 18804,
         "viewers": 13
       },
       "monthly": {
@@ -3781,14 +3785,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 38290
+            "sec": 38433
           }
         ],
-        "hours_sec": [0,0,0,0,0,2252,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,38,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-05T13:00:38Z",
+        "hours_sec": [0,0,0,0,0,2252,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,181,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-05T13:03:01Z",
         "started_at": "2026-11-05T02:22:28Z",
         "stream_id": "319086022887",
-        "viewer_sec": 26101,
+        "viewer_sec": 26244,
         "viewers": 1
       },
       "monthly": {
@@ -6080,6 +6084,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-05T13:00:38Z",
+  "updated_at": "2026-11-05T13:03:01Z",
   "viewers_since": "2026-11-02"
 }

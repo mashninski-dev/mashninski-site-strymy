@@ -30,14 +30,18 @@
         "CONTROL Resonant": {
           "launches": 3,
           "minutes": 688
+        },
+        "From Dust": {
+          "launches": 1,
+          "minutes": 232
         }
       },
       "display_name": "AngryRalef",
       "followers_end": null,
       "followers_start": 1302,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,146,180,180,176,7,0,0,0,0,0,0,0],
-      "launches": 3,
-      "minutes": 688,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,196,240,240,236,8,0,0,0,0,0,0,0],
+      "launches": 4,
+      "minutes": 920,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T12:58:11Z",
       "sessions": [
@@ -57,9 +61,15 @@
           "ended_at": "2026-11-04T13:07:03Z",
           "started_at": "2026-11-04T09:15:25Z",
           "viewer_minutes": 4047
+        },
+        {
+          "duration_min": 232,
+          "ended_at": "2026-11-05T13:01:23Z",
+          "started_at": "2026-11-05T09:09:52Z",
+          "viewer_minutes": 3786
         }
       ],
-      "viewer_minutes": 7579
+      "viewer_minutes": 11365
     },
     "annigilatormg42": {
       "added_at": "2026-09-11",
@@ -787,5 +797,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-05T12:41:25Z"
+  "updated_at": "2026-11-05T13:03:01Z"
 }
