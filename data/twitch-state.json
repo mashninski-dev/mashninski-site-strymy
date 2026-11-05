@@ -1429,7 +1429,7 @@
         "since": "2026-11-05T08:28:38Z",
         "stream_id": "319087668839",
         "title": "#3 Iron Road DLC. Замалёўваем і даследуем востраў Кацёл.  |🪓The Long Dark беларуская мова",
-        "viewers": 8
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -3933,11 +3933,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Silver Pines",
+        "since": "2026-11-05T10:59:14Z",
+        "stream_id": "317250572116",
+        "title": "Новы выжывач-хорар Silver Pines (бел.пераклад)",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -5057,5 +5057,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-05T10:40:39Z"
+  "updated_at": "2026-11-05T10:59:49Z"
 }
