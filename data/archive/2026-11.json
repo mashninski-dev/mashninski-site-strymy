@@ -359,14 +359,18 @@
         "Lucky Tower Ultimate": {
           "launches": 1,
           "minutes": 80
+        },
+        "The Witcher 3: Wild Hunt Remastered": {
+          "launches": 1,
+          "minutes": 117
         }
       },
       "display_name": "mashninski",
       "followers_end": null,
       "followers_start": 176,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,108,240,225,79,17,0,0,0,0],
-      "launches": 5,
-      "minutes": 706,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,163,300,226,79,17,0,0,0,0],
+      "launches": 6,
+      "minutes": 823,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T20:36:05Z",
       "sessions": [
@@ -398,9 +402,15 @@
           "ended_at": "2026-11-04T16:17:13Z",
           "started_at": "2026-11-04T14:56:53Z",
           "viewer_minutes": 1064
+        },
+        {
+          "duration_min": 117,
+          "ended_at": "2026-11-05T14:01:29Z",
+          "started_at": "2026-11-05T12:04:39Z",
+          "viewer_minutes": 1130
         }
       ],
-      "viewer_minutes": 7036
+      "viewer_minutes": 8166
     },
     "mihas_gareza": {
       "added_at": "2026-09-11",
@@ -797,5 +807,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-05T13:03:01Z"
+  "updated_at": "2026-11-05T14:03:15Z"
 }
