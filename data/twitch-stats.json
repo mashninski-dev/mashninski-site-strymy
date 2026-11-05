@@ -2813,20 +2813,7 @@
           "2026-11-01": 201
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Serious Sam 3: BFE",
-            "sec": 9108
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3068,3600,2440],
-        "last_seen_at": "2026-11-05T20:40:40Z",
-        "started_at": "2026-11-05T18:08:52Z",
-        "stream_id": "321041569500",
-        "viewer_sec": 56086,
-        "viewers": 8
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -2920,15 +2907,32 @@
             "Resonance: A Plague Tale Legacy": {
               "launches": 1,
               "minutes": 127
+            },
+            "Serious Sam 3: BFE": {
+              "launches": 1,
+              "minutes": 152
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,152,138,88],
-          "launches": 3,
-          "minutes": 382,
-          "viewer_minutes": 1424
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,203,198,129],
+          "launches": 4,
+          "minutes": 534,
+          "viewer_minutes": 2361
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Serious Sam 3: BFE",
+              "minutes": 152
+            }
+          ],
+          "ended_at": "2026-11-05T20:40:53Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,60,41],
+          "started_at": "2026-11-05T18:08:52Z",
+          "viewer_minutes": 937,
+          "viewers_last": 8
+        },
         {
           "categories": [
             {
@@ -3359,15 +3363,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 6142
+            "sec": 6436
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,3600,2440],
-        "last_seen_at": "2026-11-05T20:40:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,3600,2734],
+        "last_seen_at": "2026-11-05T20:45:34Z",
         "started_at": "2026-11-05T18:58:18Z",
         "stream_id": "319282039654",
-        "viewer_sec": 63819,
-        "viewers": 14
+        "viewer_sec": 68964,
+        "viewers": 21
       },
       "monthly": {
         "2026-10": {
@@ -3825,14 +3829,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 65892
+            "sec": 66186
           }
         ],
-        "hours_sec": [0,0,0,0,0,2252,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,2440],
-        "last_seen_at": "2026-11-05T20:40:40Z",
+        "hours_sec": [0,0,0,0,0,2252,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,2734],
+        "last_seen_at": "2026-11-05T20:45:34Z",
         "started_at": "2026-11-05T02:22:28Z",
         "stream_id": "319086022887",
-        "viewer_sec": 56956,
+        "viewer_sec": 57250,
         "viewers": 1
       },
       "monthly": {
@@ -6164,6 +6168,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-05T20:40:40Z",
+  "updated_at": "2026-11-05T20:45:34Z",
   "viewers_since": "2026-11-02"
 }

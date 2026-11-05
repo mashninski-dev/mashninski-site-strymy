@@ -2587,6 +2587,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 152,
+          "ended_at": "2026-11-05T20:40:53Z",
+          "game": "Serious Sam 3: BFE",
+          "source": "vod",
+          "started_at": "2026-11-05T18:08:52Z",
+          "stream_id": "321041569500",
+          "title": "[BLR] Рэтра Чацвер. Сур'ёзны Сэм. Хутка фінал?",
+          "vod": {
+            "gone": false,
+            "id": "2920398143",
+            "seen_at": "2026-11-05T20:45:35Z",
+            "url": "https://www.twitch.tv/videos/2920398143"
+          }
+        },
+        {
           "duration_min": 180,
           "ended_at": "2026-11-04T20:55:37Z",
           "game": "Grand Theft Auto V",
@@ -2870,44 +2885,29 @@
             "seen_at": "2026-10-11T21:45:48Z",
             "url": "https://www.twitch.tv/videos/2898095926"
           }
-        },
-        {
-          "duration_min": 200,
-          "ended_at": "2026-10-09T21:28:16Z",
-          "game": "Grand Theft Auto V",
-          "source": "vod",
-          "started_at": "2026-10-09T18:08:26Z",
-          "stream_id": "318940435814",
-          "title": "[BLR] Рыхтуемся да GTA VI. Ратуем Майкла",
-          "vod": {
-            "gone": false,
-            "id": "2896203928",
-            "seen_at": "2026-10-09T21:29:54Z",
-            "url": "https://www.twitch.tv/videos/2896203928"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 180,
-        "ended_at": "2026-11-04T20:55:37Z",
-        "game": "Grand Theft Auto V",
+        "duration_min": 152,
+        "ended_at": "2026-11-05T20:40:53Z",
+        "game": "Serious Sam 3: BFE",
         "source": "vod",
-        "started_at": "2026-11-04T17:56:07Z",
-        "stream_id": "317246647764",
-        "title": "[BLR] Чылім у ГТА. Робім выпадковыя заданні. Нейкія трафейчыкі",
+        "started_at": "2026-11-05T18:08:52Z",
+        "stream_id": "321041569500",
+        "title": "[BLR] Рэтра Чацвер. Сур'ёзны Сэм. Хутка фінал?",
         "vod": {
           "gone": false,
-          "id": "2919477051",
-          "seen_at": "2026-11-04T20:57:21Z",
-          "url": "https://www.twitch.tv/videos/2919477051"
+          "id": "2920398143",
+          "seen_at": "2026-11-05T20:45:35Z",
+          "url": "https://www.twitch.tv/videos/2920398143"
         }
       },
       "live": {
-        "game": "Serious Sam 3: BFE",
-        "since": "2026-11-05T18:08:52Z",
-        "stream_id": "321041569500",
-        "title": "[BLR] Рэтра Чацвер. Сур'ёзны Сэм. Хутка фінал?",
-        "viewers": 8
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3388,7 +3388,7 @@
         "since": "2026-11-05T18:58:18Z",
         "stream_id": "319282039654",
         "title": "Вуліца з вачыма",
-        "viewers": 14
+        "viewers": 21
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -5114,5 +5114,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-05T20:40:40Z"
+  "updated_at": "2026-11-05T20:45:34Z"
 }
