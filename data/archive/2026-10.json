@@ -2311,6 +2311,19 @@
         }
       ]
     },
+    "thelelyskek": {
+      "added_at": "2026-11-05",
+      "categories": {},
+      "display_name": "thelelyskek",
+      "followers_end": 117,
+      "followers_start": null,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 0,
+      "minutes": 0,
+      "prev_broadcast_at": null,
+      "prev_ended_at": null,
+      "sessions": []
+    },
     "toddzie": {
       "added_at": "2026-09-11",
       "categories": {},
@@ -2761,5 +2774,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-01T07:55:29Z"
+  "updated_at": "2026-11-05T14:10:41Z"
 }
