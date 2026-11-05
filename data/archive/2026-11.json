@@ -708,16 +708,33 @@
     },
     "thelelyskek": {
       "added_at": "2026-11-05",
-      "categories": {},
+      "categories": {
+        "Dishonored": {
+          "launches": 1,
+          "minutes": 366
+        },
+        "Just Chatting": {
+          "launches": 1,
+          "minutes": 5
+        }
+      },
       "display_name": "thelelyskek",
       "followers_end": null,
       "followers_start": 117,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-      "launches": 0,
-      "minutes": 0,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,5,60,60,60,60,60,60,6,0,0,0,0,0],
+      "launches": 1,
+      "minutes": 371,
       "prev_broadcast_at": null,
       "prev_ended_at": null,
-      "sessions": []
+      "sessions": [
+        {
+          "duration_min": 371,
+          "ended_at": "2026-11-05T15:05:44Z",
+          "started_at": "2026-11-05T08:54:57Z",
+          "viewer_minutes": 5432
+        }
+      ],
+      "viewer_minutes": 5432
     },
     "toddzie": {
       "added_at": "2026-09-11",
@@ -820,5 +837,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-05T14:10:41Z"
+  "updated_at": "2026-11-05T15:05:44Z"
 }

@@ -3605,7 +3605,7 @@
         "since": "2026-11-05T02:22:28Z",
         "stream_id": "319086022887",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 3
+        "viewers": 1
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/feb426c4-d99b-47bb-a9dc-8c4259f88e1d-profile_image-300x300.png",
@@ -4364,14 +4364,34 @@
       "broadcaster_type": "affiliate",
       "description": "Няўжо здольны, бузем з сабою шчырымі, часам, даволі слабы чалавечы розум, усвядоміць увесь той непамерны, бязьмежны і да дрыготы неахопны памер freaks and keks, які я хачу зараз выдаць...",
       "display_name": "thelelyskek",
-      "history": [],
-      "last_stream": null,
-      "live": {
+      "history": [
+        {
+          "duration_min": 371,
+          "ended_at": "2026-11-05T15:05:44Z",
+          "game": "Just Chatting",
+          "source": "observed",
+          "started_at": "2026-11-05T08:54:57Z",
+          "stream_id": "317167062869",
+          "title": "[BEL/ENG] Такога не было крыху меней года і вось...",
+          "vod": null
+        }
+      ],
+      "last_stream": {
+        "duration_min": 371,
+        "ended_at": "2026-11-05T15:05:44Z",
         "game": "Just Chatting",
-        "since": "2026-11-05T08:54:57Z",
+        "source": "observed",
+        "started_at": "2026-11-05T08:54:57Z",
         "stream_id": "317167062869",
         "title": "[BEL/ENG] Такога не было крыху меней года і вось...",
-        "viewers": 11
+        "vod": null
+      },
+      "live": {
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0699f21-5b35-4296-944a-f795f4e5170d-profile_image-300x300.png",
@@ -5074,5 +5094,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-05T15:00:41Z"
+  "updated_at": "2026-11-05T15:05:44Z"
 }
