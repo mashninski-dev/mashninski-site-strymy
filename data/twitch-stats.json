@@ -99,15 +99,15 @@
         "categories": [
           {
             "game": "From Dust",
-            "sec": 12046
+            "sec": 12693
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,3008,3600,3600,1838,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-05T12:30:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,3008,3600,3600,2485,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-05T12:41:25Z",
         "started_at": "2026-11-05T09:09:52Z",
         "stream_id": "319087938919",
-        "viewer_sec": 192804,
-        "viewers": 17
+        "viewer_sec": 204126,
+        "viewers": 18
       },
       "monthly": {
         "2026-10": {
@@ -2341,15 +2341,15 @@
         "categories": [
           {
             "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 1559
+            "sec": 2206
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1559,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-05T12:30:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2206,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-05T12:41:25Z",
         "started_at": "2026-11-05T12:04:39Z",
         "stream_id": "319089221863",
-        "viewer_sec": 3184,
-        "viewers": 2
+        "viewer_sec": 4801,
+        "viewers": 3
       },
       "monthly": {
         "2026-10": {
@@ -3781,14 +3781,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 36490
+            "sec": 37137
           }
         ],
-        "hours_sec": [0,0,0,0,0,2252,3600,3600,3600,3600,3600,3600,3600,3600,3600,1838,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-05T12:30:38Z",
+        "hours_sec": [0,0,0,0,0,2252,3600,3600,3600,3600,3600,3600,3600,3600,3600,2485,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-05T12:41:25Z",
         "started_at": "2026-11-05T02:22:28Z",
         "stream_id": "319086022887",
-        "viewer_sec": 24301,
+        "viewer_sec": 24948,
         "viewers": 1
       },
       "monthly": {
@@ -4046,20 +4046,7 @@
           "2026-11-01": 944
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Silver Pines",
-            "sec": 5484
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,46,3600,1838,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-05T12:30:38Z",
-        "started_at": "2026-11-05T10:59:14Z",
-        "stream_id": "317250572116",
-        "viewer_sec": 128516,
-        "viewers": 26
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -4102,18 +4089,35 @@
               "launches": 1,
               "minutes": 136
             },
+            "Silver Pines": {
+              "launches": 1,
+              "minutes": 101
+            },
             "The Witcher 3: Wild Hunt Remastered": {
               "launches": 1,
               "minutes": 109
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,4,160,177,37,0,0,0,0,0,0,0],
-          "launches": 3,
-          "minutes": 377,
-          "viewer_minutes": 9372
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,5,220,217,37,0,0,0,0,0,0,0],
+          "launches": 4,
+          "minutes": 478,
+          "viewer_minutes": 11754
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Silver Pines",
+              "minutes": 101
+            }
+          ],
+          "ended_at": "2026-11-05T12:39:52Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,40,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-05T10:59:14Z",
+          "viewer_minutes": 2382,
+          "viewers_last": 26
+        },
         {
           "categories": [
             {
@@ -6076,6 +6080,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-05T12:30:38Z",
+  "updated_at": "2026-11-05T12:41:25Z",
   "viewers_since": "2026-11-02"
 }
