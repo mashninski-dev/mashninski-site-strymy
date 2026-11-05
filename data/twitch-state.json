@@ -3605,7 +3605,7 @@
         "since": "2026-11-05T02:22:28Z",
         "stream_id": "319086022887",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 1
+        "viewers": 2
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/feb426c4-d99b-47bb-a9dc-8c4259f88e1d-profile_image-300x300.png",
@@ -4366,25 +4366,35 @@
       "display_name": "thelelyskek",
       "history": [
         {
-          "duration_min": 371,
-          "ended_at": "2026-11-05T15:05:44Z",
+          "duration_min": 369,
+          "ended_at": "2026-11-05T15:04:07Z",
           "game": "Just Chatting",
-          "source": "observed",
+          "source": "vod",
           "started_at": "2026-11-05T08:54:57Z",
           "stream_id": "317167062869",
           "title": "[BEL/ENG] Такога не было крыху меней года і вось...",
-          "vod": null
+          "vod": {
+            "gone": false,
+            "id": "2920087071",
+            "seen_at": "2026-11-05T16:20:43Z",
+            "url": "https://www.twitch.tv/videos/2920087071"
+          }
         }
       ],
       "last_stream": {
-        "duration_min": 371,
-        "ended_at": "2026-11-05T15:05:44Z",
+        "duration_min": 369,
+        "ended_at": "2026-11-05T15:04:07Z",
         "game": "Just Chatting",
-        "source": "observed",
+        "source": "vod",
         "started_at": "2026-11-05T08:54:57Z",
         "stream_id": "317167062869",
         "title": "[BEL/ENG] Такога не было крыху меней года і вось...",
-        "vod": null
+        "vod": {
+          "gone": false,
+          "id": "2920087071",
+          "seen_at": "2026-11-05T16:20:43Z",
+          "url": "https://www.twitch.tv/videos/2920087071"
+        }
       },
       "live": {
         "game": null,
@@ -5094,5 +5104,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-05T15:05:44Z"
+  "updated_at": "2026-11-05T16:20:42Z"
 }
