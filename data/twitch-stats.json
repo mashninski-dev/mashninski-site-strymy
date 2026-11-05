@@ -725,20 +725,7 @@
           "2026-11-01": 216
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Looking Up I See Only a Ceiling",
-            "sec": 3496
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2857,639,0],
-        "last_seen_at": "2026-11-05T19:10:39Z",
-        "started_at": "2026-11-05T18:12:23Z",
-        "stream_id": "319096003431",
-        "viewer_sec": 27472,
-        "viewers": 9
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -762,9 +749,34 @@
           "hours": [19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,118,240,256,291,314,286,210],
           "launches": 13,
           "minutes": 1762
+        },
+        "2026-11": {
+          "categories": {
+            "Looking Up I See Only a Ceiling": {
+              "launches": 1,
+              "minutes": 67
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,19,0],
+          "launches": 1,
+          "minutes": 67,
+          "viewer_minutes": 534
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Looking Up I See Only a Ceiling",
+              "minutes": 67
+            }
+          ],
+          "ended_at": "2026-11-05T19:19:04Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,19,0],
+          "started_at": "2026-11-05T18:12:23Z",
+          "viewer_minutes": 534,
+          "viewers_last": 9
+        },
         {
           "categories": [
             {
@@ -2820,15 +2832,15 @@
         "categories": [
           {
             "game": "Serious Sam 3: BFE",
-            "sec": 3707
+            "sec": 4300
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3068,639,0],
-        "last_seen_at": "2026-11-05T19:10:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3068,1232,0],
+        "last_seen_at": "2026-11-05T19:20:32Z",
         "started_at": "2026-11-05T18:08:52Z",
         "stream_id": "321041569500",
-        "viewer_sec": 11969,
-        "viewers": 5
+        "viewer_sec": 16120,
+        "viewers": 9
       },
       "monthly": {
         "2026-10": {
@@ -3362,15 +3374,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 741
+            "sec": 1334
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,639,0],
-        "last_seen_at": "2026-11-05T19:10:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,1232,0],
+        "last_seen_at": "2026-11-05T19:20:32Z",
         "started_at": "2026-11-05T18:58:18Z",
         "stream_id": "319282039654",
-        "viewer_sec": 3508,
-        "viewers": 7
+        "viewer_sec": 8252,
+        "viewers": 9
       },
       "monthly": {
         "2026-10": {
@@ -3828,14 +3840,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 60491
+            "sec": 61084
           }
         ],
-        "hours_sec": [0,0,0,0,0,2252,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,639,0],
-        "last_seen_at": "2026-11-05T19:10:39Z",
+        "hours_sec": [0,0,0,0,0,2252,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,1232,0],
+        "last_seen_at": "2026-11-05T19:20:32Z",
         "started_at": "2026-11-05T02:22:28Z",
         "stream_id": "319086022887",
-        "viewer_sec": 51555,
+        "viewer_sec": 52148,
         "viewers": 1
       },
       "monthly": {
@@ -6167,6 +6179,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-05T19:10:39Z",
+  "updated_at": "2026-11-05T19:20:32Z",
   "viewers_since": "2026-11-02"
 }

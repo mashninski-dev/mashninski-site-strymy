@@ -670,6 +670,21 @@
       "display_name": "Bel_Asch",
       "history": [
         {
+          "duration_min": 67,
+          "ended_at": "2026-11-05T19:19:04Z",
+          "game": "Looking Up I See Only a Ceiling",
+          "source": "vod",
+          "started_at": "2026-11-05T18:12:23Z",
+          "stream_id": "319096003431",
+          "title": "Беларускі Дэпрэссіўны Стан Моладзі 🩶 | Looking Up I See Only a Ceiling",
+          "vod": {
+            "gone": false,
+            "id": "2920400996",
+            "seen_at": "2026-11-05T19:20:33Z",
+            "url": "https://www.twitch.tv/videos/2920400996"
+          }
+        },
+        {
           "duration_min": 135,
           "ended_at": "2026-10-31T20:47:26Z",
           "game": "Just Chatting",
@@ -938,34 +953,29 @@
           "stream_id": "318503129191",
           "title": "Праходзім дадатак 🌋 | Tomb Raider 1 Unfinished Business Remastered",
           "vod": null
-        },
-        {
-          "duration_min": 110,
-          "ended_at": "2026-09-18T22:42:59Z",
-          "game": "Dungeons & Dragons",
-          "source": "observed",
-          "started_at": "2026-09-18T20:53:29Z",
-          "stream_id": "318499087463",
-          "title": "Сэссія трэцья | Дрэва",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 135,
-        "ended_at": "2026-10-31T20:47:26Z",
-        "game": "Just Chatting",
-        "source": "observed",
-        "started_at": "2026-10-31T18:32:23Z",
-        "stream_id": "319157747045",
-        "title": "Хэллоўінаўскі кінпрагляд 🎃 | «Зброя» 2025",
-        "vod": null
-      },
-      "live": {
+        "duration_min": 67,
+        "ended_at": "2026-11-05T19:19:04Z",
         "game": "Looking Up I See Only a Ceiling",
-        "since": "2026-11-05T18:12:23Z",
+        "source": "vod",
+        "started_at": "2026-11-05T18:12:23Z",
         "stream_id": "319096003431",
         "title": "Беларускі Дэпрэссіўны Стан Моладзі 🩶 | Looking Up I See Only a Ceiling",
-        "viewers": 9
+        "vod": {
+          "gone": false,
+          "id": "2920400996",
+          "seen_at": "2026-11-05T19:20:33Z",
+          "url": "https://www.twitch.tv/videos/2920400996"
+        }
+      },
+      "live": {
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -2897,7 +2907,7 @@
         "since": "2026-11-05T18:08:52Z",
         "stream_id": "321041569500",
         "title": "[BLR] Рэтра Чацвер. Сур'ёзны Сэм. Хутка фінал?",
-        "viewers": 5
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3378,7 +3388,7 @@
         "since": "2026-11-05T18:58:18Z",
         "stream_id": "319282039654",
         "title": "Вуліца з вачыма",
-        "viewers": 7
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -5104,5 +5114,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-05T19:10:39Z"
+  "updated_at": "2026-11-05T19:20:32Z"
 }
