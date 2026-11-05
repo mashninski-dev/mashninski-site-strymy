@@ -3605,7 +3605,7 @@
         "since": "2026-11-05T02:22:28Z",
         "stream_id": "319086022887",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 1
+        "viewers": 3
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/feb426c4-d99b-47bb-a9dc-8c4259f88e1d-profile_image-300x300.png",
@@ -4367,11 +4367,11 @@
       "history": [],
       "last_stream": null,
       "live": {
-        "game": "Dishonored",
+        "game": "Just Chatting",
         "since": "2026-11-05T08:54:57Z",
         "stream_id": "317167062869",
         "title": "[BEL/ENG] Такога не было крыху меней года і вось...",
-        "viewers": 13
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0699f21-5b35-4296-944a-f795f4e5170d-profile_image-300x300.png",
@@ -5074,5 +5074,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-05T14:50:37Z"
+  "updated_at": "2026-11-05T15:00:41Z"
 }
