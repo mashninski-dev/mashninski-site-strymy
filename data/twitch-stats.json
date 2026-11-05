@@ -3378,20 +3378,7 @@
           "2026-11-01": 304
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Just Chatting",
-            "sec": 7342
-          }
-        ],
-        "hours_sec": [40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,3600,3600],
-        "last_seen_at": "2026-11-05T21:00:40Z",
-        "started_at": "2026-11-05T18:58:18Z",
-        "stream_id": "319282039654",
-        "viewer_sec": 85813,
-        "viewers": 18
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -3423,21 +3410,34 @@
               "minutes": 235
             },
             "Just Chatting": {
-              "launches": 2,
-              "minutes": 256
+              "launches": 3,
+              "minutes": 381
             },
             "Thief: Deadly Shadows": {
               "launches": 1,
               "minutes": 164
             }
           },
-          "hours": [56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,74,240,229],
-          "launches": 4,
-          "minutes": 656,
-          "viewer_minutes": 3835
+          "hours": [59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,76,300,289],
+          "launches": 5,
+          "minutes": 781,
+          "viewer_minutes": 5308
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 125
+            }
+          ],
+          "ended_at": "2026-11-05T21:03:05Z",
+          "hours": [3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,60,60],
+          "started_at": "2026-11-05T18:58:18Z",
+          "viewer_minutes": 1473,
+          "viewers_last": 18
+        },
         {
           "categories": [
             {
@@ -3849,15 +3849,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 67092
+            "sec": 67336
           }
         ],
-        "hours_sec": [40,0,0,0,0,2252,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-05T21:00:40Z",
+        "hours_sec": [284,0,0,0,0,2252,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-05T21:04:44Z",
         "started_at": "2026-11-05T02:22:28Z",
         "stream_id": "319086022887",
-        "viewer_sec": 58156,
-        "viewers": 1
+        "viewer_sec": 59254,
+        "viewers": 8
       },
       "monthly": {
         "2026-10": {
@@ -6198,6 +6198,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-05T21:00:40Z",
+  "updated_at": "2026-11-05T21:04:44Z",
   "viewers_since": "2026-11-02"
 }

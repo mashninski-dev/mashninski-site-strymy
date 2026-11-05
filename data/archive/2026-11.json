@@ -514,8 +514,8 @@
           "minutes": 235
         },
         "Just Chatting": {
-          "launches": 2,
-          "minutes": 256
+          "launches": 3,
+          "minutes": 381
         },
         "Thief: Deadly Shadows": {
           "launches": 1,
@@ -525,9 +525,9 @@
       "display_name": "Nine_Ravens_Cemetery",
       "followers_end": null,
       "followers_start": 304,
-      "hours": [56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,74,240,229],
-      "launches": 4,
-      "minutes": 656,
+      "hours": [59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,76,300,289],
+      "launches": 5,
+      "minutes": 781,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T22:32:57Z",
       "sessions": [
@@ -553,9 +553,15 @@
           "ended_at": "2026-11-04T21:07:38Z",
           "started_at": "2026-11-04T18:59:09Z",
           "viewer_minutes": 1143
+        },
+        {
+          "duration_min": 125,
+          "ended_at": "2026-11-05T21:03:05Z",
+          "started_at": "2026-11-05T18:58:18Z",
+          "viewer_minutes": 1473
         }
       ],
-      "viewer_minutes": 3835
+      "viewer_minutes": 5308
     },
     "radyjo_holas": {
       "added_at": "2026-09-11",
@@ -860,5 +866,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-05T20:45:34Z"
+  "updated_at": "2026-11-05T21:04:44Z"
 }
