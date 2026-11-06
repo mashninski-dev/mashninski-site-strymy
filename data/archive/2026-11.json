@@ -390,8 +390,8 @@
           "minutes": 626
         },
         "Fear & Hunger 2: Termina": {
-          "launches": 1,
-          "minutes": 129
+          "launches": 2,
+          "minutes": 339
         },
         "Lucky Tower Ultimate": {
           "launches": 1,
@@ -405,9 +405,9 @@
       "display_name": "mashninski",
       "followers_end": null,
       "followers_start": 176,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,200,360,258,79,17,0,0,0,0],
-      "launches": 7,
-      "minutes": 952,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,200,360,258,79,37,60,60,60,10],
+      "launches": 8,
+      "minutes": 1162,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T20:36:05Z",
       "sessions": [
@@ -451,9 +451,15 @@
           "ended_at": "2026-11-06T14:31:54Z",
           "started_at": "2026-11-06T12:23:14Z",
           "viewer_minutes": 1428
+        },
+        {
+          "duration_min": 210,
+          "ended_at": "2026-11-06T20:09:58Z",
+          "started_at": "2026-11-06T16:40:28Z",
+          "viewer_minutes": 2204
         }
       ],
-      "viewer_minutes": 9594
+      "viewer_minutes": 11798
     },
     "mihas_gareza": {
       "added_at": "2026-09-11",
@@ -919,5 +925,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-06T14:33:32Z"
+  "updated_at": "2026-11-06T20:10:23Z"
 }
