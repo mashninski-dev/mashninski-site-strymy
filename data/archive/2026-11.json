@@ -724,16 +724,29 @@
     },
     "stablechaotic": {
       "added_at": "2026-10-24",
-      "categories": {},
+      "categories": {
+        "Just Chatting": {
+          "launches": 1,
+          "minutes": 69
+        }
+      },
       "display_name": "stableChaotic",
       "followers_end": null,
       "followers_start": 8,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-      "launches": 0,
-      "minutes": 0,
+      "hours": [0,0,0,0,0,53,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 1,
+      "minutes": 69,
       "prev_broadcast_at": null,
-      "prev_ended_at": null,
-      "sessions": []
+      "prev_ended_at": "2026-10-24T11:35:32Z",
+      "sessions": [
+        {
+          "duration_min": 69,
+          "ended_at": "2026-11-06T03:16:15Z",
+          "started_at": "2026-11-06T02:07:16Z",
+          "viewer_minutes": 67
+        }
+      ],
+      "viewer_minutes": 67
     },
     "thelelyskek": {
       "added_at": "2026-11-05",
@@ -866,5 +879,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-05T21:04:44Z"
+  "updated_at": "2026-11-06T03:16:15Z"
 }
