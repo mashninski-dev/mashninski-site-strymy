@@ -2255,6 +2255,21 @@
       "display_name": "mashninski",
       "history": [
         {
+          "duration_min": 129,
+          "ended_at": "2026-11-06T14:31:54Z",
+          "game": "Fear & Hunger 2: Termina",
+          "source": "vod",
+          "started_at": "2026-11-06T12:23:14Z",
+          "stream_id": "319224022117",
+          "title": "Тэсцім беларускі пераклад",
+          "vod": {
+            "gone": false,
+            "id": "2921072017",
+            "seen_at": "2026-11-06T14:33:32Z",
+            "url": "https://www.twitch.tv/videos/2921072017"
+          }
+        },
+        {
           "duration_min": 117,
           "ended_at": "2026-11-05T14:01:29Z",
           "game": "The Witcher 3: Wild Hunt Remastered",
@@ -2538,44 +2553,29 @@
             "seen_at": "2026-10-15T19:44:00Z",
             "url": "https://www.twitch.tv/videos/2901522307"
           }
-        },
-        {
-          "duration_min": 170,
-          "ended_at": "2026-10-14T19:30:09Z",
-          "game": "The Witcher 3: Wild Hunt Remastered",
-          "source": "vod",
-          "started_at": "2026-10-14T16:39:57Z",
-          "stream_id": "318807942503",
-          "title": "Выконваем дурацкія ачыўкі (мы не хацелі гэтага)",
-          "vod": {
-            "gone": false,
-            "id": "2900646054",
-            "seen_at": "2026-10-14T19:31:40Z",
-            "url": "https://www.twitch.tv/videos/2900646054"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 117,
-        "ended_at": "2026-11-05T14:01:29Z",
-        "game": "The Witcher 3: Wild Hunt Remastered",
+        "duration_min": 129,
+        "ended_at": "2026-11-06T14:31:54Z",
+        "game": "Fear & Hunger 2: Termina",
         "source": "vod",
-        "started_at": "2026-11-05T12:04:39Z",
-        "stream_id": "319089221863",
-        "title": "Штонешта",
+        "started_at": "2026-11-06T12:23:14Z",
+        "stream_id": "319224022117",
+        "title": "Тэсцім беларускі пераклад",
         "vod": {
           "gone": false,
-          "id": "2920161126",
-          "seen_at": "2026-11-05T14:03:15Z",
-          "url": "https://www.twitch.tv/videos/2920161126"
+          "id": "2921072017",
+          "seen_at": "2026-11-06T14:33:32Z",
+          "url": "https://www.twitch.tv/videos/2921072017"
         }
       },
       "live": {
-        "game": "Fear & Hunger 2: Termina",
-        "since": "2026-11-06T12:23:14Z",
-        "stream_id": "319224022117",
-        "title": "Тэсцім беларускі пераклад",
-        "viewers": 15
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -5124,5 +5124,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-06T14:20:39Z"
+  "updated_at": "2026-11-06T14:33:32Z"
 }

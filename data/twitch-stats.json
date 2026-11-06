@@ -2393,20 +2393,7 @@
           "2026-11-01": 176
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Fear & Hunger 2: Termina",
-            "sec": 7646
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2206,3600,1840,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-06T14:30:40Z",
-        "started_at": "2026-11-06T12:23:14Z",
-        "stream_id": "319224022117",
-        "viewer_sec": 84532,
-        "viewers": 15
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -2481,6 +2468,10 @@
               "launches": 4,
               "minutes": 626
             },
+            "Fear & Hunger 2: Termina": {
+              "launches": 1,
+              "minutes": 129
+            },
             "Lucky Tower Ultimate": {
               "launches": 1,
               "minutes": 80
@@ -2490,13 +2481,26 @@
               "minutes": 117
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,163,300,226,79,17,0,0,0,0],
-          "launches": 6,
-          "minutes": 823,
-          "viewer_minutes": 8166
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,200,360,258,79,17,0,0,0,0],
+          "launches": 7,
+          "minutes": 952,
+          "viewer_minutes": 9594
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Fear & Hunger 2: Termina",
+              "minutes": 129
+            }
+          ],
+          "ended_at": "2026-11-06T14:31:54Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,60,32,0,0,0,0,0,0],
+          "started_at": "2026-11-06T12:23:14Z",
+          "viewer_minutes": 1428,
+          "viewers_last": 15
+        },
         {
           "categories": [
             {
@@ -3852,14 +3856,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 130092
+            "sec": 130264
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,5852,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,5440,3600,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-06T14:30:40Z",
+        "hours_sec": [3600,3600,3600,3600,3600,5852,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,5612,3600,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-06T14:33:32Z",
         "started_at": "2026-11-05T02:22:28Z",
         "stream_id": "319086022887",
-        "viewer_sec": 124204,
+        "viewer_sec": 124376,
         "viewers": 1
       },
       "monthly": {
@@ -6154,6 +6158,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-06T14:30:40Z",
+  "updated_at": "2026-11-06T14:33:32Z",
   "viewers_since": "2026-11-02"
 }
