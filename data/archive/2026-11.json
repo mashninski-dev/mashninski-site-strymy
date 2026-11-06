@@ -552,8 +552,8 @@
       "added_at": "2026-09-11",
       "categories": {
         "Art": {
-          "launches": 2,
-          "minutes": 235
+          "launches": 3,
+          "minutes": 375
         },
         "Just Chatting": {
           "launches": 3,
@@ -567,9 +567,9 @@
       "display_name": "Nine_Ravens_Cemetery",
       "followers_end": null,
       "followers_start": 304,
-      "hours": [59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,76,300,289],
-      "launches": 5,
-      "minutes": 781,
+      "hours": [76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,78,360,349],
+      "launches": 6,
+      "minutes": 921,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T22:32:57Z",
       "sessions": [
@@ -601,9 +601,15 @@
           "ended_at": "2026-11-05T21:03:05Z",
           "started_at": "2026-11-05T18:58:18Z",
           "viewer_minutes": 1473
+        },
+        {
+          "duration_min": 140,
+          "ended_at": "2026-11-06T21:17:09Z",
+          "started_at": "2026-11-06T18:57:36Z",
+          "viewer_minutes": 1278
         }
       ],
-      "viewer_minutes": 5308
+      "viewer_minutes": 6586
     },
     "radyjo_holas": {
       "added_at": "2026-09-11",
@@ -931,5 +937,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-06T20:57:33Z"
+  "updated_at": "2026-11-06T21:18:48Z"
 }
