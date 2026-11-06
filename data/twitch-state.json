@@ -326,7 +326,7 @@
         "since": "2026-11-06T09:10:07Z",
         "stream_id": "317173425877",
         "title": "Самус ратуе свет. Metroid",
-        "viewers": 25
+        "viewers": 24
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -1119,6 +1119,21 @@
       "display_name": "DzedMaksim",
       "history": [
         {
+          "duration_min": 232,
+          "ended_at": "2026-11-06T11:49:27Z",
+          "game": "The Witcher 3: Wild Hunt Remastered",
+          "source": "vod",
+          "started_at": "2026-11-06T07:57:42Z",
+          "stream_id": "319222356453",
+          "title": "#17 Дадатковыя задачы і пытальнікі Навіграда | The Witcher 3 Remastered беларуская мова",
+          "vod": {
+            "gone": false,
+            "id": "2920967790",
+            "seen_at": "2026-11-06T11:50:58Z",
+            "url": "https://www.twitch.tv/videos/2920967790"
+          }
+        },
+        {
           "duration_min": 199,
           "ended_at": "2026-11-05T11:47:42Z",
           "game": "The Long Dark",
@@ -1402,44 +1417,29 @@
             "seen_at": "2026-10-20T10:57:04Z",
             "url": "https://www.twitch.tv/videos/2905744350"
           }
-        },
-        {
-          "duration_min": 66,
-          "ended_at": "2026-10-19T10:20:15Z",
-          "game": "Forever Ago",
-          "source": "vod",
-          "started_at": "2026-10-19T09:14:00Z",
-          "stream_id": "319061784678",
-          "title": "А што ж там у канцы доўгага жыцця? | Forever Ago стрымім беларускаю",
-          "vod": {
-            "gone": false,
-            "id": "2904928163",
-            "seen_at": "2026-10-19T10:21:44Z",
-            "url": "https://www.twitch.tv/videos/2904928163"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 199,
-        "ended_at": "2026-11-05T11:47:42Z",
-        "game": "The Long Dark",
+        "duration_min": 232,
+        "ended_at": "2026-11-06T11:49:27Z",
+        "game": "The Witcher 3: Wild Hunt Remastered",
         "source": "vod",
-        "started_at": "2026-11-05T08:28:38Z",
-        "stream_id": "319087668839",
-        "title": "#3 Iron Road DLC. Замалёўваем і даследуем востраў Кацёл.  |🪓The Long Dark беларуская мова",
+        "started_at": "2026-11-06T07:57:42Z",
+        "stream_id": "319222356453",
+        "title": "#17 Дадатковыя задачы і пытальнікі Навіграда | The Witcher 3 Remastered беларуская мова",
         "vod": {
           "gone": false,
-          "id": "2920078181",
-          "seen_at": "2026-11-05T11:49:23Z",
-          "url": "https://www.twitch.tv/videos/2920078181"
+          "id": "2920967790",
+          "seen_at": "2026-11-06T11:50:58Z",
+          "url": "https://www.twitch.tv/videos/2920967790"
         }
       },
       "live": {
-        "game": "The Witcher 3: Wild Hunt Remastered",
-        "since": "2026-11-06T07:57:42Z",
-        "stream_id": "319222356453",
-        "title": "#17 Дадатковыя задачы і пытальнікі Навіграда | The Witcher 3 Remastered беларуская мова",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -5124,5 +5124,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-06T11:40:44Z"
+  "updated_at": "2026-11-06T11:50:57Z"
 }

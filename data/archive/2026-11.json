@@ -159,14 +159,18 @@
         "The Long Dark": {
           "launches": 3,
           "minutes": 436
+        },
+        "The Witcher 3: Wild Hunt Remastered": {
+          "launches": 1,
+          "minutes": 232
         }
       },
       "display_name": "DzedMaksim",
       "followers_end": null,
       "followers_start": 248,
-      "hours": [0,0,0,0,0,0,0,0,0,0,4,121,221,240,209,0,0,0,0,0,0,0,0,0],
-      "launches": 5,
-      "minutes": 795,
+      "hours": [0,0,0,0,0,0,0,0,0,0,6,181,281,300,258,0,0,0,0,0,0,0,0,0],
+      "launches": 6,
+      "minutes": 1027,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T12:00:37Z",
       "sessions": [
@@ -198,9 +202,15 @@
           "ended_at": "2026-11-05T11:47:42Z",
           "started_at": "2026-11-05T08:28:38Z",
           "viewer_minutes": 1482
+        },
+        {
+          "duration_min": 232,
+          "ended_at": "2026-11-06T11:49:27Z",
+          "started_at": "2026-11-06T07:57:42Z",
+          "viewer_minutes": 2202
         }
       ],
-      "viewer_minutes": 4883
+      "viewer_minutes": 7085
     },
     "evildive": {
       "added_at": "2026-09-11",
@@ -879,5 +889,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-06T03:16:15Z"
+  "updated_at": "2026-11-06T11:50:57Z"
 }

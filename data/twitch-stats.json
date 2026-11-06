@@ -100,15 +100,15 @@
         "categories": [
           {
             "game": "Metroid",
-            "sec": 9037
+            "sec": 9650
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2993,3600,2444,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-06T11:40:44Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2993,3600,3057,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-06T11:50:57Z",
         "started_at": "2026-11-06T09:10:07Z",
         "stream_id": "317173425877",
-        "viewer_sec": 165689,
-        "viewers": 25
+        "viewer_sec": 180707,
+        "viewers": 24
       },
       "monthly": {
         "2026-10": {
@@ -1063,20 +1063,7 @@
           "2026-11-01": 248
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 13382
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,138,3600,3600,3600,2444,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-06T11:40:44Z",
-        "started_at": "2026-11-06T07:57:42Z",
-        "stream_id": "319222356453",
-        "viewer_sec": 127462,
-        "viewers": 9
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -1134,15 +1121,32 @@
             "The Long Dark": {
               "launches": 3,
               "minutes": 436
+            },
+            "The Witcher 3: Wild Hunt Remastered": {
+              "launches": 1,
+              "minutes": 232
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,4,121,221,240,209,0,0,0,0,0,0,0,0,0],
-          "launches": 5,
-          "minutes": 795,
-          "viewer_minutes": 4883
+          "hours": [0,0,0,0,0,0,0,0,0,0,6,181,281,300,258,0,0,0,0,0,0,0,0,0],
+          "launches": 6,
+          "minutes": 1027,
+          "viewer_minutes": 7085
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 232
+            }
+          ],
+          "ended_at": "2026-11-06T11:49:27Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,2,60,60,60,49,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-06T07:57:42Z",
+          "viewer_minutes": 2202,
+          "viewers_last": 9
+        },
         {
           "categories": [
             {
@@ -3842,14 +3846,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 119896
+            "sec": 120509
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,5852,7200,7200,7200,7200,7200,7200,7200,7200,6044,3600,3600,3600,3600,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-06T11:40:44Z",
+        "hours_sec": [3600,3600,3600,3600,3600,5852,7200,7200,7200,7200,7200,7200,7200,7200,6657,3600,3600,3600,3600,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-06T11:50:57Z",
         "started_at": "2026-11-05T02:22:28Z",
         "stream_id": "319086022887",
-        "viewer_sec": 114008,
+        "viewer_sec": 114621,
         "viewers": 1
       },
       "monthly": {
@@ -4101,14 +4105,14 @@
         "categories": [
           {
             "game": "Chants of Sennaar",
-            "sec": 2525
+            "sec": 3138
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,81,2444,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-06T11:40:44Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,81,3057,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-06T11:50:57Z",
         "started_at": "2026-11-06T10:58:39Z",
         "stream_id": "317256539732",
-        "viewer_sec": 35264,
+        "viewer_sec": 49976,
         "viewers": 24
       },
       "monthly": {
@@ -6173,6 +6177,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-06T11:40:44Z",
+  "updated_at": "2026-11-06T11:50:57Z",
   "viewers_since": "2026-11-02"
 }
