@@ -355,16 +355,29 @@
     },
     "lilzorka_": {
       "added_at": "2026-09-11",
-      "categories": {},
+      "categories": {
+        "Genshin Impact": {
+          "launches": 1,
+          "minutes": 174
+        }
+      },
       "display_name": "lilzorka_",
       "followers_end": null,
       "followers_start": 134,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-      "launches": 0,
-      "minutes": 0,
+      "hours": [48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,60,60],
+      "launches": 1,
+      "minutes": 174,
       "prev_broadcast_at": null,
-      "prev_ended_at": null,
-      "sessions": []
+      "prev_ended_at": "2026-10-30T23:19:55Z",
+      "sessions": [
+        {
+          "duration_min": 174,
+          "ended_at": "2026-11-07T21:48:28Z",
+          "started_at": "2026-11-07T18:54:30Z",
+          "viewer_minutes": 424
+        }
+      ],
+      "viewer_minutes": 424
     },
     "lucii7vel": {
       "added_at": "2026-09-11",
@@ -975,5 +988,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-07T20:30:38Z"
+  "updated_at": "2026-11-07T21:49:59Z"
 }
