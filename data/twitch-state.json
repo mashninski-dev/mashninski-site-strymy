@@ -339,6 +339,21 @@
       "history": [
         {
           "duration_min": 180,
+          "ended_at": "2026-11-07T20:29:01Z",
+          "game": "Empire: Total War",
+          "source": "vod",
+          "started_at": "2026-11-07T17:29:22Z",
+          "stream_id": "319122894055",
+          "title": "Спрабуем збудаваць ЗША)",
+          "vod": {
+            "gone": false,
+            "id": "2922284984",
+            "seen_at": "2026-11-07T20:30:38Z",
+            "url": "https://www.twitch.tv/videos/2922284984"
+          }
+        },
+        {
+          "duration_min": 180,
           "ended_at": "2026-11-04T22:00:24Z",
           "game": "Tropico 6",
           "source": "vod",
@@ -621,44 +636,29 @@
             "seen_at": "2026-10-04T11:06:01Z",
             "url": "https://www.twitch.tv/videos/2884712647"
           }
-        },
-        {
-          "duration_min": 303,
-          "ended_at": "2026-09-26T00:13:58Z",
-          "game": "Total War: Shogun 2",
-          "source": "vod",
-          "started_at": "2026-09-25T19:11:00Z",
-          "stream_id": "318773321574",
-          "title": "Пачынаем шлях, сакура адцвяла, снег тае...)",
-          "vod": {
-            "gone": false,
-            "id": "2883836865",
-            "seen_at": "2026-10-04T11:06:01Z",
-            "url": "https://www.twitch.tv/videos/2883836865"
-          }
         }
       ],
       "last_stream": {
         "duration_min": 180,
-        "ended_at": "2026-11-04T22:00:24Z",
-        "game": "Tropico 6",
+        "ended_at": "2026-11-07T20:29:01Z",
+        "game": "Empire: Total War",
         "source": "vod",
-        "started_at": "2026-11-04T19:00:42Z",
-        "stream_id": "319081627111",
-        "title": "Працягваем дапамагаць Эль Прэзідэнтэ будаваць выспу для жыцця)",
+        "started_at": "2026-11-07T17:29:22Z",
+        "stream_id": "319122894055",
+        "title": "Спрабуем збудаваць ЗША)",
         "vod": {
           "gone": false,
-          "id": "2919530140",
-          "seen_at": "2026-11-04T22:00:44Z",
-          "url": "https://www.twitch.tv/videos/2919530140"
+          "id": "2922284984",
+          "seen_at": "2026-11-07T20:30:38Z",
+          "url": "https://www.twitch.tv/videos/2922284984"
         }
       },
       "live": {
-        "game": "Empire: Total War",
-        "since": "2026-11-07T17:29:22Z",
-        "stream_id": "319122894055",
-        "title": "Спрабуем збудаваць ЗША)",
-        "viewers": 5
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6f85ccf-8f12-43f4-90e3-1e1cf95ab956-profile_image-300x300.jpeg",
@@ -2206,7 +2206,7 @@
         "since": "2026-11-07T18:54:30Z",
         "stream_id": "319310183270",
         "title": "BEL АААААААААААЙ",
-        "viewers": 2
+        "viewers": 3
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-09-03T10:48:48Z",
@@ -4269,7 +4269,7 @@
         "since": "2026-11-07T17:17:11Z",
         "stream_id": "317219291734",
         "title": "Ну такі будуем від Іринка подруга",
-        "viewers": 14
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5114,5 +5114,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-07T20:20:38Z"
+  "updated_at": "2026-11-07T20:30:38Z"
 }

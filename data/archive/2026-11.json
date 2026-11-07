@@ -84,6 +84,10 @@
     "annigilatormg42": {
       "added_at": "2026-09-11",
       "categories": {
+        "Empire: Total War": {
+          "launches": 1,
+          "minutes": 180
+        },
         "Total War: WARHAMMER III": {
           "launches": 1,
           "minutes": 245
@@ -96,9 +100,9 @@
       "display_name": "annigilatormg42",
       "followers_end": null,
       "followers_start": 57,
-      "hours": [65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,60,119,120],
-      "launches": 2,
-      "minutes": 425,
+      "hours": [65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,120,179,149],
+      "launches": 3,
+      "minutes": 605,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T21:54:22Z",
       "sessions": [
@@ -112,9 +116,15 @@
           "ended_at": "2026-11-04T22:00:24Z",
           "started_at": "2026-11-04T19:00:42Z",
           "viewer_minutes": 755
+        },
+        {
+          "duration_min": 180,
+          "ended_at": "2026-11-07T20:29:01Z",
+          "started_at": "2026-11-07T17:29:22Z",
+          "viewer_minutes": 575
         }
       ],
-      "viewer_minutes": 755
+      "viewer_minutes": 1330
     },
     "bel_asch": {
       "added_at": "2026-09-11",
@@ -965,5 +975,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-07T13:19:59Z"
+  "updated_at": "2026-11-07T20:30:38Z"
 }
