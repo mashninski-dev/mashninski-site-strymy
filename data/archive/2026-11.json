@@ -398,16 +398,16 @@
           "minutes": 80
         },
         "The Witcher 3: Wild Hunt Remastered": {
-          "launches": 1,
-          "minutes": 117
+          "launches": 2,
+          "minutes": 309
         }
       },
       "display_name": "mashninski",
       "followers_end": null,
       "followers_start": 176,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,200,360,258,79,37,60,60,60,10],
-      "launches": 8,
-      "minutes": 1162,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,54,96,260,378,258,79,37,60,60,60,10],
+      "launches": 9,
+      "minutes": 1354,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T20:36:05Z",
       "sessions": [
@@ -457,9 +457,15 @@
           "ended_at": "2026-11-06T20:09:58Z",
           "started_at": "2026-11-06T16:40:28Z",
           "viewer_minutes": 2204
+        },
+        {
+          "duration_min": 192,
+          "ended_at": "2026-11-07T13:18:29Z",
+          "started_at": "2026-11-07T10:06:29Z",
+          "viewer_minutes": 1592
         }
       ],
-      "viewer_minutes": 11798
+      "viewer_minutes": 13390
     },
     "mihas_gareza": {
       "added_at": "2026-09-11",
@@ -959,5 +965,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-07T02:23:57Z"
+  "updated_at": "2026-11-07T13:19:59Z"
 }
