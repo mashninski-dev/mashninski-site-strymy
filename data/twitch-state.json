@@ -3083,6 +3083,21 @@
       "display_name": "Nine_Ravens_Cemetery",
       "history": [
         {
+          "duration_min": 201,
+          "ended_at": "2026-11-07T22:06:22Z",
+          "game": "Games + Demos",
+          "source": "vod",
+          "started_at": "2026-11-07T18:45:20Z",
+          "stream_id": "319309995750",
+          "title": "Дэмкі суботы!",
+          "vod": {
+            "gone": false,
+            "id": "2922355868",
+            "seen_at": "2026-11-07T22:08:09Z",
+            "url": "https://www.twitch.tv/videos/2922355868"
+          }
+        },
+        {
           "duration_min": 140,
           "ended_at": "2026-11-06T21:17:09Z",
           "game": "Art",
@@ -3366,44 +3381,29 @@
             "seen_at": "2026-10-19T20:09:30Z",
             "url": "https://www.twitch.tv/videos/2905223754"
           }
-        },
-        {
-          "duration_min": 132,
-          "ended_at": "2026-10-18T20:02:34Z",
-          "game": "Thief: Deadly Shadows",
-          "source": "vod",
-          "started_at": "2026-10-18T17:50:43Z",
-          "stream_id": "317088179158",
-          "title": "Калыханка прывідаў",
-          "vod": {
-            "gone": false,
-            "id": "2904379839",
-            "seen_at": "2026-10-18T20:04:07Z",
-            "url": "https://www.twitch.tv/videos/2904379839"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 140,
-        "ended_at": "2026-11-06T21:17:09Z",
-        "game": "Art",
+        "duration_min": 201,
+        "ended_at": "2026-11-07T22:06:22Z",
+        "game": "Games + Demos",
         "source": "vod",
-        "started_at": "2026-11-06T18:57:36Z",
-        "stream_id": "317177508949",
-        "title": "Пятнішныя вуліцы",
+        "started_at": "2026-11-07T18:45:20Z",
+        "stream_id": "319309995750",
+        "title": "Дэмкі суботы!",
         "vod": {
           "gone": false,
-          "id": "2921351460",
-          "seen_at": "2026-11-06T21:18:49Z",
-          "url": "https://www.twitch.tv/videos/2921351460"
+          "id": "2922355868",
+          "seen_at": "2026-11-07T22:08:09Z",
+          "url": "https://www.twitch.tv/videos/2922355868"
         }
       },
       "live": {
-        "game": "Games + Demos",
-        "since": "2026-11-07T18:45:20Z",
-        "stream_id": "319309995750",
-        "title": "Дэмкі суботы!",
-        "viewers": 11
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4284,7 +4284,7 @@
         "since": "2026-11-07T17:17:11Z",
         "stream_id": "317219291734",
         "title": "Ну такі будуем від Іринка подруга",
-        "viewers": 10
+        "viewers": 20
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5129,5 +5129,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-07T21:59:10Z"
+  "updated_at": "2026-11-07T22:08:07Z"
 }
