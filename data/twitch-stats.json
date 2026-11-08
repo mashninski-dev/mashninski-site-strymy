@@ -486,20 +486,7 @@
           "2026-11-01": 57
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Total War: WARHAMMER III",
-            "sec": 12970
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,931,3600,3600,3600,1239],
-        "last_seen_at": "2026-11-08T20:20:39Z",
-        "started_at": "2026-11-08T16:44:29Z",
-        "stream_id": "319322407398",
-        "viewer_sec": 42387,
-        "viewers": 4
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -543,21 +530,34 @@
               "minutes": 180
             },
             "Total War: WARHAMMER III": {
-              "launches": 1,
-              "minutes": 245
+              "launches": 2,
+              "minutes": 469
             },
             "Tropico 6": {
               "launches": 1,
               "minutes": 180
             }
           },
-          "hours": [65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,120,179,149],
-          "launches": 3,
-          "minutes": 605,
-          "viewer_minutes": 1330
+          "hours": [65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,151,180,239,177],
+          "launches": 4,
+          "minutes": 829,
+          "viewer_minutes": 2068
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Total War: WARHAMMER III",
+              "minutes": 224
+            }
+          ],
+          "ended_at": "2026-11-08T20:28:24Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,60,60,60,28],
+          "started_at": "2026-11-08T16:44:29Z",
+          "viewer_minutes": 738,
+          "viewers_last": 4
+        },
         {
           "categories": [
             {
@@ -2816,15 +2816,15 @@
         "categories": [
           {
             "game": "Crimson Desert",
-            "sec": 15933
+            "sec": 16493
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,294,3600,3600,3600,3600,1239],
-        "last_seen_at": "2026-11-08T20:20:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,294,3600,3600,3600,3600,1799],
+        "last_seen_at": "2026-11-08T20:29:59Z",
         "started_at": "2026-11-08T15:55:06Z",
         "stream_id": "319253339621",
-        "viewer_sec": 112516,
-        "viewers": 7
+        "viewer_sec": 116156,
+        "viewers": 6
       },
       "monthly": {
         "2026-10": {
@@ -3356,15 +3356,15 @@
         "categories": [
           {
             "game": "Games + Demos",
-            "sec": 5540
+            "sec": 6100
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,701,3600,1239],
-        "last_seen_at": "2026-11-08T20:20:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,701,3600,1799],
+        "last_seen_at": "2026-11-08T20:29:59Z",
         "started_at": "2026-11-08T18:48:19Z",
         "stream_id": "317192869333",
-        "viewer_sec": 35512,
-        "viewers": 8
+        "viewer_sec": 40272,
+        "viewers": 9
       },
       "monthly": {
         "2026-10": {
@@ -3824,14 +3824,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 151078
+            "sec": 151638
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,5839,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,4839],
-        "last_seen_at": "2026-11-08T20:20:39Z",
+        "hours_sec": [3600,3600,3600,3600,3600,5839,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,5399],
+        "last_seen_at": "2026-11-08T20:29:59Z",
         "started_at": "2026-11-07T02:22:41Z",
         "stream_id": "319299814886",
-        "viewer_sec": 171542,
+        "viewer_sec": 172102,
         "viewers": 1
       },
       "monthly": {
@@ -4460,15 +4460,15 @@
         "categories": [
           {
             "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 7169
+            "sec": 7729
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2330,3600,1239],
-        "last_seen_at": "2026-11-08T20:20:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2330,3600,1799],
+        "last_seen_at": "2026-11-08T20:29:59Z",
         "started_at": "2026-11-08T18:21:10Z",
         "stream_id": "319324049638",
-        "viewer_sec": 57146,
-        "viewers": 8
+        "viewer_sec": 63306,
+        "viewers": 14
       },
       "monthly": {
         "2026-10": {
@@ -5709,8 +5709,8 @@
     },
     "watafakablr": {
       "followers": {
-        "changed_at": "2026-11-06T17:50:40Z",
-        "count": 476,
+        "changed_at": "2026-11-08T20:29:59Z",
+        "count": 477,
         "daily": {
           "2026-10-22": 471,
           "2026-10-23": 472,
@@ -6137,6 +6137,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-08T20:20:39Z",
+  "updated_at": "2026-11-08T20:29:59Z",
   "viewers_since": "2026-11-02"
 }

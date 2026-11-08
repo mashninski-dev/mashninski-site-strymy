@@ -338,6 +338,21 @@
       "display_name": "annigilatormg42",
       "history": [
         {
+          "duration_min": 224,
+          "ended_at": "2026-11-08T20:28:24Z",
+          "game": "Total War: WARHAMMER III",
+          "source": "vod",
+          "started_at": "2026-11-08T16:44:29Z",
+          "stream_id": "319322407398",
+          "title": "Дапамагаем нашай Прыгажуне, перажыць Пацучыную лавіну)",
+          "vod": {
+            "gone": false,
+            "id": "2923259649",
+            "seen_at": "2026-11-08T20:30:00Z",
+            "url": "https://www.twitch.tv/videos/2923259649"
+          }
+        },
+        {
           "duration_min": 180,
           "ended_at": "2026-11-07T20:29:01Z",
           "game": "Empire: Total War",
@@ -621,44 +636,29 @@
             "seen_at": "2026-10-04T11:06:01Z",
             "url": "https://www.twitch.tv/videos/2885557185"
           }
-        },
-        {
-          "duration_min": 267,
-          "ended_at": "2026-09-26T22:09:59Z",
-          "game": "Empire: Total War",
-          "source": "vod",
-          "started_at": "2026-09-26T17:43:12Z",
-          "stream_id": "318591116391",
-          "title": "Працягваем даследваць Свет глядзя на яго вачыма гішпанскіх канкістадораў)",
-          "vod": {
-            "gone": false,
-            "id": "2884712647",
-            "seen_at": "2026-10-04T11:06:01Z",
-            "url": "https://www.twitch.tv/videos/2884712647"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 180,
-        "ended_at": "2026-11-07T20:29:01Z",
-        "game": "Empire: Total War",
+        "duration_min": 224,
+        "ended_at": "2026-11-08T20:28:24Z",
+        "game": "Total War: WARHAMMER III",
         "source": "vod",
-        "started_at": "2026-11-07T17:29:22Z",
-        "stream_id": "319122894055",
-        "title": "Спрабуем збудаваць ЗША)",
+        "started_at": "2026-11-08T16:44:29Z",
+        "stream_id": "319322407398",
+        "title": "Дапамагаем нашай Прыгажуне, перажыць Пацучыную лавіну)",
         "vod": {
           "gone": false,
-          "id": "2922284984",
-          "seen_at": "2026-11-07T20:30:38Z",
-          "url": "https://www.twitch.tv/videos/2922284984"
+          "id": "2923259649",
+          "seen_at": "2026-11-08T20:30:00Z",
+          "url": "https://www.twitch.tv/videos/2923259649"
         }
       },
       "live": {
-        "game": "Total War: WARHAMMER III",
-        "since": "2026-11-08T16:44:29Z",
-        "stream_id": "319322407398",
-        "title": "Дапамагаем нашай Прыгажуне, перажыць Пацучыную лавіну)",
-        "viewers": 4
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6f85ccf-8f12-43f4-90e3-1e1cf95ab956-profile_image-300x300.jpeg",
@@ -2922,7 +2922,7 @@
         "since": "2026-11-08T15:55:06Z",
         "stream_id": "319253339621",
         "title": "[BLR] Нядзельны трыял. Баграная пустэча. 5 гадзін",
-        "viewers": 7
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3403,7 +3403,7 @@
         "since": "2026-11-08T18:48:19Z",
         "stream_id": "317192869333",
         "title": "Дэмкі нядзельныя",
-        "viewers": 8
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4289,7 +4289,7 @@
         "since": "2026-11-08T18:21:10Z",
         "stream_id": "319324049638",
         "title": "Аксенфурт і ваколіцы (бел. лакалізацыя) від Іринка подруга",
-        "viewers": 8
+        "viewers": 14
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5134,5 +5134,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-08T20:20:39Z"
+  "updated_at": "2026-11-08T20:29:59Z"
 }
