@@ -1601,11 +1601,11 @@
         "categories": [
           {
             "game": "CONTROL Resonant",
-            "sec": 611
+            "sec": 780
           }
         ],
-        "hours_sec": [0,0,0,0,611,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-08T01:12:17Z",
+        "hours_sec": [0,0,0,0,780,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-08T01:15:06Z",
         "started_at": "2026-11-08T01:02:06Z",
         "stream_id": "318562891608",
         "viewer_sec": 0,
@@ -3854,14 +3854,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 82176
+            "sec": 82345
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,737,2239,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-08T01:12:17Z",
+        "hours_sec": [3600,3600,3600,3600,906,2239,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-08T01:15:06Z",
         "started_at": "2026-11-07T02:22:41Z",
         "stream_id": "319299814886",
-        "viewer_sec": 98140,
+        "viewer_sec": 98309,
         "viewers": 1
       },
       "monthly": {
@@ -4497,28 +4497,7 @@
           "2026-11-01": 1019
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "PAYDAY 2",
-            "sec": 4407
-          },
-          {
-            "game": "Valheim",
-            "sec": 14403
-          },
-          {
-            "game": "R.E.P.O.",
-            "sec": 9696
-          }
-        ],
-        "hours_sec": [3600,3600,3600,3600,737,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2569,3600,3600,3600],
-        "last_seen_at": "2026-11-08T01:12:17Z",
-        "started_at": "2026-11-07T17:17:11Z",
-        "stream_id": "317219291734",
-        "viewer_sec": 385328,
-        "viewers": 11
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -4613,9 +4592,13 @@
               "launches": 1,
               "minutes": 456
             },
-            "R.E.P.O.": {
+            "PAYDAY 2": {
               "launches": 1,
-              "minutes": 197
+              "minutes": 73
+            },
+            "R.E.P.O.": {
+              "launches": 2,
+              "minutes": 359
             },
             "Species: Unknown": {
               "launches": 1,
@@ -4626,17 +4609,38 @@
               "minutes": 1290
             },
             "Valheim": {
-              "launches": 1,
-              "minutes": 10
+              "launches": 2,
+              "minutes": 250
             }
           },
-          "hours": [300,300,300,300,248,107,7,0,0,0,0,0,0,0,0,0,0,0,0,0,69,197,300,300],
-          "launches": 5,
-          "minutes": 2429,
-          "viewer_minutes": 22457
+          "hours": [360,360,360,360,261,107,7,0,0,0,0,0,0,0,0,0,0,0,0,0,112,257,360,360],
+          "launches": 6,
+          "minutes": 2905,
+          "viewer_minutes": 28891
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "PAYDAY 2",
+              "minutes": 73
+            },
+            {
+              "game": "Valheim",
+              "minutes": 240
+            },
+            {
+              "game": "R.E.P.O.",
+              "minutes": 162
+            }
+          ],
+          "ended_at": "2026-11-08T01:13:21Z",
+          "hours": [60,60,60,60,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,60,60,60],
+          "started_at": "2026-11-07T17:17:11Z",
+          "viewer_minutes": 6434,
+          "viewers_last": 11
+        },
         {
           "categories": [
             {
@@ -6177,6 +6181,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-08T01:12:17Z",
+  "updated_at": "2026-11-08T01:15:06Z",
   "viewers_since": "2026-11-02"
 }

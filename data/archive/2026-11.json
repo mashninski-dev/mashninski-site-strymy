@@ -764,9 +764,13 @@
           "launches": 1,
           "minutes": 456
         },
-        "R.E.P.O.": {
+        "PAYDAY 2": {
           "launches": 1,
-          "minutes": 197
+          "minutes": 73
+        },
+        "R.E.P.O.": {
+          "launches": 2,
+          "minutes": 359
         },
         "Species: Unknown": {
           "launches": 1,
@@ -777,16 +781,16 @@
           "minutes": 1290
         },
         "Valheim": {
-          "launches": 1,
-          "minutes": 10
+          "launches": 2,
+          "minutes": 250
         }
       },
       "display_name": "ShagraeL_BY",
       "followers_end": null,
       "followers_start": 1019,
-      "hours": [300,300,300,300,248,107,7,0,0,0,0,0,0,0,0,0,0,0,0,0,69,197,300,300],
-      "launches": 5,
-      "minutes": 2429,
+      "hours": [360,360,360,360,261,107,7,0,0,0,0,0,0,0,0,0,0,0,0,0,112,257,360,360],
+      "launches": 6,
+      "minutes": 2905,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-11-01T02:02:08Z",
       "sessions": [
@@ -818,9 +822,15 @@
           "ended_at": "2026-11-07T01:08:27Z",
           "started_at": "2026-11-06T17:32:57Z",
           "viewer_minutes": 4518
+        },
+        {
+          "duration_min": 476,
+          "ended_at": "2026-11-08T01:13:21Z",
+          "started_at": "2026-11-07T17:17:11Z",
+          "viewer_minutes": 6434
         }
       ],
-      "viewer_minutes": 22457
+      "viewer_minutes": 28891
     },
     "sla5her_by": {
       "added_at": "2026-10-08",
@@ -998,5 +1008,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-07T22:08:07Z"
+  "updated_at": "2026-11-08T01:15:06Z"
 }
