@@ -512,6 +512,10 @@
     "mihas_gareza": {
       "added_at": "2026-09-11",
       "categories": {
+        "Crimson Desert": {
+          "launches": 1,
+          "minutes": 311
+        },
         "Grand Theft Auto V": {
           "launches": 2,
           "minutes": 343
@@ -532,9 +536,9 @@
       "display_name": "Mihas_Gareza",
       "followers_end": null,
       "followers_start": 201,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,251,258,185],
-      "launches": 5,
-      "minutes": 697,
+      "hours": [6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,64,311,318,245],
+      "launches": 6,
+      "minutes": 1008,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-29T21:31:30Z",
       "sessions": [
@@ -566,9 +570,15 @@
           "ended_at": "2026-11-06T20:55:53Z",
           "started_at": "2026-11-06T18:12:24Z",
           "viewer_minutes": 755
+        },
+        {
+          "duration_min": 311,
+          "ended_at": "2026-11-08T21:06:27Z",
+          "started_at": "2026-11-08T15:55:06Z",
+          "viewer_minutes": 2154
         }
       ],
-      "viewer_minutes": 3116
+      "viewer_minutes": 5270
     },
     "ms_bahiema": {
       "added_at": "2026-09-11",
@@ -1040,5 +1050,5 @@
       "viewer_minutes": 2247
     }
   },
-  "updated_at": "2026-11-08T20:29:59Z"
+  "updated_at": "2026-11-08T21:08:01Z"
 }

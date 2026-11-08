@@ -2602,6 +2602,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 311,
+          "ended_at": "2026-11-08T21:06:27Z",
+          "game": "Crimson Desert",
+          "source": "vod",
+          "started_at": "2026-11-08T15:55:06Z",
+          "stream_id": "319253339621",
+          "title": "[BLR] Нядзельны трыял. Баграная пустэча. 5 гадзін",
+          "vod": {
+            "gone": false,
+            "id": "2923218885",
+            "seen_at": "2026-11-08T21:08:02Z",
+            "url": "https://www.twitch.tv/videos/2923218885"
+          }
+        },
+        {
           "duration_min": 163,
           "ended_at": "2026-11-06T20:55:53Z",
           "game": "Grand Theft Auto V",
@@ -2885,44 +2900,29 @@
             "seen_at": "2026-10-13T20:06:52Z",
             "url": "https://www.twitch.tv/videos/2899871558"
           }
-        },
-        {
-          "duration_min": 219,
-          "ended_at": "2026-10-12T21:39:47Z",
-          "game": "Grand Theft Auto V",
-          "source": "vod",
-          "started_at": "2026-10-12T18:01:02Z",
-          "stream_id": "317050954838",
-          "title": "[BLR] Рыхтуемся да GTA VI. Сёння финал?",
-          "vod": {
-            "gone": false,
-            "id": "2898989907",
-            "seen_at": "2026-10-12T21:41:22Z",
-            "url": "https://www.twitch.tv/videos/2898989907"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 163,
-        "ended_at": "2026-11-06T20:55:53Z",
-        "game": "Grand Theft Auto V",
+        "duration_min": 311,
+        "ended_at": "2026-11-08T21:06:27Z",
+        "game": "Crimson Desert",
         "source": "vod",
-        "started_at": "2026-11-06T18:12:24Z",
-        "stream_id": "319228343269",
-        "title": "[BLR] Пятнічны стрым. Рыхтуемся да GTA VI. Унікальныя скокі",
+        "started_at": "2026-11-08T15:55:06Z",
+        "stream_id": "319253339621",
+        "title": "[BLR] Нядзельны трыял. Баграная пустэча. 5 гадзін",
         "vod": {
           "gone": false,
-          "id": "2921313758",
-          "seen_at": "2026-11-06T20:57:34Z",
-          "url": "https://www.twitch.tv/videos/2921313758"
+          "id": "2923218885",
+          "seen_at": "2026-11-08T21:08:02Z",
+          "url": "https://www.twitch.tv/videos/2923218885"
         }
       },
       "live": {
-        "game": "Crimson Desert",
-        "since": "2026-11-08T15:55:06Z",
-        "stream_id": "319253339621",
-        "title": "[BLR] Нядзельны трыял. Баграная пустэча. 5 гадзін",
-        "viewers": 5
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3403,7 +3403,7 @@
         "since": "2026-11-08T18:48:19Z",
         "stream_id": "317192869333",
         "title": "Дэмкі нядзельныя",
-        "viewers": 6
+        "viewers": 5
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -5134,5 +5134,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-08T21:00:39Z"
+  "updated_at": "2026-11-08T21:08:01Z"
 }
