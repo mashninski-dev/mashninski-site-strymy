@@ -2337,15 +2337,15 @@
         "categories": [
           {
             "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 1472
+            "sec": 1729
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,777,695,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-09T13:11:35Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,777,952,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-09T13:15:52Z",
         "started_at": "2026-11-09T12:47:03Z",
         "stream_id": "319145949543",
-        "viewer_sec": 8868,
-        "viewers": 7
+        "viewer_sec": 12723,
+        "viewers": 23
       },
       "monthly": {
         "2026-10": {
@@ -3808,14 +3808,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 38923
+            "sec": 39180
           }
         ],
-        "hours_sec": [0,0,0,0,0,2228,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,695,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-09T13:11:35Z",
+        "hours_sec": [0,0,0,0,0,2228,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,952,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-09T13:15:52Z",
         "started_at": "2026-11-09T02:22:52Z",
         "stream_id": "319328236646",
-        "viewer_sec": 38314,
+        "viewer_sec": 38571,
         "viewers": 1
       },
       "monthly": {
@@ -5183,43 +5183,43 @@
           "2026-11-01": 117
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Just Chatting",
-            "sec": 2285
-          },
-          {
-            "game": "Dishonored",
-            "sec": 8454
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,2844,3600,3600,695,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-09T13:11:35Z",
-        "started_at": "2026-11-09T10:12:36Z",
-        "stream_id": "317195656021",
-        "viewer_sec": 52021,
-        "viewers": 6
-      },
+      "in_progress": null,
       "monthly": {
         "2026-11": {
           "categories": {
             "Dishonored": {
-              "launches": 1,
-              "minutes": 366
+              "launches": 2,
+              "minutes": 511
             },
             "Just Chatting": {
-              "launches": 1,
-              "minutes": 3
+              "launches": 2,
+              "minutes": 41
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,5,60,60,60,60,60,60,4,0,0,0,0,0],
-          "launches": 1,
-          "minutes": 369,
-          "viewer_minutes": 5414
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,5,60,107,120,120,76,60,4,0,0,0,0,0],
+          "launches": 2,
+          "minutes": 552,
+          "viewer_minutes": 6307
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 38
+            },
+            {
+              "game": "Dishonored",
+              "minutes": 145
+            }
+          ],
+          "ended_at": "2026-11-09T13:15:52Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,47,60,60,16,0,0,0,0,0,0,0],
+          "started_at": "2026-11-09T10:12:36Z",
+          "viewer_minutes": 893,
+          "viewers_last": 6
+        },
         {
           "categories": [
             {
@@ -6125,6 +6125,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-09T13:11:35Z",
+  "updated_at": "2026-11-09T13:15:52Z",
   "viewers_since": "2026-11-02"
 }
