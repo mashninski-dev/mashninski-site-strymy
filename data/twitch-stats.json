@@ -46,6 +46,31 @@
       ],
       "started_at": "2026-10-29T18:03:32Z"
     },
+    "76656faa-2b41-4f93-9527-644593a17664": {
+      "ended_at": null,
+      "games": [
+        "How to Fish"
+      ],
+      "host_id": "890636706",
+      "participants": [
+        {
+          "id": "890636706",
+          "login": "mihas_gareza",
+          "name": "Mihas_Gareza"
+        },
+        {
+          "id": "694310267",
+          "login": "shagrael_by",
+          "name": "ShagraeL_BY"
+        },
+        {
+          "id": "837601083",
+          "login": "ucenamescy",
+          "name": "Ucenamescy"
+        }
+      ],
+      "started_at": "2026-11-09T18:19:53Z"
+    },
     "fb733b8f-df8a-43a9-8b23-acccff5b5447": {
       "ended_at": "2026-10-28T21:12:36Z",
       "games": [
@@ -2743,17 +2768,6 @@
           "ended_at": "2026-10-13T18:17:13Z",
           "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,60,60,17,0,0],
           "started_at": "2026-10-13T15:50:39Z"
-        },
-        {
-          "categories": [
-            {
-              "game": "Just Chatting",
-              "minutes": 123
-            }
-          ],
-          "ended_at": "2026-10-09T18:22:45Z",
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,60,23,0,0],
-          "started_at": "2026-10-09T16:19:54Z"
         }
       ]
     },
@@ -2788,7 +2802,20 @@
           "2026-11-01": 201
         }
       },
-      "in_progress": null,
+      "in_progress": {
+        "categories": [
+          {
+            "game": "How to Fish",
+            "sec": 1219
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1219,0,0],
+        "last_seen_at": "2026-11-09T18:31:27Z",
+        "started_at": "2026-11-09T18:11:08Z",
+        "stream_id": "319149646311",
+        "viewer_sec": 1219,
+        "viewers": 1
+      },
       "monthly": {
         "2026-10": {
           "categories": {
@@ -3786,15 +3813,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 56686
+            "sec": 58115
           }
         ],
-        "hours_sec": [0,0,0,0,0,2228,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,458,0,0],
-        "last_seen_at": "2026-11-09T18:07:38Z",
+        "hours_sec": [0,0,0,0,0,2228,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,1887,0,0],
+        "last_seen_at": "2026-11-09T18:31:27Z",
         "started_at": "2026-11-09T02:22:52Z",
         "stream_id": "319328236646",
-        "viewer_sec": 56674,
-        "viewers": 1
+        "viewer_sec": 58817,
+        "viewers": 2
       },
       "monthly": {
         "2026-10": {
@@ -4439,15 +4466,15 @@
         "categories": [
           {
             "game": "How to Fish",
-            "sec": 31
+            "sec": 1460
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0],
-        "last_seen_at": "2026-11-09T18:07:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1460,0,0],
+        "last_seen_at": "2026-11-09T18:31:27Z",
         "started_at": "2026-11-09T18:07:07Z",
         "stream_id": "319335276646",
-        "viewer_sec": 0,
-        "viewers": 0
+        "viewer_sec": 7859,
+        "viewers": 11
       },
       "monthly": {
         "2026-10": {
@@ -5343,7 +5370,20 @@
           "2026-11-01": 150
         }
       },
-      "in_progress": null,
+      "in_progress": {
+        "categories": [
+          {
+            "game": "How to Fish",
+            "sec": 637
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,637,0,0],
+        "last_seen_at": "2026-11-09T18:31:27Z",
+        "started_at": "2026-11-09T18:20:50Z",
+        "stream_id": "319266542181",
+        "viewer_sec": 5096,
+        "viewers": 8
+      },
       "monthly": {
         "2026-10": {
           "categories": {
@@ -6116,6 +6156,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-09T18:07:38Z",
+  "updated_at": "2026-11-09T18:31:27Z",
   "viewers_since": "2026-11-02"
 }
