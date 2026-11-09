@@ -47,7 +47,7 @@
       "started_at": "2026-10-29T18:03:32Z"
     },
     "76656faa-2b41-4f93-9527-644593a17664": {
-      "ended_at": null,
+      "ended_at": "2026-11-09T23:44:22Z",
       "games": [
         "How to Fish"
       ],
@@ -1615,11 +1615,11 @@
         "categories": [
           {
             "game": "Stardew Valley",
-            "sec": 462
+            "sec": 684
           }
         ],
-        "hours_sec": [0,0,462,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-09T23:40:40Z",
+        "hours_sec": [0,0,684,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-09T23:44:22Z",
         "started_at": "2026-11-09T23:32:58Z",
         "stream_id": "319855766231",
         "viewer_sec": 0,
@@ -2820,20 +2820,7 @@
           "2026-11-01": 201
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "How to Fish",
-            "sec": 19772
-          }
-        ],
-        "hours_sec": [3600,3600,2440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2932,3600,3600],
-        "last_seen_at": "2026-11-09T23:40:40Z",
-        "started_at": "2026-11-09T18:11:08Z",
-        "stream_id": "319149646311",
-        "viewer_sec": 43401,
-        "viewers": 4
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -2924,6 +2911,10 @@
               "launches": 2,
               "minutes": 343
             },
+            "How to Fish": {
+              "launches": 1,
+              "minutes": 332
+            },
             "Poppy Playtime": {
               "launches": 1,
               "minutes": 75
@@ -2937,13 +2928,26 @@
               "minutes": 152
             }
           },
-          "hours": [6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,64,311,318,245],
-          "launches": 6,
-          "minutes": 1008,
-          "viewer_minutes": 5270
+          "hours": [66,60,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,64,360,378,305],
+          "launches": 7,
+          "minutes": 1340,
+          "viewer_minutes": 6002
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "How to Fish",
+              "minutes": 332
+            }
+          ],
+          "ended_at": "2026-11-09T23:42:50Z",
+          "hours": [60,60,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,60,60],
+          "started_at": "2026-11-09T18:11:08Z",
+          "viewer_minutes": 732,
+          "viewers_last": 4
+        },
         {
           "categories": [
             {
@@ -3826,14 +3830,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 76668
+            "sec": 76890
           }
         ],
-        "hours_sec": [3600,3600,2440,0,0,2228,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-09T23:40:40Z",
+        "hours_sec": [3600,3600,2662,0,0,2228,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-09T23:44:22Z",
         "started_at": "2026-11-09T02:22:52Z",
         "stream_id": "319328236646",
-        "viewer_sec": 78222,
+        "viewer_sec": 78444,
         "viewers": 1
       },
       "monthly": {
@@ -4481,15 +4485,15 @@
         "categories": [
           {
             "game": "How to Fish",
-            "sec": 20013
+            "sec": 20235
           }
         ],
-        "hours_sec": [3600,3600,2440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3173,3600,3600],
-        "last_seen_at": "2026-11-09T23:40:40Z",
+        "hours_sec": [3600,3600,2662,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3173,3600,3600],
+        "last_seen_at": "2026-11-09T23:44:22Z",
         "started_at": "2026-11-09T18:07:07Z",
         "stream_id": "319335276646",
-        "viewer_sec": 185812,
-        "viewers": 4
+        "viewer_sec": 187588,
+        "viewers": 12
       },
       "monthly": {
         "2026-10": {
@@ -5391,20 +5395,7 @@
           "2026-11-01": 150
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "How to Fish",
-            "sec": 19190
-          }
-        ],
-        "hours_sec": [3600,3600,2440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2350,3600,3600],
-        "last_seen_at": "2026-11-09T23:40:40Z",
-        "started_at": "2026-11-09T18:20:50Z",
-        "stream_id": "319266542181",
-        "viewer_sec": 137692,
-        "viewers": 6
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -5463,6 +5454,10 @@
         },
         "2026-11": {
           "categories": {
+            "How to Fish": {
+              "launches": 1,
+              "minutes": 323
+            },
             "Just Chatting": {
               "launches": 1,
               "minutes": 192
@@ -5472,13 +5467,26 @@
               "minutes": 378
             }
           },
-          "hours": [120,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,61,120,148],
-          "launches": 3,
-          "minutes": 570,
-          "viewer_minutes": 3824
+          "hours": [180,155,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,100,180,208],
+          "launches": 4,
+          "minutes": 893,
+          "viewer_minutes": 6136
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "How to Fish",
+              "minutes": 323
+            }
+          ],
+          "ended_at": "2026-11-09T23:43:30Z",
+          "hours": [60,60,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,60,60],
+          "started_at": "2026-11-09T18:20:50Z",
+          "viewer_minutes": 2312,
+          "viewers_last": 6
+        },
         {
           "categories": [
             {
@@ -6168,6 +6176,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-09T23:40:40Z",
+  "updated_at": "2026-11-09T23:44:22Z",
   "viewers_since": "2026-11-02"
 }

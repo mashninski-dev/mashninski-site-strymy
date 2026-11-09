@@ -22,7 +22,7 @@
       "started_at": "2026-11-01T23:45:57Z"
     },
     "76656faa-2b41-4f93-9527-644593a17664": {
-      "ended_at": null,
+      "ended_at": "2026-11-09T23:44:22Z",
       "games": [
         "How to Fish"
       ],
@@ -557,6 +557,10 @@
           "launches": 2,
           "minutes": 343
         },
+        "How to Fish": {
+          "launches": 1,
+          "minutes": 332
+        },
         "Poppy Playtime": {
           "launches": 1,
           "minutes": 75
@@ -573,9 +577,9 @@
       "display_name": "Mihas_Gareza",
       "followers_end": null,
       "followers_start": 201,
-      "hours": [6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,64,311,318,245],
-      "launches": 6,
-      "minutes": 1008,
+      "hours": [66,60,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,64,360,378,305],
+      "launches": 7,
+      "minutes": 1340,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-29T21:31:30Z",
       "sessions": [
@@ -613,9 +617,15 @@
           "ended_at": "2026-11-08T21:06:27Z",
           "started_at": "2026-11-08T15:55:06Z",
           "viewer_minutes": 2154
+        },
+        {
+          "duration_min": 332,
+          "ended_at": "2026-11-09T23:42:50Z",
+          "started_at": "2026-11-09T18:11:08Z",
+          "viewer_minutes": 732
         }
       ],
-      "viewer_minutes": 5270
+      "viewer_minutes": 6002
     },
     "ms_bahiema": {
       "added_at": "2026-09-11",
@@ -1032,6 +1042,10 @@
     "ucenamescy": {
       "added_at": "2026-09-11",
       "categories": {
+        "How to Fish": {
+          "launches": 1,
+          "minutes": 323
+        },
         "Just Chatting": {
           "launches": 1,
           "minutes": 192
@@ -1044,9 +1058,9 @@
       "display_name": "Ucenamescy",
       "followers_end": null,
       "followers_start": 150,
-      "hours": [120,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,61,120,148],
-      "launches": 3,
-      "minutes": 570,
+      "hours": [180,155,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,100,180,208],
+      "launches": 4,
+      "minutes": 893,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T20:29:57Z",
       "sessions": [
@@ -1066,9 +1080,15 @@
           "ended_at": "2026-11-06T23:00:16Z",
           "started_at": "2026-11-06T20:17:56Z",
           "viewer_minutes": 1822
+        },
+        {
+          "duration_min": 323,
+          "ended_at": "2026-11-09T23:43:30Z",
+          "started_at": "2026-11-09T18:20:50Z",
+          "viewer_minutes": 2312
         }
       ],
-      "viewer_minutes": 3824
+      "viewer_minutes": 6136
     },
     "ulaadzik": {
       "added_at": "2026-09-11",
@@ -1123,5 +1143,5 @@
       "viewer_minutes": 2247
     }
   },
-  "updated_at": "2026-11-09T21:02:39Z"
+  "updated_at": "2026-11-09T23:44:22Z"
 }
