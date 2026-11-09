@@ -935,7 +935,7 @@
       "categories": {
         "Dishonored": {
           "launches": 2,
-          "minutes": 511
+          "minutes": 510
         },
         "Just Chatting": {
           "launches": 2,
@@ -945,9 +945,9 @@
       "display_name": "thelelyskek",
       "followers_end": null,
       "followers_start": 117,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,5,60,107,120,120,76,60,4,0,0,0,0,0],
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,5,60,107,120,120,74,60,4,0,0,0,0,0],
       "launches": 2,
-      "minutes": 552,
+      "minutes": 551,
       "prev_broadcast_at": null,
       "prev_ended_at": null,
       "sessions": [
@@ -958,13 +958,13 @@
           "viewer_minutes": 5414
         },
         {
-          "duration_min": 183,
-          "ended_at": "2026-11-09T13:15:52Z",
+          "duration_min": 182,
+          "ended_at": "2026-11-09T13:14:12Z",
           "started_at": "2026-11-09T10:12:36Z",
-          "viewer_minutes": 893
+          "viewer_minutes": 883
         }
       ],
-      "viewer_minutes": 6307
+      "viewer_minutes": 6297
     },
     "toddzie": {
       "added_at": "2026-09-11",
@@ -1086,5 +1086,5 @@
       "viewer_minutes": 2247
     }
   },
-  "updated_at": "2026-11-09T13:15:52Z"
+  "updated_at": "2026-11-09T13:40:48Z"
 }

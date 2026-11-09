@@ -2590,7 +2590,7 @@
         "since": "2026-11-09T12:47:03Z",
         "stream_id": "319145949543",
         "title": "Усё бліжэй да Навіграду",
-        "viewers": 21
+        "viewers": 20
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -4396,14 +4396,19 @@
       "display_name": "thelelyskek",
       "history": [
         {
-          "duration_min": 183,
-          "ended_at": "2026-11-09T13:15:52Z",
+          "duration_min": 182,
+          "ended_at": "2026-11-09T13:14:12Z",
           "game": "Dishonored",
-          "source": "observed",
+          "source": "vod",
           "started_at": "2026-11-09T10:12:36Z",
           "stream_id": "317195656021",
           "title": "[BEL/ENG] Такога не было крыху меней трох дзён і вось...",
-          "vod": null
+          "vod": {
+            "gone": false,
+            "id": "2923929844",
+            "seen_at": "2026-11-09T13:40:49Z",
+            "url": "https://www.twitch.tv/videos/2923929844"
+          }
         },
         {
           "duration_min": 369,
@@ -4422,14 +4427,19 @@
         }
       ],
       "last_stream": {
-        "duration_min": 183,
-        "ended_at": "2026-11-09T13:15:52Z",
+        "duration_min": 182,
+        "ended_at": "2026-11-09T13:14:12Z",
         "game": "Dishonored",
-        "source": "observed",
+        "source": "vod",
         "started_at": "2026-11-09T10:12:36Z",
         "stream_id": "317195656021",
         "title": "[BEL/ENG] Такога не было крыху меней трох дзён і вось...",
-        "vod": null
+        "vod": {
+          "gone": false,
+          "id": "2923929844",
+          "seen_at": "2026-11-09T13:40:49Z",
+          "url": "https://www.twitch.tv/videos/2923929844"
+        }
       },
       "live": {
         "game": null,
@@ -5139,5 +5149,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-09T13:30:49Z"
+  "updated_at": "2026-11-09T13:40:48Z"
 }
