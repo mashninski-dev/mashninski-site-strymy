@@ -2922,7 +2922,7 @@
         "since": "2026-11-09T18:11:08Z",
         "stream_id": "319149646311",
         "title": "[BLR] Каапны панядзелак. Ловім рыбу разам.",
-        "viewers": 2
+        "viewers": 5
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3082,6 +3082,21 @@
       "description": "За творчасць без ші-гаўна. Штодзённыя мастацкія стрымы (па выхадных - гульні)",
       "display_name": "Nine_Ravens_Cemetery",
       "history": [
+        {
+          "duration_min": 124,
+          "ended_at": "2026-11-09T21:00:49Z",
+          "game": "Art",
+          "source": "vod",
+          "started_at": "2026-11-09T18:56:29Z",
+          "stream_id": "319267094885",
+          "title": "Мышынае вар'яцтва",
+          "vod": {
+            "gone": false,
+            "id": "2924237396",
+            "seen_at": "2026-11-09T21:02:40Z",
+            "url": "https://www.twitch.tv/videos/2924237396"
+          }
+        },
         {
           "duration_min": 172,
           "ended_at": "2026-11-08T21:40:19Z",
@@ -3366,44 +3381,29 @@
             "seen_at": "2026-10-21T20:43:53Z",
             "url": "https://www.twitch.tv/videos/2906941626"
           }
-        },
-        {
-          "duration_min": 130,
-          "ended_at": "2026-10-20T20:09:21Z",
-          "game": "Art",
-          "source": "vod",
-          "started_at": "2026-10-20T17:59:46Z",
-          "stream_id": "318883737319",
-          "title": "Найжудаснейшы павук",
-          "vod": {
-            "gone": false,
-            "id": "2906080856",
-            "seen_at": "2026-10-20T20:11:00Z",
-            "url": "https://www.twitch.tv/videos/2906080856"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 172,
-        "ended_at": "2026-11-08T21:40:19Z",
-        "game": "Games + Demos",
+        "duration_min": 124,
+        "ended_at": "2026-11-09T21:00:49Z",
+        "game": "Art",
         "source": "vod",
-        "started_at": "2026-11-08T18:48:19Z",
-        "stream_id": "317192869333",
-        "title": "Дэмкі нядзельныя",
+        "started_at": "2026-11-09T18:56:29Z",
+        "stream_id": "319267094885",
+        "title": "Мышынае вар'яцтва",
         "vod": {
           "gone": false,
-          "id": "2923370794",
-          "seen_at": "2026-11-08T21:40:39Z",
-          "url": "https://www.twitch.tv/videos/2923370794"
+          "id": "2924237396",
+          "seen_at": "2026-11-09T21:02:40Z",
+          "url": "https://www.twitch.tv/videos/2924237396"
         }
       },
       "live": {
-        "game": "Art",
-        "since": "2026-11-09T18:56:29Z",
-        "stream_id": "319267094885",
-        "title": "Мышынае вар'яцтва",
-        "viewers": 10
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4289,7 +4289,7 @@
         "since": "2026-11-09T18:07:07Z",
         "stream_id": "319335276646",
         "title": "Рыбка, а рыбка? ТРА-ТА-ТА-ТА! від Іринка подруга",
-        "viewers": 15
+        "viewers": 13
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4857,7 +4857,7 @@
         "since": "2026-11-09T18:20:50Z",
         "stream_id": "319266542181",
         "title": "ХанцІм Карасікаў ◉ How to Fish",
-        "viewers": 6
+        "viewers": 5
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5159,5 +5159,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-09T21:00:40Z"
+  "updated_at": "2026-11-09T21:02:39Z"
 }
