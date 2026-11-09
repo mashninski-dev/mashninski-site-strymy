@@ -2333,20 +2333,7 @@
           "2026-11-01": 176
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 9815
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,777,3600,3600,1838,0,0,0,0,0],
-        "last_seen_at": "2026-11-09T15:30:38Z",
-        "started_at": "2026-11-09T12:47:03Z",
-        "stream_id": "319145949543",
-        "viewer_sec": 157320,
-        "viewers": 19
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -2430,17 +2417,30 @@
               "minutes": 80
             },
             "The Witcher 3: Wild Hunt Remastered": {
-              "launches": 2,
-              "minutes": 309
+              "launches": 3,
+              "minutes": 481
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,54,96,260,378,258,79,37,60,60,60,10],
-          "launches": 9,
-          "minutes": 1354,
-          "viewer_minutes": 13390
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,54,96,273,438,318,118,37,60,60,60,10],
+          "launches": 10,
+          "minutes": 1526,
+          "viewer_minutes": 16179
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 172
+            }
+          ],
+          "ended_at": "2026-11-09T15:39:23Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,60,60,39,0,0,0,0,0],
+          "started_at": "2026-11-09T12:47:03Z",
+          "viewer_minutes": 2789,
+          "viewers_last": 19
+        },
         {
           "categories": [
             {
@@ -3808,14 +3808,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 47266
+            "sec": 47887
           }
         ],
-        "hours_sec": [0,0,0,0,0,2228,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,1838,0,0,0,0,0],
-        "last_seen_at": "2026-11-09T15:30:38Z",
+        "hours_sec": [0,0,0,0,0,2228,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,2459,0,0,0,0,0],
+        "last_seen_at": "2026-11-09T15:40:59Z",
         "started_at": "2026-11-09T02:22:52Z",
         "stream_id": "319328236646",
-        "viewer_sec": 46657,
+        "viewer_sec": 47278,
         "viewers": 1
       },
       "monthly": {
@@ -6125,6 +6125,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-09T15:30:38Z",
+  "updated_at": "2026-11-09T15:40:59Z",
   "viewers_since": "2026-11-02"
 }

@@ -2270,6 +2270,21 @@
       "display_name": "mashninski",
       "history": [
         {
+          "duration_min": 172,
+          "ended_at": "2026-11-09T15:39:23Z",
+          "game": "The Witcher 3: Wild Hunt Remastered",
+          "source": "vod",
+          "started_at": "2026-11-09T12:47:03Z",
+          "stream_id": "319145949543",
+          "title": "Усё бліжэй да Навіграду",
+          "vod": {
+            "gone": false,
+            "id": "2923992355",
+            "seen_at": "2026-11-09T15:41:00Z",
+            "url": "https://www.twitch.tv/videos/2923992355"
+          }
+        },
+        {
           "duration_min": 192,
           "ended_at": "2026-11-07T13:18:29Z",
           "game": "The Witcher 3: Wild Hunt Remastered",
@@ -2553,44 +2568,29 @@
             "seen_at": "2026-10-20T18:30:55Z",
             "url": "https://www.twitch.tv/videos/2905961466"
           }
-        },
-        {
-          "duration_min": 252,
-          "ended_at": "2026-10-19T21:09:37Z",
-          "game": "RV There Yet?",
-          "source": "vod",
-          "started_at": "2026-10-19T16:57:17Z",
-          "stream_id": "318870665063",
-          "title": "Каапнемся?",
-          "vod": {
-            "gone": false,
-            "id": "2905172298",
-            "seen_at": "2026-10-19T21:11:08Z",
-            "url": "https://www.twitch.tv/videos/2905172298"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 192,
-        "ended_at": "2026-11-07T13:18:29Z",
+        "duration_min": 172,
+        "ended_at": "2026-11-09T15:39:23Z",
         "game": "The Witcher 3: Wild Hunt Remastered",
         "source": "vod",
-        "started_at": "2026-11-07T10:06:29Z",
-        "stream_id": "319116938983",
-        "title": "Пакутую ад алергіі, прабачце",
+        "started_at": "2026-11-09T12:47:03Z",
+        "stream_id": "319145949543",
+        "title": "Усё бліжэй да Навіграду",
         "vod": {
           "gone": false,
-          "id": "2921986112",
-          "seen_at": "2026-11-07T13:19:59Z",
-          "url": "https://www.twitch.tv/videos/2921986112"
+          "id": "2923992355",
+          "seen_at": "2026-11-09T15:41:00Z",
+          "url": "https://www.twitch.tv/videos/2923992355"
         }
       },
       "live": {
-        "game": "The Witcher 3: Wild Hunt Remastered",
-        "since": "2026-11-09T12:47:03Z",
-        "stream_id": "319145949543",
-        "title": "Усё бліжэй да Навіграду",
-        "viewers": 19
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -5149,5 +5149,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-09T15:30:38Z"
+  "updated_at": "2026-11-09T15:40:59Z"
 }
