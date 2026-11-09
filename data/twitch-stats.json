@@ -103,15 +103,15 @@
         "categories": [
           {
             "game": "CONTROL Resonant",
-            "sec": 2240
+            "sec": 2842
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2240,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-09T09:50:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2801,41,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-09T10:00:41Z",
         "started_at": "2026-11-09T09:13:19Z",
         "stream_id": "317231083222",
-        "viewer_sec": 23859,
-        "viewers": 14
+        "viewer_sec": 31986,
+        "viewers": 13
       },
       "monthly": {
         "2026-10": {
@@ -3817,14 +3817,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 26867
+            "sec": 27469
           }
         ],
-        "hours_sec": [0,0,0,0,0,2228,3600,3600,3600,3600,3600,3600,3039,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-09T09:50:39Z",
+        "hours_sec": [0,0,0,0,0,2228,3600,3600,3600,3600,3600,3600,3600,41,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-09T10:00:41Z",
         "started_at": "2026-11-09T02:22:52Z",
         "stream_id": "319328236646",
-        "viewer_sec": 26258,
+        "viewer_sec": 26860,
         "viewers": 1
       },
       "monthly": {
@@ -5309,19 +5309,7 @@
           "minutes": 494
         }
       },
-      "recent_sessions": [
-        {
-          "categories": [
-            {
-              "game": "The Witcher 3: Wild Hunt",
-              "minutes": 156
-            }
-          ],
-          "ended_at": "2026-10-09T09:53:48Z",
-          "hours": [0,0,0,0,0,0,0,0,0,0,42,60,54,0,0,0,0,0,0,0,0,0,0,0],
-          "started_at": "2026-10-09T07:17:50Z"
-        }
-      ]
+      "recent_sessions": []
     },
     "ucenamescy": {
       "followers": {
@@ -6127,6 +6115,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-09T09:50:39Z",
+  "updated_at": "2026-11-09T10:00:41Z",
   "viewers_since": "2026-11-02"
 }
