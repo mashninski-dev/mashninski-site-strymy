@@ -1632,20 +1632,7 @@
           "2026-11-01": 142
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Stardew Valley",
-            "sec": 214
-          }
-        ],
-        "hours_sec": [214,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-10T21:08:41Z",
-        "started_at": "2026-11-10T21:05:07Z",
-        "stream_id": "317854246647",
-        "viewer_sec": 186,
-        "viewers": 2
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -1669,17 +1656,30 @@
               "minutes": 139
             },
             "Stardew Valley": {
-              "launches": 1,
-              "minutes": 103
+              "launches": 2,
+              "minutes": 109
             }
           },
-          "hours": [0,0,27,60,74,60,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-          "launches": 2,
-          "minutes": 242,
-          "viewer_minutes": 347
+          "hours": [6,0,27,60,74,60,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "launches": 3,
+          "minutes": 248,
+          "viewer_minutes": 355
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Stardew Valley",
+              "minutes": 6
+            }
+          ],
+          "ended_at": "2026-11-10T21:11:23Z",
+          "hours": [6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-10T21:05:07Z",
+          "viewer_minutes": 8,
+          "viewers_last": 2
+        },
         {
           "categories": [
             {
@@ -2869,15 +2869,15 @@
         "categories": [
           {
             "game": "Poppy Playtime: Chapter 2 - Fly in a Web",
-            "sec": 10111
+            "sec": 10273
           }
         ],
-        "hours_sec": [521,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2390,3600,3600],
-        "last_seen_at": "2026-11-10T21:08:41Z",
+        "hours_sec": [683,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2390,3600,3600],
+        "last_seen_at": "2026-11-10T21:11:23Z",
         "started_at": "2026-11-10T18:20:10Z",
         "stream_id": "317205198805",
-        "viewer_sec": 45229,
-        "viewers": 5
+        "viewer_sec": 45877,
+        "viewers": 3
       },
       "monthly": {
         "2026-10": {
@@ -3920,14 +3920,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 153949
+            "sec": 154111
           }
         ],
-        "hours_sec": [4121,3600,3600,3600,3600,5828,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200],
-        "last_seen_at": "2026-11-10T21:08:41Z",
+        "hours_sec": [4283,3600,3600,3600,3600,5828,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200],
+        "last_seen_at": "2026-11-10T21:11:23Z",
         "started_at": "2026-11-09T02:22:52Z",
         "stream_id": "319328236646",
-        "viewer_sec": 173390,
+        "viewer_sec": 173552,
         "viewers": 1
       },
       "monthly": {
@@ -4566,15 +4566,15 @@
         "categories": [
           {
             "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 16550
+            "sec": 16712
           }
         ],
-        "hours_sec": [521,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1629,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-10T21:08:41Z",
+        "hours_sec": [683,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1629,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-10T21:11:23Z",
         "started_at": "2026-11-10T16:32:51Z",
         "stream_id": "319159487975",
-        "viewer_sec": 221602,
-        "viewers": 11
+        "viewer_sec": 223465,
+        "viewers": 12
       },
       "monthly": {
         "2026-10": {
@@ -5496,14 +5496,14 @@
         "categories": [
           {
             "game": "Silver Pines",
-            "sec": 7583
+            "sec": 7745
           }
         ],
-        "hours_sec": [521,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3462,3600],
-        "last_seen_at": "2026-11-10T21:08:41Z",
+        "hours_sec": [683,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3462,3600],
+        "last_seen_at": "2026-11-10T21:11:23Z",
         "started_at": "2026-11-10T19:02:18Z",
         "stream_id": "319278816613",
-        "viewer_sec": 45423,
+        "viewer_sec": 46881,
         "viewers": 9
       },
       "monthly": {
@@ -6255,6 +6255,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-10T21:08:41Z",
+  "updated_at": "2026-11-10T21:11:23Z",
   "viewers_since": "2026-11-02"
 }
