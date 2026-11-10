@@ -1794,7 +1794,7 @@
         "since": "2026-11-10T21:17:07Z",
         "stream_id": "318586967384",
         "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
-        "viewers": 2
+        "viewers": 1
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad2b7c75-ce68-451d-9983-b84b1dd67c16-profile_image-300x300.png",
@@ -4309,7 +4309,7 @@
         "since": "2026-11-10T16:32:51Z",
         "stream_id": "319159487975",
         "title": "Ну штось трошкі пабегаем від Іринка подруга",
-        "viewers": 11
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4556,6 +4556,21 @@
       "description": "♦️ Тэхстрымер твічоўскі. Жыццё - жураві́ны з цукрам",
       "display_name": "Ucenamescy",
       "history": [
+        {
+          "duration_min": 222,
+          "ended_at": "2026-11-10T22:44:48Z",
+          "game": "Silver Pines",
+          "source": "vod",
+          "started_at": "2026-11-10T19:02:18Z",
+          "stream_id": "319278816613",
+          "title": "Каналізацыя і Анігіляцыя ◉ Silver Pines #9",
+          "vod": {
+            "gone": false,
+            "id": "2925121501",
+            "seen_at": "2026-11-10T22:46:28Z",
+            "url": "https://www.twitch.tv/videos/2925121501"
+          }
+        },
         {
           "duration_min": 323,
           "ended_at": "2026-11-09T23:43:30Z",
@@ -4840,44 +4855,29 @@
             "seen_at": "2026-10-11T19:46:16Z",
             "url": "https://www.twitch.tv/videos/2898071715"
           }
-        },
-        {
-          "duration_min": 144,
-          "ended_at": "2026-10-08T18:41:01Z",
-          "game": "Ready or Not",
-          "source": "vod",
-          "started_at": "2026-10-08T16:16:38Z",
-          "stream_id": "318871770341",
-          "title": "Гатовыя ◉ Ready Or Not",
-          "vod": {
-            "gone": false,
-            "id": "2895236548",
-            "seen_at": "2026-10-08T18:42:31Z",
-            "url": "https://www.twitch.tv/videos/2895236548"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 323,
-        "ended_at": "2026-11-09T23:43:30Z",
-        "game": "How to Fish",
+        "duration_min": 222,
+        "ended_at": "2026-11-10T22:44:48Z",
+        "game": "Silver Pines",
         "source": "vod",
-        "started_at": "2026-11-09T18:20:50Z",
-        "stream_id": "319266542181",
-        "title": "ХанцІм Карасікаў ◉ How to Fish",
+        "started_at": "2026-11-10T19:02:18Z",
+        "stream_id": "319278816613",
+        "title": "Каналізацыя і Анігіляцыя ◉ Silver Pines #9",
         "vod": {
           "gone": false,
-          "id": "2924209210",
-          "seen_at": "2026-11-09T23:44:23Z",
-          "url": "https://www.twitch.tv/videos/2924209210"
+          "id": "2925121501",
+          "seen_at": "2026-11-10T22:46:28Z",
+          "url": "https://www.twitch.tv/videos/2925121501"
         }
       },
       "live": {
-        "game": "Silver Pines",
-        "since": "2026-11-10T19:02:18Z",
-        "stream_id": "319278816613",
-        "title": "Каналізацыя і Анігіляцыя ◉ Silver Pines #9",
-        "viewers": 10
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5189,5 +5189,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-10T22:40:40Z"
+  "updated_at": "2026-11-10T22:46:28Z"
 }
