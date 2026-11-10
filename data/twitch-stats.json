@@ -125,24 +125,7 @@
           "2026-11-01": 1302
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "CONTROL Resonant",
-            "sec": 4643
-          },
-          {
-            "game": "Games + Demos",
-            "sec": 7802
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,3404,3600,3600,1841,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-10T12:30:41Z",
-        "started_at": "2026-11-10T09:03:16Z",
-        "stream_id": "319341998694",
-        "viewer_sec": 195149,
-        "viewers": 20
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -214,25 +197,46 @@
         "2026-11": {
           "categories": {
             "CONTROL Resonant": {
-              "launches": 4,
-              "minutes": 907
+              "launches": 5,
+              "minutes": 984
             },
             "From Dust": {
               "launches": 1,
               "minutes": 232
+            },
+            "Games + Demos": {
+              "launches": 1,
+              "minutes": 137
             },
             "Metroid": {
               "launches": 1,
               "minutes": 223
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,293,360,360,341,8,0,0,0,0,0,0,0],
-          "launches": 6,
-          "minutes": 1362,
-          "viewer_minutes": 19154
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,350,420,420,378,8,0,0,0,0,0,0,0],
+          "launches": 7,
+          "minutes": 1576,
+          "viewer_minutes": 22530
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "CONTROL Resonant",
+              "minutes": 77
+            },
+            {
+              "game": "Games + Demos",
+              "minutes": 137
+            }
+          ],
+          "ended_at": "2026-11-10T12:36:52Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,57,60,60,37,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-10T09:03:16Z",
+          "viewer_minutes": 3376,
+          "viewers_last": 20
+        },
         {
           "categories": [
             {
@@ -3864,15 +3868,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 122869
+            "sec": 123344
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,5828,7200,7200,7200,7200,7200,7200,7200,7200,7200,5441,3600,3600,3600,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-10T12:30:41Z",
+        "hours_sec": [3600,3600,3600,3600,3600,5828,7200,7200,7200,7200,7200,7200,7200,7200,7200,5916,3600,3600,3600,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-10T12:38:36Z",
         "started_at": "2026-11-09T02:22:52Z",
         "stream_id": "319328236646",
-        "viewer_sec": 127424,
-        "viewers": 1
+        "viewer_sec": 131224,
+        "viewers": 15
       },
       "monthly": {
         "2026-10": {
@@ -6174,6 +6178,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-10T12:30:41Z",
+  "updated_at": "2026-11-10T12:38:36Z",
   "viewers_since": "2026-11-02"
 }
