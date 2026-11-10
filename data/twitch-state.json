@@ -2602,6 +2602,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 191,
+          "ended_at": "2026-11-10T21:30:42Z",
+          "game": "Poppy Playtime: Chapter 2 - Fly in a Web",
+          "source": "vod",
+          "started_at": "2026-11-10T18:20:10Z",
+          "stream_id": "317205198805",
+          "title": "[BLR] Інды аўторак. Хагі Вагі 2",
+          "vod": {
+            "gone": false,
+            "id": "2925086203",
+            "seen_at": "2026-11-10T21:32:18Z",
+            "url": "https://www.twitch.tv/videos/2925086203"
+          }
+        },
+        {
           "duration_min": 332,
           "ended_at": "2026-11-09T23:42:50Z",
           "game": "How to Fish",
@@ -2885,44 +2900,29 @@
             "seen_at": "2026-10-15T20:30:07Z",
             "url": "https://www.twitch.tv/videos/2901570419"
           }
-        },
-        {
-          "duration_min": 247,
-          "ended_at": "2026-10-14T21:19:59Z",
-          "game": "HELLDIVERS 2",
-          "source": "vod",
-          "started_at": "2026-10-14T17:13:15Z",
-          "stream_id": "318944792293",
-          "title": "[BLR] Каапная серада. Ватафака і ягоныя навабранцы. За дэмакратыю",
-          "vod": {
-            "gone": false,
-            "id": "2900673284",
-            "seen_at": "2026-10-14T21:21:38Z",
-            "url": "https://www.twitch.tv/videos/2900673284"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 332,
-        "ended_at": "2026-11-09T23:42:50Z",
-        "game": "How to Fish",
+        "duration_min": 191,
+        "ended_at": "2026-11-10T21:30:42Z",
+        "game": "Poppy Playtime: Chapter 2 - Fly in a Web",
         "source": "vod",
-        "started_at": "2026-11-09T18:11:08Z",
-        "stream_id": "319149646311",
-        "title": "[BLR] Каапны панядзелак. Ловім рыбу разам.",
+        "started_at": "2026-11-10T18:20:10Z",
+        "stream_id": "317205198805",
+        "title": "[BLR] Інды аўторак. Хагі Вагі 2",
         "vod": {
           "gone": false,
-          "id": "2924201594",
-          "seen_at": "2026-11-09T23:44:23Z",
-          "url": "https://www.twitch.tv/videos/2924201594"
+          "id": "2925086203",
+          "seen_at": "2026-11-10T21:32:18Z",
+          "url": "https://www.twitch.tv/videos/2925086203"
         }
       },
       "live": {
-        "game": "Poppy Playtime: Chapter 2 - Fly in a Web",
-        "since": "2026-11-10T18:20:10Z",
-        "stream_id": "317205198805",
-        "title": "[BLR] Інды аўторак. Хагі Вагі 2",
-        "viewers": 5
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4877,7 +4877,7 @@
         "since": "2026-11-10T19:02:18Z",
         "stream_id": "319278816613",
         "title": "Каналізацыя і Анігіляцыя ◉ Silver Pines #9",
-        "viewers": 11
+        "viewers": 12
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5189,5 +5189,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-10T21:30:40Z"
+  "updated_at": "2026-11-10T21:32:17Z"
 }

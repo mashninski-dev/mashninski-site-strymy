@@ -1636,14 +1636,14 @@
         "categories": [
           {
             "game": "CONTROL Resonant",
-            "sec": 813
+            "sec": 910
           }
         ],
-        "hours_sec": [813,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-10T21:30:40Z",
+        "hours_sec": [910,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-10T21:32:17Z",
         "started_at": "2026-11-10T21:17:07Z",
         "stream_id": "318586967384",
-        "viewer_sec": 1279,
+        "viewer_sec": 1570,
         "viewers": 3
       },
       "monthly": {
@@ -2878,20 +2878,7 @@
           "2026-11-01": 201
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Poppy Playtime: Chapter 2 - Fly in a Web",
-            "sec": 11430
-          }
-        ],
-        "hours_sec": [1840,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2390,3600,3600],
-        "last_seen_at": "2026-11-10T21:30:40Z",
-        "started_at": "2026-11-10T18:20:10Z",
-        "stream_id": "317205198805",
-        "viewer_sec": 50605,
-        "viewers": 5
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -2990,6 +2977,10 @@
               "launches": 1,
               "minutes": 75
             },
+            "Poppy Playtime: Chapter 2 - Fly in a Web": {
+              "launches": 1,
+              "minutes": 191
+            },
             "Resonance: A Plague Tale Legacy": {
               "launches": 1,
               "minutes": 127
@@ -2999,13 +2990,26 @@
               "minutes": 152
             }
           },
-          "hours": [66,60,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,64,360,378,305],
-          "launches": 7,
-          "minutes": 1340,
-          "viewer_minutes": 6002
+          "hours": [97,60,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,64,400,438,365],
+          "launches": 8,
+          "minutes": 1531,
+          "viewer_minutes": 6846
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Poppy Playtime: Chapter 2 - Fly in a Web",
+              "minutes": 191
+            }
+          ],
+          "ended_at": "2026-11-10T21:30:42Z",
+          "hours": [31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,60,60],
+          "started_at": "2026-11-10T18:20:10Z",
+          "viewer_minutes": 844,
+          "viewers_last": 5
+        },
         {
           "categories": [
             {
@@ -3933,14 +3937,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 155268
+            "sec": 155365
           }
         ],
-        "hours_sec": [5440,3600,3600,3600,3600,5828,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200],
-        "last_seen_at": "2026-11-10T21:30:40Z",
+        "hours_sec": [5537,3600,3600,3600,3600,5828,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200],
+        "last_seen_at": "2026-11-10T21:32:17Z",
         "started_at": "2026-11-09T02:22:52Z",
         "stream_id": "319328236646",
-        "viewer_sec": 174709,
+        "viewer_sec": 174806,
         "viewers": 1
       },
       "monthly": {
@@ -4579,14 +4583,14 @@
         "categories": [
           {
             "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 17869
+            "sec": 17966
           }
         ],
-        "hours_sec": [1840,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1629,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-10T21:30:40Z",
+        "hours_sec": [1937,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1629,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-10T21:32:17Z",
         "started_at": "2026-11-10T16:32:51Z",
         "stream_id": "319159487975",
-        "viewer_sec": 239635,
+        "viewer_sec": 240896,
         "viewers": 13
       },
       "monthly": {
@@ -5509,15 +5513,15 @@
         "categories": [
           {
             "game": "Silver Pines",
-            "sec": 8902
+            "sec": 8999
           }
         ],
-        "hours_sec": [1840,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3462,3600],
-        "last_seen_at": "2026-11-10T21:30:40Z",
+        "hours_sec": [1937,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3462,3600],
+        "last_seen_at": "2026-11-10T21:32:17Z",
         "started_at": "2026-11-10T19:02:18Z",
         "stream_id": "319278816613",
-        "viewer_sec": 59214,
-        "viewers": 11
+        "viewer_sec": 60329,
+        "viewers": 12
       },
       "monthly": {
         "2026-10": {
@@ -6268,6 +6272,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-10T21:30:40Z",
+  "updated_at": "2026-11-10T21:32:17Z",
   "viewers_since": "2026-11-02"
 }
