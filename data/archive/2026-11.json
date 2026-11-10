@@ -655,16 +655,29 @@
     },
     "ms_bahiema": {
       "added_at": "2026-09-11",
-      "categories": {},
+      "categories": {
+        "Dressmaker (2026)": {
+          "launches": 1,
+          "minutes": 111
+        }
+      },
       "display_name": "ms_bahiema",
       "followers_end": null,
       "followers_start": 940,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-      "launches": 0,
-      "minutes": 0,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,60,24,0,0,0,0],
+      "launches": 1,
+      "minutes": 111,
       "prev_broadcast_at": null,
-      "prev_ended_at": null,
-      "sessions": []
+      "prev_ended_at": "2026-10-04T21:50:50Z",
+      "sessions": [
+        {
+          "duration_min": 111,
+          "ended_at": "2026-11-10T16:24:07Z",
+          "started_at": "2026-11-10T14:32:46Z",
+          "viewer_minutes": 1563
+        }
+      ],
+      "viewer_minutes": 1563
     },
     "mx_oda": {
       "added_at": "2026-09-11",
@@ -1179,5 +1192,5 @@
       "viewer_minutes": 2229
     }
   },
-  "updated_at": "2026-11-10T15:10:41Z"
+  "updated_at": "2026-11-10T16:25:42Z"
 }
