@@ -870,6 +870,10 @@
           "launches": 1,
           "minutes": 378
         },
+        "How to Fish": {
+          "launches": 1,
+          "minutes": 354
+        },
         "Just Chatting": {
           "launches": 1,
           "minutes": 456
@@ -883,8 +887,8 @@
           "minutes": 359
         },
         "Species: Unknown": {
-          "launches": 1,
-          "minutes": 98
+          "launches": 2,
+          "minutes": 251
         },
         "The Witcher 3: Wild Hunt Remastered": {
           "launches": 5,
@@ -898,9 +902,9 @@
       "display_name": "ShagraeL_BY",
       "followers_end": null,
       "followers_start": 1019,
-      "hours": [420,420,420,420,293,107,7,0,0,0,0,0,0,0,0,0,0,0,0,0,112,296,420,420],
-      "launches": 7,
-      "minutes": 3335,
+      "hours": [480,480,480,480,353,141,7,0,0,0,0,0,0,0,0,0,0,0,0,0,112,349,480,480],
+      "launches": 8,
+      "minutes": 3842,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-11-01T02:02:08Z",
       "sessions": [
@@ -944,9 +948,15 @@
           "ended_at": "2026-11-09T01:31:30Z",
           "started_at": "2026-11-08T18:21:10Z",
           "viewer_minutes": 4706
+        },
+        {
+          "duration_min": 507,
+          "ended_at": "2026-11-10T02:34:27Z",
+          "started_at": "2026-11-09T18:07:07Z",
+          "viewer_minutes": 4791
         }
       ],
-      "viewer_minutes": 33597
+      "viewer_minutes": 38388
     },
     "sla5her_by": {
       "added_at": "2026-10-08",
@@ -1153,5 +1163,5 @@
       "viewer_minutes": 2247
     }
   },
-  "updated_at": "2026-11-10T01:16:13Z"
+  "updated_at": "2026-11-10T02:36:06Z"
 }

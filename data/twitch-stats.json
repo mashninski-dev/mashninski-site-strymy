@@ -3834,14 +3834,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 86872
+            "sec": 87194
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,4072,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-10T02:30:44Z",
+        "hours_sec": [3600,3600,3600,3600,3600,4394,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-10T02:36:06Z",
         "started_at": "2026-11-09T02:22:52Z",
         "stream_id": "319328236646",
-        "viewer_sec": 88426,
+        "viewer_sec": 88748,
         "viewers": 1
       },
       "monthly": {
@@ -4474,24 +4474,7 @@
           "2026-11-01": 1019
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "How to Fish",
-            "sec": 21214
-          },
-          {
-            "game": "Species: Unknown",
-            "sec": 9003
-          }
-        ],
-        "hours_sec": [3600,3600,3600,3600,3600,1844,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3173,3600,3600],
-        "last_seen_at": "2026-11-10T02:30:44Z",
-        "started_at": "2026-11-09T18:07:07Z",
-        "stream_id": "319335276646",
-        "viewer_sec": 285003,
-        "viewers": 11
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -4582,6 +4565,10 @@
               "launches": 1,
               "minutes": 378
             },
+            "How to Fish": {
+              "launches": 1,
+              "minutes": 354
+            },
             "Just Chatting": {
               "launches": 1,
               "minutes": 456
@@ -4595,8 +4582,8 @@
               "minutes": 359
             },
             "Species: Unknown": {
-              "launches": 1,
-              "minutes": 98
+              "launches": 2,
+              "minutes": 251
             },
             "The Witcher 3: Wild Hunt Remastered": {
               "launches": 5,
@@ -4607,13 +4594,30 @@
               "minutes": 250
             }
           },
-          "hours": [420,420,420,420,293,107,7,0,0,0,0,0,0,0,0,0,0,0,0,0,112,296,420,420],
-          "launches": 7,
-          "minutes": 3335,
-          "viewer_minutes": 33597
+          "hours": [480,480,480,480,353,141,7,0,0,0,0,0,0,0,0,0,0,0,0,0,112,349,480,480],
+          "launches": 8,
+          "minutes": 3842,
+          "viewer_minutes": 38388
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "How to Fish",
+              "minutes": 354
+            },
+            {
+              "game": "Species: Unknown",
+              "minutes": 153
+            }
+          ],
+          "ended_at": "2026-11-10T02:34:27Z",
+          "hours": [60,60,60,60,60,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,60,60],
+          "started_at": "2026-11-09T18:07:07Z",
+          "viewer_minutes": 4791,
+          "viewers_last": 11
+        },
         {
           "categories": [
             {
@@ -6173,6 +6177,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-10T02:30:44Z",
+  "updated_at": "2026-11-10T02:36:06Z",
   "viewers_since": "2026-11-02"
 }
