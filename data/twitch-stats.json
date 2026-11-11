@@ -3926,14 +3926,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 38857
+            "sec": 38977
           }
         ],
-        "hours_sec": [0,0,0,0,0,2217,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,640,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-11T13:10:40Z",
+        "hours_sec": [0,0,0,0,0,2217,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,760,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-11T13:12:40Z",
         "started_at": "2026-11-11T02:23:03Z",
         "stream_id": "319282784101",
-        "viewer_sec": 43057,
+        "viewer_sec": 43177,
         "viewers": 1
       },
       "monthly": {
@@ -4203,20 +4203,7 @@
           "2026-11-01": 944
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Chants of Sennaar",
-            "sec": 8004
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,164,3600,3600,640,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-11T13:10:40Z",
-        "started_at": "2026-11-11T10:57:16Z",
-        "stream_id": "317291834452",
-        "viewer_sec": 222514,
-        "viewers": 30
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -4256,8 +4243,8 @@
               "minutes": 132
             },
             "Chants of Sennaar": {
-              "launches": 1,
-              "minutes": 135
+              "launches": 2,
+              "minutes": 269
             },
             "Dead Space 2": {
               "launches": 1,
@@ -4272,13 +4259,26 @@
               "minutes": 109
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,8,340,337,61,0,0,0,0,0,0,0],
-          "launches": 6,
-          "minutes": 745,
-          "viewer_minutes": 18148
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,11,400,397,72,0,0,0,0,0,0,0],
+          "launches": 7,
+          "minutes": 879,
+          "viewer_minutes": 21870
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Chants of Sennaar",
+              "minutes": 134
+            }
+          ],
+          "ended_at": "2026-11-11T13:11:06Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,3,60,60,11,0,0,0,0,0,0,0],
+          "started_at": "2026-11-11T10:57:16Z",
+          "viewer_minutes": 3722,
+          "viewers_last": 30
+        },
         {
           "categories": [
             {
@@ -5208,14 +5208,14 @@
         "categories": [
           {
             "game": "Red Dead Redemption II",
-            "sec": 2045
+            "sec": 2165
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1405,640,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-11T13:10:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1405,760,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-11T13:12:40Z",
         "started_at": "2026-11-11T12:36:35Z",
         "stream_id": "319356258662",
-        "viewer_sec": 1908,
+        "viewer_sec": 2028,
         "viewers": 1
       },
       "monthly": {
@@ -5350,8 +5350,8 @@
     },
     "thelelyskek": {
       "followers": {
-        "changed_at": "2026-11-11T10:40:41Z",
-        "count": 120,
+        "changed_at": "2026-11-11T13:12:40Z",
+        "count": 121,
         "daily": {
           "2026-11-05": 117,
           "2026-11-06": 119,
@@ -5374,14 +5374,14 @@
           },
           {
             "game": "Slay the Spire II",
-            "sec": 7976
+            "sec": 8096
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,2888,3600,3600,640,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-11T13:10:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,2888,3600,3600,760,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-11T13:12:40Z",
         "started_at": "2026-11-11T10:11:52Z",
         "stream_id": "319167625831",
-        "viewer_sec": 79793,
+        "viewer_sec": 80753,
         "viewers": 8
       },
       "monthly": {
@@ -6310,6 +6310,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-11T13:10:40Z",
+  "updated_at": "2026-11-11T13:12:40Z",
   "viewers_since": "2026-11-02"
 }
