@@ -3926,14 +3926,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 40057
+            "sec": 40598
           }
         ],
-        "hours_sec": [0,0,0,0,0,2217,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,1840,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-11T13:30:40Z",
+        "hours_sec": [0,0,0,0,0,2217,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,2381,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-11T13:39:41Z",
         "started_at": "2026-11-11T02:23:03Z",
         "stream_id": "319282784101",
-        "viewer_sec": 44257,
+        "viewer_sec": 44798,
         "viewers": 1
       },
       "monthly": {
@@ -5173,8 +5173,8 @@
     },
     "sla5her_by": {
       "followers": {
-        "changed_at": "2026-11-04T23:40:39Z",
-        "count": 314,
+        "changed_at": "2026-11-11T13:39:41Z",
+        "count": 315,
         "daily": {
           "2026-10-22": 313,
           "2026-10-23": 313,
@@ -5208,15 +5208,15 @@
         "categories": [
           {
             "game": "Red Dead Redemption II",
-            "sec": 3245
+            "sec": 3786
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1405,1840,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-11T13:30:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1405,2381,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-11T13:39:41Z",
         "started_at": "2026-11-11T12:36:35Z",
         "stream_id": "319356258662",
-        "viewer_sec": 4790,
-        "viewers": 3
+        "viewer_sec": 6683,
+        "viewers": 4
       },
       "monthly": {
         "2026-10": {
@@ -5366,24 +5366,7 @@
           "2026-11-01": 117
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Just Chatting",
-            "sec": 2752
-          },
-          {
-            "game": "Slay the Spire II",
-            "sec": 9176
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,2888,3600,3600,1840,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-11T13:30:40Z",
-        "started_at": "2026-11-11T10:11:52Z",
-        "stream_id": "319167625831",
-        "viewer_sec": 95457,
-        "viewers": 12
-      },
+      "in_progress": null,
       "monthly": {
         "2026-11": {
           "categories": {
@@ -5392,17 +5375,38 @@
               "minutes": 510
             },
             "Just Chatting": {
-              "launches": 2,
-              "minutes": 41
+              "launches": 3,
+              "minutes": 87
+            },
+            "Slay the Spire II": {
+              "launches": 1,
+              "minutes": 162
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,5,60,107,120,120,74,60,4,0,0,0,0,0],
-          "launches": 2,
-          "minutes": 551,
-          "viewer_minutes": 6297
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,5,60,155,180,180,114,60,4,0,0,0,0,0],
+          "launches": 3,
+          "minutes": 759,
+          "viewer_minutes": 7996
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 46
+            },
+            {
+              "game": "Slay the Spire II",
+              "minutes": 162
+            }
+          ],
+          "ended_at": "2026-11-11T13:39:41Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,48,60,60,40,0,0,0,0,0,0,0],
+          "started_at": "2026-11-11T10:11:52Z",
+          "viewer_minutes": 1699,
+          "viewers_last": 12
+        },
         {
           "categories": [
             {
@@ -6310,6 +6314,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-11T13:30:40Z",
+  "updated_at": "2026-11-11T13:39:41Z",
   "viewers_since": "2026-11-02"
 }

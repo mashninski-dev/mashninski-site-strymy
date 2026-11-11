@@ -4356,7 +4356,7 @@
         "since": "2026-11-11T12:36:35Z",
         "stream_id": "319356258662",
         "title": "[BY] Прыгоды на дзікім захадзе [Bel/Ukr/Eng]",
-        "viewers": 3
+        "viewers": 4
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -4416,6 +4416,16 @@
       "display_name": "thelelyskek",
       "history": [
         {
+          "duration_min": 208,
+          "ended_at": "2026-11-11T13:39:41Z",
+          "game": "Slay the Spire II",
+          "source": "observed",
+          "started_at": "2026-11-11T10:11:52Z",
+          "stream_id": "319167625831",
+          "title": "[BEL/ENG] Такога не было і вось...",
+          "vod": null
+        },
+        {
           "duration_min": 182,
           "ended_at": "2026-11-09T13:14:12Z",
           "game": "Dishonored",
@@ -4447,26 +4457,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 182,
-        "ended_at": "2026-11-09T13:14:12Z",
-        "game": "Dishonored",
-        "source": "vod",
-        "started_at": "2026-11-09T10:12:36Z",
-        "stream_id": "317195656021",
-        "title": "[BEL/ENG] Такога не было крыху меней трох дзён і вось...",
-        "vod": {
-          "gone": false,
-          "id": "2923929844",
-          "seen_at": "2026-11-09T13:40:49Z",
-          "url": "https://www.twitch.tv/videos/2923929844"
-        }
-      },
-      "live": {
+        "duration_min": 208,
+        "ended_at": "2026-11-11T13:39:41Z",
         "game": "Slay the Spire II",
-        "since": "2026-11-11T10:11:52Z",
+        "source": "observed",
+        "started_at": "2026-11-11T10:11:52Z",
         "stream_id": "319167625831",
         "title": "[BEL/ENG] Такога не было і вось...",
-        "viewers": 12
+        "vod": null
+      },
+      "live": {
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0699f21-5b35-4296-944a-f795f4e5170d-profile_image-300x300.png",
@@ -5189,5 +5194,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-11T13:30:40Z"
+  "updated_at": "2026-11-11T13:39:41Z"
 }
