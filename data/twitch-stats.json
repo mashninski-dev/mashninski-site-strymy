@@ -3926,14 +3926,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 47855
+            "sec": 48405
           }
         ],
-        "hours_sec": [0,0,0,0,0,2217,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,2438,0,0,0,0,0],
-        "last_seen_at": "2026-11-11T15:40:38Z",
+        "hours_sec": [0,0,0,0,0,2217,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,2988,0,0,0,0,0],
+        "last_seen_at": "2026-11-11T15:49:48Z",
         "started_at": "2026-11-11T02:23:03Z",
         "stream_id": "319282784101",
-        "viewer_sec": 52055,
+        "viewer_sec": 52605,
         "viewers": 1
       },
       "monthly": {
@@ -5204,20 +5204,7 @@
           "2026-11-01": 312
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Red Dead Redemption II",
-            "sec": 11043
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1405,3600,3600,2438,0,0,0,0,0],
-        "last_seen_at": "2026-11-11T15:40:38Z",
-        "started_at": "2026-11-11T12:36:35Z",
-        "stream_id": "319356258662",
-        "viewer_sec": 66511,
-        "viewers": 9
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -5233,9 +5220,34 @@
           "hours": [35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,74,120,120],
           "launches": 2,
           "minutes": 392
+        },
+        "2026-11": {
+          "categories": {
+            "Red Dead Redemption II": {
+              "launches": 1,
+              "minutes": 193
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,60,60,50,0,0,0,0,0],
+          "launches": 1,
+          "minutes": 193,
+          "viewer_minutes": 1191
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Red Dead Redemption II",
+              "minutes": 193
+            }
+          ],
+          "ended_at": "2026-11-11T15:49:48Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,60,60,50,0,0,0,0,0],
+          "started_at": "2026-11-11T12:36:35Z",
+          "viewer_minutes": 1191,
+          "viewers_last": 9
+        },
         {
           "categories": [
             {
@@ -6314,6 +6326,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-11T15:40:38Z",
+  "updated_at": "2026-11-11T15:49:48Z",
   "viewers_since": "2026-11-02"
 }
