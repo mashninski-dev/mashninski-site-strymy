@@ -772,8 +772,8 @@
       "added_at": "2026-09-11",
       "categories": {
         "Art": {
-          "launches": 5,
-          "minutes": 627
+          "launches": 6,
+          "minutes": 748
         },
         "Games + Demos": {
           "launches": 2,
@@ -791,9 +791,9 @@
       "display_name": "Nine_Ravens_Cemetery",
       "followers_end": null,
       "followers_start": 304,
-      "hours": [184,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,109,600,589],
-      "launches": 10,
-      "minutes": 1546,
+      "hours": [186,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,109,659,649],
+      "launches": 11,
+      "minutes": 1667,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T22:32:57Z",
       "sessions": [
@@ -855,9 +855,15 @@
           "ended_at": "2026-11-10T21:07:07Z",
           "started_at": "2026-11-10T18:59:37Z",
           "viewer_minutes": 1071
+        },
+        {
+          "duration_min": 121,
+          "ended_at": "2026-11-11T21:02:09Z",
+          "started_at": "2026-11-11T19:00:45Z",
+          "viewer_minutes": 904
         }
       ],
-      "viewer_minutes": 11583
+      "viewer_minutes": 12487
     },
     "radyjo_holas": {
       "added_at": "2026-09-11",
@@ -1341,5 +1347,5 @@
       "viewer_minutes": 4416
     }
   },
-  "updated_at": "2026-11-11T20:57:40Z"
+  "updated_at": "2026-11-11T21:03:45Z"
 }
