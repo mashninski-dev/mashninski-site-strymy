@@ -3926,14 +3926,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 30456
+            "sec": 30881
           }
         ],
-        "hours_sec": [0,0,0,0,0,2217,3600,3600,3600,3600,3600,3600,3600,3039,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-11T10:50:39Z",
+        "hours_sec": [0,0,0,0,0,2217,3600,3600,3600,3600,3600,3600,3600,3464,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-11T10:57:44Z",
         "started_at": "2026-11-11T02:23:03Z",
         "stream_id": "319282784101",
-        "viewer_sec": 34656,
+        "viewer_sec": 35081,
         "viewers": 1
       },
       "monthly": {
@@ -4203,7 +4203,20 @@
           "2026-11-01": 944
         }
       },
-      "in_progress": null,
+      "in_progress": {
+        "categories": [
+          {
+            "game": "Chants of Sennaar",
+            "sec": 28
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-11T10:57:44Z",
+        "started_at": "2026-11-11T10:57:16Z",
+        "stream_id": "317291834452",
+        "viewer_sec": 0,
+        "viewers": 0
+      },
       "monthly": {
         "2026-10": {
           "categories": {
@@ -5344,15 +5357,19 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 2327
+            "sec": 2752
+          },
+          {
+            "game": "Slay the Spire II",
+            "sec": 0
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,2327,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-11T10:50:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,2752,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-11T10:57:44Z",
         "started_at": "2026-11-11T10:11:52Z",
         "stream_id": "319167625831",
-        "viewer_sec": 16905,
-        "viewers": 6
+        "viewer_sec": 19030,
+        "viewers": 4
       },
       "monthly": {
         "2026-11": {
@@ -6280,6 +6297,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-11T10:50:39Z",
+  "updated_at": "2026-11-11T10:57:44Z",
   "viewers_since": "2026-11-02"
 }
