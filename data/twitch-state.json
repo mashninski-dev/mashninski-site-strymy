@@ -1794,7 +1794,7 @@
         "since": "2026-11-11T19:00:05Z",
         "stream_id": "318594747992",
         "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
-        "viewers": 3
+        "viewers": 2
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad2b7c75-ce68-451d-9983-b84b1dd67c16-profile_image-300x300.png",
@@ -2270,6 +2270,21 @@
       "display_name": "mashninski",
       "history": [
         {
+          "duration_min": 9,
+          "ended_at": "2026-11-11T19:33:47Z",
+          "game": "ELDEN RING",
+          "source": "vod",
+          "started_at": "2026-11-11T19:25:07Z",
+          "stream_id": "319362148838",
+          "title": "Ляніва фармім рэсурсы",
+          "vod": {
+            "gone": false,
+            "id": "2926064684",
+            "seen_at": "2026-11-11T19:35:35Z",
+            "url": "https://www.twitch.tv/videos/2926064684"
+          }
+        },
+        {
           "duration_min": 172,
           "ended_at": "2026-11-09T15:39:23Z",
           "game": "The Witcher 3: Wild Hunt Remastered",
@@ -2553,44 +2568,29 @@
             "seen_at": "2026-10-21T17:24:47Z",
             "url": "https://www.twitch.tv/videos/2906794806"
           }
-        },
-        {
-          "duration_min": 180,
-          "ended_at": "2026-10-20T18:29:20Z",
-          "game": "Alan Wake's American Nightmare",
-          "source": "vod",
-          "started_at": "2026-10-20T15:28:50Z",
-          "stream_id": "318881303399",
-          "title": "Месяц жахасцікаў",
-          "vod": {
-            "gone": false,
-            "id": "2905961466",
-            "seen_at": "2026-10-20T18:30:55Z",
-            "url": "https://www.twitch.tv/videos/2905961466"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 172,
-        "ended_at": "2026-11-09T15:39:23Z",
-        "game": "The Witcher 3: Wild Hunt Remastered",
+        "duration_min": 9,
+        "ended_at": "2026-11-11T19:33:47Z",
+        "game": "ELDEN RING",
         "source": "vod",
-        "started_at": "2026-11-09T12:47:03Z",
-        "stream_id": "319145949543",
-        "title": "Усё бліжэй да Навіграду",
+        "started_at": "2026-11-11T19:25:07Z",
+        "stream_id": "319362148838",
+        "title": "Ляніва фармім рэсурсы",
         "vod": {
           "gone": false,
-          "id": "2923992355",
-          "seen_at": "2026-11-09T15:41:00Z",
-          "url": "https://www.twitch.tv/videos/2923992355"
+          "id": "2926064684",
+          "seen_at": "2026-11-11T19:35:35Z",
+          "url": "https://www.twitch.tv/videos/2926064684"
         }
       },
       "live": {
         "game": "ELDEN RING",
-        "since": "2026-11-11T19:25:07Z",
-        "stream_id": "319362148838",
+        "since": "2026-11-11T19:34:39Z",
+        "stream_id": "319362316006",
         "title": "Ляніва фармім рэсурсы",
-        "viewers": 1
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -2922,7 +2922,7 @@
         "since": "2026-11-11T17:01:47Z",
         "stream_id": "319171601127",
         "title": "[BLR] Каапная серада. Усё дзеля дэмакратыі",
-        "viewers": 4
+        "viewers": 3
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3423,7 +3423,7 @@
         "since": "2026-11-11T19:00:45Z",
         "stream_id": "319290557669",
         "title": "Нежабкасерада",
-        "viewers": 10
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -5197,12 +5197,12 @@
         "since": "2026-11-11T17:11:40Z",
         "stream_id": "317294239316",
         "title": "🔥ДЭРМАКРАТЫ вызваляюць чцжыродныя планеты ад генома + СЛУХАЕМ вашу музыку🥰@watafakablr",
-        "viewers": 9
+        "viewers": 10
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-11T19:30:40Z"
+  "updated_at": "2026-11-11T19:35:34Z"
 }
