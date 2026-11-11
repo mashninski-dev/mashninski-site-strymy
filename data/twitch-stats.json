@@ -2453,24 +2453,7 @@
           "2026-11-01": 176
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "ELDEN RING",
-            "sec": 4229
-          },
-          {
-            "game": "Just Chatting",
-            "sec": 1978
-          }
-        ],
-        "hours_sec": [1838,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,769,3600],
-        "last_seen_at": "2026-11-11T21:30:38Z",
-        "started_at": "2026-11-11T19:47:11Z",
-        "stream_id": "319362514662",
-        "viewer_sec": 43318,
-        "viewers": 11
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -2542,12 +2525,16 @@
         "2026-11": {
           "categories": {
             "ELDEN RING": {
-              "launches": 6,
-              "minutes": 643
+              "launches": 7,
+              "minutes": 713
             },
             "Fear & Hunger 2: Termina": {
               "launches": 2,
               "minutes": 339
+            },
+            "Just Chatting": {
+              "launches": 1,
+              "minutes": 42
             },
             "Lucky Tower Ultimate": {
               "launches": 1,
@@ -2558,13 +2545,30 @@
               "minutes": 481
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,54,96,273,438,318,118,37,60,60,77,10],
-          "launches": 12,
-          "minutes": 1543,
-          "viewer_minutes": 16211
+          "hours": [40,0,0,0,0,0,0,0,0,0,0,0,0,54,96,273,438,318,118,37,60,60,90,70],
+          "launches": 13,
+          "minutes": 1655,
+          "viewer_minutes": 17032
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "ELDEN RING",
+              "minutes": 70
+            },
+            {
+              "game": "Just Chatting",
+              "minutes": 42
+            }
+          ],
+          "ended_at": "2026-11-11T21:39:41Z",
+          "hours": [40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,60],
+          "started_at": "2026-11-11T19:47:11Z",
+          "viewer_minutes": 821,
+          "viewers_last": 11
+        },
         {
           "categories": [
             {
@@ -4036,14 +4040,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 68855
+            "sec": 69494
           }
         ],
-        "hours_sec": [1838,0,0,0,0,2217,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-11T21:30:38Z",
+        "hours_sec": [2477,0,0,0,0,2217,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-11T21:41:17Z",
         "started_at": "2026-11-11T02:23:03Z",
         "stream_id": "319282784101",
-        "viewer_sec": 74252,
+        "viewer_sec": 74891,
         "viewers": 1
       },
       "monthly": {
@@ -4710,15 +4714,15 @@
         "categories": [
           {
             "game": "Counter-Strike",
-            "sec": 14650
+            "sec": 15289
           }
         ],
-        "hours_sec": [1838,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012,3600,3600,3600],
-        "last_seen_at": "2026-11-11T21:30:38Z",
+        "hours_sec": [2477,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012,3600,3600,3600],
+        "last_seen_at": "2026-11-11T21:41:17Z",
         "started_at": "2026-11-11T17:26:28Z",
         "stream_id": "319171961703",
-        "viewer_sec": 159945,
-        "viewers": 16
+        "viewer_sec": 170808,
+        "viewers": 18
       },
       "monthly": {
         "2026-10": {
@@ -6467,6 +6471,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-11T21:30:38Z",
+  "updated_at": "2026-11-11T21:41:17Z",
   "viewers_since": "2026-11-02"
 }
