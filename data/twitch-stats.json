@@ -22,7 +22,7 @@
       "started_at": "2026-11-01T23:45:57Z"
     },
     "4dcff6d8-c3ba-4018-bdfd-017554f6cab3": {
-      "ended_at": null,
+      "ended_at": "2026-11-11T20:57:40Z",
       "games": [
         "HELLDIVERS 2",
         "HELLDIVERS"
@@ -1647,20 +1647,7 @@
           "2026-11-01": 142
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "CONTROL Resonant",
-            "sec": 4235
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3595,640],
-        "last_seen_at": "2026-11-11T20:10:40Z",
-        "started_at": "2026-11-11T19:00:05Z",
-        "stream_id": "318594747992",
-        "viewer_sec": 7448,
-        "viewers": 1
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -1680,21 +1667,34 @@
         "2026-11": {
           "categories": {
             "CONTROL Resonant": {
-              "launches": 2,
-              "minutes": 275
+              "launches": 3,
+              "minutes": 393
             },
             "Stardew Valley": {
               "launches": 2,
               "minutes": 109
             }
           },
-          "hours": [49,60,60,60,74,60,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-          "launches": 4,
-          "minutes": 384,
-          "viewer_minutes": 600
+          "hours": [49,60,60,60,74,60,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,58],
+          "launches": 5,
+          "minutes": 502,
+          "viewer_minutes": 771
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "CONTROL Resonant",
+              "minutes": 118
+            }
+          ],
+          "ended_at": "2026-11-11T20:57:40Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,58],
+          "started_at": "2026-11-11T19:00:05Z",
+          "viewer_minutes": 171,
+          "viewers_last": 1
+        },
         {
           "categories": [
             {
@@ -2442,14 +2442,18 @@
         "categories": [
           {
             "game": "ELDEN RING",
-            "sec": 1409
+            "sec": 4229
+          },
+          {
+            "game": "Just Chatting",
+            "sec": 0
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,769,640],
-        "last_seen_at": "2026-11-11T20:10:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,769,3460],
+        "last_seen_at": "2026-11-11T20:57:40Z",
         "started_at": "2026-11-11T19:47:11Z",
         "stream_id": "319362514662",
-        "viewer_sec": 3507,
+        "viewer_sec": 17607,
         "viewers": 5
       },
       "monthly": {
@@ -2934,20 +2938,7 @@
           "2026-11-01": 201
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "HELLDIVERS 2",
-            "sec": 11333
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3493,3600,3600,640],
-        "last_seen_at": "2026-11-11T20:10:40Z",
-        "started_at": "2026-11-11T17:01:47Z",
-        "stream_id": "319171601127",
-        "viewer_sec": 38740,
-        "viewers": 2
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -3038,6 +3029,10 @@
               "launches": 2,
               "minutes": 343
             },
+            "HELLDIVERS 2": {
+              "launches": 1,
+              "minutes": 227
+            },
             "How to Fish": {
               "launches": 1,
               "minutes": 332
@@ -3059,13 +3054,26 @@
               "minutes": 152
             }
           },
-          "hours": [97,60,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,64,400,438,365],
-          "launches": 8,
-          "minutes": 1531,
-          "viewer_minutes": 6846
+          "hours": [97,60,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,122,460,498,414],
+          "launches": 9,
+          "minutes": 1758,
+          "viewer_minutes": 7569
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "HELLDIVERS 2",
+              "minutes": 227
+            }
+          ],
+          "ended_at": "2026-11-11T20:48:56Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,60,60,49],
+          "started_at": "2026-11-11T17:01:47Z",
+          "viewer_minutes": 723,
+          "viewers_last": 2
+        },
         {
           "categories": [
             {
@@ -3542,15 +3550,15 @@
         "categories": [
           {
             "game": "Art",
-            "sec": 4195
+            "sec": 7015
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3555,640],
-        "last_seen_at": "2026-11-11T20:10:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3555,3460],
+        "last_seen_at": "2026-11-11T20:57:40Z",
         "started_at": "2026-11-11T19:00:45Z",
         "stream_id": "319290557669",
-        "viewer_sec": 28915,
-        "viewers": 7
+        "viewer_sec": 51475,
+        "viewers": 9
       },
       "monthly": {
         "2026-10": {
@@ -4008,14 +4016,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 64057
+            "sec": 66877
           }
         ],
-        "hours_sec": [0,0,0,0,0,2217,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,640],
-        "last_seen_at": "2026-11-11T20:10:40Z",
+        "hours_sec": [0,0,0,0,0,2217,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3460],
+        "last_seen_at": "2026-11-11T20:57:40Z",
         "started_at": "2026-11-11T02:23:03Z",
         "stream_id": "319282784101",
-        "viewer_sec": 69454,
+        "viewer_sec": 72274,
         "viewers": 1
       },
       "monthly": {
@@ -4680,14 +4688,14 @@
         "categories": [
           {
             "game": "Counter-Strike",
-            "sec": 9852
+            "sec": 12672
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012,3600,3600,640],
-        "last_seen_at": "2026-11-11T20:10:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2012,3600,3600,3460],
+        "last_seen_at": "2026-11-11T20:57:40Z",
         "started_at": "2026-11-11T17:26:28Z",
         "stream_id": "319171961703",
-        "viewer_sec": 93639,
+        "viewer_sec": 133119,
         "viewers": 14
       },
       "monthly": {
@@ -5299,20 +5307,7 @@
           "2026-11-01": 312
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "HELLDIVERS",
-            "sec": 11065
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3225,3600,3600,640],
-        "last_seen_at": "2026-11-11T20:10:40Z",
-        "started_at": "2026-11-11T17:06:15Z",
-        "stream_id": "317210886869",
-        "viewer_sec": 15504,
-        "viewers": 2
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -5331,18 +5326,35 @@
         },
         "2026-11": {
           "categories": {
+            "HELLDIVERS": {
+              "launches": 1,
+              "minutes": 231
+            },
             "Red Dead Redemption II": {
               "launches": 1,
               "minutes": 193
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,60,60,50,0,0,0,0,0],
-          "launches": 1,
-          "minutes": 193,
-          "viewer_minutes": 1191
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,60,60,50,0,54,60,60,58],
+          "launches": 2,
+          "minutes": 424,
+          "viewer_minutes": 1543
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "HELLDIVERS",
+              "minutes": 231
+            }
+          ],
+          "ended_at": "2026-11-11T20:57:40Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,60,60,58],
+          "started_at": "2026-11-11T17:06:15Z",
+          "viewer_minutes": 352,
+          "viewers_last": 2
+        },
         {
           "categories": [
             {
@@ -6089,20 +6101,7 @@
           "2026-11-01": 478
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "HELLDIVERS 2",
-            "sec": 10740
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2900,3600,3600,640],
-        "last_seen_at": "2026-11-11T20:10:40Z",
-        "started_at": "2026-11-11T17:11:40Z",
-        "stream_id": "317294239316",
-        "viewer_sec": 105819,
-        "viewers": 9
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -6152,15 +6151,32 @@
             "Broforce": {
               "launches": 1,
               "minutes": 223
+            },
+            "HELLDIVERS 2": {
+              "launches": 1,
+              "minutes": 226
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,60,60,60,8],
-          "launches": 1,
-          "minutes": 223,
-          "viewer_minutes": 2229
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,108,120,120,66],
+          "launches": 2,
+          "minutes": 449,
+          "viewer_minutes": 4416
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "HELLDIVERS 2",
+              "minutes": 226
+            }
+          ],
+          "ended_at": "2026-11-11T20:57:40Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,60,60,58],
+          "started_at": "2026-11-11T17:11:40Z",
+          "viewer_minutes": 2187,
+          "viewers_last": 9
+        },
         {
           "categories": [
             {
@@ -6436,6 +6452,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-11T20:10:40Z",
+  "updated_at": "2026-11-11T20:57:40Z",
   "viewers_since": "2026-11-02"
 }
