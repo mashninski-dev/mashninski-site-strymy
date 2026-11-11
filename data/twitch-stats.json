@@ -21,6 +21,32 @@
       ],
       "started_at": "2026-11-01T23:45:57Z"
     },
+    "4dcff6d8-c3ba-4018-bdfd-017554f6cab3": {
+      "ended_at": null,
+      "games": [
+        "HELLDIVERS 2",
+        "HELLDIVERS"
+      ],
+      "host_id": "890636706",
+      "participants": [
+        {
+          "id": "890636706",
+          "login": "mihas_gareza",
+          "name": "Mihas_Gareza"
+        },
+        {
+          "id": "137822098",
+          "login": "sla5her_by",
+          "name": "Sla5her_BY"
+        },
+        {
+          "id": "948421675",
+          "login": "watafakablr",
+          "name": "watafakablr"
+        }
+      ],
+      "started_at": "2026-11-11T17:18:06Z"
+    },
     "6933d917-7fba-4cdc-85c3-37997b469a6b": {
       "ended_at": "2026-10-29T20:35:58Z",
       "games": [
@@ -2860,15 +2886,15 @@
         "categories": [
           {
             "game": "HELLDIVERS 2",
-            "sec": 668
+            "sec": 1132
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,668,0,0,0],
-        "last_seen_at": "2026-11-11T17:12:55Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1132,0,0,0],
+        "last_seen_at": "2026-11-11T17:20:39Z",
         "started_at": "2026-11-11T17:01:47Z",
         "stream_id": "319171601127",
-        "viewer_sec": 754,
-        "viewers": 2
+        "viewer_sec": 1450,
+        "viewers": 1
       },
       "monthly": {
         "2026-10": {
@@ -3928,14 +3954,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 53392
+            "sec": 53856
           }
         ],
-        "hours_sec": [0,0,0,0,0,2217,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,775,0,0,0],
-        "last_seen_at": "2026-11-11T17:12:55Z",
+        "hours_sec": [0,0,0,0,0,2217,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,1239,0,0,0],
+        "last_seen_at": "2026-11-11T17:20:39Z",
         "started_at": "2026-11-11T02:23:03Z",
         "stream_id": "319282784101",
-        "viewer_sec": 58789,
+        "viewer_sec": 59253,
         "viewers": 1
       },
       "monthly": {
@@ -5210,15 +5236,15 @@
         "categories": [
           {
             "game": "HELLDIVERS",
-            "sec": 400
+            "sec": 864
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,400,0,0,0],
-        "last_seen_at": "2026-11-11T17:12:55Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,864,0,0,0],
+        "last_seen_at": "2026-11-11T17:20:39Z",
         "started_at": "2026-11-11T17:06:15Z",
         "stream_id": "317210886869",
-        "viewer_sec": 252,
-        "viewers": 1
+        "viewer_sec": 948,
+        "viewers": 2
       },
       "monthly": {
         "2026-10": {
@@ -6011,15 +6037,15 @@
         "categories": [
           {
             "game": "HELLDIVERS 2",
-            "sec": 75
+            "sec": 539
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0],
-        "last_seen_at": "2026-11-11T17:12:55Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,539,0,0,0],
+        "last_seen_at": "2026-11-11T17:20:39Z",
         "started_at": "2026-11-11T17:11:40Z",
         "stream_id": "317294239316",
-        "viewer_sec": 0,
-        "viewers": 0
+        "viewer_sec": 2088,
+        "viewers": 9
       },
       "monthly": {
         "2026-10": {
@@ -6354,6 +6380,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-11T17:12:55Z",
+  "updated_at": "2026-11-11T17:20:39Z",
   "viewers_since": "2026-11-02"
 }

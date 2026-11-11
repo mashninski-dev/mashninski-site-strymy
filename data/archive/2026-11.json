@@ -21,6 +21,32 @@
       ],
       "started_at": "2026-11-01T23:45:57Z"
     },
+    "4dcff6d8-c3ba-4018-bdfd-017554f6cab3": {
+      "ended_at": null,
+      "games": [
+        "HELLDIVERS 2",
+        "HELLDIVERS"
+      ],
+      "host_id": "890636706",
+      "participants": [
+        {
+          "id": "890636706",
+          "login": "mihas_gareza",
+          "name": "Mihas_Gareza"
+        },
+        {
+          "id": "137822098",
+          "login": "sla5her_by",
+          "name": "Sla5her_BY"
+        },
+        {
+          "id": "948421675",
+          "login": "watafakablr",
+          "name": "watafakablr"
+        }
+      ],
+      "started_at": "2026-11-11T17:18:06Z"
+    },
     "76656faa-2b41-4f93-9527-644593a17664": {
       "ended_at": "2026-11-09T23:44:22Z",
       "games": [
@@ -1267,5 +1293,5 @@
       "viewer_minutes": 2229
     }
   },
-  "updated_at": "2026-11-11T15:49:48Z"
+  "updated_at": "2026-11-11T17:20:39Z"
 }
