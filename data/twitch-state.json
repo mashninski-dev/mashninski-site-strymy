@@ -3994,6 +3994,21 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 650,
+          "ended_at": "2026-11-11T03:23:21Z",
+          "game": "Valheim",
+          "source": "vod",
+          "started_at": "2026-11-10T16:32:51Z",
+          "stream_id": "319159487975",
+          "title": "Ну штось трошкі пабегаем від Іринка подруга",
+          "vod": {
+            "gone": false,
+            "id": "2925001779",
+            "seen_at": "2026-11-11T03:24:58Z",
+            "url": "https://www.twitch.tv/videos/2925001779"
+          }
+        },
+        {
           "duration_min": 507,
           "ended_at": "2026-11-10T02:34:27Z",
           "game": "Species: Unknown",
@@ -4272,44 +4287,29 @@
             "seen_at": "2026-10-20T03:30:18Z",
             "url": "https://www.twitch.tv/videos/2905170309"
           }
-        },
-        {
-          "duration_min": 640,
-          "ended_at": "2026-10-19T05:15:13Z",
-          "game": "Valheim",
-          "source": "vod",
-          "started_at": "2026-10-18T18:35:23Z",
-          "stream_id": "317134380884",
-          "title": "Імлістыя пакуты від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2904422026",
-            "seen_at": "2026-10-19T05:16:45Z",
-            "url": "https://www.twitch.tv/videos/2904422026"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 507,
-        "ended_at": "2026-11-10T02:34:27Z",
-        "game": "Species: Unknown",
+        "duration_min": 650,
+        "ended_at": "2026-11-11T03:23:21Z",
+        "game": "Valheim",
         "source": "vod",
-        "started_at": "2026-11-09T18:07:07Z",
-        "stream_id": "319335276646",
-        "title": "Рыбка, а рыбка? ТРА-ТА-ТА-ТА! від Іринка подруга",
+        "started_at": "2026-11-10T16:32:51Z",
+        "stream_id": "319159487975",
+        "title": "Ну штось трошкі пабегаем від Іринка подруга",
         "vod": {
           "gone": false,
-          "id": "2924198395",
-          "seen_at": "2026-11-10T02:36:06Z",
-          "url": "https://www.twitch.tv/videos/2924198395"
+          "id": "2925001779",
+          "seen_at": "2026-11-11T03:24:58Z",
+          "url": "https://www.twitch.tv/videos/2925001779"
         }
       },
       "live": {
-        "game": "Valheim",
-        "since": "2026-11-10T16:32:51Z",
-        "stream_id": "319159487975",
-        "title": "Ну штось трошкі пабегаем від Іринка подруга",
-        "viewers": 8
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5189,5 +5189,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-11T03:10:42Z"
+  "updated_at": "2026-11-11T03:24:58Z"
 }
