@@ -670,6 +670,21 @@
       "display_name": "Bel_Asch",
       "history": [
         {
+          "duration_min": 145,
+          "ended_at": "2026-11-12T20:45:09Z",
+          "game": "Dragon Age: Inquisition",
+          "source": "vod",
+          "started_at": "2026-11-12T18:20:36Z",
+          "stream_id": "319184824551",
+          "title": "Спачывай з мірам...  | Dragon Age: Inquisition",
+          "vod": {
+            "gone": false,
+            "id": "2926896678",
+            "seen_at": "2026-11-12T20:46:48Z",
+            "url": "https://www.twitch.tv/videos/2926896678"
+          }
+        },
+        {
           "duration_min": 67,
           "ended_at": "2026-11-05T19:19:04Z",
           "game": "Looking Up I See Only a Ceiling",
@@ -943,39 +958,29 @@
             "seen_at": "2026-10-04T11:06:03Z",
             "url": "https://www.twitch.tv/videos/2879245784"
           }
-        },
-        {
-          "duration_min": 333,
-          "ended_at": "2026-09-19T14:50:50Z",
-          "game": "Tomb Raider I•II•III Remastered",
-          "source": "observed",
-          "started_at": "2026-09-19T09:18:16Z",
-          "stream_id": "318503129191",
-          "title": "Праходзім дадатак 🌋 | Tomb Raider 1 Unfinished Business Remastered",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 67,
-        "ended_at": "2026-11-05T19:19:04Z",
-        "game": "Looking Up I See Only a Ceiling",
+        "duration_min": 145,
+        "ended_at": "2026-11-12T20:45:09Z",
+        "game": "Dragon Age: Inquisition",
         "source": "vod",
-        "started_at": "2026-11-05T18:12:23Z",
-        "stream_id": "319096003431",
-        "title": "Беларускі Дэпрэссіўны Стан Моладзі 🩶 | Looking Up I See Only a Ceiling",
+        "started_at": "2026-11-12T18:20:36Z",
+        "stream_id": "319184824551",
+        "title": "Спачывай з мірам...  | Dragon Age: Inquisition",
         "vod": {
           "gone": false,
-          "id": "2920400996",
-          "seen_at": "2026-11-05T19:20:33Z",
-          "url": "https://www.twitch.tv/videos/2920400996"
+          "id": "2926896678",
+          "seen_at": "2026-11-12T20:46:48Z",
+          "url": "https://www.twitch.tv/videos/2926896678"
         }
       },
       "live": {
-        "game": "Dragon Age: Inquisition",
-        "since": "2026-11-12T18:20:36Z",
-        "stream_id": "319184824551",
-        "title": "Спачывай з мірам...  | Dragon Age: Inquisition",
-        "viewers": 4
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -3438,7 +3443,7 @@
         "since": "2026-11-12T18:08:14Z",
         "stream_id": "319184591847",
         "title": "Касмічны чацьверг",
-        "viewers": 9
+        "viewers": 10
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4324,7 +4329,7 @@
         "since": "2026-11-12T18:03:29Z",
         "stream_id": "319184497895",
         "title": "Ну штось там будзем рабіць від Іринка подруга",
-        "viewers": 11
+        "viewers": 12
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5217,12 +5222,12 @@
         "since": "2026-11-12T17:20:30Z",
         "stream_id": "317300310228",
         "title": "🔥3 СЕЗОН ! НОВАЯ МАПА і пэўна новый вайб?🥰@watafakablr",
-        "viewers": 9
+        "viewers": 16
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-12T20:43:23Z"
+  "updated_at": "2026-11-12T20:46:47Z"
 }

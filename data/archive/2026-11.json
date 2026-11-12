@@ -242,6 +242,10 @@
     "bel_asch": {
       "added_at": "2026-09-11",
       "categories": {
+        "Dragon Age: Inquisition": {
+          "launches": 1,
+          "minutes": 145
+        },
         "Looking Up I See Only a Ceiling": {
           "launches": 1,
           "minutes": 67
@@ -250,9 +254,9 @@
       "display_name": "Bel_Asch",
       "followers_end": null,
       "followers_start": 216,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,19,0],
-      "launches": 1,
-      "minutes": 67,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,79,45],
+      "launches": 2,
+      "minutes": 212,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T20:47:26Z",
       "sessions": [
@@ -261,9 +265,15 @@
           "ended_at": "2026-11-05T19:19:04Z",
           "started_at": "2026-11-05T18:12:23Z",
           "viewer_minutes": 534
+        },
+        {
+          "duration_min": 145,
+          "ended_at": "2026-11-12T20:45:09Z",
+          "started_at": "2026-11-12T18:20:36Z",
+          "viewer_minutes": 332
         }
       ],
-      "viewer_minutes": 534
+      "viewer_minutes": 866
     },
     "dzed_ahey": {
       "added_at": "2026-09-11",
@@ -1473,5 +1483,5 @@
       "viewer_minutes": 4416
     }
   },
-  "updated_at": "2026-11-12T20:43:23Z"
+  "updated_at": "2026-11-12T20:46:47Z"
 }
