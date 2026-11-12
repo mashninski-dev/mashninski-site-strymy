@@ -3123,6 +3123,21 @@
       "display_name": "Nine_Ravens_Cemetery",
       "history": [
         {
+          "duration_min": 179,
+          "ended_at": "2026-11-12T21:07:04Z",
+          "game": "Species: Unknown",
+          "source": "vod",
+          "started_at": "2026-11-12T18:08:14Z",
+          "stream_id": "319184591847",
+          "title": "Касмічны чацьверг",
+          "vod": {
+            "gone": false,
+            "id": "2926887055",
+            "seen_at": "2026-11-12T21:08:44Z",
+            "url": "https://www.twitch.tv/videos/2926887055"
+          }
+        },
+        {
           "duration_min": 121,
           "ended_at": "2026-11-11T21:02:09Z",
           "game": "Art",
@@ -3406,44 +3421,29 @@
             "seen_at": "2026-10-24T20:48:21Z",
             "url": "https://www.twitch.tv/videos/2909667227"
           }
-        },
-        {
-          "duration_min": 132,
-          "ended_at": "2026-10-23T20:03:11Z",
-          "game": "Just Chatting",
-          "source": "vod",
-          "started_at": "2026-10-23T17:50:42Z",
-          "stream_id": "317118526806",
-          "title": "\"Дом-монстр\" 2006",
-          "vod": {
-            "gone": false,
-            "id": "2908687969",
-            "seen_at": "2026-10-23T20:04:46Z",
-            "url": "https://www.twitch.tv/videos/2908687969"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 121,
-        "ended_at": "2026-11-11T21:02:09Z",
-        "game": "Art",
+        "duration_min": 179,
+        "ended_at": "2026-11-12T21:07:04Z",
+        "game": "Species: Unknown",
         "source": "vod",
-        "started_at": "2026-11-11T19:00:45Z",
-        "stream_id": "319290557669",
-        "title": "Нежабкасерада",
+        "started_at": "2026-11-12T18:08:14Z",
+        "stream_id": "319184591847",
+        "title": "Касмічны чацьверг",
         "vod": {
           "gone": false,
-          "id": "2926042986",
-          "seen_at": "2026-11-11T21:03:47Z",
-          "url": "https://www.twitch.tv/videos/2926042986"
+          "id": "2926887055",
+          "seen_at": "2026-11-12T21:08:44Z",
+          "url": "https://www.twitch.tv/videos/2926887055"
         }
       },
       "live": {
-        "game": "Species: Unknown",
-        "since": "2026-11-12T18:08:14Z",
-        "stream_id": "319184591847",
-        "title": "Касмічны чацьверг",
-        "viewers": 14
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -3670,7 +3670,7 @@
         "since": "2026-11-11T02:23:03Z",
         "stream_id": "319282784101",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 1
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/feb426c4-d99b-47bb-a9dc-8c4259f88e1d-profile_image-300x300.png",
@@ -4329,7 +4329,7 @@
         "since": "2026-11-12T18:03:29Z",
         "stream_id": "319184497895",
         "title": "Ну штось там будзем рабіць від Іринка подруга",
-        "viewers": 10
+        "viewers": 12
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5229,5 +5229,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-12T21:05:30Z"
+  "updated_at": "2026-11-12T21:08:43Z"
 }
