@@ -2217,11 +2217,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "ROBLOX",
+        "since": "2026-11-12T08:36:38Z",
+        "stream_id": "317297386452",
+        "title": "BEL LELELELE",
+        "viewers": 0
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-09-03T10:48:48Z",
@@ -5209,5 +5209,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-12T04:20:10Z"
+  "updated_at": "2026-11-12T08:37:04Z"
 }
