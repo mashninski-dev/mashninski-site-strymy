@@ -245,13 +245,17 @@
           "launches": 1,
           "minutes": 198
         },
+        "Crysis 3 Remastered": {
+          "launches": 1,
+          "minutes": 96
+        },
         "Farming Simulator 25": {
           "launches": 1,
           "minutes": 161
         },
         "The Long Dark": {
-          "launches": 4,
-          "minutes": 686
+          "launches": 5,
+          "minutes": 782
         },
         "The Witcher 3: Wild Hunt Remastered": {
           "launches": 1,
@@ -261,9 +265,9 @@
       "display_name": "DzedMaksim",
       "followers_end": null,
       "followers_start": 248,
-      "hours": [0,0,0,0,0,0,0,0,0,0,8,241,341,360,318,7,0,0,0,0,0,0,0,0],
-      "launches": 7,
-      "minutes": 1277,
+      "hours": [0,0,0,0,0,0,0,0,0,0,8,257,401,420,375,7,0,0,0,0,0,0,0,0],
+      "launches": 8,
+      "minutes": 1469,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T12:00:37Z",
       "sessions": [
@@ -307,9 +311,15 @@
           "ended_at": "2026-11-10T12:07:27Z",
           "started_at": "2026-11-10T07:57:46Z",
           "viewer_minutes": 1572
+        },
+        {
+          "duration_min": 192,
+          "ended_at": "2026-11-12T11:56:42Z",
+          "started_at": "2026-11-12T08:44:24Z",
+          "viewer_minutes": 1296
         }
       ],
-      "viewer_minutes": 8657
+      "viewer_minutes": 9953
     },
     "evildive": {
       "added_at": "2026-09-11",
@@ -1363,5 +1373,5 @@
       "viewer_minutes": 4416
     }
   },
-  "updated_at": "2026-11-12T04:20:10Z"
+  "updated_at": "2026-11-12T11:58:14Z"
 }

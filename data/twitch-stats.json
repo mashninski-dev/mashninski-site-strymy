@@ -157,15 +157,15 @@
         "categories": [
           {
             "game": "Noita",
-            "sec": 9451
+            "sec": 9907
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2813,3600,3038,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-12T11:50:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2813,3600,3494,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-12T11:58:14Z",
         "started_at": "2026-11-12T09:13:07Z",
         "stream_id": "317250824790",
-        "viewer_sec": 158724,
-        "viewers": 20
+        "viewer_sec": 168072,
+        "viewers": 21
       },
       "monthly": {
         "2026-10": {
@@ -533,17 +533,6 @@
           "ended_at": "2026-10-13T11:59:42Z",
           "hours": [0,0,0,0,0,0,0,0,0,0,0,51,60,60,60,0,0,0,0,0,0,0,0,0],
           "started_at": "2026-10-13T08:08:38Z"
-        },
-        {
-          "categories": [
-            {
-              "game": "CONTROL Resonant",
-              "minutes": 222
-            }
-          ],
-          "ended_at": "2026-10-12T11:52:36Z",
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,49,60,60,53,0,0,0,0,0,0,0,0,0],
-          "started_at": "2026-10-12T08:11:02Z"
         }
       ]
     },
@@ -1115,24 +1104,7 @@
           "2026-11-01": 248
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Crysis 3 Remastered",
-            "sec": 5775
-          },
-          {
-            "game": "The Long Dark",
-            "sec": 5399
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,936,3600,3600,3038,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-12T11:50:38Z",
-        "started_at": "2026-11-12T08:44:24Z",
-        "stream_id": "319295837541",
-        "viewer_sec": 75558,
-        "viewers": 6
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -1183,26 +1155,47 @@
               "launches": 1,
               "minutes": 198
             },
+            "Crysis 3 Remastered": {
+              "launches": 1,
+              "minutes": 96
+            },
             "Farming Simulator 25": {
               "launches": 1,
               "minutes": 161
             },
             "The Long Dark": {
-              "launches": 4,
-              "minutes": 686
+              "launches": 5,
+              "minutes": 782
             },
             "The Witcher 3: Wild Hunt Remastered": {
               "launches": 1,
               "minutes": 232
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,8,241,341,360,318,7,0,0,0,0,0,0,0,0],
-          "launches": 7,
-          "minutes": 1277,
-          "viewer_minutes": 8657
+          "hours": [0,0,0,0,0,0,0,0,0,0,8,257,401,420,375,7,0,0,0,0,0,0,0,0],
+          "launches": 8,
+          "minutes": 1469,
+          "viewer_minutes": 9953
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Crysis 3 Remastered",
+              "minutes": 96
+            },
+            {
+              "game": "The Long Dark",
+              "minutes": 96
+            }
+          ],
+          "ended_at": "2026-11-12T11:56:42Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,16,60,60,57,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-12T08:44:24Z",
+          "viewer_minutes": 1296,
+          "viewers_last": 6
+        },
         {
           "categories": [
             {
@@ -2302,15 +2295,15 @@
         "categories": [
           {
             "game": "ROBLOX",
-            "sec": 11640
+            "sec": 12096
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,1402,3600,3600,3038,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-12T11:50:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,1402,3600,3600,3494,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-12T11:58:14Z",
         "started_at": "2026-11-12T08:36:38Z",
         "stream_id": "317297386452",
-        "viewer_sec": 33896,
-        "viewers": 4
+        "viewer_sec": 35948,
+        "viewers": 5
       },
       "monthly": {
         "2026-10": {
@@ -4061,14 +4054,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 120455
+            "sec": 120911
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,5817,7200,7200,7200,7200,7200,7200,7200,7200,6638,3600,3600,3600,3600,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-12T11:50:38Z",
+        "hours_sec": [3600,3600,3600,3600,3600,5817,7200,7200,7200,7200,7200,7200,7200,7200,7094,3600,3600,3600,3600,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-12T11:58:14Z",
         "started_at": "2026-11-11T02:23:03Z",
         "stream_id": "319282784101",
-        "viewer_sec": 125852,
+        "viewer_sec": 126308,
         "viewers": 1
       },
       "monthly": {
@@ -4332,15 +4325,15 @@
         "categories": [
           {
             "game": "Silver Pines",
-            "sec": 1067
+            "sec": 1523
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1067,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-12T11:50:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1523,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-12T11:58:14Z",
         "started_at": "2026-11-12T11:32:51Z",
         "stream_id": "319296815461",
-        "viewer_sec": 11521,
-        "viewers": 16
+        "viewer_sec": 19729,
+        "viewers": 20
       },
       "monthly": {
         "2026-10": {
@@ -6479,6 +6472,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-12T11:50:38Z",
+  "updated_at": "2026-11-12T11:58:14Z",
   "viewers_since": "2026-11-02"
 }
