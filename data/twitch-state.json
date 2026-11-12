@@ -3994,6 +3994,21 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 652,
+          "ended_at": "2026-11-12T04:18:28Z",
+          "game": "The Witcher 3: Wild Hunt Remastered",
+          "source": "vod",
+          "started_at": "2026-11-11T17:26:28Z",
+          "stream_id": "319171961703",
+          "title": "Трошкі пройдземся па пытальнічках від Іринка подруга",
+          "vod": {
+            "gone": false,
+            "id": "2925962267",
+            "seen_at": "2026-11-12T04:20:10Z",
+            "url": "https://www.twitch.tv/videos/2925962267"
+          }
+        },
+        {
           "duration_min": 650,
           "ended_at": "2026-11-11T03:23:21Z",
           "game": "Valheim",
@@ -4272,44 +4287,29 @@
             "seen_at": "2026-10-21T05:18:44Z",
             "url": "https://www.twitch.tv/videos/2906100887"
           }
-        },
-        {
-          "duration_min": 634,
-          "ended_at": "2026-10-20T03:28:40Z",
-          "game": "Valheim",
-          "source": "vod",
-          "started_at": "2026-10-19T16:55:00Z",
-          "stream_id": "319066279014",
-          "title": "І зноў вікінгі від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2905170309",
-            "seen_at": "2026-10-20T03:30:18Z",
-            "url": "https://www.twitch.tv/videos/2905170309"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 650,
-        "ended_at": "2026-11-11T03:23:21Z",
-        "game": "Valheim",
+        "duration_min": 652,
+        "ended_at": "2026-11-12T04:18:28Z",
+        "game": "The Witcher 3: Wild Hunt Remastered",
         "source": "vod",
-        "started_at": "2026-11-10T16:32:51Z",
-        "stream_id": "319159487975",
-        "title": "Ну штось трошкі пабегаем від Іринка подруга",
+        "started_at": "2026-11-11T17:26:28Z",
+        "stream_id": "319171961703",
+        "title": "Трошкі пройдземся па пытальнічках від Іринка подруга",
         "vod": {
           "gone": false,
-          "id": "2925001779",
-          "seen_at": "2026-11-11T03:24:58Z",
-          "url": "https://www.twitch.tv/videos/2925001779"
+          "id": "2925962267",
+          "seen_at": "2026-11-12T04:20:10Z",
+          "url": "https://www.twitch.tv/videos/2925962267"
         }
       },
       "live": {
-        "game": "The Witcher 3: Wild Hunt Remastered",
-        "since": "2026-11-11T17:26:28Z",
-        "stream_id": "319171961703",
-        "title": "Трошкі пройдземся па пытальнічках від Іринка подруга",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5209,5 +5209,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-12T04:00:38Z"
+  "updated_at": "2026-11-12T04:20:10Z"
 }

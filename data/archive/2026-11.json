@@ -1006,8 +1006,8 @@
       "added_at": "2026-09-11",
       "categories": {
         "Counter-Strike": {
-          "launches": 1,
-          "minutes": 378
+          "launches": 2,
+          "minutes": 732
         },
         "How to Fish": {
           "launches": 1,
@@ -1030,8 +1030,8 @@
           "minutes": 251
         },
         "The Witcher 3: Wild Hunt Remastered": {
-          "launches": 6,
-          "minutes": 2058
+          "launches": 7,
+          "minutes": 2355
         },
         "Valheim": {
           "launches": 3,
@@ -1041,9 +1041,9 @@
       "display_name": "ShagraeL_BY",
       "followers_end": null,
       "followers_start": 1019,
-      "hours": [540,540,540,540,413,201,30,0,0,0,0,0,0,0,0,0,0,0,0,27,172,409,540,540],
-      "launches": 9,
-      "minutes": 4492,
+      "hours": [600,600,600,600,473,261,90,18,0,0,0,0,0,0,0,0,0,0,0,27,206,469,600,600],
+      "launches": 10,
+      "minutes": 5144,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-11-01T02:02:08Z",
       "sessions": [
@@ -1099,9 +1099,15 @@
           "ended_at": "2026-11-11T03:23:21Z",
           "started_at": "2026-11-10T16:32:51Z",
           "viewer_minutes": 8216
+        },
+        {
+          "duration_min": 652,
+          "ended_at": "2026-11-12T04:18:28Z",
+          "started_at": "2026-11-11T17:26:28Z",
+          "viewer_minutes": 8851
         }
       ],
-      "viewer_minutes": 46604
+      "viewer_minutes": 55455
     },
     "sla5her_by": {
       "added_at": "2026-10-08",
@@ -1357,5 +1363,5 @@
       "viewer_minutes": 4416
     }
   },
-  "updated_at": "2026-11-11T21:41:17Z"
+  "updated_at": "2026-11-12T04:20:10Z"
 }
