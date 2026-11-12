@@ -408,16 +408,16 @@
           "minutes": 393
         },
         "Stardew Valley": {
-          "launches": 2,
-          "minutes": 109
+          "launches": 3,
+          "minutes": 209
         }
       },
       "display_name": "Kryvichanka",
       "followers_end": null,
       "followers_start": 142,
-      "hours": [49,60,60,60,74,60,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,58],
-      "launches": 5,
-      "minutes": 502,
+      "hours": [49,60,60,60,74,60,21,0,0,0,0,0,0,0,0,0,0,0,0,0,37,60,63,58],
+      "launches": 6,
+      "minutes": 602,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-26T18:57:48Z",
       "sessions": [
@@ -450,9 +450,15 @@
           "ended_at": "2026-11-11T20:57:40Z",
           "started_at": "2026-11-11T19:00:05Z",
           "viewer_minutes": 171
+        },
+        {
+          "duration_min": 100,
+          "ended_at": "2026-11-12T19:02:44Z",
+          "started_at": "2026-11-12T17:22:45Z",
+          "viewer_minutes": 214
         }
       ],
-      "viewer_minutes": 771
+      "viewer_minutes": 985
     },
     "kurisu_illusia": {
       "added_at": "2026-09-11",
@@ -1441,5 +1447,5 @@
       "viewer_minutes": 4416
     }
   },
-  "updated_at": "2026-11-12T18:20:42Z"
+  "updated_at": "2026-11-12T19:02:44Z"
 }
