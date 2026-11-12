@@ -1068,7 +1068,7 @@
           "minutes": 359
         },
         "Species: Unknown": {
-          "launches": 2,
+          "launches": 3,
           "minutes": 251
         },
         "The Witcher 3: Wild Hunt Remastered": {
@@ -1084,8 +1084,8 @@
       "followers_end": null,
       "followers_start": 1019,
       "hours": [600,600,600,600,473,261,90,18,0,0,0,0,0,0,0,0,0,0,0,27,206,469,600,600],
-      "launches": 10,
-      "minutes": 5144,
+      "launches": 11,
+      "minutes": 5145,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-11-01T02:02:08Z",
       "sessions": [
@@ -1147,6 +1147,12 @@
           "ended_at": "2026-11-12T04:18:28Z",
           "started_at": "2026-11-11T17:26:28Z",
           "viewer_minutes": 8851
+        },
+        {
+          "duration_min": 1,
+          "ended_at": "2026-11-12T18:03:36Z",
+          "started_at": "2026-11-12T18:03:34Z",
+          "viewer_minutes": 0
         }
       ],
       "viewer_minutes": 55455
@@ -1405,5 +1411,5 @@
       "viewer_minutes": 4416
     }
   },
-  "updated_at": "2026-11-12T15:39:18Z"
+  "updated_at": "2026-11-12T18:03:34Z"
 }

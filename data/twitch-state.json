@@ -1435,11 +1435,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Species: Unknown",
+        "since": "2026-11-12T18:03:01Z",
+        "stream_id": "319184485863",
+        "title": "Кааператыўны жахасьцік з @Ucenamescy @shagrael_by | Species: Unkown беларуская мова",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -1794,7 +1794,7 @@
         "since": "2026-11-12T17:22:45Z",
         "stream_id": "319885600727",
         "title": "#Hot cakes🦫🦫🦫 часінку",
-        "viewers": 5
+        "viewers": 3
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad2b7c75-ce68-451d-9983-b84b1dd67c16-profile_image-300x300.png",
@@ -4009,6 +4009,21 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 1,
+          "ended_at": "2026-11-12T18:03:36Z",
+          "game": "Species: Unknown",
+          "source": "vod",
+          "started_at": "2026-11-12T18:03:34Z",
+          "stream_id": "319184497895",
+          "title": "У КОСМАС з хлопцамі! від Іринка подруга",
+          "vod": {
+            "gone": false,
+            "id": "2926883039",
+            "seen_at": "2026-11-12T18:03:37Z",
+            "url": "https://www.twitch.tv/videos/2926883039"
+          }
+        },
+        {
           "duration_min": 652,
           "ended_at": "2026-11-12T04:18:28Z",
           "game": "The Witcher 3: Wild Hunt Remastered",
@@ -4287,36 +4302,21 @@
             "seen_at": "2026-10-22T03:02:29Z",
             "url": "https://www.twitch.tv/videos/2906961326"
           }
-        },
-        {
-          "duration_min": 655,
-          "ended_at": "2026-10-21T05:17:05Z",
-          "game": "Kingdom Come: Deliverance",
-          "source": "vod",
-          "started_at": "2026-10-20T18:22:25Z",
-          "stream_id": "318884161127",
-          "title": "Спробуем дабіць сюжэт від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2906100887",
-            "seen_at": "2026-10-21T05:18:44Z",
-            "url": "https://www.twitch.tv/videos/2906100887"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 652,
-        "ended_at": "2026-11-12T04:18:28Z",
-        "game": "The Witcher 3: Wild Hunt Remastered",
+        "duration_min": 1,
+        "ended_at": "2026-11-12T18:03:36Z",
+        "game": "Species: Unknown",
         "source": "vod",
-        "started_at": "2026-11-11T17:26:28Z",
-        "stream_id": "319171961703",
-        "title": "Трошкі пройдземся па пытальнічках від Іринка подруга",
+        "started_at": "2026-11-12T18:03:34Z",
+        "stream_id": "319184497895",
+        "title": "У КОСМАС з хлопцамі! від Іринка подруга",
         "vod": {
           "gone": false,
-          "id": "2925962267",
-          "seen_at": "2026-11-12T04:20:10Z",
-          "url": "https://www.twitch.tv/videos/2925962267"
+          "id": "2926883039",
+          "seen_at": "2026-11-12T18:03:37Z",
+          "url": "https://www.twitch.tv/videos/2926883039"
         }
       },
       "live": {
@@ -5217,12 +5217,12 @@
         "since": "2026-11-12T17:20:30Z",
         "stream_id": "317300310228",
         "title": "🔥3 СЕЗОН ! НОВАЯ МАПА і пэўна новый вайб?🥰@watafakablr",
-        "viewers": 12
+        "viewers": 13
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-12T18:00:37Z"
+  "updated_at": "2026-11-12T18:03:34Z"
 }
