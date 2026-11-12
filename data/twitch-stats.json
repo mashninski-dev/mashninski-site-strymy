@@ -98,7 +98,7 @@
       "started_at": "2026-11-09T18:19:53Z"
     },
     "c26064ed-2ced-4f34-9f80-0c28611f7262": {
-      "ended_at": null,
+      "ended_at": "2026-11-12T20:13:59Z",
       "games": [
         "Species: Unknown"
       ],
@@ -841,15 +841,15 @@
         "categories": [
           {
             "game": "Dragon Age: Inquisition",
-            "sec": 6603
+            "sec": 6803
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2364,3600,639],
-        "last_seen_at": "2026-11-12T20:10:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2364,3600,839],
+        "last_seen_at": "2026-11-12T20:13:59Z",
         "started_at": "2026-11-12T18:20:36Z",
         "stream_id": "319184824551",
-        "viewer_sec": 14251,
-        "viewers": 3
+        "viewer_sec": 14651,
+        "viewers": 1
       },
       "monthly": {
         "2026-10": {
@@ -1151,20 +1151,7 @@
           "2026-11-01": 248
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Species: Unknown",
-            "sec": 7658
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3419,3600,639],
-        "last_seen_at": "2026-11-12T20:10:39Z",
-        "started_at": "2026-11-12T18:03:01Z",
-        "stream_id": "319184485863",
-        "viewer_sec": 31814,
-        "viewers": 4
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -1223,6 +1210,10 @@
               "launches": 1,
               "minutes": 161
             },
+            "Species: Unknown": {
+              "launches": 1,
+              "minutes": 129
+            },
             "The Long Dark": {
               "launches": 5,
               "minutes": 782
@@ -1232,13 +1223,26 @@
               "minutes": 232
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,8,257,401,420,375,7,0,0,0,0,0,0,0,0],
-          "launches": 8,
-          "minutes": 1469,
-          "viewer_minutes": 9953
+          "hours": [0,0,0,0,0,0,0,0,0,0,8,257,401,420,375,7,0,0,0,0,0,57,60,12],
+          "launches": 9,
+          "minutes": 1598,
+          "viewer_minutes": 10491
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Species: Unknown",
+              "minutes": 129
+            }
+          ],
+          "ended_at": "2026-11-12T20:12:25Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,60,12],
+          "started_at": "2026-11-12T18:03:01Z",
+          "viewer_minutes": 538,
+          "viewers_last": 4
+        },
         {
           "categories": [
             {
@@ -3077,14 +3081,14 @@
         "categories": [
           {
             "game": "Serious Sam 3: BFE",
-            "sec": 6517
+            "sec": 6717
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2278,3600,639],
-        "last_seen_at": "2026-11-12T20:10:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2278,3600,839],
+        "last_seen_at": "2026-11-12T20:13:59Z",
         "started_at": "2026-11-12T18:22:02Z",
         "stream_id": "317217789397",
-        "viewer_sec": 20280,
+        "viewer_sec": 21080,
         "viewers": 4
       },
       "monthly": {
@@ -3690,15 +3694,15 @@
         "categories": [
           {
             "game": "Species: Unknown",
-            "sec": 7345
+            "sec": 7545
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3106,3600,639],
-        "last_seen_at": "2026-11-12T20:10:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3106,3600,839],
+        "last_seen_at": "2026-11-12T20:13:59Z",
         "started_at": "2026-11-12T18:08:14Z",
         "stream_id": "319184591847",
-        "viewer_sec": 36956,
-        "viewers": 6
+        "viewer_sec": 38356,
+        "viewers": 8
       },
       "monthly": {
         "2026-10": {
@@ -4159,14 +4163,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 150456
+            "sec": 150656
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,5817,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,4239],
-        "last_seen_at": "2026-11-12T20:10:39Z",
+        "hours_sec": [3600,3600,3600,3600,3600,5817,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,4439],
+        "last_seen_at": "2026-11-12T20:13:59Z",
         "started_at": "2026-11-11T02:23:03Z",
         "stream_id": "319282784101",
-        "viewer_sec": 191275,
+        "viewer_sec": 191475,
         "viewers": 1
       },
       "monthly": {
@@ -4835,14 +4839,18 @@
         "categories": [
           {
             "game": "Species: Unknown",
-            "sec": 7630
+            "sec": 7830
+          },
+          {
+            "game": "Valheim",
+            "sec": 0
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3391,3600,639],
-        "last_seen_at": "2026-11-12T20:10:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3391,3600,839],
+        "last_seen_at": "2026-11-12T20:13:59Z",
         "started_at": "2026-11-12T18:03:29Z",
         "stream_id": "319184497895",
-        "viewer_sec": 66395,
+        "viewer_sec": 67795,
         "viewers": 7
       },
       "monthly": {
@@ -5858,20 +5866,7 @@
           "2026-11-01": 150
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Species: Unknown",
-            "sec": 7568
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3329,3600,639],
-        "last_seen_at": "2026-11-12T20:10:39Z",
-        "started_at": "2026-11-12T18:04:31Z",
-        "stream_id": "319184524007",
-        "viewer_sec": 43481,
-        "viewers": 6
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -5941,15 +5936,32 @@
             "Silver Pines": {
               "launches": 3,
               "minutes": 600
+            },
+            "Species: Unknown": {
+              "launches": 1,
+              "minutes": 129
             }
           },
-          "hours": [240,200,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,100,238,268],
-          "launches": 5,
-          "minutes": 1115,
-          "viewer_minutes": 7862
+          "hours": [240,200,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,155,298,281],
+          "launches": 6,
+          "minutes": 1244,
+          "viewer_minutes": 8602
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Species: Unknown",
+              "minutes": 129
+            }
+          ],
+          "ended_at": "2026-11-12T20:13:11Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,60,13],
+          "started_at": "2026-11-12T18:04:31Z",
+          "viewer_minutes": 740,
+          "viewers_last": 6
+        },
         {
           "categories": [
             {
@@ -6284,15 +6296,15 @@
         "categories": [
           {
             "game": "WARDOGS",
-            "sec": 10209
+            "sec": 10409
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2370,3600,3600,639],
-        "last_seen_at": "2026-11-12T20:10:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2370,3600,3600,839],
+        "last_seen_at": "2026-11-12T20:13:59Z",
         "started_at": "2026-11-12T17:20:30Z",
         "stream_id": "317300310228",
-        "viewer_sec": 78527,
-        "viewers": 6
+        "viewer_sec": 79827,
+        "viewers": 7
       },
       "monthly": {
         "2026-10": {
@@ -6618,6 +6630,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-12T20:10:39Z",
+  "updated_at": "2026-11-12T20:13:59Z",
   "viewers_since": "2026-11-02"
 }

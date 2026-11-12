@@ -975,7 +975,7 @@
         "since": "2026-11-12T18:20:36Z",
         "stream_id": "319184824551",
         "title": "Спачывай з мірам...  | Dragon Age: Inquisition",
-        "viewers": 3
+        "viewers": 1
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -1118,6 +1118,21 @@
       "description": "Падпішыся! Тут пра гульні і не толькі. Падтрымаць і запытаць - https://dzedmaksim.donatik.ua/ aльбо тут  - https://streamlabs.com/dzedmaksim",
       "display_name": "DzedMaksim",
       "history": [
+        {
+          "duration_min": 129,
+          "ended_at": "2026-11-12T20:12:25Z",
+          "game": "Species: Unknown",
+          "source": "vod",
+          "started_at": "2026-11-12T18:03:01Z",
+          "stream_id": "319184485863",
+          "title": "Кааператыўны жахасьцік з @Ucenamescy @shagrael_by | Species: Unkown беларуская мова",
+          "vod": {
+            "gone": false,
+            "id": "2926882620",
+            "seen_at": "2026-11-12T20:14:00Z",
+            "url": "https://www.twitch.tv/videos/2926882620"
+          }
+        },
         {
           "duration_min": 192,
           "ended_at": "2026-11-12T11:56:42Z",
@@ -1402,44 +1417,29 @@
             "seen_at": "2026-10-23T10:50:02Z",
             "url": "https://www.twitch.tv/videos/2908337054"
           }
-        },
-        {
-          "duration_min": 245,
-          "ended_at": "2026-10-22T11:05:55Z",
-          "game": "The Long Dark",
-          "source": "vod",
-          "started_at": "2026-10-22T07:01:00Z",
-          "stream_id": "319096921318",
-          "title": "87# Агарнуліся! Перамога будзе за намі! Дзень 480+💀Няпрошаны госьць💀|🪓 The Long Dark беларуская мова",
-          "vod": {
-            "gone": false,
-            "id": "2907453680",
-            "seen_at": "2026-10-22T11:07:38Z",
-            "url": "https://www.twitch.tv/videos/2907453680"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 192,
-        "ended_at": "2026-11-12T11:56:42Z",
-        "game": "The Long Dark",
+        "duration_min": 129,
+        "ended_at": "2026-11-12T20:12:25Z",
+        "game": "Species: Unknown",
         "source": "vod",
-        "started_at": "2026-11-12T08:44:24Z",
-        "stream_id": "319295837541",
-        "title": "Зафіналілі Crysis 3, а цяперака КАЧКА!!!!",
+        "started_at": "2026-11-12T18:03:01Z",
+        "stream_id": "319184485863",
+        "title": "Кааператыўны жахасьцік з @Ucenamescy @shagrael_by | Species: Unkown беларуская мова",
         "vod": {
           "gone": false,
-          "id": "2926584441",
-          "seen_at": "2026-11-12T11:58:15Z",
-          "url": "https://www.twitch.tv/videos/2926584441"
+          "id": "2926882620",
+          "seen_at": "2026-11-12T20:14:00Z",
+          "url": "https://www.twitch.tv/videos/2926882620"
         }
       },
       "live": {
-        "game": "Species: Unknown",
-        "since": "2026-11-12T18:03:01Z",
-        "stream_id": "319184485863",
-        "title": "Кааператыўны жахасьцік з @Ucenamescy @shagrael_by | Species: Unkown беларуская мова",
-        "viewers": 4
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -3438,7 +3438,7 @@
         "since": "2026-11-12T18:08:14Z",
         "stream_id": "319184591847",
         "title": "Касмічны чацьверг",
-        "viewers": 6
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4320,10 +4320,10 @@
         }
       },
       "live": {
-        "game": "Species: Unknown",
+        "game": "Valheim",
         "since": "2026-11-12T18:03:29Z",
         "stream_id": "319184497895",
-        "title": "У КОСМАС з хлопцамі! від Іринка подруга",
+        "title": "Ну штось там будзем рабіць від Іринка подруга",
         "viewers": 7
       },
       "missing_runs": 0,
@@ -4596,6 +4596,21 @@
       "description": "♦️ Тэхстрымер твічоўскі. Жыццё - жураві́ны з цукрам",
       "display_name": "Ucenamescy",
       "history": [
+        {
+          "duration_min": 129,
+          "ended_at": "2026-11-12T20:13:11Z",
+          "game": "Species: Unknown",
+          "source": "vod",
+          "started_at": "2026-11-12T18:04:31Z",
+          "stream_id": "319184524007",
+          "title": "Планетарныя Справы ◉ Species Unknown",
+          "vod": {
+            "gone": false,
+            "id": "2926884088",
+            "seen_at": "2026-11-12T20:14:00Z",
+            "url": "https://www.twitch.tv/videos/2926884088"
+          }
+        },
         {
           "duration_min": 222,
           "ended_at": "2026-11-10T22:44:48Z",
@@ -4880,44 +4895,29 @@
             "seen_at": "2026-10-13T22:58:48Z",
             "url": "https://www.twitch.tv/videos/2899955081"
           }
-        },
-        {
-          "duration_min": 159,
-          "ended_at": "2026-10-11T19:44:34Z",
-          "game": "Shadows of Doubt",
-          "source": "vod",
-          "started_at": "2026-10-11T17:05:26Z",
-          "stream_id": "318966253798",
-          "title": "Трошкі дэтэктыў ◉ Shadow Of Doubt",
-          "vod": {
-            "gone": false,
-            "id": "2898071715",
-            "seen_at": "2026-10-11T19:46:16Z",
-            "url": "https://www.twitch.tv/videos/2898071715"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 222,
-        "ended_at": "2026-11-10T22:44:48Z",
-        "game": "Silver Pines",
+        "duration_min": 129,
+        "ended_at": "2026-11-12T20:13:11Z",
+        "game": "Species: Unknown",
         "source": "vod",
-        "started_at": "2026-11-10T19:02:18Z",
-        "stream_id": "319278816613",
-        "title": "Каналізацыя і Анігіляцыя ◉ Silver Pines #9",
+        "started_at": "2026-11-12T18:04:31Z",
+        "stream_id": "319184524007",
+        "title": "Планетарныя Справы ◉ Species Unknown",
         "vod": {
           "gone": false,
-          "id": "2925121501",
-          "seen_at": "2026-11-10T22:46:28Z",
-          "url": "https://www.twitch.tv/videos/2925121501"
+          "id": "2926884088",
+          "seen_at": "2026-11-12T20:14:00Z",
+          "url": "https://www.twitch.tv/videos/2926884088"
         }
       },
       "live": {
-        "game": "Species: Unknown",
-        "since": "2026-11-12T18:04:31Z",
-        "stream_id": "319184524007",
-        "title": "Планетарныя Справы ◉ Species Unknown",
-        "viewers": 6
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5217,12 +5217,12 @@
         "since": "2026-11-12T17:20:30Z",
         "stream_id": "317300310228",
         "title": "🔥3 СЕЗОН ! НОВАЯ МАПА і пэўна новый вайб?🥰@watafakablr",
-        "viewers": 6
+        "viewers": 7
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-12T20:10:39Z"
+  "updated_at": "2026-11-12T20:13:59Z"
 }
