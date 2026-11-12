@@ -489,14 +489,18 @@
         "Genshin Impact": {
           "launches": 1,
           "minutes": 174
+        },
+        "ROBLOX": {
+          "launches": 1,
+          "minutes": 204
         }
       },
       "display_name": "lilzorka_",
       "followers_end": null,
       "followers_start": 134,
-      "hours": [48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,60,60],
-      "launches": 1,
-      "minutes": 174,
+      "hours": [48,0,0,0,0,0,0,0,0,0,0,23,60,60,60,1,0,0,0,0,0,6,60,60],
+      "launches": 2,
+      "minutes": 378,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T23:19:55Z",
       "sessions": [
@@ -505,9 +509,15 @@
           "ended_at": "2026-11-07T21:48:28Z",
           "started_at": "2026-11-07T18:54:30Z",
           "viewer_minutes": 424
+        },
+        {
+          "duration_min": 204,
+          "ended_at": "2026-11-12T12:01:00Z",
+          "started_at": "2026-11-12T08:36:38Z",
+          "viewer_minutes": 613
         }
       ],
-      "viewer_minutes": 424
+      "viewer_minutes": 1037
     },
     "lucii7vel": {
       "added_at": "2026-09-11",
@@ -1373,5 +1383,5 @@
       "viewer_minutes": 4416
     }
   },
-  "updated_at": "2026-11-12T11:58:14Z"
+  "updated_at": "2026-11-12T12:02:34Z"
 }

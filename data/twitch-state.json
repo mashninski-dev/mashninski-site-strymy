@@ -2156,6 +2156,21 @@
       "display_name": "lilzorka_",
       "history": [
         {
+          "duration_min": 204,
+          "ended_at": "2026-11-12T12:01:00Z",
+          "game": "ROBLOX",
+          "source": "vod",
+          "started_at": "2026-11-12T08:36:38Z",
+          "stream_id": "317297386452",
+          "title": "BEL LELELELE",
+          "vod": {
+            "gone": false,
+            "id": "2926582002",
+            "seen_at": "2026-11-12T12:02:35Z",
+            "url": "https://www.twitch.tv/videos/2926582002"
+          }
+        },
+        {
           "duration_min": 174,
           "ended_at": "2026-11-07T21:48:28Z",
           "game": "Genshin Impact",
@@ -2202,26 +2217,26 @@
         }
       ],
       "last_stream": {
-        "duration_min": 174,
-        "ended_at": "2026-11-07T21:48:28Z",
-        "game": "Genshin Impact",
+        "duration_min": 204,
+        "ended_at": "2026-11-12T12:01:00Z",
+        "game": "ROBLOX",
         "source": "vod",
-        "started_at": "2026-11-07T18:54:30Z",
-        "stream_id": "319310183270",
-        "title": "BEL АААААААААААЙ",
+        "started_at": "2026-11-12T08:36:38Z",
+        "stream_id": "317297386452",
+        "title": "BEL LELELELE",
         "vod": {
           "gone": false,
-          "id": "2922364581",
-          "seen_at": "2026-11-07T21:49:59Z",
-          "url": "https://www.twitch.tv/videos/2922364581"
+          "id": "2926582002",
+          "seen_at": "2026-11-12T12:02:35Z",
+          "url": "https://www.twitch.tv/videos/2926582002"
         }
       },
       "live": {
-        "game": "ROBLOX",
-        "since": "2026-11-12T08:36:38Z",
-        "stream_id": "317297386452",
-        "title": "BEL LELELELE",
-        "viewers": 5
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-09-03T10:48:48Z",
@@ -3982,7 +3997,7 @@
         "since": "2026-11-12T11:32:51Z",
         "stream_id": "319296815461",
         "title": "Тэставая шмэга",
-        "viewers": 20
+        "viewers": 22
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -5209,5 +5224,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-12T12:00:42Z"
+  "updated_at": "2026-11-12T12:02:34Z"
 }
