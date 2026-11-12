@@ -3443,7 +3443,7 @@
         "since": "2026-11-12T18:08:14Z",
         "stream_id": "319184591847",
         "title": "Касмічны чацьверг",
-        "viewers": 12
+        "viewers": 14
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4329,7 +4329,7 @@
         "since": "2026-11-12T18:03:29Z",
         "stream_id": "319184497895",
         "title": "Ну штось там будзем рабіць від Іринка подруга",
-        "viewers": 11
+        "viewers": 10
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4982,6 +4982,16 @@
       "display_name": "watafakablr",
       "history": [
         {
+          "duration_min": 225,
+          "ended_at": "2026-11-12T21:05:30Z",
+          "game": "WARDOGS",
+          "source": "observed",
+          "started_at": "2026-11-12T17:20:30Z",
+          "stream_id": "317300310228",
+          "title": "🔥3 СЕЗОН ! НОВАЯ МАПА і пэўна новый вайб?🥰@watafakablr",
+          "vod": null
+        },
+        {
           "duration_min": 226,
           "ended_at": "2026-11-11T20:57:40Z",
           "game": "HELLDIVERS 2",
@@ -5195,39 +5205,29 @@
           "stream_id": "317032104277",
           "title": "🔥АФІЦЫЙНАЯ ЗАЯВА ! 2 СЕЗОН ВАРДОГС ЛІЧЫЦЦА АДКРЫТЫМ🥰@watafakablr",
           "vod": null
-        },
-        {
-          "duration_min": 247,
-          "ended_at": "2026-10-14T21:21:38Z",
-          "game": "HELLDIVERS 2",
-          "source": "observed",
-          "started_at": "2026-10-14T17:14:15Z",
-          "stream_id": "317062341590",
-          "title": "🔥ВЫНІШЧАЕМ РЭСПУБЛІКАНСКУЮ ГІДОТУ РАЗАМ🥰@watafakablr",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 226,
-        "ended_at": "2026-11-11T20:57:40Z",
-        "game": "HELLDIVERS 2",
+        "duration_min": 225,
+        "ended_at": "2026-11-12T21:05:30Z",
+        "game": "WARDOGS",
         "source": "observed",
-        "started_at": "2026-11-11T17:11:40Z",
-        "stream_id": "317294239316",
-        "title": "🔥ДЭРМАКРАТЫ вызваляюць чцжыродныя планеты ад генома + СЛУХАЕМ вашу музыку🥰@watafakablr",
+        "started_at": "2026-11-12T17:20:30Z",
+        "stream_id": "317300310228",
+        "title": "🔥3 СЕЗОН ! НОВАЯ МАПА і пэўна новый вайб?🥰@watafakablr",
         "vod": null
       },
       "live": {
-        "game": "WARDOGS",
-        "since": "2026-11-12T17:20:30Z",
-        "stream_id": "317300310228",
-        "title": "🔥3 СЕЗОН ! НОВАЯ МАПА і пэўна новый вайб?🥰@watafakablr",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-12T21:00:40Z"
+  "updated_at": "2026-11-12T21:05:30Z"
 }

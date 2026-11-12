@@ -1456,14 +1456,18 @@
         "HELLDIVERS 2": {
           "launches": 1,
           "minutes": 226
+        },
+        "WARDOGS": {
+          "launches": 1,
+          "minutes": 225
         }
       },
       "display_name": "watafakablr",
       "followers_end": null,
       "followers_start": 478,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,108,120,120,66],
-      "launches": 2,
-      "minutes": 449,
+      "hours": [6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,148,180,180,126],
+      "launches": 3,
+      "minutes": 674,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T21:47:59Z",
       "sessions": [
@@ -1478,10 +1482,16 @@
           "ended_at": "2026-11-11T20:57:40Z",
           "started_at": "2026-11-11T17:11:40Z",
           "viewer_minutes": 2187
+        },
+        {
+          "duration_min": 225,
+          "ended_at": "2026-11-12T21:05:30Z",
+          "started_at": "2026-11-12T17:20:30Z",
+          "viewer_minutes": 1839
         }
       ],
-      "viewer_minutes": 4416
+      "viewer_minutes": 6255
     }
   },
-  "updated_at": "2026-11-12T20:46:47Z"
+  "updated_at": "2026-11-12T21:05:30Z"
 }
