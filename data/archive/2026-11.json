@@ -752,16 +752,16 @@
           "minutes": 127
         },
         "Serious Sam 3: BFE": {
-          "launches": 1,
-          "minutes": 152
+          "launches": 2,
+          "minutes": 292
         }
       },
       "display_name": "Mihas_Gareza",
       "followers_end": null,
       "followers_start": 201,
-      "hours": [97,60,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,122,460,498,414],
-      "launches": 9,
-      "minutes": 1758,
+      "hours": [97,60,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,122,498,558,456],
+      "launches": 10,
+      "minutes": 1898,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-29T21:31:30Z",
       "sessions": [
@@ -817,9 +817,15 @@
           "ended_at": "2026-11-11T20:48:56Z",
           "started_at": "2026-11-11T17:01:47Z",
           "viewer_minutes": 723
+        },
+        {
+          "duration_min": 140,
+          "ended_at": "2026-11-12T20:41:51Z",
+          "started_at": "2026-11-12T18:22:02Z",
+          "viewer_minutes": 537
         }
       ],
-      "viewer_minutes": 7569
+      "viewer_minutes": 8106
     },
     "ms_bahiema": {
       "added_at": "2026-09-11",
@@ -1467,5 +1473,5 @@
       "viewer_minutes": 4416
     }
   },
-  "updated_at": "2026-11-12T20:13:59Z"
+  "updated_at": "2026-11-12T20:43:23Z"
 }

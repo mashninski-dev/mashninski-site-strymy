@@ -975,7 +975,7 @@
         "since": "2026-11-12T18:20:36Z",
         "stream_id": "319184824551",
         "title": "Спачывай з мірам...  | Dragon Age: Inquisition",
-        "viewers": 3
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -2617,6 +2617,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 140,
+          "ended_at": "2026-11-12T20:41:51Z",
+          "game": "Serious Sam 3: BFE",
+          "source": "vod",
+          "started_at": "2026-11-12T18:22:02Z",
+          "stream_id": "317217789397",
+          "title": "[BLR] Рэтра Чацвер. Фіналім Сур'ёзнага Сэма",
+          "vod": {
+            "gone": false,
+            "id": "2926897746",
+            "seen_at": "2026-11-12T20:43:24Z",
+            "url": "https://www.twitch.tv/videos/2926897746"
+          }
+        },
+        {
           "duration_min": 227,
           "ended_at": "2026-11-11T20:48:56Z",
           "game": "HELLDIVERS 2",
@@ -2900,44 +2915,29 @@
             "seen_at": "2026-10-19T21:16:26Z",
             "url": "https://www.twitch.tv/videos/2905179709"
           }
-        },
-        {
-          "duration_min": 97,
-          "ended_at": "2026-10-18T19:32:25Z",
-          "game": "Valor Mortis",
-          "source": "vod",
-          "started_at": "2026-10-18T17:55:16Z",
-          "stream_id": "318998319077",
-          "title": "[BLR] Нядзельны трыял. Святкуем 200 фаловераў.  Польская навінка. Паўтары гадзіны",
-          "vod": {
-            "gone": false,
-            "id": "2904383880",
-            "seen_at": "2026-10-18T19:33:56Z",
-            "url": "https://www.twitch.tv/videos/2904383880"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 227,
-        "ended_at": "2026-11-11T20:48:56Z",
-        "game": "HELLDIVERS 2",
+        "duration_min": 140,
+        "ended_at": "2026-11-12T20:41:51Z",
+        "game": "Serious Sam 3: BFE",
         "source": "vod",
-        "started_at": "2026-11-11T17:01:47Z",
-        "stream_id": "319171601127",
-        "title": "[BLR] Каапная серада. Усё дзеля дэмакратыі",
+        "started_at": "2026-11-12T18:22:02Z",
+        "stream_id": "317217789397",
+        "title": "[BLR] Рэтра Чацвер. Фіналім Сур'ёзнага Сэма",
         "vod": {
           "gone": false,
-          "id": "2925942124",
-          "seen_at": "2026-11-11T20:57:41Z",
-          "url": "https://www.twitch.tv/videos/2925942124"
+          "id": "2926897746",
+          "seen_at": "2026-11-12T20:43:24Z",
+          "url": "https://www.twitch.tv/videos/2926897746"
         }
       },
       "live": {
-        "game": "Serious Sam 3: BFE",
-        "since": "2026-11-12T18:22:02Z",
-        "stream_id": "317217789397",
-        "title": "[BLR] Рэтра Чацвер. Фіналім Сур'ёзнага Сэма",
-        "viewers": 8
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3438,7 +3438,7 @@
         "since": "2026-11-12T18:08:14Z",
         "stream_id": "319184591847",
         "title": "Касмічны чацьверг",
-        "viewers": 11
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4324,7 +4324,7 @@
         "since": "2026-11-12T18:03:29Z",
         "stream_id": "319184497895",
         "title": "Ну штось там будзем рабіць від Іринка подруга",
-        "viewers": 12
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5217,12 +5217,12 @@
         "since": "2026-11-12T17:20:30Z",
         "stream_id": "317300310228",
         "title": "🔥3 СЕЗОН ! НОВАЯ МАПА і пэўна новый вайб?🥰@watafakablr",
-        "viewers": 10
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-12T20:40:38Z"
+  "updated_at": "2026-11-12T20:43:23Z"
 }
