@@ -563,8 +563,8 @@
           "minutes": 713
         },
         "Fear & Hunger 2: Termina": {
-          "launches": 2,
-          "minutes": 339
+          "launches": 3,
+          "minutes": 452
         },
         "Just Chatting": {
           "launches": 1,
@@ -582,9 +582,9 @@
       "display_name": "mashninski",
       "followers_end": null,
       "followers_start": 176,
-      "hours": [40,0,0,0,0,0,0,0,0,0,0,0,0,54,96,273,438,318,118,37,60,60,90,70],
-      "launches": 13,
-      "minutes": 1655,
+      "hours": [40,0,0,0,0,0,0,0,0,0,0,0,0,54,96,273,453,378,156,37,60,60,90,70],
+      "launches": 14,
+      "minutes": 1768,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T20:36:05Z",
       "sessions": [
@@ -664,9 +664,15 @@
           "ended_at": "2026-11-11T21:39:41Z",
           "started_at": "2026-11-11T19:47:11Z",
           "viewer_minutes": 821
+        },
+        {
+          "duration_min": 113,
+          "ended_at": "2026-11-12T15:37:34Z",
+          "started_at": "2026-11-12T13:44:34Z",
+          "viewer_minutes": 1133
         }
       ],
-      "viewer_minutes": 17032
+      "viewer_minutes": 18165
     },
     "mihas_gareza": {
       "added_at": "2026-09-11",
@@ -1399,5 +1405,5 @@
       "viewer_minutes": 4416
     }
   },
-  "updated_at": "2026-11-12T13:10:38Z"
+  "updated_at": "2026-11-12T15:39:18Z"
 }
