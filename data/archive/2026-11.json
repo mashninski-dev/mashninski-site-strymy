@@ -1152,24 +1152,24 @@
           "minutes": 359
         },
         "Species: Unknown": {
-          "launches": 3,
-          "minutes": 251
+          "launches": 4,
+          "minutes": 381
         },
         "The Witcher 3: Wild Hunt Remastered": {
           "launches": 7,
           "minutes": 2355
         },
         "Valheim": {
-          "launches": 3,
-          "minutes": 562
+          "launches": 4,
+          "minutes": 991
         }
       },
       "display_name": "ShagraeL_BY",
       "followers_end": null,
       "followers_start": 1019,
-      "hours": [600,600,600,600,473,261,90,18,0,0,0,0,0,0,0,0,0,0,0,27,206,469,600,600],
-      "launches": 11,
-      "minutes": 5145,
+      "hours": [660,660,660,660,533,321,114,18,0,0,0,0,0,0,0,0,0,0,0,27,206,526,660,660],
+      "launches": 12,
+      "minutes": 5705,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-11-01T02:02:08Z",
       "sessions": [
@@ -1233,13 +1233,19 @@
           "viewer_minutes": 8851
         },
         {
+          "duration_min": 560,
+          "ended_at": "2026-11-13T03:23:49Z",
+          "started_at": "2026-11-12T18:03:29Z",
+          "viewer_minutes": 6375
+        },
+        {
           "duration_min": 1,
           "ended_at": "2026-11-12T18:03:36Z",
           "started_at": "2026-11-12T18:03:34Z",
           "viewer_minutes": 0
         }
       ],
-      "viewer_minutes": 55455
+      "viewer_minutes": 61830
     },
     "sla5her_by": {
       "added_at": "2026-10-08",
@@ -1515,5 +1521,5 @@
       "viewer_minutes": 6255
     }
   },
-  "updated_at": "2026-11-13T02:24:38Z"
+  "updated_at": "2026-11-13T03:25:23Z"
 }

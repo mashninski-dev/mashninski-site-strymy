@@ -4171,14 +4171,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 3444
+            "sec": 3728
           }
         ],
-        "hours_sec": [0,0,0,0,0,2205,1239,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-13T03:20:39Z",
+        "hours_sec": [0,0,0,0,0,2205,1523,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-13T03:25:23Z",
         "started_at": "2026-11-13T02:23:15Z",
         "stream_id": "319189769447",
-        "viewer_sec": 300,
+        "viewer_sec": 584,
         "viewers": 1
       },
       "monthly": {
@@ -4858,24 +4858,7 @@
           "2026-11-01": 1019
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Species: Unknown",
-            "sec": 7830
-          },
-          {
-            "game": "Valheim",
-            "sec": 25600
-          }
-        ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,1239,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3391,3600,3600],
-        "last_seen_at": "2026-11-13T03:20:39Z",
-        "started_at": "2026-11-12T18:03:29Z",
-        "stream_id": "319184497895",
-        "viewer_sec": 380776,
-        "viewers": 9
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -4983,22 +4966,22 @@
               "minutes": 359
             },
             "Species: Unknown": {
-              "launches": 3,
-              "minutes": 251
+              "launches": 4,
+              "minutes": 381
             },
             "The Witcher 3: Wild Hunt Remastered": {
               "launches": 7,
               "minutes": 2355
             },
             "Valheim": {
-              "launches": 3,
-              "minutes": 562
+              "launches": 4,
+              "minutes": 991
             }
           },
-          "hours": [600,600,600,600,473,261,90,18,0,0,0,0,0,0,0,0,0,0,0,27,206,469,600,600],
-          "launches": 11,
-          "minutes": 5145,
-          "viewer_minutes": 55455
+          "hours": [660,660,660,660,533,321,114,18,0,0,0,0,0,0,0,0,0,0,0,27,206,526,660,660],
+          "launches": 12,
+          "minutes": 5705,
+          "viewer_minutes": 61830
         }
       },
       "recent_sessions": [
@@ -5014,6 +4997,23 @@
           "started_at": "2026-11-12T18:03:34Z",
           "viewer_minutes": 0,
           "viewers_last": 0
+        },
+        {
+          "categories": [
+            {
+              "game": "Species: Unknown",
+              "minutes": 130
+            },
+            {
+              "game": "Valheim",
+              "minutes": 429
+            }
+          ],
+          "ended_at": "2026-11-13T03:23:49Z",
+          "hours": [60,60,60,60,60,60,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,60,60],
+          "started_at": "2026-11-12T18:03:29Z",
+          "viewer_minutes": 6375,
+          "viewers_last": 9
         },
         {
           "categories": [
@@ -6654,6 +6654,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-13T03:20:39Z",
+  "updated_at": "2026-11-13T03:25:23Z",
   "viewers_since": "2026-11-02"
 }
