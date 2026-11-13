@@ -1795,11 +1795,11 @@
         "vod": null
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "CONTROL Resonant",
+        "since": "2026-11-13T17:36:27Z",
+        "stream_id": "319896534359",
+        "title": "#Hot cakes🦫🦫🦫 часінку",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad2b7c75-ce68-451d-9983-b84b1dd67c16-profile_image-300x300.png",
@@ -5222,12 +5222,12 @@
         "since": "2026-11-13T16:43:44Z",
         "stream_id": "317260761558",
         "title": "🔥3 СЕЗОН ! НОВАЯ МАПА і пэўна новый вайб?🥰@watafakablr",
-        "viewers": 10
+        "viewers": 12
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-13T17:30:48Z"
+  "updated_at": "2026-11-13T17:36:54Z"
 }
