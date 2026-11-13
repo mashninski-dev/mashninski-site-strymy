@@ -4612,6 +4612,21 @@
       "display_name": "Ucenamescy",
       "history": [
         {
+          "duration_min": 134,
+          "ended_at": "2026-11-13T21:00:20Z",
+          "game": "Silver Pines",
+          "source": "vod",
+          "started_at": "2026-11-13T18:45:50Z",
+          "stream_id": "319198172135",
+          "title": "Царкоўны Культ ◉ Silver Pines",
+          "vod": {
+            "gone": false,
+            "id": "2927814443",
+            "seen_at": "2026-11-13T21:00:54Z",
+            "url": "https://www.twitch.tv/videos/2927814443"
+          }
+        },
+        {
           "duration_min": 129,
           "ended_at": "2026-11-12T20:13:11Z",
           "game": "Species: Unknown",
@@ -4895,44 +4910,29 @@
             "seen_at": "2026-10-15T14:39:27Z",
             "url": "https://www.twitch.tv/videos/2901331271"
           }
-        },
-        {
-          "duration_min": 166,
-          "ended_at": "2026-10-13T22:57:15Z",
-          "game": "Mewgenics",
-          "source": "vod",
-          "started_at": "2026-10-13T20:11:10Z",
-          "stream_id": "318935714021",
-          "title": "Чылім + бонус ◉ Mewgenics",
-          "vod": {
-            "gone": false,
-            "id": "2899955081",
-            "seen_at": "2026-10-13T22:58:48Z",
-            "url": "https://www.twitch.tv/videos/2899955081"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 129,
-        "ended_at": "2026-11-12T20:13:11Z",
-        "game": "Species: Unknown",
+        "duration_min": 134,
+        "ended_at": "2026-11-13T21:00:20Z",
+        "game": "Silver Pines",
         "source": "vod",
-        "started_at": "2026-11-12T18:04:31Z",
-        "stream_id": "319184524007",
-        "title": "Планетарныя Справы ◉ Species Unknown",
+        "started_at": "2026-11-13T18:45:50Z",
+        "stream_id": "319198172135",
+        "title": "Царкоўны Культ ◉ Silver Pines",
         "vod": {
           "gone": false,
-          "id": "2926884088",
-          "seen_at": "2026-11-12T20:14:00Z",
-          "url": "https://www.twitch.tv/videos/2926884088"
+          "id": "2927814443",
+          "seen_at": "2026-11-13T21:00:54Z",
+          "url": "https://www.twitch.tv/videos/2927814443"
         }
       },
       "live": {
-        "game": "Silver Pines",
-        "since": "2026-11-13T18:45:50Z",
-        "stream_id": "319198172135",
-        "title": "Царкоўны Культ ◉ Silver Pines",
-        "viewers": 7
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5239,5 +5239,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-13T20:59:52Z"
+  "updated_at": "2026-11-13T21:00:54Z"
 }
