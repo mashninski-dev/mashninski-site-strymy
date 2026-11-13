@@ -2622,6 +2622,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 222,
+          "ended_at": "2026-11-13T21:38:34Z",
+          "game": "Grand Theft Auto V",
+          "source": "vod",
+          "started_at": "2026-11-13T17:56:21Z",
+          "stream_id": "317224254037",
+          "title": "[BLR] Пятнічны стрым. Канец ГТА5",
+          "vod": {
+            "gone": false,
+            "id": "2927771116",
+            "seen_at": "2026-11-13T21:40:13Z",
+            "url": "https://www.twitch.tv/videos/2927771116"
+          }
+        },
+        {
           "duration_min": 140,
           "ended_at": "2026-11-12T20:41:51Z",
           "game": "Serious Sam 3: BFE",
@@ -2905,44 +2920,29 @@
             "seen_at": "2026-10-20T21:13:17Z",
             "url": "https://www.twitch.tv/videos/2906078517"
           }
-        },
-        {
-          "duration_min": 250,
-          "ended_at": "2026-10-19T21:14:43Z",
-          "game": "RV There Yet?",
-          "source": "vod",
-          "started_at": "2026-10-19T17:04:27Z",
-          "stream_id": "317093577558",
-          "title": "[BLR] Каапны панядзеак. Будзь гэтая машына не адная",
-          "vod": {
-            "gone": false,
-            "id": "2905179709",
-            "seen_at": "2026-10-19T21:16:26Z",
-            "url": "https://www.twitch.tv/videos/2905179709"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 140,
-        "ended_at": "2026-11-12T20:41:51Z",
-        "game": "Serious Sam 3: BFE",
+        "duration_min": 222,
+        "ended_at": "2026-11-13T21:38:34Z",
+        "game": "Grand Theft Auto V",
         "source": "vod",
-        "started_at": "2026-11-12T18:22:02Z",
-        "stream_id": "317217789397",
-        "title": "[BLR] Рэтра Чацвер. Фіналім Сур'ёзнага Сэма",
+        "started_at": "2026-11-13T17:56:21Z",
+        "stream_id": "317224254037",
+        "title": "[BLR] Пятнічны стрым. Канец ГТА5",
         "vod": {
           "gone": false,
-          "id": "2926897746",
-          "seen_at": "2026-11-12T20:43:24Z",
-          "url": "https://www.twitch.tv/videos/2926897746"
+          "id": "2927771116",
+          "seen_at": "2026-11-13T21:40:13Z",
+          "url": "https://www.twitch.tv/videos/2927771116"
         }
       },
       "live": {
-        "game": "Grand Theft Auto V",
-        "since": "2026-11-13T17:56:21Z",
-        "stream_id": "317224254037",
-        "title": "[BLR] Пятнічны стрым. Канец ГТА5",
-        "viewers": 11
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4339,7 +4339,7 @@
         "since": "2026-11-13T18:14:57Z",
         "stream_id": "317224472021",
         "title": "[СКРЫМЕРЫ ЎКЛЮЧАНЫ] Жахасцікс тайм (бел. лакалізацыя) від Іринка подруга",
-        "viewers": 13
+        "viewers": 21
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5239,5 +5239,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-13T21:30:38Z"
+  "updated_at": "2026-11-13T21:40:13Z"
 }
