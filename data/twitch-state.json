@@ -2290,6 +2290,21 @@
       "display_name": "mashninski",
       "history": [
         {
+          "duration_min": 142,
+          "ended_at": "2026-11-13T15:21:12Z",
+          "game": "The Witcher 3: Wild Hunt Remastered",
+          "source": "vod",
+          "started_at": "2026-11-13T12:58:52Z",
+          "stream_id": "319381585382",
+          "title": "Вайбім",
+          "vod": {
+            "gone": false,
+            "id": "2927567576",
+            "seen_at": "2026-11-13T15:22:47Z",
+            "url": "https://www.twitch.tv/videos/2927567576"
+          }
+        },
+        {
           "duration_min": 113,
           "ended_at": "2026-11-12T15:37:34Z",
           "game": "Fear & Hunger 2: Termina",
@@ -2573,44 +2588,29 @@
             "seen_at": "2026-10-25T14:50:33Z",
             "url": "https://www.twitch.tv/videos/2910332153"
           }
-        },
-        {
-          "duration_min": 236,
-          "ended_at": "2026-10-24T19:02:43Z",
-          "game": "Clair Obscur: Expedition 33",
-          "source": "vod",
-          "started_at": "2026-10-24T15:06:33Z",
-          "stream_id": "319070105189",
-          "title": "Пераклад мульта + віва ля Франс",
-          "vod": {
-            "gone": false,
-            "id": "2909521045",
-            "seen_at": "2026-10-24T19:04:19Z",
-            "url": "https://www.twitch.tv/videos/2909521045"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 113,
-        "ended_at": "2026-11-12T15:37:34Z",
-        "game": "Fear & Hunger 2: Termina",
+        "duration_min": 142,
+        "ended_at": "2026-11-13T15:21:12Z",
+        "game": "The Witcher 3: Wild Hunt Remastered",
         "source": "vod",
-        "started_at": "2026-11-12T13:44:34Z",
-        "stream_id": "319369700198",
-        "title": "Стрым налад?",
+        "started_at": "2026-11-13T12:58:52Z",
+        "stream_id": "319381585382",
+        "title": "Вайбім",
         "vod": {
           "gone": false,
-          "id": "2926708859",
-          "seen_at": "2026-11-12T15:39:18Z",
-          "url": "https://www.twitch.tv/videos/2926708859"
+          "id": "2927567576",
+          "seen_at": "2026-11-13T15:22:47Z",
+          "url": "https://www.twitch.tv/videos/2927567576"
         }
       },
       "live": {
-        "game": "The Witcher 3: Wild Hunt Remastered",
-        "since": "2026-11-13T12:58:52Z",
-        "stream_id": "319381585382",
-        "title": "Вайбім",
-        "viewers": 13
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -5229,5 +5229,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-13T15:21:24Z"
+  "updated_at": "2026-11-13T15:22:47Z"
 }
