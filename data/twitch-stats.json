@@ -1002,17 +1002,6 @@
           "ended_at": "2026-10-16T19:19:21Z",
           "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,60,60,19,0],
           "started_at": "2026-10-16T16:07:39Z"
-        },
-        {
-          "categories": [
-            {
-              "game": "The Order: 1886",
-              "minutes": 172
-            }
-          ],
-          "ended_at": "2026-10-13T20:55:40Z",
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,60,56],
-          "started_at": "2026-10-13T18:03:52Z"
         }
       ]
     },
@@ -3080,15 +3069,15 @@
         "categories": [
           {
             "game": "Grand Theft Auto V",
-            "sec": 10458
+            "sec": 11011
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,219,3600,3600,3039],
-        "last_seen_at": "2026-11-13T20:50:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,219,3600,3600,3592],
+        "last_seen_at": "2026-11-13T20:59:52Z",
         "started_at": "2026-11-13T17:56:21Z",
         "stream_id": "317224254037",
-        "viewer_sec": 27481,
-        "viewers": 2
+        "viewer_sec": 29140,
+        "viewers": 4
       },
       "monthly": {
         "2026-10": {
@@ -3708,24 +3697,7 @@
           "2026-11-01": 304
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Species: Unknown",
-            "sec": 680
-          },
-          {
-            "game": "Just Chatting",
-            "sec": 5999
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,3600,3039],
-        "last_seen_at": "2026-11-13T20:50:39Z",
-        "started_at": "2026-11-13T18:59:20Z",
-        "stream_id": "319198432487",
-        "viewer_sec": 52176,
-        "viewers": 9
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -3761,25 +3733,42 @@
               "minutes": 373
             },
             "Just Chatting": {
-              "launches": 3,
-              "minutes": 381
+              "launches": 4,
+              "minutes": 488
             },
             "Species: Unknown": {
-              "launches": 1,
-              "minutes": 179
+              "launches": 2,
+              "minutes": 190
             },
             "Thief: Deadly Shadows": {
               "launches": 1,
               "minutes": 164
             }
           },
-          "hours": [193,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,161,719,709],
-          "launches": 12,
-          "minutes": 1846,
-          "viewer_minutes": 13680
+          "hours": [193,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,162,779,767],
+          "launches": 13,
+          "minutes": 1965,
+          "viewer_minutes": 14618
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Species: Unknown",
+              "minutes": 11
+            },
+            {
+              "game": "Just Chatting",
+              "minutes": 107
+            }
+          ],
+          "ended_at": "2026-11-13T20:58:13Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,58],
+          "started_at": "2026-11-13T18:59:20Z",
+          "viewer_minutes": 938,
+          "viewers_last": 9
+        },
         {
           "categories": [
             {
@@ -4181,14 +4170,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 66444
+            "sec": 66997
           }
         ],
-        "hours_sec": [0,0,0,0,0,2205,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3039],
-        "last_seen_at": "2026-11-13T20:50:39Z",
+        "hours_sec": [0,0,0,0,0,2205,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3592],
+        "last_seen_at": "2026-11-13T20:59:52Z",
         "started_at": "2026-11-13T02:23:15Z",
         "stream_id": "319189769447",
-        "viewer_sec": 71941,
+        "viewer_sec": 72494,
         "viewers": 1
       },
       "monthly": {
@@ -4885,14 +4874,14 @@
         "categories": [
           {
             "game": "Outlast",
-            "sec": 9342
+            "sec": 9895
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2703,3600,3039],
-        "last_seen_at": "2026-11-13T20:50:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2703,3600,3592],
+        "last_seen_at": "2026-11-13T20:59:52Z",
         "started_at": "2026-11-13T18:14:57Z",
         "stream_id": "317224472021",
-        "viewer_sec": 72166,
+        "viewer_sec": 78249,
         "viewers": 11
       },
       "monthly": {
@@ -5924,14 +5913,14 @@
         "categories": [
           {
             "game": "Silver Pines",
-            "sec": 7489
+            "sec": 8042
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,850,3600,3039],
-        "last_seen_at": "2026-11-13T20:50:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,850,3600,3592],
+        "last_seen_at": "2026-11-13T20:59:52Z",
         "started_at": "2026-11-13T18:45:50Z",
         "stream_id": "319198172135",
-        "viewer_sec": 44385,
+        "viewer_sec": 48256,
         "viewers": 7
       },
       "monthly": {
@@ -6365,15 +6354,15 @@
         "categories": [
           {
             "game": "WARDOGS",
-            "sec": 14815
+            "sec": 15368
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,976,3600,3600,3600,3039],
-        "last_seen_at": "2026-11-13T20:50:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,976,3600,3600,3600,3592],
+        "last_seen_at": "2026-11-13T20:59:52Z",
         "started_at": "2026-11-13T16:43:44Z",
         "stream_id": "317260761558",
-        "viewer_sec": 127613,
-        "viewers": 7
+        "viewer_sec": 132037,
+        "viewers": 9
       },
       "monthly": {
         "2026-10": {
@@ -6716,6 +6705,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-13T20:50:39Z",
+  "updated_at": "2026-11-13T20:59:52Z",
   "viewers_since": "2026-11-02"
 }
