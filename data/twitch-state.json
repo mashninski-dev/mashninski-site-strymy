@@ -2942,7 +2942,7 @@
         "since": "2026-11-13T17:56:21Z",
         "stream_id": "317224254037",
         "title": "[BLR] Пятнічны стрым. Канец ГТА5",
-        "viewers": 8
+        "viewers": 14
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4339,7 +4339,7 @@
         "since": "2026-11-13T18:14:57Z",
         "stream_id": "317224472021",
         "title": "[СКРЫМЕРЫ ЎКЛЮЧАНЫ] Жахасцікс тайм (бел. лакалізацыя) від Іринка подруга",
-        "viewers": 14
+        "viewers": 13
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4992,6 +4992,16 @@
       "display_name": "watafakablr",
       "history": [
         {
+          "duration_min": 286,
+          "ended_at": "2026-11-13T21:29:15Z",
+          "game": "WARDOGS",
+          "source": "observed",
+          "started_at": "2026-11-13T16:43:44Z",
+          "stream_id": "317260761558",
+          "title": "🔥3 СЕЗОН ! НОВАЯ МАПА і пэўна новый вайб?🥰@watafakablr",
+          "vod": null
+        },
+        {
           "duration_min": 225,
           "ended_at": "2026-11-12T21:05:30Z",
           "game": "WARDOGS",
@@ -5205,39 +5215,29 @@
           "stream_id": "317044425429",
           "title": "🔥АФІЦЫЙНАЯ ЗАЯВА ! 2 СЕЗОН ВАРДОГС ЛІЧЫЦЦА АДКРЫТЫМ🥰@watafakablr",
           "vod": null
-        },
-        {
-          "duration_min": 337,
-          "ended_at": "2026-10-15T20:59:41Z",
-          "game": "WARDOGS",
-          "source": "observed",
-          "started_at": "2026-10-15T15:22:50Z",
-          "stream_id": "317032104277",
-          "title": "🔥АФІЦЫЙНАЯ ЗАЯВА ! 2 СЕЗОН ВАРДОГС ЛІЧЫЦЦА АДКРЫТЫМ🥰@watafakablr",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 225,
-        "ended_at": "2026-11-12T21:05:30Z",
+        "duration_min": 286,
+        "ended_at": "2026-11-13T21:29:15Z",
         "game": "WARDOGS",
         "source": "observed",
-        "started_at": "2026-11-12T17:20:30Z",
-        "stream_id": "317300310228",
+        "started_at": "2026-11-13T16:43:44Z",
+        "stream_id": "317260761558",
         "title": "🔥3 СЕЗОН ! НОВАЯ МАПА і пэўна новый вайб?🥰@watafakablr",
         "vod": null
       },
       "live": {
-        "game": "WARDOGS",
-        "since": "2026-11-13T16:43:44Z",
-        "stream_id": "317260761558",
-        "title": "🔥3 СЕЗОН ! НОВАЯ МАПА і пэўна новый вайб?🥰@watafakablr",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-13T21:20:48Z"
+  "updated_at": "2026-11-13T21:29:15Z"
 }
