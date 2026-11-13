@@ -1795,11 +1795,11 @@
         "vod": null
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "CONTROL Resonant",
+        "since": "2026-11-13T23:11:52Z",
+        "stream_id": "319899263319",
+        "title": "#Hot cakes🦫🦫🦫 часінку",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad2b7c75-ce68-451d-9983-b84b1dd67c16-profile_image-300x300.png",
@@ -5239,5 +5239,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-13T22:40:39Z"
+  "updated_at": "2026-11-13T23:12:16Z"
 }
