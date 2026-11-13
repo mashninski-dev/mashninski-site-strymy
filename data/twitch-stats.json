@@ -2509,8 +2509,8 @@
     },
     "mashninski": {
       "followers": {
-        "changed_at": "2026-11-11T21:10:41Z",
-        "count": 186,
+        "changed_at": "2026-11-13T13:14:47Z",
+        "count": 187,
         "daily": {
           "2026-10-22": 172,
           "2026-10-23": 172,
@@ -2546,15 +2546,15 @@
         "categories": [
           {
             "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 708
+            "sec": 955
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,640,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-13T13:10:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,887,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-13T13:14:47Z",
         "started_at": "2026-11-13T12:58:52Z",
         "stream_id": "319381585382",
-        "viewer_sec": 903,
-        "viewers": 3
+        "viewer_sec": 1767,
+        "viewers": 4
       },
       "monthly": {
         "2026-10": {
@@ -4157,14 +4157,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 38845
+            "sec": 39092
           }
         ],
-        "hours_sec": [0,0,0,0,0,2205,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,640,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-13T13:10:40Z",
+        "hours_sec": [0,0,0,0,0,2205,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,887,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-13T13:14:47Z",
         "started_at": "2026-11-13T02:23:15Z",
         "stream_id": "319189769447",
-        "viewer_sec": 36285,
+        "viewer_sec": 36532,
         "viewers": 1
       },
       "monthly": {
@@ -4438,20 +4438,7 @@
           "2026-11-01": 944
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Silver Pines",
-            "sec": 7930
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,90,3600,3600,640,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-13T13:10:40Z",
-        "started_at": "2026-11-13T10:58:30Z",
-        "stream_id": "319380619622",
-        "viewer_sec": 237409,
-        "viewers": 42
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -4499,21 +4486,34 @@
               "minutes": 136
             },
             "Silver Pines": {
-              "launches": 3,
-              "minutes": 329
+              "launches": 4,
+              "minutes": 463
             },
             "The Witcher 3: Wild Hunt Remastered": {
               "launches": 1,
               "minutes": 109
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,11,427,457,81,0,0,0,0,0,0,0],
-          "launches": 8,
-          "minutes": 975,
-          "viewer_minutes": 24139
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,13,487,517,93,0,0,0,0,0,0,0],
+          "launches": 9,
+          "minutes": 1109,
+          "viewer_minutes": 28161
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Silver Pines",
+              "minutes": 134
+            }
+          ],
+          "ended_at": "2026-11-13T13:12:12Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,2,60,60,12,0,0,0,0,0,0,0],
+          "started_at": "2026-11-13T10:58:30Z",
+          "viewer_minutes": 4022,
+          "viewers_last": 42
+        },
         {
           "categories": [
             {
@@ -6653,6 +6653,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-13T13:10:40Z",
+  "updated_at": "2026-11-13T13:14:47Z",
   "viewers_since": "2026-11-02"
 }
