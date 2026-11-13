@@ -3026,6 +3026,16 @@
       "display_name": "mx_oda",
       "history": [
         {
+          "duration_min": 231,
+          "ended_at": "2026-11-13T20:31:03Z",
+          "game": "Board Games",
+          "source": "observed",
+          "started_at": "2026-11-13T16:40:10Z",
+          "stream_id": "316303113833",
+          "title": "Творчы вечар | Гатуемся да гульні",
+          "vod": null
+        },
+        {
           "duration_min": 247,
           "ended_at": "2026-10-30T21:50:42Z",
           "game": "Writing & Reading",
@@ -3097,21 +3107,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 247,
-        "ended_at": "2026-10-30T21:50:42Z",
-        "game": "Writing & Reading",
+        "duration_min": 231,
+        "ended_at": "2026-11-13T20:31:03Z",
+        "game": "Board Games",
         "source": "observed",
-        "started_at": "2026-10-30T17:43:42Z",
-        "stream_id": "316274677226",
-        "title": "Творчы вечар | Пішам лор і чылім",
+        "started_at": "2026-11-13T16:40:10Z",
+        "stream_id": "316303113833",
+        "title": "Творчы вечар | Гатуемся да гульні",
         "vod": null
       },
       "live": {
-        "game": "Board Games",
-        "since": "2026-11-13T16:40:10Z",
-        "stream_id": "316303113833",
-        "title": "Творчы вечар | Гатуемся да гульні",
-        "viewers": 1
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/805982e1-6bc8-46b9-a2f2-3c215142d613-profile_image-300x300.png",
@@ -3443,7 +3453,7 @@
         "since": "2026-11-13T18:59:20Z",
         "stream_id": "319198432487",
         "title": "\"Пятніца 13га\" на пятніцу 13га (спачатку стым, потым кіно)",
-        "viewers": 11
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4329,7 +4339,7 @@
         "since": "2026-11-13T18:14:57Z",
         "stream_id": "317224472021",
         "title": "[СКРЫМЕРЫ ЎКЛЮЧАНЫ] Жахасцікс тайм (бел. лакалізацыя) від Іринка подруга",
-        "viewers": 9
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4922,7 +4932,7 @@
         "since": "2026-11-13T18:45:50Z",
         "stream_id": "319198172135",
         "title": "Царкоўны Культ ◉ Silver Pines",
-        "viewers": 6
+        "viewers": 7
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5222,12 +5232,12 @@
         "since": "2026-11-13T16:43:44Z",
         "stream_id": "317260761558",
         "title": "🔥3 СЕЗОН ! НОВАЯ МАПА і пэўна новый вайб?🥰@watafakablr",
-        "viewers": 10
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-13T20:20:37Z"
+  "updated_at": "2026-11-13T20:31:03Z"
 }

@@ -893,16 +893,29 @@
     },
     "mx_oda": {
       "added_at": "2026-09-11",
-      "categories": {},
+      "categories": {
+        "Board Games": {
+          "launches": 1,
+          "minutes": 231
+        }
+      },
       "display_name": "mx_oda",
       "followers_end": null,
       "followers_start": 161,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-      "launches": 0,
-      "minutes": 0,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,60,60,60,31],
+      "launches": 1,
+      "minutes": 231,
       "prev_broadcast_at": null,
-      "prev_ended_at": null,
-      "sessions": []
+      "prev_ended_at": "2026-10-30T21:50:42Z",
+      "sessions": [
+        {
+          "duration_min": 231,
+          "ended_at": "2026-11-13T20:31:03Z",
+          "started_at": "2026-11-13T16:40:10Z",
+          "viewer_minutes": 375
+        }
+      ],
+      "viewer_minutes": 375
     },
     "nine_ravens_cemetery": {
       "added_at": "2026-09-11",
@@ -1549,5 +1562,5 @@
       "viewer_minutes": 6255
     }
   },
-  "updated_at": "2026-11-13T19:20:57Z"
+  "updated_at": "2026-11-13T20:31:03Z"
 }
