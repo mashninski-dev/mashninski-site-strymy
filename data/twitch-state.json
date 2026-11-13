@@ -6,6 +6,21 @@
       "display_name": "AngryRalef",
       "history": [
         {
+          "duration_min": 224,
+          "ended_at": "2026-11-13T12:51:19Z",
+          "game": "Empire: Total War",
+          "source": "vod",
+          "started_at": "2026-11-13T09:07:05Z",
+          "stream_id": "317257768022",
+          "title": "Рэч Паспалітая ўсё яшчэ бароніцца! Empire: Total War",
+          "vod": {
+            "gone": false,
+            "id": "2927472050",
+            "seen_at": "2026-11-13T12:52:53Z",
+            "url": "https://www.twitch.tv/videos/2927472050"
+          }
+        },
+        {
           "duration_min": 214,
           "ended_at": "2026-11-12T12:46:43Z",
           "game": "Noita",
@@ -289,44 +304,29 @@
             "seen_at": "2026-10-16T08:41:56Z",
             "url": "https://www.twitch.tv/videos/2902119682"
           }
-        },
-        {
-          "duration_min": 10,
-          "ended_at": "2026-10-16T08:27:12Z",
-          "game": "MediEvil",
-          "source": "vod",
-          "started_at": "2026-10-16T08:17:39Z",
-          "stream_id": "317035796821",
-          "title": "Стырм налад? Не атрымліваецца зрабіць захоп.",
-          "vod": {
-            "gone": false,
-            "id": "2902114930",
-            "seen_at": "2026-10-16T08:28:47Z",
-            "url": "https://www.twitch.tv/videos/2902114930"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 214,
-        "ended_at": "2026-11-12T12:46:43Z",
-        "game": "Noita",
+        "duration_min": 224,
+        "ended_at": "2026-11-13T12:51:19Z",
+        "game": "Empire: Total War",
         "source": "vod",
-        "started_at": "2026-11-12T09:13:07Z",
-        "stream_id": "317250824790",
-        "title": "Чат кіруе сусветам, а я — чарадзеем. Noita",
+        "started_at": "2026-11-13T09:07:05Z",
+        "stream_id": "317257768022",
+        "title": "Рэч Паспалітая ўсё яшчэ бароніцца! Empire: Total War",
         "vod": {
           "gone": false,
-          "id": "2926594279",
-          "seen_at": "2026-11-12T12:48:18Z",
-          "url": "https://www.twitch.tv/videos/2926594279"
+          "id": "2927472050",
+          "seen_at": "2026-11-13T12:52:53Z",
+          "url": "https://www.twitch.tv/videos/2927472050"
         }
       },
       "live": {
-        "game": "Empire: Total War",
-        "since": "2026-11-13T09:07:05Z",
-        "stream_id": "317257768022",
-        "title": "Рэч Паспалітая ўсё яшчэ бароніцца! Empire: Total War",
-        "viewers": 25
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -5229,5 +5229,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-13T12:50:39Z"
+  "updated_at": "2026-11-13T12:52:52Z"
 }
