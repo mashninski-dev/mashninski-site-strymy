@@ -992,6 +992,21 @@
       "display_name": "Dzed_Ahey",
       "history": [
         {
+          "duration_min": 115,
+          "ended_at": "2026-11-14T16:50:42Z",
+          "game": "FBC: Firebreak",
+          "source": "vod",
+          "started_at": "2026-11-14T14:55:46Z",
+          "stream_id": "317313634260",
+          "title": "Гуляем у FBC: Firebreak па-беларуску",
+          "vod": {
+            "gone": false,
+            "id": "2928626285",
+            "seen_at": "2026-11-14T16:52:24Z",
+            "url": "https://www.twitch.tv/videos/2928626285"
+          }
+        },
+        {
           "duration_min": 132,
           "ended_at": "2026-10-20T20:13:04Z",
           "game": "Control",
@@ -1093,26 +1108,26 @@
         }
       ],
       "last_stream": {
-        "duration_min": 132,
-        "ended_at": "2026-10-20T20:13:04Z",
-        "game": "Control",
+        "duration_min": 115,
+        "ended_at": "2026-11-14T16:50:42Z",
+        "game": "FBC: Firebreak",
         "source": "vod",
-        "started_at": "2026-10-20T18:00:49Z",
-        "stream_id": "319022389221",
-        "title": "Гуляем у Control па-беларуску",
+        "started_at": "2026-11-14T14:55:46Z",
+        "stream_id": "317313634260",
+        "title": "Гуляем у FBC: Firebreak па-беларуску",
         "vod": {
-          "gone": true,
-          "id": "2906082267",
-          "seen_at": "2026-10-20T20:14:37Z",
-          "url": "https://www.twitch.tv/videos/2906082267"
+          "gone": false,
+          "id": "2928626285",
+          "seen_at": "2026-11-14T16:52:24Z",
+          "url": "https://www.twitch.tv/videos/2928626285"
         }
       },
       "live": {
-        "game": "FBC: Firebreak",
-        "since": "2026-11-14T14:55:46Z",
-        "stream_id": "317313634260",
-        "title": "Гуляем у FBC: Firebreak па-беларуску",
-        "viewers": 7
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b3e18b5-6d45-4af2-9abb-eec6eb3a1264-profile_image-300x300.png",
@@ -5242,12 +5257,12 @@
         "since": "2026-11-14T15:19:12Z",
         "stream_id": "317267503958",
         "title": "🔥І ЗНОЎ ПАДПРАЦОЎВАЯ БЯСПЛАТНА QA 🥰@watafakablr",
-        "viewers": 12
+        "viewers": 15
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-14T16:50:48Z"
+  "updated_at": "2026-11-14T16:52:24Z"
 }

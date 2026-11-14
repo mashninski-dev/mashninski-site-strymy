@@ -1046,20 +1046,7 @@
           "2026-11-01": 48
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "FBC: Firebreak",
-            "sec": 6902
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254,3600,3048,0,0,0,0],
-        "last_seen_at": "2026-11-14T16:50:48Z",
-        "started_at": "2026-11-14T14:55:46Z",
-        "stream_id": "317313634260",
-        "viewer_sec": 37695,
-        "viewers": 7
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -1079,9 +1066,34 @@
           "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,60,13,97,120,38],
           "launches": 5,
           "minutes": 374
+        },
+        "2026-11": {
+          "categories": {
+            "FBC: Firebreak": {
+              "launches": 1,
+              "minutes": 115
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,60,51,0,0,0,0],
+          "launches": 1,
+          "minutes": 115,
+          "viewer_minutes": 627
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "FBC: Firebreak",
+              "minutes": 115
+            }
+          ],
+          "ended_at": "2026-11-14T16:50:42Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,60,51,0,0,0,0],
+          "started_at": "2026-11-14T14:55:46Z",
+          "viewer_minutes": 627,
+          "viewers_last": 7
+        },
         {
           "categories": [
             {
@@ -4185,14 +4197,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 30682
+            "sec": 30778
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2434,3600,3600,3600,3600,3600,3600,3600,3048,0,0,0,0],
-        "last_seen_at": "2026-11-14T16:50:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2434,3600,3600,3600,3600,3600,3600,3600,3144,0,0,0,0],
+        "last_seen_at": "2026-11-14T16:52:24Z",
         "started_at": "2026-11-14T08:19:26Z",
         "stream_id": "319393375334",
-        "viewer_sec": 33018,
+        "viewer_sec": 33114,
         "viewers": 1
       },
       "monthly": {
@@ -6343,15 +6355,15 @@
         "categories": [
           {
             "game": "WARDOGS",
-            "sec": 5496
+            "sec": 5592
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2448,3048,0,0,0,0],
-        "last_seen_at": "2026-11-14T16:50:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2448,3144,0,0,0,0],
+        "last_seen_at": "2026-11-14T16:52:24Z",
         "started_at": "2026-11-14T15:19:12Z",
         "stream_id": "317267503958",
-        "viewer_sec": 32642,
-        "viewers": 12
+        "viewer_sec": 33938,
+        "viewers": 15
       },
       "monthly": {
         "2026-10": {
@@ -6713,6 +6725,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-14T16:50:48Z",
+  "updated_at": "2026-11-14T16:52:24Z",
   "viewers_since": "2026-11-02"
 }
