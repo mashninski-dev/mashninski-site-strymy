@@ -1584,6 +1584,16 @@
       "display_name": "Kryvichanka",
       "history": [
         {
+          "duration_min": 51,
+          "ended_at": "2026-11-14T00:03:19Z",
+          "game": "CONTROL Resonant",
+          "source": "observed",
+          "started_at": "2026-11-13T23:11:52Z",
+          "stream_id": "319899263319",
+          "title": "#Hot cakes🦫🦫🦫 часінку",
+          "vod": null
+        },
+        {
           "duration_min": 104,
           "ended_at": "2026-11-13T19:20:57Z",
           "game": "CONTROL Resonant",
@@ -1772,34 +1782,24 @@
           "stream_id": "317660928887",
           "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
           "vod": null
-        },
-        {
-          "duration_min": 50,
-          "ended_at": "2026-10-13T05:05:15Z",
-          "game": "Starfield",
-          "source": "observed",
-          "started_at": "2026-10-13T04:15:16Z",
-          "stream_id": "319556035415",
-          "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 104,
-        "ended_at": "2026-11-13T19:20:57Z",
+        "duration_min": 51,
+        "ended_at": "2026-11-14T00:03:19Z",
         "game": "CONTROL Resonant",
         "source": "observed",
-        "started_at": "2026-11-13T17:36:27Z",
-        "stream_id": "319896534359",
+        "started_at": "2026-11-13T23:11:52Z",
+        "stream_id": "319899263319",
         "title": "#Hot cakes🦫🦫🦫 часінку",
         "vod": null
       },
       "live": {
-        "game": "CONTROL Resonant",
-        "since": "2026-11-13T23:11:52Z",
-        "stream_id": "319899263319",
-        "title": "#Hot cakes🦫🦫🦫 часінку",
-        "viewers": 3
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad2b7c75-ce68-451d-9983-b84b1dd67c16-profile_image-300x300.png",
@@ -5239,5 +5239,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-14T00:00:38Z"
+  "updated_at": "2026-11-14T00:03:19Z"
 }

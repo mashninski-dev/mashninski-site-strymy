@@ -434,8 +434,8 @@
       "added_at": "2026-09-11",
       "categories": {
         "CONTROL Resonant": {
-          "launches": 5,
-          "minutes": 610
+          "launches": 6,
+          "minutes": 661
         },
         "Stardew Valley": {
           "launches": 3,
@@ -445,9 +445,9 @@
       "display_name": "Kryvichanka",
       "followers_end": null,
       "followers_start": 142,
-      "hours": [76,120,86,60,74,60,21,0,0,0,0,0,0,0,0,0,0,0,0,0,61,120,84,58],
-      "launches": 8,
-      "minutes": 819,
+      "hours": [76,120,134,63,74,60,21,0,0,0,0,0,0,0,0,0,0,0,0,0,61,120,84,58],
+      "launches": 9,
+      "minutes": 870,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-26T18:57:48Z",
       "sessions": [
@@ -498,9 +498,15 @@
           "ended_at": "2026-11-13T19:20:57Z",
           "started_at": "2026-11-13T17:36:27Z",
           "viewer_minutes": 270
+        },
+        {
+          "duration_min": 51,
+          "ended_at": "2026-11-14T00:03:19Z",
+          "started_at": "2026-11-13T23:11:52Z",
+          "viewer_minutes": 140
         }
       ],
-      "viewer_minutes": 1493
+      "viewer_minutes": 1633
     },
     "kurisu_illusia": {
       "added_at": "2026-09-11",
@@ -1586,5 +1592,5 @@
       "viewer_minutes": 8729
     }
   },
-  "updated_at": "2026-11-13T21:40:13Z"
+  "updated_at": "2026-11-14T00:03:19Z"
 }
