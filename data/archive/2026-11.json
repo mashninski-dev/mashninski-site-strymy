@@ -1564,6 +1564,10 @@
     "watafakablr": {
       "added_at": "2026-09-11",
       "categories": {
+        "Black Mesa": {
+          "launches": 1,
+          "minutes": 192
+        },
         "Broforce": {
           "launches": 1,
           "minutes": 223
@@ -1580,9 +1584,9 @@
       "display_name": "watafakablr",
       "followers_end": null,
       "followers_start": 478,
-      "hours": [35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,208,240,240,186],
-      "launches": 4,
-      "minutes": 960,
+      "hours": [35,0,0,0,0,0,0,0,0,0,0,0,0,31,60,60,40,0,0,51,208,240,240,186],
+      "launches": 5,
+      "minutes": 1152,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T21:47:59Z",
       "sessions": [
@@ -1609,10 +1613,16 @@
           "ended_at": "2026-11-13T21:29:15Z",
           "started_at": "2026-11-13T16:43:44Z",
           "viewer_minutes": 2474
+        },
+        {
+          "duration_min": 192,
+          "ended_at": "2026-11-14T13:40:28Z",
+          "started_at": "2026-11-14T10:28:39Z",
+          "viewer_minutes": 1441
         }
       ],
-      "viewer_minutes": 8729
+      "viewer_minutes": 10170
     }
   },
-  "updated_at": "2026-11-14T08:17:13Z"
+  "updated_at": "2026-11-14T13:40:28Z"
 }

@@ -607,15 +607,15 @@
         "categories": [
           {
             "game": "Empire: Total War",
-            "sec": 7062
+            "sec": 7653
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1625,3600,1837,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-14T13:30:37Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1625,3600,2428,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-14T13:40:28Z",
         "started_at": "2026-11-14T11:32:55Z",
         "stream_id": "319321669093",
-        "viewer_sec": 32436,
-        "viewers": 7
+        "viewer_sec": 37164,
+        "viewers": 9
       },
       "monthly": {
         "2026-10": {
@@ -4194,14 +4194,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 18671
+            "sec": 19262
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2434,3600,3600,3600,3600,1837,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-14T13:30:37Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2434,3600,3600,3600,3600,2428,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-14T13:40:28Z",
         "started_at": "2026-11-14T08:19:26Z",
         "stream_id": "319393375334",
-        "viewer_sec": 19498,
+        "viewer_sec": 20680,
         "viewers": 2
       },
       "monthly": {
@@ -6348,20 +6348,7 @@
           "2026-11-01": 478
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Black Mesa",
-            "sec": 10918
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,1881,3600,3600,1837,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-14T13:30:37Z",
-        "started_at": "2026-11-14T10:28:39Z",
-        "stream_id": "317265598422",
-        "viewer_sec": 82347,
-        "viewers": 7
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -6408,6 +6395,10 @@
         },
         "2026-11": {
           "categories": {
+            "Black Mesa": {
+              "launches": 1,
+              "minutes": 192
+            },
             "Broforce": {
               "launches": 1,
               "minutes": 223
@@ -6421,13 +6412,26 @@
               "minutes": 511
             }
           },
-          "hours": [35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,208,240,240,186],
-          "launches": 4,
-          "minutes": 960,
-          "viewer_minutes": 8729
+          "hours": [35,0,0,0,0,0,0,0,0,0,0,0,0,31,60,60,40,0,0,51,208,240,240,186],
+          "launches": 5,
+          "minutes": 1152,
+          "viewer_minutes": 10170
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Black Mesa",
+              "minutes": 192
+            }
+          ],
+          "ended_at": "2026-11-14T13:40:28Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,31,60,60,40,0,0,0,0,0,0,0],
+          "started_at": "2026-11-14T10:28:39Z",
+          "viewer_minutes": 1441,
+          "viewers_last": 7
+        },
         {
           "categories": [
             {
@@ -6705,6 +6709,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-14T13:30:37Z",
+  "updated_at": "2026-11-14T13:40:28Z",
   "viewers_since": "2026-11-02"
 }

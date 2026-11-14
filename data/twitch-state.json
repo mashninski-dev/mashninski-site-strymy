@@ -658,7 +658,7 @@
         "since": "2026-11-14T11:32:55Z",
         "stream_id": "319321669093",
         "title": "Спрабуем збудаваць ЗША)",
-        "viewers": 7
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6f85ccf-8f12-43f4-90e3-1e1cf95ab956-profile_image-300x300.jpeg",
@@ -5002,6 +5002,16 @@
       "display_name": "watafakablr",
       "history": [
         {
+          "duration_min": 192,
+          "ended_at": "2026-11-14T13:40:28Z",
+          "game": "Black Mesa",
+          "source": "observed",
+          "started_at": "2026-11-14T10:28:39Z",
+          "stream_id": "317265598422",
+          "title": "🔥#1 РАЗДЕЛ НОВЫ HALF - LIFE 2 БАЧЫЎ ТАКОЕ?🥰@watafakablr",
+          "vod": null
+        },
+        {
           "duration_min": 286,
           "ended_at": "2026-11-13T21:29:15Z",
           "game": "WARDOGS",
@@ -5215,39 +5225,29 @@
           "stream_id": "317044427477",
           "title": "🔥АФІЦЫЙНАЯ ЗАЯВА ! 2 СЕЗОН ВАРДОГС ЛІЧЫЦЦА АДКРЫТЫМ🥰@watafakablr",
           "vod": null
-        },
-        {
-          "duration_min": 1,
-          "ended_at": "2026-10-17T14:50:29Z",
-          "game": "WARDOGS",
-          "source": "observed",
-          "started_at": "2026-10-17T14:50:01Z",
-          "stream_id": "317044425429",
-          "title": "🔥АФІЦЫЙНАЯ ЗАЯВА ! 2 СЕЗОН ВАРДОГС ЛІЧЫЦЦА АДКРЫТЫМ🥰@watafakablr",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 286,
-        "ended_at": "2026-11-13T21:29:15Z",
-        "game": "WARDOGS",
+        "duration_min": 192,
+        "ended_at": "2026-11-14T13:40:28Z",
+        "game": "Black Mesa",
         "source": "observed",
-        "started_at": "2026-11-13T16:43:44Z",
-        "stream_id": "317260761558",
-        "title": "🔥3 СЕЗОН ! НОВАЯ МАПА і пэўна новый вайб?🥰@watafakablr",
+        "started_at": "2026-11-14T10:28:39Z",
+        "stream_id": "317265598422",
+        "title": "🔥#1 РАЗДЕЛ НОВЫ HALF - LIFE 2 БАЧЫЎ ТАКОЕ?🥰@watafakablr",
         "vod": null
       },
       "live": {
-        "game": "Black Mesa",
-        "since": "2026-11-14T10:28:39Z",
-        "stream_id": "317265598422",
-        "title": "🔥#1 РАЗДЕЛ НОВЫ HALF - LIFE 2 БАЧЫЎ ТАКОЕ?🥰@watafakablr",
-        "viewers": 7
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-14T13:30:37Z"
+  "updated_at": "2026-11-14T13:40:28Z"
 }
