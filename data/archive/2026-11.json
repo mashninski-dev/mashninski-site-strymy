@@ -1046,16 +1046,16 @@
       "added_at": "2026-09-11",
       "categories": {
         "Just Chatting": {
-          "launches": 6,
-          "minutes": 16948
+          "launches": 7,
+          "minutes": 18742
         }
       },
       "display_name": "radyjo_holas",
       "followers_end": null,
       "followers_start": 74,
-      "hours": [720,720,720,720,720,682,660,660,660,660,666,720,720,720,720,720,720,720,720,720,720,720,720,720],
-      "launches": 6,
-      "minutes": 16948,
+      "hours": [780,780,780,780,780,779,780,780,780,780,786,797,780,780,780,780,780,780,780,780,780,780,780,780],
+      "launches": 7,
+      "minutes": 18742,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-11-01T07:54:14Z",
       "sessions": [
@@ -1093,9 +1093,15 @@
           "ended_at": "2026-11-13T02:23:15Z",
           "started_at": "2026-11-11T02:23:03Z",
           "viewer_minutes": 3552
+        },
+        {
+          "duration_min": 1794,
+          "ended_at": "2026-11-14T08:17:13Z",
+          "started_at": "2026-11-13T02:23:15Z",
+          "viewer_minutes": 1896
         }
       ],
-      "viewer_minutes": 15632
+      "viewer_minutes": 17528
     },
     "rudzi_belarus": {
       "added_at": "2026-09-11",
@@ -1608,5 +1614,5 @@
       "viewer_minutes": 8729
     }
   },
-  "updated_at": "2026-11-14T05:59:25Z"
+  "updated_at": "2026-11-14T08:17:13Z"
 }

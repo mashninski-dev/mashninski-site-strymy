@@ -3465,6 +3465,16 @@
       "display_name": "radyjo_holas",
       "history": [
         {
+          "duration_min": 1794,
+          "ended_at": "2026-11-14T08:17:13Z",
+          "game": "Just Chatting",
+          "source": "observed",
+          "started_at": "2026-11-13T02:23:15Z",
+          "stream_id": "319189769447",
+          "title": "Беларускі кантэнт — хутка навіны пра праэкт",
+          "vod": null
+        },
+        {
           "duration_min": 2880,
           "ended_at": "2026-11-13T02:23:15Z",
           "game": "Just Chatting",
@@ -3653,34 +3663,24 @@
           "stream_id": "316997443285",
           "title": "Беларускі кантэнт — хутка навіны пра праэкт",
           "vod": null
-        },
-        {
-          "duration_min": 2880,
-          "ended_at": "2026-10-10T00:33:44Z",
-          "game": "Just Chatting",
-          "source": "observed",
-          "started_at": "2026-10-08T00:33:33Z",
-          "stream_id": "317021067734",
-          "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 2880,
-        "ended_at": "2026-11-13T02:23:15Z",
+        "duration_min": 1794,
+        "ended_at": "2026-11-14T08:17:13Z",
         "game": "Just Chatting",
         "source": "observed",
-        "started_at": "2026-11-11T02:23:03Z",
-        "stream_id": "319282784101",
+        "started_at": "2026-11-13T02:23:15Z",
+        "stream_id": "319189769447",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
         "vod": null
       },
       "live": {
-        "game": "Just Chatting",
-        "since": "2026-11-13T02:23:15Z",
-        "stream_id": "319189769447",
-        "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 1
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/feb426c4-d99b-47bb-a9dc-8c4259f88e1d-profile_image-300x300.png",
@@ -5249,5 +5249,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-14T07:30:37Z"
+  "updated_at": "2026-11-14T08:17:13Z"
 }
