@@ -976,11 +976,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Grand Theft Auto: Vice City",
+        "since": "2026-11-15T17:05:52Z",
+        "stream_id": "319339482597",
+        "title": "Знаёмімся з Вайс-Сіці 🌴 | Grand Theft Auto: Vice City",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -3695,7 +3695,7 @@
         "since": "2026-11-14T08:19:26Z",
         "stream_id": "319393375334",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 2
+        "viewers": 1
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/feb426c4-d99b-47bb-a9dc-8c4259f88e1d-profile_image-300x300.png",
@@ -4354,7 +4354,7 @@
         "since": "2026-11-15T16:58:28Z",
         "stream_id": "319415015526",
         "title": "Дык куды ж ісці?? від Іринка подруга",
-        "viewers": 0
+        "viewers": 1
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5264,5 +5264,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-15T17:00:39Z"
+  "updated_at": "2026-11-15T17:06:25Z"
 }
