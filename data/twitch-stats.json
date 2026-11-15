@@ -583,20 +583,7 @@
           "2026-11-01": 57
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Total War: WARHAMMER III",
-            "sec": 9397
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2760,3600,3037,0,0,0,0,0],
-        "last_seen_at": "2026-11-15T15:50:37Z",
-        "started_at": "2026-11-15T13:14:00Z",
-        "stream_id": "319411878246",
-        "viewer_sec": 82470,
-        "viewers": 8
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -640,21 +627,34 @@
               "minutes": 396
             },
             "Total War: WARHAMMER III": {
-              "launches": 2,
-              "minutes": 469
+              "launches": 3,
+              "minutes": 629
             },
             "Tropico 6": {
               "launches": 1,
               "minutes": 180
             }
           },
-          "hours": [65,0,0,0,0,0,0,0,0,0,0,0,0,0,27,60,60,60,8,16,151,180,239,177],
-          "launches": 5,
-          "minutes": 1045,
-          "viewer_minutes": 3333
+          "hours": [65,0,0,0,0,0,0,0,0,0,0,0,0,0,27,60,106,120,62,16,151,180,239,177],
+          "launches": 6,
+          "minutes": 1205,
+          "viewer_minutes": 4730
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Total War: WARHAMMER III",
+              "minutes": 160
+            }
+          ],
+          "ended_at": "2026-11-15T15:53:31Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,60,54,0,0,0,0,0],
+          "started_at": "2026-11-15T13:14:00Z",
+          "viewer_minutes": 1397,
+          "viewers_last": 8
+        },
         {
           "categories": [
             {
@@ -4159,14 +4159,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 113471
+            "sec": 113739
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,6034,7200,7200,7200,7200,7200,7200,6637,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-15T15:50:37Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,6034,7200,7200,7200,7200,7200,7200,6905,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-15T15:55:05Z",
         "started_at": "2026-11-14T08:19:26Z",
         "stream_id": "319393375334",
-        "viewer_sec": 127216,
+        "viewer_sec": 127484,
         "viewers": 1
       },
       "monthly": {
@@ -6300,15 +6300,15 @@
         "categories": [
           {
             "game": "Broforce",
-            "sec": 1106
+            "sec": 1374
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1106,0,0,0,0,0],
-        "last_seen_at": "2026-11-15T15:50:37Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1374,0,0,0,0,0],
+        "last_seen_at": "2026-11-15T15:55:05Z",
         "started_at": "2026-11-15T15:32:11Z",
         "stream_id": "317321112532",
-        "viewer_sec": 3682,
-        "viewers": 7
+        "viewer_sec": 5960,
+        "viewers": 10
       },
       "monthly": {
         "2026-10": {
@@ -6685,6 +6685,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-15T15:50:37Z",
+  "updated_at": "2026-11-15T15:55:05Z",
   "viewers_since": "2026-11-02"
 }

@@ -206,8 +206,8 @@
           "minutes": 396
         },
         "Total War: WARHAMMER III": {
-          "launches": 2,
-          "minutes": 469
+          "launches": 3,
+          "minutes": 629
         },
         "Tropico 6": {
           "launches": 1,
@@ -217,9 +217,9 @@
       "display_name": "annigilatormg42",
       "followers_end": null,
       "followers_start": 57,
-      "hours": [65,0,0,0,0,0,0,0,0,0,0,0,0,0,27,60,60,60,8,16,151,180,239,177],
-      "launches": 5,
-      "minutes": 1045,
+      "hours": [65,0,0,0,0,0,0,0,0,0,0,0,0,0,27,60,106,120,62,16,151,180,239,177],
+      "launches": 6,
+      "minutes": 1205,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T21:54:22Z",
       "sessions": [
@@ -251,9 +251,15 @@
           "ended_at": "2026-11-14T15:08:30Z",
           "started_at": "2026-11-14T11:32:55Z",
           "viewer_minutes": 1265
+        },
+        {
+          "duration_min": 160,
+          "ended_at": "2026-11-15T15:53:31Z",
+          "started_at": "2026-11-15T13:14:00Z",
+          "viewer_minutes": 1397
         }
       ],
-      "viewer_minutes": 3333
+      "viewer_minutes": 4730
     },
     "bel_asch": {
       "added_at": "2026-09-11",
@@ -1675,5 +1681,5 @@
       "viewer_minutes": 14388
     }
   },
-  "updated_at": "2026-11-15T13:32:42Z"
+  "updated_at": "2026-11-15T15:55:05Z"
 }
