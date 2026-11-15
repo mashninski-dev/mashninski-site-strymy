@@ -268,6 +268,10 @@
           "launches": 1,
           "minutes": 145
         },
+        "Grand Theft Auto: Vice City": {
+          "launches": 1,
+          "minutes": 132
+        },
         "Looking Up I See Only a Ceiling": {
           "launches": 1,
           "minutes": 67
@@ -276,9 +280,9 @@
       "display_name": "Bel_Asch",
       "followers_end": null,
       "followers_start": 216,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87,79,45],
-      "launches": 2,
-      "minutes": 212,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,147,97,45],
+      "launches": 3,
+      "minutes": 344,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T20:47:26Z",
       "sessions": [
@@ -293,9 +297,15 @@
           "ended_at": "2026-11-12T20:45:09Z",
           "started_at": "2026-11-12T18:20:36Z",
           "viewer_minutes": 332
+        },
+        {
+          "duration_min": 132,
+          "ended_at": "2026-11-15T19:17:30Z",
+          "started_at": "2026-11-15T17:05:52Z",
+          "viewer_minutes": 450
         }
       ],
-      "viewer_minutes": 866
+      "viewer_minutes": 1316
     },
     "dzed_ahey": {
       "added_at": "2026-09-11",
@@ -1681,5 +1691,5 @@
       "viewer_minutes": 14388
     }
   },
-  "updated_at": "2026-11-15T15:55:05Z"
+  "updated_at": "2026-11-15T19:19:08Z"
 }

@@ -670,6 +670,21 @@
       "display_name": "Bel_Asch",
       "history": [
         {
+          "duration_min": 132,
+          "ended_at": "2026-11-15T19:17:30Z",
+          "game": "Grand Theft Auto: Vice City",
+          "source": "vod",
+          "started_at": "2026-11-15T17:05:52Z",
+          "stream_id": "319339482597",
+          "title": "Знаёмімся з Вайс-Сіці 🌴 | Grand Theft Auto: Vice City",
+          "vod": {
+            "gone": false,
+            "id": "2929750627",
+            "seen_at": "2026-11-15T19:19:09Z",
+            "url": "https://www.twitch.tv/videos/2929750627"
+          }
+        },
+        {
           "duration_min": 145,
           "ended_at": "2026-11-12T20:45:09Z",
           "game": "Dragon Age: Inquisition",
@@ -943,44 +958,29 @@
             "seen_at": "2026-10-04T11:06:03Z",
             "url": "https://www.twitch.tv/videos/2880133154"
           }
-        },
-        {
-          "duration_min": 157,
-          "ended_at": "2026-09-20T14:34:15Z",
-          "game": "Dragon Age: Inquisition",
-          "source": "vod",
-          "started_at": "2026-09-20T11:57:44Z",
-          "stream_id": "318713958886",
-          "title": "Інквізіцыя ідзе да тампліераў 🛡️ | Dragon Age: Inquisition",
-          "vod": {
-            "gone": false,
-            "id": "2879245784",
-            "seen_at": "2026-10-04T11:06:03Z",
-            "url": "https://www.twitch.tv/videos/2879245784"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 145,
-        "ended_at": "2026-11-12T20:45:09Z",
-        "game": "Dragon Age: Inquisition",
+        "duration_min": 132,
+        "ended_at": "2026-11-15T19:17:30Z",
+        "game": "Grand Theft Auto: Vice City",
         "source": "vod",
-        "started_at": "2026-11-12T18:20:36Z",
-        "stream_id": "319184824551",
-        "title": "Спачывай з мірам...  | Dragon Age: Inquisition",
+        "started_at": "2026-11-15T17:05:52Z",
+        "stream_id": "319339482597",
+        "title": "Знаёмімся з Вайс-Сіці 🌴 | Grand Theft Auto: Vice City",
         "vod": {
           "gone": false,
-          "id": "2926896678",
-          "seen_at": "2026-11-12T20:46:48Z",
-          "url": "https://www.twitch.tv/videos/2926896678"
+          "id": "2929750627",
+          "seen_at": "2026-11-15T19:19:09Z",
+          "url": "https://www.twitch.tv/videos/2929750627"
         }
       },
       "live": {
-        "game": "Grand Theft Auto: Vice City",
-        "since": "2026-11-15T17:05:52Z",
-        "stream_id": "319339482597",
-        "title": "Знаёмімся з Вайс-Сіці 🌴 | Grand Theft Auto: Vice City",
-        "viewers": 2
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -2957,7 +2957,7 @@
         "since": "2026-11-15T17:58:12Z",
         "stream_id": "317239543765",
         "title": "[BLR] Нядзельны Трыял. Горад, які тоне. Першы прамень пасля. 2 гульні па гадзіне",
-        "viewers": 2
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3464,11 +3464,11 @@
         }
       },
       "live": {
-        "game": "Games + Demos",
+        "game": "Dressmaker (2026)",
         "since": "2026-11-15T18:12:08Z",
         "stream_id": "317275969622",
         "title": "Дэмкі, потым шыццё",
-        "viewers": 7
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4354,7 +4354,7 @@
         "since": "2026-11-15T16:58:28Z",
         "stream_id": "319415015526",
         "title": "Дык куды ж ісці?? від Іринка подруга",
-        "viewers": 4
+        "viewers": 3
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4957,7 +4957,7 @@
         "since": "2026-11-15T18:14:23Z",
         "stream_id": "319225525479",
         "title": "Карбанара Тэйлс ◉ The Carbonara Tales",
-        "viewers": 6
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5257,12 +5257,12 @@
         "since": "2026-11-15T15:32:11Z",
         "stream_id": "317321112532",
         "title": "🔥ГЛЯДЗІМ КІНО ЯКОЕ АГУЧЫЎ БУЛЬБА І ХАМЯЧОК 🥰@watafakablr",
-        "viewers": 16
+        "viewers": 17
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-15T19:10:38Z"
+  "updated_at": "2026-11-15T19:19:08Z"
 }
