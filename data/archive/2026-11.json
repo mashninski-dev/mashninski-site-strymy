@@ -1624,12 +1624,16 @@
           "minutes": 374
         },
         "Broforce": {
-          "launches": 1,
-          "minutes": 223
+          "launches": 2,
+          "minutes": 411
         },
         "HELLDIVERS 2": {
           "launches": 1,
           "minutes": 226
+        },
+        "Just Chatting": {
+          "launches": 1,
+          "minutes": 88
         },
         "WARDOGS": {
           "launches": 3,
@@ -1639,9 +1643,9 @@
       "display_name": "watafakablr",
       "followers_end": null,
       "followers_start": 478,
-      "hours": [35,0,0,0,0,0,0,0,0,0,0,0,0,60,120,120,73,0,41,111,268,300,300,221],
-      "launches": 7,
-      "minutes": 1650,
+      "hours": [35,0,0,0,0,0,0,0,0,0,0,0,0,60,120,120,73,0,69,171,328,360,360,229],
+      "launches": 8,
+      "minutes": 1926,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T21:47:59Z",
       "sessions": [
@@ -1686,10 +1690,16 @@
           "ended_at": "2026-11-15T13:32:42Z",
           "started_at": "2026-11-15T10:31:02Z",
           "viewer_minutes": 1485
+        },
+        {
+          "duration_min": 276,
+          "ended_at": "2026-11-15T20:08:10Z",
+          "started_at": "2026-11-15T15:32:11Z",
+          "viewer_minutes": 4029
         }
       ],
-      "viewer_minutes": 14388
+      "viewer_minutes": 18417
     }
   },
-  "updated_at": "2026-11-15T19:19:08Z"
+  "updated_at": "2026-11-15T20:08:10Z"
 }
