@@ -2637,6 +2637,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 134,
+          "ended_at": "2026-11-15T20:12:14Z",
+          "game": "007 First Light",
+          "source": "vod",
+          "started_at": "2026-11-15T17:58:12Z",
+          "stream_id": "317239543765",
+          "title": "[BLR] Нядзельны Трыял. Горад, які тоне. Першы прамень пасля. 2 гульні па гадзіне",
+          "vod": {
+            "gone": false,
+            "id": "2929796569",
+            "seen_at": "2026-11-15T20:14:09Z",
+            "url": "https://www.twitch.tv/videos/2929796569"
+          }
+        },
+        {
           "duration_min": 222,
           "ended_at": "2026-11-13T21:38:34Z",
           "game": "Grand Theft Auto V",
@@ -2920,44 +2935,29 @@
             "seen_at": "2026-10-21T21:40:16Z",
             "url": "https://www.twitch.tv/videos/2906937071"
           }
-        },
-        {
-          "duration_min": 194,
-          "ended_at": "2026-10-20T21:11:38Z",
-          "game": "A Little to the Left",
-          "source": "vod",
-          "started_at": "2026-10-20T17:57:28Z",
-          "stream_id": "319022314725",
-          "title": "[BLR] Размоўны стрым. Крыху ўлева. Індзі аўторак",
-          "vod": {
-            "gone": false,
-            "id": "2906078517",
-            "seen_at": "2026-10-20T21:13:17Z",
-            "url": "https://www.twitch.tv/videos/2906078517"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 222,
-        "ended_at": "2026-11-13T21:38:34Z",
-        "game": "Grand Theft Auto V",
+        "duration_min": 134,
+        "ended_at": "2026-11-15T20:12:14Z",
+        "game": "007 First Light",
         "source": "vod",
-        "started_at": "2026-11-13T17:56:21Z",
-        "stream_id": "317224254037",
-        "title": "[BLR] Пятнічны стрым. Канец ГТА5",
+        "started_at": "2026-11-15T17:58:12Z",
+        "stream_id": "317239543765",
+        "title": "[BLR] Нядзельны Трыял. Горад, які тоне. Першы прамень пасля. 2 гульні па гадзіне",
         "vod": {
           "gone": false,
-          "id": "2927771116",
-          "seen_at": "2026-11-13T21:40:13Z",
-          "url": "https://www.twitch.tv/videos/2927771116"
+          "id": "2929796569",
+          "seen_at": "2026-11-15T20:14:09Z",
+          "url": "https://www.twitch.tv/videos/2929796569"
         }
       },
       "live": {
-        "game": "007 First Light",
-        "since": "2026-11-15T17:58:12Z",
-        "stream_id": "317239543765",
-        "title": "[BLR] Нядзельны Трыял. Горад, які тоне. Першы прамень пасля. 2 гульні па гадзіне",
-        "viewers": 1
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -5264,5 +5264,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-15T20:10:48Z"
+  "updated_at": "2026-11-15T20:14:08Z"
 }

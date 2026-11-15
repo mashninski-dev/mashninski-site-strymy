@@ -3057,24 +3057,7 @@
           "2026-11-01": 201
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "The Sinking City 2",
-            "sec": 4346
-          },
-          {
-            "game": "007 First Light",
-            "sec": 3610
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,108,3600,3600,648],
-        "last_seen_at": "2026-11-15T20:10:48Z",
-        "started_at": "2026-11-15T17:58:12Z",
-        "stream_id": "317239543765",
-        "viewer_sec": 13466,
-        "viewers": 1
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -3157,6 +3140,10 @@
         },
         "2026-11": {
           "categories": {
+            "007 First Light": {
+              "launches": 1,
+              "minutes": 62
+            },
             "Crimson Desert": {
               "launches": 1,
               "minutes": 311
@@ -3188,15 +3175,36 @@
             "Serious Sam 3: BFE": {
               "launches": 2,
               "minutes": 292
+            },
+            "The Sinking City 2": {
+              "launches": 1,
+              "minutes": 72
             }
           },
-          "hours": [136,60,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,126,558,618,516],
-          "launches": 11,
-          "minutes": 2120,
-          "viewer_minutes": 9036
+          "hours": [136,60,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,128,618,678,528],
+          "launches": 12,
+          "minutes": 2254,
+          "viewer_minutes": 9262
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "The Sinking City 2",
+              "minutes": 72
+            },
+            {
+              "game": "007 First Light",
+              "minutes": 62
+            }
+          ],
+          "ended_at": "2026-11-15T20:12:14Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,60,60,12],
+          "started_at": "2026-11-15T17:58:12Z",
+          "viewer_minutes": 226,
+          "viewers_last": 1
+        },
         {
           "categories": [
             {
@@ -3709,14 +3717,14 @@
           },
           {
             "game": "Dressmaker (2026)",
-            "sec": 3100
+            "sec": 3300
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2872,3600,648],
-        "last_seen_at": "2026-11-15T20:10:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2872,3600,848],
+        "last_seen_at": "2026-11-15T20:14:08Z",
         "started_at": "2026-11-15T18:12:08Z",
         "stream_id": "317275969622",
-        "viewer_sec": 56793,
+        "viewer_sec": 58393,
         "viewers": 8
       },
       "monthly": {
@@ -4188,14 +4196,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 129082
+            "sec": 129282
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,6034,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,4248],
-        "last_seen_at": "2026-11-15T20:10:48Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,6034,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,4448],
+        "last_seen_at": "2026-11-15T20:14:08Z",
         "started_at": "2026-11-14T08:19:26Z",
         "stream_id": "319393375334",
-        "viewer_sec": 143402,
+        "viewer_sec": 143602,
         "viewers": 1
       },
       "monthly": {
@@ -4854,14 +4862,14 @@
         "categories": [
           {
             "game": "ELDEN RING",
-            "sec": 11540
+            "sec": 11740
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,3600,3600,3600,648],
-        "last_seen_at": "2026-11-15T20:10:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,3600,3600,3600,848],
+        "last_seen_at": "2026-11-15T20:14:08Z",
         "started_at": "2026-11-15T16:58:28Z",
         "stream_id": "319415015526",
-        "viewer_sec": 71738,
+        "viewer_sec": 72938,
         "viewers": 6
       },
       "monthly": {
@@ -5919,14 +5927,14 @@
         "categories": [
           {
             "game": "Games + Demos",
-            "sec": 6985
+            "sec": 7185
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2737,3600,648],
-        "last_seen_at": "2026-11-15T20:10:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2737,3600,848],
+        "last_seen_at": "2026-11-15T20:14:08Z",
         "started_at": "2026-11-15T18:14:23Z",
         "stream_id": "319225525479",
-        "viewer_sec": 35050,
+        "viewer_sec": 36850,
         "viewers": 9
       },
       "monthly": {
@@ -6748,6 +6756,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-15T20:10:48Z",
+  "updated_at": "2026-11-15T20:14:08Z",
   "viewers_since": "2026-11-02"
 }
