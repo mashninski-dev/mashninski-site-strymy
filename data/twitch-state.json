@@ -3148,6 +3148,21 @@
       "display_name": "Nine_Ravens_Cemetery",
       "history": [
         {
+          "duration_min": 158,
+          "ended_at": "2026-11-15T20:49:38Z",
+          "game": "Dressmaker (2026)",
+          "source": "vod",
+          "started_at": "2026-11-15T18:12:08Z",
+          "stream_id": "317275969622",
+          "title": "Дэмкі, потым шыццё",
+          "vod": {
+            "gone": false,
+            "id": "2929810525",
+            "seen_at": "2026-11-15T20:51:20Z",
+            "url": "https://www.twitch.tv/videos/2929810525"
+          }
+        },
+        {
           "duration_min": 171,
           "ended_at": "2026-11-14T21:31:13Z",
           "game": "Dressmaker (2026)",
@@ -3431,44 +3446,29 @@
             "seen_at": "2026-10-27T21:03:30Z",
             "url": "https://www.twitch.tv/videos/2912357079"
           }
-        },
-        {
-          "duration_min": 158,
-          "ended_at": "2026-10-26T21:08:59Z",
-          "game": "Art",
-          "source": "vod",
-          "started_at": "2026-10-26T18:31:18Z",
-          "stream_id": "319098967653",
-          "title": "Павукі і стым (глядзім хэлавінаўскія зніжкі)",
-          "vod": {
-            "gone": false,
-            "id": "2911497749",
-            "seen_at": "2026-10-26T21:10:40Z",
-            "url": "https://www.twitch.tv/videos/2911497749"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 171,
-        "ended_at": "2026-11-14T21:31:13Z",
+        "duration_min": 158,
+        "ended_at": "2026-11-15T20:49:38Z",
         "game": "Dressmaker (2026)",
         "source": "vod",
-        "started_at": "2026-11-14T18:40:37Z",
-        "stream_id": "319211830247",
-        "title": "Шыццё пачаткоўца",
+        "started_at": "2026-11-15T18:12:08Z",
+        "stream_id": "317275969622",
+        "title": "Дэмкі, потым шыццё",
         "vod": {
           "gone": false,
-          "id": "2928819802",
-          "seen_at": "2026-11-14T21:32:59Z",
-          "url": "https://www.twitch.tv/videos/2928819802"
+          "id": "2929810525",
+          "seen_at": "2026-11-15T20:51:20Z",
+          "url": "https://www.twitch.tv/videos/2929810525"
         }
       },
       "live": {
-        "game": "Dressmaker (2026)",
-        "since": "2026-11-15T18:12:08Z",
-        "stream_id": "317275969622",
-        "title": "Дэмкі, потым шыццё",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4354,7 +4354,7 @@
         "since": "2026-11-15T16:58:28Z",
         "stream_id": "319415015526",
         "title": "Дык куды ж ісці?? від Іринка подруга",
-        "viewers": 11
+        "viewers": 14
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4957,7 +4957,7 @@
         "since": "2026-11-15T18:14:23Z",
         "stream_id": "319225525479",
         "title": "Карбанара Тэйлс ◉ The Carbonara Tales",
-        "viewers": 10
+        "viewers": 12
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5264,5 +5264,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-15T20:40:39Z"
+  "updated_at": "2026-11-15T20:51:19Z"
 }

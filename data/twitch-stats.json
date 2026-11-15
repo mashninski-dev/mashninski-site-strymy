@@ -3698,24 +3698,7 @@
           "2026-11-01": 304
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Games + Demos",
-            "sec": 4020
-          },
-          {
-            "game": "Dressmaker (2026)",
-            "sec": 4891
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2872,3600,2439],
-        "last_seen_at": "2026-11-15T20:40:39Z",
-        "started_at": "2026-11-15T18:12:08Z",
-        "stream_id": "317275969622",
-        "viewer_sec": 74610,
-        "viewers": 9
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -3747,12 +3730,12 @@
               "minutes": 748
             },
             "Dressmaker (2026)": {
-              "launches": 1,
-              "minutes": 171
+              "launches": 2,
+              "minutes": 262
             },
             "Games + Demos": {
-              "launches": 2,
-              "minutes": 373
+              "launches": 3,
+              "minutes": 440
             },
             "Just Chatting": {
               "launches": 4,
@@ -3767,13 +3750,30 @@
               "minutes": 164
             }
           },
-          "hours": [224,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,181,839,827],
-          "launches": 14,
-          "minutes": 2136,
-          "viewer_minutes": 16174
+          "hours": [224,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,229,899,877],
+          "launches": 15,
+          "minutes": 2294,
+          "viewer_minutes": 17499
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Games + Demos",
+              "minutes": 67
+            },
+            {
+              "game": "Dressmaker (2026)",
+              "minutes": 91
+            }
+          ],
+          "ended_at": "2026-11-15T20:49:38Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,60,50],
+          "started_at": "2026-11-15T18:12:08Z",
+          "viewer_minutes": 1325,
+          "viewers_last": 9
+        },
         {
           "categories": [
             {
@@ -4185,14 +4185,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 130873
+            "sec": 131513
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,6034,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,6039],
-        "last_seen_at": "2026-11-15T20:40:39Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,6034,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,6679],
+        "last_seen_at": "2026-11-15T20:51:19Z",
         "started_at": "2026-11-14T08:19:26Z",
         "stream_id": "319393375334",
-        "viewer_sec": 145193,
+        "viewer_sec": 145833,
         "viewers": 1
       },
       "monthly": {
@@ -4851,15 +4851,15 @@
         "categories": [
           {
             "game": "ELDEN RING",
-            "sec": 13331
+            "sec": 13971
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,3600,3600,3600,2439],
-        "last_seen_at": "2026-11-15T20:40:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,3600,3600,3600,3079],
+        "last_seen_at": "2026-11-15T20:51:19Z",
         "started_at": "2026-11-15T16:58:28Z",
         "stream_id": "319415015526",
-        "viewer_sec": 86654,
-        "viewers": 11
+        "viewer_sec": 94654,
+        "viewers": 14
       },
       "monthly": {
         "2026-10": {
@@ -5916,15 +5916,15 @@
         "categories": [
           {
             "game": "Games + Demos",
-            "sec": 8776
+            "sec": 9416
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2737,3600,2439],
-        "last_seen_at": "2026-11-15T20:40:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2737,3600,3079],
+        "last_seen_at": "2026-11-15T20:51:19Z",
         "started_at": "2026-11-15T18:14:23Z",
         "stream_id": "319225525479",
-        "viewer_sec": 55949,
-        "viewers": 10
+        "viewer_sec": 62989,
+        "viewers": 12
       },
       "monthly": {
         "2026-10": {
@@ -6745,6 +6745,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-15T20:40:39Z",
+  "updated_at": "2026-11-15T20:51:19Z",
   "viewers_since": "2026-11-02"
 }
