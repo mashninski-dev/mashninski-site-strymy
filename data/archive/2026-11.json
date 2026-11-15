@@ -1225,6 +1225,10 @@
     "shagrael_by": {
       "added_at": "2026-09-11",
       "categories": {
+        "Bodycam": {
+          "launches": 1,
+          "minutes": 93
+        },
         "Counter-Strike": {
           "launches": 2,
           "minutes": 732
@@ -1258,16 +1262,16 @@
           "minutes": 2641
         },
         "Valheim": {
-          "launches": 4,
-          "minutes": 991
+          "launches": 5,
+          "minutes": 1542
         }
       },
       "display_name": "ShagraeL_BY",
       "followers_end": null,
       "followers_start": 1019,
-      "hours": [720,720,720,720,593,381,141,18,0,0,0,0,0,0,0,0,0,0,0,27,206,571,720,720],
-      "launches": 13,
-      "minutes": 6257,
+      "hours": [780,780,780,780,653,441,201,29,0,0,0,0,0,0,0,0,0,0,0,27,239,631,780,780],
+      "launches": 14,
+      "minutes": 6901,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-11-01T02:02:08Z",
       "sessions": [
@@ -1347,9 +1351,15 @@
           "ended_at": "2026-11-14T03:26:47Z",
           "started_at": "2026-11-13T18:14:57Z",
           "viewer_minutes": 5604
+        },
+        {
+          "duration_min": 644,
+          "ended_at": "2026-11-15T04:11:19Z",
+          "started_at": "2026-11-14T17:27:18Z",
+          "viewer_minutes": 7301
         }
       ],
-      "viewer_minutes": 67434
+      "viewer_minutes": 74735
     },
     "sla5her_by": {
       "added_at": "2026-10-08",
@@ -1659,5 +1669,5 @@
       "viewer_minutes": 12903
     }
   },
-  "updated_at": "2026-11-14T21:32:59Z"
+  "updated_at": "2026-11-15T04:13:25Z"
 }
