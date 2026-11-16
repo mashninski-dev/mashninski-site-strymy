@@ -1739,7 +1739,20 @@
         }
       ],
       "viewer_minutes": 18417
+    },
+    "yozas_gubka": {
+      "added_at": "2026-11-16",
+      "categories": {},
+      "display_name": "yozas_gubka",
+      "followers_end": null,
+      "followers_start": 0,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 0,
+      "minutes": 0,
+      "prev_broadcast_at": null,
+      "prev_ended_at": null,
+      "sessions": []
     }
   },
-  "updated_at": "2026-11-16T04:19:57Z"
+  "updated_at": "2026-11-16T07:10:38Z"
 }

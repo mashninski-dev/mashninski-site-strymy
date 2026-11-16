@@ -2772,7 +2772,20 @@
           "started_at": "2026-10-31T16:25:04Z"
         }
       ]
+    },
+    "yozas_gubka": {
+      "added_at": "2026-11-16",
+      "categories": {},
+      "display_name": "yozas_gubka",
+      "followers_end": 0,
+      "followers_start": null,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 0,
+      "minutes": 0,
+      "prev_broadcast_at": null,
+      "prev_ended_at": null,
+      "sessions": []
     }
   },
-  "updated_at": "2026-11-09T16:30:44Z"
+  "updated_at": "2026-11-16T07:10:38Z"
 }
