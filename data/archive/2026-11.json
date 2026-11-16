@@ -103,7 +103,7 @@
       "started_at": "2026-11-12T18:04:12Z"
     },
     "eaef8ba5-20e3-46c2-ab21-695dfb4d9cd4": {
-      "ended_at": null,
+      "ended_at": "2026-11-16T22:23:59Z",
       "games": [
         "How to Fish"
       ],
@@ -1831,5 +1831,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-16T22:22:28Z"
+  "updated_at": "2026-11-16T22:23:59Z"
 }
