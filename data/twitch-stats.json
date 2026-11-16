@@ -191,15 +191,15 @@
         "categories": [
           {
             "game": "Nancy Drew: Shadow at the Water's Edge",
-            "sec": 5632
+            "sec": 5973
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2933,2699,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T10:44:59Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2933,3040,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T10:50:40Z",
         "started_at": "2026-11-16T09:11:07Z",
         "stream_id": "319346718181",
-        "viewer_sec": 97071,
-        "viewers": 22
+        "viewer_sec": 104232,
+        "viewers": 20
       },
       "monthly": {
         "2026-10": {
@@ -4185,14 +4185,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 8720
+            "sec": 9061
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2421,3600,2699,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T10:44:59Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2421,3600,3040,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T10:50:40Z",
         "started_at": "2026-11-16T08:19:39Z",
         "stream_id": "319346415461",
-        "viewer_sec": 8720,
+        "viewer_sec": 9061,
         "viewers": 1
       },
       "monthly": {
@@ -5708,15 +5708,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 157
+            "sec": 498
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,157,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T10:44:59Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,498,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T10:50:40Z",
         "started_at": "2026-11-16T10:42:22Z",
         "stream_id": "317326336724",
-        "viewer_sec": 62,
-        "viewers": 1
+        "viewer_sec": 1255,
+        "viewers": 6
       },
       "monthly": {
         "2026-11": {
@@ -6757,8 +6757,8 @@
     },
     "yozas_gubka": {
       "followers": {
-        "changed_at": "2026-11-16T07:10:38Z",
-        "count": 0,
+        "changed_at": "2026-11-16T10:50:40Z",
+        "count": 1,
         "daily": {
           "2026-11-16": 0
         },
@@ -6772,6 +6772,6 @@
       "recent_sessions": []
     }
   },
-  "updated_at": "2026-11-16T10:44:59Z",
+  "updated_at": "2026-11-16T10:50:40Z",
   "viewers_since": "2026-11-02"
 }
