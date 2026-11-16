@@ -1520,12 +1520,12 @@
       "added_at": "2026-11-05",
       "categories": {
         "Dishonored": {
-          "launches": 3,
-          "minutes": 719
+          "launches": 4,
+          "minutes": 849
         },
         "Just Chatting": {
-          "launches": 4,
-          "minutes": 125
+          "launches": 6,
+          "minutes": 157
         },
         "Slay the Spire II": {
           "launches": 1,
@@ -1535,9 +1535,9 @@
       "display_name": "thelelyskek",
       "followers_end": null,
       "followers_start": 117,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,5,60,173,240,240,174,109,4,0,0,0,0,0],
-      "launches": 4,
-      "minutes": 1006,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,5,60,173,240,240,174,109,4,0,31,60,60,11],
+      "launches": 5,
+      "minutes": 1168,
       "prev_broadcast_at": null,
       "prev_ended_at": null,
       "sessions": [
@@ -1564,9 +1564,15 @@
           "ended_at": "2026-11-16T14:49:17Z",
           "started_at": "2026-11-16T10:42:22Z",
           "viewer_minutes": 2453
+        },
+        {
+          "duration_min": 162,
+          "ended_at": "2026-11-16T20:10:39Z",
+          "started_at": "2026-11-16T17:28:42Z",
+          "viewer_minutes": 874
         }
       ],
-      "viewer_minutes": 10449
+      "viewer_minutes": 11323
     },
     "toddzie": {
       "added_at": "2026-09-11",
@@ -1807,5 +1813,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-16T18:10:46Z"
+  "updated_at": "2026-11-16T20:10:39Z"
 }

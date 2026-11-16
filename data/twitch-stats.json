@@ -3042,15 +3042,15 @@
         "categories": [
           {
             "game": "How to Fish",
-            "sec": 7037
+            "sec": 7636
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3397,3600,40],
-        "last_seen_at": "2026-11-16T20:00:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3397,3600,639],
+        "last_seen_at": "2026-11-16T20:10:39Z",
         "started_at": "2026-11-16T18:03:23Z",
         "stream_id": "317329241300",
-        "viewer_sec": 11595,
-        "viewers": 1
+        "viewer_sec": 13691,
+        "viewers": 6
       },
       "monthly": {
         "2026-10": {
@@ -3699,15 +3699,15 @@
         "categories": [
           {
             "game": "Art",
-            "sec": 3841
+            "sec": 4440
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,201,3600,40],
-        "last_seen_at": "2026-11-16T20:00:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,201,3600,639],
+        "last_seen_at": "2026-11-16T20:10:39Z",
         "started_at": "2026-11-16T18:56:39Z",
         "stream_id": "319352830565",
-        "viewer_sec": 26164,
-        "viewers": 9
+        "viewer_sec": 31255,
+        "viewers": 8
       },
       "monthly": {
         "2026-10": {
@@ -4140,17 +4140,6 @@
           "ended_at": "2026-10-17T20:21:53Z",
           "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,60,22],
           "started_at": "2026-10-17T17:58:40Z"
-        },
-        {
-          "categories": [
-            {
-              "game": "Art",
-              "minutes": 129
-            }
-          ],
-          "ended_at": "2026-10-16T20:03:45Z",
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,60,4],
-          "started_at": "2026-10-16T17:55:00Z"
         }
       ]
     },
@@ -4196,14 +4185,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 42061
+            "sec": 42660
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2421,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,40],
-        "last_seen_at": "2026-11-16T20:00:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2421,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,639],
+        "last_seen_at": "2026-11-16T20:10:39Z",
         "started_at": "2026-11-16T08:19:39Z",
         "stream_id": "319346415461",
-        "viewer_sec": 47475,
+        "viewer_sec": 48074,
         "viewers": 1
       },
       "monthly": {
@@ -4866,14 +4855,14 @@
         "categories": [
           {
             "game": "How to Fish",
-            "sec": 7695
+            "sec": 8294
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,455,3600,3600,40],
-        "last_seen_at": "2026-11-16T20:00:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,455,3600,3600,639],
+        "last_seen_at": "2026-11-16T20:10:39Z",
         "started_at": "2026-11-16T17:52:25Z",
         "stream_id": "319237133415",
-        "viewer_sec": 58661,
+        "viewer_sec": 64052,
         "viewers": 9
       },
       "monthly": {
@@ -5728,51 +5717,51 @@
           "2026-11-01": 117
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Just Chatting",
-            "sec": 724
-          },
-          {
-            "game": "Dishonored",
-            "sec": 7808
-          },
-          {
-            "game": "Just Chatting",
-            "sec": 586
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1878,3600,3600,40],
-        "last_seen_at": "2026-11-16T20:00:40Z",
-        "started_at": "2026-11-16T17:28:42Z",
-        "stream_id": "317245376085",
-        "viewer_sec": 49422,
-        "viewers": 5
-      },
+      "in_progress": null,
       "monthly": {
         "2026-11": {
           "categories": {
             "Dishonored": {
-              "launches": 3,
-              "minutes": 719
+              "launches": 4,
+              "minutes": 849
             },
             "Just Chatting": {
-              "launches": 4,
-              "minutes": 125
+              "launches": 6,
+              "minutes": 157
             },
             "Slay the Spire II": {
               "launches": 1,
               "minutes": 162
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,5,60,173,240,240,174,109,4,0,0,0,0,0],
-          "launches": 4,
-          "minutes": 1006,
-          "viewer_minutes": 10449
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,5,60,173,240,240,174,109,4,0,31,60,60,11],
+          "launches": 5,
+          "minutes": 1168,
+          "viewer_minutes": 11323
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 12
+            },
+            {
+              "game": "Dishonored",
+              "minutes": 130
+            },
+            {
+              "game": "Just Chatting",
+              "minutes": 20
+            }
+          ],
+          "ended_at": "2026-11-16T20:10:39Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,60,60,11],
+          "started_at": "2026-11-16T17:28:42Z",
+          "viewer_minutes": 874,
+          "viewers_last": 5
+        },
         {
           "categories": [
             {
@@ -5981,14 +5970,14 @@
         "categories": [
           {
             "game": "How to Fish",
-            "sec": 7022
+            "sec": 7621
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3382,3600,40],
-        "last_seen_at": "2026-11-16T20:00:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3382,3600,639],
+        "last_seen_at": "2026-11-16T20:10:39Z",
         "started_at": "2026-11-16T18:03:38Z",
         "stream_id": "319427701222",
-        "viewer_sec": 31893,
+        "viewer_sec": 34888,
         "viewers": 5
       },
       "monthly": {
@@ -6836,6 +6825,6 @@
       "recent_sessions": []
     }
   },
-  "updated_at": "2026-11-16T20:00:40Z",
+  "updated_at": "2026-11-16T20:10:39Z",
   "viewers_since": "2026-11-02"
 }
