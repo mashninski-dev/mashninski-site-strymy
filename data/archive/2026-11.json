@@ -101,6 +101,31 @@
         }
       ],
       "started_at": "2026-11-12T18:04:12Z"
+    },
+    "eaef8ba5-20e3-46c2-ab21-695dfb4d9cd4": {
+      "ended_at": null,
+      "games": [
+        "How to Fish"
+      ],
+      "host_id": "694310267",
+      "participants": [
+        {
+          "id": "694310267",
+          "login": "shagrael_by",
+          "name": "ShagraeL_BY"
+        },
+        {
+          "id": "890636706",
+          "login": "mihas_gareza",
+          "name": "Mihas_Gareza"
+        },
+        {
+          "id": "837601083",
+          "login": "ucenamescy",
+          "name": "Ucenamescy"
+        }
+      ],
+      "started_at": "2026-11-16T17:54:08Z"
     }
   },
   "month": "2026-11",
@@ -1782,5 +1807,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-16T18:03:48Z"
+  "updated_at": "2026-11-16T18:10:46Z"
 }
