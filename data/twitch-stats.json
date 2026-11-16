@@ -4205,14 +4205,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 77
+            "sec": 103
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T08:20:56Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T08:21:22Z",
         "started_at": "2026-11-16T08:19:39Z",
         "stream_id": "319346415461",
-        "viewer_sec": 77,
+        "viewer_sec": 103,
         "viewers": 1
       },
       "monthly": {
@@ -6779,6 +6779,6 @@
       "recent_sessions": []
     }
   },
-  "updated_at": "2026-11-16T08:20:56Z",
+  "updated_at": "2026-11-16T08:21:22Z",
   "viewers_since": "2026-11-02"
 }
