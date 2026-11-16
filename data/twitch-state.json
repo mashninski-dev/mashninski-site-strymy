@@ -2957,7 +2957,7 @@
         "since": "2026-11-16T18:03:23Z",
         "stream_id": "317329241300",
         "title": "[BLR] Каапны панядзеак. Палюем на рыбу",
-        "viewers": 2
+        "viewers": 3
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3147,6 +3147,21 @@
       "description": "За творчасць без ші-гаўна. Штодзённыя мастацкія стрымы (па выхадных - гульні)",
       "display_name": "Nine_Ravens_Cemetery",
       "history": [
+        {
+          "duration_min": 133,
+          "ended_at": "2026-11-16T21:09:54Z",
+          "game": "Art",
+          "source": "vod",
+          "started_at": "2026-11-16T18:56:39Z",
+          "stream_id": "319352830565",
+          "title": "Петрык-храпунцэль",
+          "vod": {
+            "gone": false,
+            "id": "2930712816",
+            "seen_at": "2026-11-16T21:11:00Z",
+            "url": "https://www.twitch.tv/videos/2930712816"
+          }
+        },
         {
           "duration_min": 158,
           "ended_at": "2026-11-15T20:49:38Z",
@@ -3431,44 +3446,29 @@
             "seen_at": "2026-10-28T21:00:40Z",
             "url": "https://www.twitch.tv/videos/2913243210"
           }
-        },
-        {
-          "duration_min": 155,
-          "ended_at": "2026-10-27T21:01:42Z",
-          "game": "Art",
-          "source": "vod",
-          "started_at": "2026-10-27T18:26:17Z",
-          "stream_id": "317192687956",
-          "title": "Два гады штодзённага стрымінгу (святочны звычайны стрым)",
-          "vod": {
-            "gone": false,
-            "id": "2912357079",
-            "seen_at": "2026-10-27T21:03:30Z",
-            "url": "https://www.twitch.tv/videos/2912357079"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 158,
-        "ended_at": "2026-11-15T20:49:38Z",
-        "game": "Dressmaker (2026)",
+        "duration_min": 133,
+        "ended_at": "2026-11-16T21:09:54Z",
+        "game": "Art",
         "source": "vod",
-        "started_at": "2026-11-15T18:12:08Z",
-        "stream_id": "317275969622",
-        "title": "Дэмкі, потым шыццё",
+        "started_at": "2026-11-16T18:56:39Z",
+        "stream_id": "319352830565",
+        "title": "Петрык-храпунцэль",
         "vod": {
           "gone": false,
-          "id": "2929810525",
-          "seen_at": "2026-11-15T20:51:20Z",
-          "url": "https://www.twitch.tv/videos/2929810525"
+          "id": "2930712816",
+          "seen_at": "2026-11-16T21:11:00Z",
+          "url": "https://www.twitch.tv/videos/2930712816"
         }
       },
       "live": {
-        "game": "Art",
-        "since": "2026-11-16T18:56:39Z",
-        "stream_id": "319352830565",
-        "title": "Петрык-храпунцэль",
-        "viewers": 7
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4354,7 +4354,7 @@
         "since": "2026-11-16T17:52:25Z",
         "stream_id": "319237133415",
         "title": "Пайшлі рыбаліць від Іринка подруга",
-        "viewers": 11
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4977,7 +4977,7 @@
         "since": "2026-11-16T18:03:38Z",
         "stream_id": "319427701222",
         "title": "Рыбакі ◉ How To Fish",
-        "viewers": 4
+        "viewers": 5
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5302,5 +5302,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-16T21:00:44Z"
+  "updated_at": "2026-11-16T21:11:00Z"
 }
