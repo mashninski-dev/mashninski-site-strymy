@@ -191,14 +191,14 @@
         "categories": [
           {
             "game": "Nancy Drew: Shadow at the Water's Edge",
-            "sec": 5374
+            "sec": 5507
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2933,2441,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T10:40:41Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2933,2574,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T10:42:54Z",
         "started_at": "2026-11-16T09:11:07Z",
         "stream_id": "319346718181",
-        "viewer_sec": 91200,
+        "viewer_sec": 94259,
         "viewers": 23
       },
       "monthly": {
@@ -4185,14 +4185,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 8462
+            "sec": 8595
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2421,3600,2441,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T10:40:41Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2421,3600,2574,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T10:42:54Z",
         "started_at": "2026-11-16T08:19:39Z",
         "stream_id": "319346415461",
-        "viewer_sec": 8462,
+        "viewer_sec": 8595,
         "viewers": 1
       },
       "monthly": {
@@ -5704,7 +5704,20 @@
           "2026-11-01": 117
         }
       },
-      "in_progress": null,
+      "in_progress": {
+        "categories": [
+          {
+            "game": "Just Chatting",
+            "sec": 32
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T10:42:54Z",
+        "started_at": "2026-11-16T10:42:22Z",
+        "stream_id": "317326336724",
+        "viewer_sec": 0,
+        "viewers": 0
+      },
       "monthly": {
         "2026-11": {
           "categories": {
@@ -6759,6 +6772,6 @@
       "recent_sessions": []
     }
   },
-  "updated_at": "2026-11-16T10:40:41Z",
+  "updated_at": "2026-11-16T10:42:54Z",
   "viewers_since": "2026-11-02"
 }
