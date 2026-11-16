@@ -326,7 +326,7 @@
         "since": "2026-11-16T09:11:07Z",
         "stream_id": "319346718181",
         "title": "Нэнсі Дрю ў Японіі. Nancy Drew: Shadow at the Water's Edge",
-        "viewers": 21
+        "viewers": 22
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -4542,7 +4542,7 @@
         "vod": null
       },
       "live": {
-        "game": "Just Chatting",
+        "game": "Dishonored",
         "since": "2026-11-16T10:42:22Z",
         "stream_id": "317326336724",
         "title": "[BEL/ENG] Такога не было і вось зноў...",
@@ -5282,5 +5282,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-16T11:10:53Z"
+  "updated_at": "2026-11-16T11:20:46Z"
 }

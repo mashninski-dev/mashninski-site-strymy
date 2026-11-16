@@ -191,15 +191,15 @@
         "categories": [
           {
             "game": "Nancy Drew: Shadow at the Water's Edge",
-            "sec": 7186
+            "sec": 7779
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2933,3600,653,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T11:10:53Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2933,3600,1246,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T11:20:46Z",
         "started_at": "2026-11-16T09:11:07Z",
         "stream_id": "319346718181",
-        "viewer_sec": 128796,
-        "viewers": 21
+        "viewer_sec": 141545,
+        "viewers": 22
       },
       "monthly": {
         "2026-10": {
@@ -4185,14 +4185,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 10274
+            "sec": 10867
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2421,3600,3600,653,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T11:10:53Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2421,3600,3600,1246,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T11:20:46Z",
         "started_at": "2026-11-16T08:19:39Z",
         "stream_id": "319346415461",
-        "viewer_sec": 10274,
+        "viewer_sec": 10867,
         "viewers": 1
       },
       "monthly": {
@@ -5708,14 +5708,18 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 1711
+            "sec": 2304
+          },
+          {
+            "game": "Dishonored",
+            "sec": 0
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,1058,653,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T11:10:53Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,1058,1246,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T11:20:46Z",
         "started_at": "2026-11-16T10:42:22Z",
         "stream_id": "317326336724",
-        "viewer_sec": 11570,
+        "viewer_sec": 17500,
         "viewers": 10
       },
       "monthly": {
@@ -6772,6 +6776,6 @@
       "recent_sessions": []
     }
   },
-  "updated_at": "2026-11-16T11:10:53Z",
+  "updated_at": "2026-11-16T11:20:46Z",
   "viewers_since": "2026-11-02"
 }
