@@ -181,26 +181,13 @@
           "2026-11-15": 1306,
           "2026-11-16": 1306
         },
-        "fail_runs": 1,
+        "fail_runs": 0,
         "snapshots": {
           "2026-10-01": 1293,
           "2026-11-01": 1302
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Nancy Drew: Shadow at the Water's Edge",
-            "sec": 13180
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2933,3600,3600,3047,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T12:50:47Z",
-        "started_at": "2026-11-16T09:11:07Z",
-        "stream_id": "319346718181",
-        "viewer_sec": 258869,
-        "viewers": 25
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -291,18 +278,35 @@
               "launches": 1,
               "minutes": 223
             },
+            "Nancy Drew: Shadow at the Water's Edge": {
+              "launches": 1,
+              "minutes": 226
+            },
             "Noita": {
               "launches": 1,
               "minutes": 214
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,450,540,540,476,8,0,0,0,0,0,0,0],
-          "launches": 9,
-          "minutes": 2014,
-          "viewer_minutes": 31305
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,499,600,600,533,8,0,0,0,0,0,0,0],
+          "launches": 10,
+          "minutes": 2240,
+          "viewer_minutes": 35784
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Nancy Drew: Shadow at the Water's Edge",
+              "minutes": 226
+            }
+          ],
+          "ended_at": "2026-11-16T12:57:22Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,49,60,60,57,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-16T09:11:07Z",
+          "viewer_minutes": 4479,
+          "viewers_last": 25
+        },
         {
           "categories": [
             {
@@ -2353,7 +2357,7 @@
           "2026-11-15": 134,
           "2026-11-16": 134
         },
-        "fail_runs": 1,
+        "fail_runs": 0,
         "snapshots": {
           "2026-10-01": 130,
           "2026-11-01": 134
@@ -3036,7 +3040,7 @@
           "2026-11-15": 202,
           "2026-11-16": 202
         },
-        "fail_runs": 1,
+        "fail_runs": 0,
         "snapshots": {
           "2026-10-01": 198,
           "2026-11-01": 201
@@ -4174,14 +4178,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 16268
+            "sec": 16757
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2421,3600,3600,3600,3047,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T12:50:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2421,3600,3600,3600,3536,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T12:58:56Z",
         "started_at": "2026-11-16T08:19:39Z",
         "stream_id": "319346415461",
-        "viewer_sec": 16268,
+        "viewer_sec": 16757,
         "viewers": 1
       },
       "monthly": {
@@ -5701,15 +5705,15 @@
           },
           {
             "game": "Dishonored",
-            "sec": 5401
+            "sec": 5890
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,1058,3600,3047,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T12:50:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,1058,3600,3536,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T12:58:56Z",
         "started_at": "2026-11-16T10:42:22Z",
         "stream_id": "317326336724",
-        "viewer_sec": 58916,
-        "viewers": 8
+        "viewer_sec": 65762,
+        "viewers": 20
       },
       "monthly": {
         "2026-11": {
@@ -5861,7 +5865,7 @@
           "2026-11-15": 49,
           "2026-11-16": 49
         },
-        "fail_runs": 1,
+        "fail_runs": 0,
         "snapshots": {
           "2026-10-01": 45,
           "2026-11-01": 49
@@ -6765,6 +6769,6 @@
       "recent_sessions": []
     }
   },
-  "updated_at": "2026-11-16T12:50:47Z",
+  "updated_at": "2026-11-16T12:58:56Z",
   "viewers_since": "2026-11-02"
 }

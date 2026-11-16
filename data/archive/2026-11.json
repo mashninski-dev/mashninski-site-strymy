@@ -128,6 +128,10 @@
           "launches": 1,
           "minutes": 223
         },
+        "Nancy Drew: Shadow at the Water's Edge": {
+          "launches": 1,
+          "minutes": 226
+        },
         "Noita": {
           "launches": 1,
           "minutes": 214
@@ -136,9 +140,9 @@
       "display_name": "AngryRalef",
       "followers_end": null,
       "followers_start": 1302,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,450,540,540,476,8,0,0,0,0,0,0,0],
-      "launches": 9,
-      "minutes": 2014,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,499,600,600,533,8,0,0,0,0,0,0,0],
+      "launches": 10,
+      "minutes": 2240,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T12:58:11Z",
       "sessions": [
@@ -194,9 +198,15 @@
           "ended_at": "2026-11-13T12:51:19Z",
           "started_at": "2026-11-13T09:07:05Z",
           "viewer_minutes": 4956
+        },
+        {
+          "duration_min": 226,
+          "ended_at": "2026-11-16T12:57:22Z",
+          "started_at": "2026-11-16T09:11:07Z",
+          "viewer_minutes": 4479
         }
       ],
-      "viewer_minutes": 31305
+      "viewer_minutes": 35784
     },
     "annigilatormg42": {
       "added_at": "2026-09-11",
@@ -1760,5 +1770,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-16T08:20:56Z"
+  "updated_at": "2026-11-16T12:58:56Z"
 }
