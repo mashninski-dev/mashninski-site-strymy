@@ -3480,6 +3480,16 @@
       "display_name": "radyjo_holas",
       "history": [
         {
+          "duration_min": 2880,
+          "ended_at": "2026-11-16T08:19:39Z",
+          "game": "Just Chatting",
+          "source": "observed",
+          "started_at": "2026-11-14T08:19:26Z",
+          "stream_id": "319393375334",
+          "title": "Беларускі кантэнт — хутка навіны пра праэкт",
+          "vod": null
+        },
+        {
           "duration_min": 1794,
           "ended_at": "2026-11-14T08:17:13Z",
           "game": "Just Chatting",
@@ -3668,32 +3678,22 @@
           "stream_id": "318778667239",
           "title": "Беларускі кантэнт — хутка навіны пра праэкт",
           "vod": null
-        },
-        {
-          "duration_min": 2880,
-          "ended_at": "2026-10-12T00:33:55Z",
-          "game": "Just Chatting",
-          "source": "observed",
-          "started_at": "2026-10-10T00:33:44Z",
-          "stream_id": "316997443285",
-          "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 1794,
-        "ended_at": "2026-11-14T08:17:13Z",
+        "duration_min": 2880,
+        "ended_at": "2026-11-16T08:19:39Z",
         "game": "Just Chatting",
         "source": "observed",
-        "started_at": "2026-11-13T02:23:15Z",
-        "stream_id": "319189769447",
+        "started_at": "2026-11-14T08:19:26Z",
+        "stream_id": "319393375334",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
         "vod": null
       },
       "live": {
         "game": "Just Chatting",
-        "since": "2026-11-14T08:19:26Z",
-        "stream_id": "319393375334",
+        "since": "2026-11-16T08:19:39Z",
+        "stream_id": "319346415461",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
         "viewers": 1
       },
@@ -5282,5 +5282,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-16T07:10:38Z"
+  "updated_at": "2026-11-16T08:20:56Z"
 }
