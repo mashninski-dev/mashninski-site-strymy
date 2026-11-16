@@ -1577,7 +1577,7 @@
           "minutes": 194
         },
         "How to Fish": {
-          "launches": 1,
+          "launches": 2,
           "minutes": 323
         },
         "Just Chatting": {
@@ -1597,8 +1597,8 @@
       "followers_end": null,
       "followers_start": 150,
       "hours": [269,200,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,215,418,401],
-      "launches": 8,
-      "minutes": 1572,
+      "launches": 9,
+      "minutes": 1573,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T20:29:57Z",
       "sessions": [
@@ -1648,6 +1648,12 @@
           "ended_at": "2026-11-15T21:28:33Z",
           "started_at": "2026-11-15T18:14:23Z",
           "viewer_minutes": 1474
+        },
+        {
+          "duration_min": 1,
+          "ended_at": "2026-11-16T18:03:50Z",
+          "started_at": "2026-11-16T18:03:47Z",
+          "viewer_minutes": 0
         }
       ],
       "viewer_minutes": 10884
@@ -1776,5 +1782,5 @@
       "sessions": []
     }
   },
-  "updated_at": "2026-11-16T14:49:17Z"
+  "updated_at": "2026-11-16T18:03:48Z"
 }

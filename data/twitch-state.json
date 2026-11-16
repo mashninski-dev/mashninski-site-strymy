@@ -2953,11 +2953,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "How to Fish",
+        "since": "2026-11-16T18:03:23Z",
+        "stream_id": "317329241300",
+        "title": "[BLR] Каапны панядзеак. Палюем на рыбу",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4354,7 +4354,7 @@
         "since": "2026-11-16T17:52:25Z",
         "stream_id": "319237133415",
         "title": "Пайшлі рыбаліць від Іринка подруга",
-        "viewers": 2
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4556,7 +4556,7 @@
         "since": "2026-11-16T17:28:42Z",
         "stream_id": "317245376085",
         "title": "[BEL/ENG] Такога не было і вось зноў...",
-        "viewers": 6
+        "viewers": 5
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0699f21-5b35-4296-944a-f795f4e5170d-profile_image-300x300.png",
@@ -4646,6 +4646,21 @@
       "description": "♦️ Тэхстрымер твічоўскі. Жыццё - жураві́ны з цукрам",
       "display_name": "Ucenamescy",
       "history": [
+        {
+          "duration_min": 1,
+          "ended_at": "2026-11-16T18:03:50Z",
+          "game": "How to Fish",
+          "source": "vod",
+          "started_at": "2026-11-16T18:03:47Z",
+          "stream_id": "319427701222",
+          "title": "Рыбакі ◉ How To Fish",
+          "vod": {
+            "gone": false,
+            "id": "2930670044",
+            "seen_at": "2026-11-16T18:03:50Z",
+            "url": "https://www.twitch.tv/videos/2930670044"
+          }
+        },
         {
           "duration_min": 194,
           "ended_at": "2026-11-15T21:28:33Z",
@@ -4930,36 +4945,21 @@
             "seen_at": "2026-10-19T21:16:26Z",
             "url": "https://www.twitch.tv/videos/2905178237"
           }
-        },
-        {
-          "duration_min": 202,
-          "ended_at": "2026-10-16T15:02:25Z",
-          "game": "Mewgenics",
-          "source": "vod",
-          "started_at": "2026-10-16T11:40:40Z",
-          "stream_id": "318828769767",
-          "title": "Чылім з коткамі ◉ Mewgenics",
-          "vod": {
-            "gone": false,
-            "id": "2902186235",
-            "seen_at": "2026-10-16T15:04:03Z",
-            "url": "https://www.twitch.tv/videos/2902186235"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 194,
-        "ended_at": "2026-11-15T21:28:33Z",
-        "game": "Games + Demos",
+        "duration_min": 1,
+        "ended_at": "2026-11-16T18:03:50Z",
+        "game": "How to Fish",
         "source": "vod",
-        "started_at": "2026-11-15T18:14:23Z",
-        "stream_id": "319225525479",
-        "title": "Карбанара Тэйлс ◉ The Carbonara Tales",
+        "started_at": "2026-11-16T18:03:47Z",
+        "stream_id": "319427701222",
+        "title": "Рыбакі ◉ How To Fish",
         "vod": {
           "gone": false,
-          "id": "2929812592",
-          "seen_at": "2026-11-15T21:30:17Z",
-          "url": "https://www.twitch.tv/videos/2929812592"
+          "id": "2930670044",
+          "seen_at": "2026-11-16T18:03:50Z",
+          "url": "https://www.twitch.tv/videos/2930670044"
         }
       },
       "live": {
@@ -5292,5 +5292,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-16T18:00:54Z"
+  "updated_at": "2026-11-16T18:03:48Z"
 }
