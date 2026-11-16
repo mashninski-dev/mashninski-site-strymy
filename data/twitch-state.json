@@ -2637,6 +2637,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 257,
+          "ended_at": "2026-11-16T22:20:35Z",
+          "game": "How to Fish",
+          "source": "vod",
+          "started_at": "2026-11-16T18:03:23Z",
+          "stream_id": "317329241300",
+          "title": "[BLR] Каапны панядзеак. Палюем на рыбу",
+          "vod": {
+            "gone": false,
+            "id": "2930669779",
+            "seen_at": "2026-11-16T22:22:28Z",
+            "url": "https://www.twitch.tv/videos/2930669779"
+          }
+        },
+        {
           "duration_min": 134,
           "ended_at": "2026-11-15T20:12:14Z",
           "game": "007 First Light",
@@ -2920,44 +2935,29 @@
             "seen_at": "2026-10-22T21:20:30Z",
             "url": "https://www.twitch.tv/videos/2907798491"
           }
-        },
-        {
-          "duration_min": 224,
-          "ended_at": "2026-10-21T21:38:40Z",
-          "game": "Grand Theft Auto V",
-          "source": "vod",
-          "started_at": "2026-10-21T17:55:04Z",
-          "stream_id": "319091344614",
-          "title": "[BLR] Рыхтуемся да GTA VI. Зарабляем міліярд. Stonks",
-          "vod": {
-            "gone": false,
-            "id": "2906937071",
-            "seen_at": "2026-10-21T21:40:16Z",
-            "url": "https://www.twitch.tv/videos/2906937071"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 134,
-        "ended_at": "2026-11-15T20:12:14Z",
-        "game": "007 First Light",
+        "duration_min": 257,
+        "ended_at": "2026-11-16T22:20:35Z",
+        "game": "How to Fish",
         "source": "vod",
-        "started_at": "2026-11-15T17:58:12Z",
-        "stream_id": "317239543765",
-        "title": "[BLR] Нядзельны Трыял. Горад, які тоне. Першы прамень пасля. 2 гульні па гадзіне",
+        "started_at": "2026-11-16T18:03:23Z",
+        "stream_id": "317329241300",
+        "title": "[BLR] Каапны панядзеак. Палюем на рыбу",
         "vod": {
           "gone": false,
-          "id": "2929796569",
-          "seen_at": "2026-11-15T20:14:09Z",
-          "url": "https://www.twitch.tv/videos/2929796569"
+          "id": "2930669779",
+          "seen_at": "2026-11-16T22:22:28Z",
+          "url": "https://www.twitch.tv/videos/2930669779"
         }
       },
       "live": {
-        "game": "How to Fish",
-        "since": "2026-11-16T18:03:23Z",
-        "stream_id": "317329241300",
-        "title": "[BLR] Каапны панядзеак. Палюем на рыбу",
-        "viewers": 1
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4657,6 +4657,21 @@
       "display_name": "Ucenamescy",
       "history": [
         {
+          "duration_min": 258,
+          "ended_at": "2026-11-16T22:21:58Z",
+          "game": "How to Fish",
+          "source": "vod",
+          "started_at": "2026-11-16T18:03:38Z",
+          "stream_id": "319427701222",
+          "title": "Рыбакі ◉ How To Fish",
+          "vod": {
+            "gone": false,
+            "id": "2930670044",
+            "seen_at": "2026-11-16T22:22:28Z",
+            "url": "https://www.twitch.tv/videos/2930670044"
+          }
+        },
+        {
           "duration_min": 1,
           "ended_at": "2026-11-16T18:03:50Z",
           "game": "How to Fish",
@@ -4940,44 +4955,29 @@
             "seen_at": "2026-10-20T15:24:00Z",
             "url": "https://www.twitch.tv/videos/2905893826"
           }
-        },
-        {
-          "duration_min": 253,
-          "ended_at": "2026-10-19T21:15:38Z",
-          "game": "RV There Yet?",
-          "source": "vod",
-          "started_at": "2026-10-19T17:02:51Z",
-          "stream_id": "319066450662",
-          "title": "Пляжная Вандроўка ◉ RV There Yet? + Echo Mates",
-          "vod": {
-            "gone": false,
-            "id": "2905178237",
-            "seen_at": "2026-10-19T21:16:26Z",
-            "url": "https://www.twitch.tv/videos/2905178237"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 1,
-        "ended_at": "2026-11-16T18:03:50Z",
+        "duration_min": 258,
+        "ended_at": "2026-11-16T22:21:58Z",
         "game": "How to Fish",
         "source": "vod",
-        "started_at": "2026-11-16T18:03:47Z",
+        "started_at": "2026-11-16T18:03:38Z",
         "stream_id": "319427701222",
         "title": "Рыбакі ◉ How To Fish",
         "vod": {
           "gone": false,
           "id": "2930670044",
-          "seen_at": "2026-11-16T18:03:50Z",
+          "seen_at": "2026-11-16T22:22:28Z",
           "url": "https://www.twitch.tv/videos/2930670044"
         }
       },
       "live": {
-        "game": "How to Fish",
-        "since": "2026-11-16T18:03:38Z",
-        "stream_id": "319427701222",
-        "title": "Рыбакі ◉ How To Fish",
-        "viewers": 5
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5302,5 +5302,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-16T22:10:41Z"
+  "updated_at": "2026-11-16T22:22:28Z"
 }
