@@ -4039,6 +4039,21 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 680,
+          "ended_at": "2026-11-16T04:18:18Z",
+          "game": "The Witcher 3: Wild Hunt Remastered",
+          "source": "vod",
+          "started_at": "2026-11-15T16:58:28Z",
+          "stream_id": "319415015526",
+          "title": "Чылім у Нэверлэндзе від Іринка подруга",
+          "vod": {
+            "gone": false,
+            "id": "2929742872",
+            "seen_at": "2026-11-16T04:19:58Z",
+            "url": "https://www.twitch.tv/videos/2929742872"
+          }
+        },
+        {
           "duration_min": 644,
           "ended_at": "2026-11-15T04:11:19Z",
           "game": "Valheim",
@@ -4317,44 +4332,29 @@
             "seen_at": "2026-10-27T03:19:15Z",
             "url": "https://www.twitch.tv/videos/2911486504"
           }
-        },
-        {
-          "duration_min": 524,
-          "ended_at": "2026-10-26T03:41:30Z",
-          "game": "Valheim",
-          "source": "vod",
-          "started_at": "2026-10-25T18:57:20Z",
-          "stream_id": "317179116884",
-          "title": "Вікінгствуем далей від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2910683244",
-            "seen_at": "2026-10-26T03:43:12Z",
-            "url": "https://www.twitch.tv/videos/2910683244"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 644,
-        "ended_at": "2026-11-15T04:11:19Z",
-        "game": "Valheim",
+        "duration_min": 680,
+        "ended_at": "2026-11-16T04:18:18Z",
+        "game": "The Witcher 3: Wild Hunt Remastered",
         "source": "vod",
-        "started_at": "2026-11-14T17:27:18Z",
-        "stream_id": "319325681765",
-        "title": "Ну будаваць тады від Іринка подруга",
+        "started_at": "2026-11-15T16:58:28Z",
+        "stream_id": "319415015526",
+        "title": "Чылім у Нэверлэндзе від Іринка подруга",
         "vod": {
           "gone": false,
-          "id": "2928751508",
-          "seen_at": "2026-11-15T04:13:25Z",
-          "url": "https://www.twitch.tv/videos/2928751508"
+          "id": "2929742872",
+          "seen_at": "2026-11-16T04:19:58Z",
+          "url": "https://www.twitch.tv/videos/2929742872"
         }
       },
       "live": {
-        "game": "The Witcher 3: Wild Hunt Remastered",
-        "since": "2026-11-15T16:58:28Z",
-        "stream_id": "319415015526",
-        "title": "Чылім у Нэверлэндзе від Іринка подруга",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5264,5 +5264,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-11-16T04:10:46Z"
+  "updated_at": "2026-11-16T04:19:57Z"
 }
