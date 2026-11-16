@@ -191,15 +191,15 @@
         "categories": [
           {
             "game": "Nancy Drew: Shadow at the Water's Edge",
-            "sec": 5507
+            "sec": 5632
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2933,2574,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T10:42:54Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2933,2699,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T10:44:59Z",
         "started_at": "2026-11-16T09:11:07Z",
         "stream_id": "319346718181",
-        "viewer_sec": 94259,
-        "viewers": 23
+        "viewer_sec": 97071,
+        "viewers": 22
       },
       "monthly": {
         "2026-10": {
@@ -4185,14 +4185,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 8595
+            "sec": 8720
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2421,3600,2574,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T10:42:54Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2421,3600,2699,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T10:44:59Z",
         "started_at": "2026-11-16T08:19:39Z",
         "stream_id": "319346415461",
-        "viewer_sec": 8595,
+        "viewer_sec": 8720,
         "viewers": 1
       },
       "monthly": {
@@ -5708,15 +5708,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 32
+            "sec": 157
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T10:42:54Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,157,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T10:44:59Z",
         "started_at": "2026-11-16T10:42:22Z",
         "stream_id": "317326336724",
-        "viewer_sec": 0,
-        "viewers": 0
+        "viewer_sec": 62,
+        "viewers": 1
       },
       "monthly": {
         "2026-11": {
@@ -6772,6 +6772,6 @@
       "recent_sessions": []
     }
   },
-  "updated_at": "2026-11-16T10:42:54Z",
+  "updated_at": "2026-11-16T10:44:59Z",
   "viewers_since": "2026-11-02"
 }
