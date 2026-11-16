@@ -191,15 +191,15 @@
         "categories": [
           {
             "game": "Nancy Drew: Shadow at the Water's Edge",
-            "sec": 1781
+            "sec": 2372
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,1781,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T09:40:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2372,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T09:50:39Z",
         "started_at": "2026-11-16T09:11:07Z",
         "stream_id": "319346718181",
-        "viewer_sec": 21707,
-        "viewers": 14
+        "viewer_sec": 31163,
+        "viewers": 18
       },
       "monthly": {
         "2026-10": {
@@ -4196,14 +4196,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 4869
+            "sec": 5460
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2421,2448,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-16T09:40:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2421,3039,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-16T09:50:39Z",
         "started_at": "2026-11-16T08:19:39Z",
         "stream_id": "319346415461",
-        "viewer_sec": 4869,
+        "viewer_sec": 5460,
         "viewers": 1
       },
       "monthly": {
@@ -6770,6 +6770,6 @@
       "recent_sessions": []
     }
   },
-  "updated_at": "2026-11-16T09:40:48Z",
+  "updated_at": "2026-11-16T09:50:39Z",
   "viewers_since": "2026-11-02"
 }
