@@ -1540,16 +1540,16 @@
       "added_at": "2026-10-24",
       "categories": {
         "Just Chatting": {
-          "launches": 2,
-          "minutes": 157
+          "launches": 3,
+          "minutes": 159
         }
       },
       "display_name": "stableChaotic",
       "followers_end": null,
       "followers_start": 8,
-      "hours": [0,0,0,0,0,53,16,28,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-      "launches": 2,
-      "minutes": 157,
+      "hours": [0,0,2,0,0,53,16,28,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 3,
+      "minutes": 159,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-24T11:35:32Z",
       "sessions": [
@@ -1564,6 +1564,12 @@
           "ended_at": "2026-11-14T05:59:25Z",
           "started_at": "2026-11-14T04:31:48Z",
           "viewer_minutes": 93
+        },
+        {
+          "duration_min": 2,
+          "ended_at": "2026-11-17T23:55:12Z",
+          "started_at": "2026-11-17T23:52:55Z",
+          "viewer_minutes": 0
         }
       ],
       "viewer_minutes": 160
@@ -1890,5 +1896,5 @@
       "viewer_minutes": 17
     }
   },
-  "updated_at": "2026-11-17T21:32:41Z"
+  "updated_at": "2026-11-17T23:55:12Z"
 }
