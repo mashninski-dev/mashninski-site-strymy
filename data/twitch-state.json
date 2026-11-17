@@ -5289,6 +5289,16 @@
       "display_name": "yozas_gubka",
       "history": [
         {
+          "duration_min": 20,
+          "ended_at": "2026-11-17T17:15:23Z",
+          "game": "Escape from Tarkov",
+          "source": "observed",
+          "started_at": "2026-11-17T16:55:04Z",
+          "stream_id": "319439178598",
+          "title": "Таркаў па-беларуску",
+          "vod": null
+        },
+        {
           "duration_min": 11,
           "ended_at": "2026-11-17T16:03:23Z",
           "game": "Escape from Tarkov",
@@ -5300,21 +5310,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 11,
-        "ended_at": "2026-11-17T16:03:23Z",
+        "duration_min": 20,
+        "ended_at": "2026-11-17T17:15:23Z",
         "game": "Escape from Tarkov",
         "source": "observed",
-        "started_at": "2026-11-17T15:52:03Z",
-        "stream_id": "319247576423",
+        "started_at": "2026-11-17T16:55:04Z",
+        "stream_id": "319439178598",
         "title": "Таркаў па-беларуску",
         "vod": null
       },
       "live": {
-        "game": "Escape from Tarkov",
-        "since": "2026-11-17T16:55:04Z",
-        "stream_id": "319439178598",
-        "title": "Таркаў па-беларуску",
-        "viewers": 1
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5322,5 +5332,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-17T17:10:48Z"
+  "updated_at": "2026-11-17T17:15:23Z"
 }
