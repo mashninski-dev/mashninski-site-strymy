@@ -5290,11 +5290,11 @@
       "history": [],
       "last_stream": null,
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Escape from Tarkov",
+        "since": "2026-11-17T15:52:03Z",
+        "stream_id": "319247576423",
+        "title": "Таркаў па-беларуску",
+        "viewers": 0
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5302,5 +5302,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-17T15:40:52Z"
+  "updated_at": "2026-11-17T15:52:32Z"
 }
