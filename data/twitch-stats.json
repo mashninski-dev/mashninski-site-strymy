@@ -4224,15 +4224,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 114061
+            "sec": 114224
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,6021,7200,7200,7200,7200,7200,7200,7200,3640,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-17T16:00:40Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,6021,7200,7200,7200,7200,7200,7200,7200,3803,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-17T16:03:23Z",
         "started_at": "2026-11-16T08:19:39Z",
         "stream_id": "319346415461",
-        "viewer_sec": 152445,
-        "viewers": 3
+        "viewer_sec": 152852,
+        "viewers": 2
       },
       "monthly": {
         "2026-10": {
@@ -6861,24 +6861,38 @@
           "2026-11-01": 0
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Escape from Tarkov",
-            "sec": 517
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,477,40,0,0,0,0],
-        "last_seen_at": "2026-11-17T16:00:40Z",
-        "started_at": "2026-11-17T15:52:03Z",
-        "stream_id": "319247576423",
-        "viewer_sec": 244,
-        "viewers": 1
+      "in_progress": null,
+      "monthly": {
+        "2026-11": {
+          "categories": {
+            "Escape from Tarkov": {
+              "launches": 1,
+              "minutes": 11
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,0,0,0,0],
+          "launches": 1,
+          "minutes": 11,
+          "viewer_minutes": 7
+        }
       },
-      "monthly": {},
-      "recent_sessions": []
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Escape from Tarkov",
+              "minutes": 11
+            }
+          ],
+          "ended_at": "2026-11-17T16:03:23Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,0,0,0,0],
+          "started_at": "2026-11-17T15:52:03Z",
+          "viewer_minutes": 7,
+          "viewers_last": 1
+        }
+      ]
     }
   },
-  "updated_at": "2026-11-17T16:00:40Z",
+  "updated_at": "2026-11-17T16:03:23Z",
   "viewers_since": "2026-11-02"
 }
