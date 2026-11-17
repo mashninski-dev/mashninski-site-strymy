@@ -326,7 +326,7 @@
         "since": "2026-11-17T09:05:29Z",
         "stream_id": "319243904999",
         "title": "Сярэднявечны вампір на заходзе сонца. The Blood of Dawnwalker",
-        "viewers": 16
+        "viewers": 17
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -1139,6 +1139,21 @@
       "display_name": "DzedMaksim",
       "history": [
         {
+          "duration_min": 224,
+          "ended_at": "2026-11-17T11:57:06Z",
+          "game": "The Long Dark",
+          "source": "vod",
+          "started_at": "2026-11-17T08:13:03Z",
+          "stream_id": "319434209254",
+          "title": "88# Вяртаемся на базу, плануем! Дзень 490+💀Няпрошаны госьць💀|🪓 The Long Dark беларуская мова",
+          "vod": {
+            "gone": false,
+            "id": "2931246106",
+            "seen_at": "2026-11-17T11:58:44Z",
+            "url": "https://www.twitch.tv/videos/2931246106"
+          }
+        },
+        {
           "duration_min": 129,
           "ended_at": "2026-11-12T20:12:25Z",
           "game": "Species: Unknown",
@@ -1422,44 +1437,29 @@
             "seen_at": "2026-10-26T11:42:20Z",
             "url": "https://www.twitch.tv/videos/2911183672"
           }
-        },
-        {
-          "duration_min": 201,
-          "ended_at": "2026-10-23T10:48:29Z",
-          "game": "The Witcher 3: Wild Hunt",
-          "source": "vod",
-          "started_at": "2026-10-23T07:27:15Z",
-          "stream_id": "319110256102",
-          "title": "#15 Інтрыгі і змовы Навіграда. Цёмныя бакі горада. | The Witcher 3 беларуская мова",
-          "vod": {
-            "gone": false,
-            "id": "2908337054",
-            "seen_at": "2026-10-23T10:50:02Z",
-            "url": "https://www.twitch.tv/videos/2908337054"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 129,
-        "ended_at": "2026-11-12T20:12:25Z",
-        "game": "Species: Unknown",
+        "duration_min": 224,
+        "ended_at": "2026-11-17T11:57:06Z",
+        "game": "The Long Dark",
         "source": "vod",
-        "started_at": "2026-11-12T18:03:01Z",
-        "stream_id": "319184485863",
-        "title": "Кааператыўны жахасьцік з @Ucenamescy @shagrael_by | Species: Unkown беларуская мова",
+        "started_at": "2026-11-17T08:13:03Z",
+        "stream_id": "319434209254",
+        "title": "88# Вяртаемся на базу, плануем! Дзень 490+💀Няпрошаны госьць💀|🪓 The Long Dark беларуская мова",
         "vod": {
           "gone": false,
-          "id": "2926882620",
-          "seen_at": "2026-11-12T20:14:00Z",
-          "url": "https://www.twitch.tv/videos/2926882620"
+          "id": "2931246106",
+          "seen_at": "2026-11-17T11:58:44Z",
+          "url": "https://www.twitch.tv/videos/2931246106"
         }
       },
       "live": {
-        "game": "The Long Dark",
-        "since": "2026-11-17T08:13:03Z",
-        "stream_id": "319434209254",
-        "title": "88# Вяртаемся на базу, плануем! Дзень 490+💀Няпрошаны госьць💀|🪓 The Long Dark беларуская мова",
-        "viewers": 3
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -4027,7 +4027,7 @@
         "since": "2026-11-17T11:11:00Z",
         "stream_id": "319359326053",
         "title": "Зноў лінгвістычныя задачкі! Chants of Sennaar (бел.пераклад). Выбар гледачоў",
-        "viewers": 25
+        "viewers": 29
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -5302,5 +5302,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-17T11:48:21Z"
+  "updated_at": "2026-11-17T11:58:44Z"
 }
