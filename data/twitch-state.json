@@ -2957,7 +2957,7 @@
         "since": "2026-11-17T18:05:09Z",
         "stream_id": "319440362214",
         "title": "[BLR] Індзі аўторак. Робім платыну ў Хагі Вагі 2.",
-        "viewers": 5
+        "viewers": 3
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3147,6 +3147,21 @@
       "description": "За творчасць без ші-гаўна. Штодзённыя мастацкія стрымы (па выхадных - гульні)",
       "display_name": "Nine_Ravens_Cemetery",
       "history": [
+        {
+          "duration_min": 127,
+          "ended_at": "2026-11-17T21:07:44Z",
+          "game": "Art",
+          "source": "vod",
+          "started_at": "2026-11-17T19:00:19Z",
+          "stream_id": "317252459221",
+          "title": "Малюем і святкуем, бо брыдж із фолен давн",
+          "vod": {
+            "gone": false,
+            "id": "2931609558",
+            "seen_at": "2026-11-17T21:09:34Z",
+            "url": "https://www.twitch.tv/videos/2931609558"
+          }
+        },
         {
           "duration_min": 133,
           "ended_at": "2026-11-16T21:09:54Z",
@@ -3431,44 +3446,29 @@
             "seen_at": "2026-10-29T21:01:08Z",
             "url": "https://www.twitch.tv/videos/2914145289"
           }
-        },
-        {
-          "duration_min": 149,
-          "ended_at": "2026-10-28T21:00:02Z",
-          "game": "Art",
-          "source": "vod",
-          "started_at": "2026-10-28T18:31:21Z",
-          "stream_id": "317152112470",
-          "title": "Павучыная серада, 28 дзень марафону",
-          "vod": {
-            "gone": false,
-            "id": "2913243210",
-            "seen_at": "2026-10-28T21:00:40Z",
-            "url": "https://www.twitch.tv/videos/2913243210"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 133,
-        "ended_at": "2026-11-16T21:09:54Z",
+        "duration_min": 127,
+        "ended_at": "2026-11-17T21:07:44Z",
         "game": "Art",
         "source": "vod",
-        "started_at": "2026-11-16T18:56:39Z",
-        "stream_id": "319352830565",
-        "title": "Петрык-храпунцэль",
+        "started_at": "2026-11-17T19:00:19Z",
+        "stream_id": "317252459221",
+        "title": "Малюем і святкуем, бо брыдж із фолен давн",
         "vod": {
           "gone": false,
-          "id": "2930712816",
-          "seen_at": "2026-11-16T21:11:00Z",
-          "url": "https://www.twitch.tv/videos/2930712816"
+          "id": "2931609558",
+          "seen_at": "2026-11-17T21:09:34Z",
+          "url": "https://www.twitch.tv/videos/2931609558"
         }
       },
       "live": {
-        "game": "Art",
-        "since": "2026-11-17T19:00:19Z",
-        "stream_id": "317252459221",
-        "title": "Малюем і святкуем, бо брыдж із фолен давн",
-        "viewers": 8
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4354,7 +4354,7 @@
         "since": "2026-11-17T18:10:37Z",
         "stream_id": "319364253925",
         "title": "Вядзьмарымся. Навіград (бел. лакалізацыя) від Іринка подруга",
-        "viewers": 4
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5332,5 +5332,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-17T21:00:42Z"
+  "updated_at": "2026-11-17T21:09:33Z"
 }
