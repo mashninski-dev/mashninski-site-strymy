@@ -878,8 +878,8 @@
           "minutes": 75
         },
         "Poppy Playtime: Chapter 2 - Fly in a Web": {
-          "launches": 1,
-          "minutes": 191
+          "launches": 2,
+          "minutes": 397
         },
         "Resonance: A Plague Tale Legacy": {
           "launches": 1,
@@ -897,9 +897,9 @@
       "display_name": "Mihas_Gareza",
       "followers_end": null,
       "followers_start": 201,
-      "hours": [196,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,128,675,738,588],
-      "launches": 13,
-      "minutes": 2511,
+      "hours": [227,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,128,730,798,648],
+      "launches": 14,
+      "minutes": 2717,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-29T21:31:30Z",
       "sessions": [
@@ -979,9 +979,15 @@
           "ended_at": "2026-11-16T22:20:35Z",
           "started_at": "2026-11-16T18:03:23Z",
           "viewer_minutes": 510
+        },
+        {
+          "duration_min": 206,
+          "ended_at": "2026-11-17T21:31:00Z",
+          "started_at": "2026-11-17T18:05:09Z",
+          "viewer_minutes": 1083
         }
       ],
-      "viewer_minutes": 9772
+      "viewer_minutes": 10855
     },
     "ms_bahiema": {
       "added_at": "2026-09-11",
@@ -1884,5 +1890,5 @@
       "viewer_minutes": 17
     }
   },
-  "updated_at": "2026-11-17T21:09:33Z"
+  "updated_at": "2026-11-17T21:32:41Z"
 }

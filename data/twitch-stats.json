@@ -3044,20 +3044,7 @@
           "2026-11-01": 201
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Poppy Playtime: Chapter 2 - Fly in a Web",
-            "sec": 12344
-          }
-        ],
-        "hours_sec": [1853,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3291,3600,3600],
-        "last_seen_at": "2026-11-17T21:30:53Z",
-        "started_at": "2026-11-17T18:05:09Z",
-        "stream_id": "319440362214",
-        "viewer_sec": 64937,
-        "viewers": 3
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -3165,8 +3152,8 @@
               "minutes": 75
             },
             "Poppy Playtime: Chapter 2 - Fly in a Web": {
-              "launches": 1,
-              "minutes": 191
+              "launches": 2,
+              "minutes": 397
             },
             "Resonance: A Plague Tale Legacy": {
               "launches": 1,
@@ -3181,13 +3168,26 @@
               "minutes": 72
             }
           },
-          "hours": [196,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,128,675,738,588],
-          "launches": 13,
-          "minutes": 2511,
-          "viewer_minutes": 9772
+          "hours": [227,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,128,730,798,648],
+          "launches": 14,
+          "minutes": 2717,
+          "viewer_minutes": 10855
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Poppy Playtime: Chapter 2 - Fly in a Web",
+              "minutes": 206
+            }
+          ],
+          "ended_at": "2026-11-17T21:31:00Z",
+          "hours": [31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,60,60],
+          "started_at": "2026-11-17T18:05:09Z",
+          "viewer_minutes": 1083,
+          "viewers_last": 3
+        },
         {
           "categories": [
             {
@@ -4214,14 +4214,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 133874
+            "sec": 133982
           }
         ],
-        "hours_sec": [5453,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,6021,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200],
-        "last_seen_at": "2026-11-17T21:30:53Z",
+        "hours_sec": [5561,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,6021,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200],
+        "last_seen_at": "2026-11-17T21:32:41Z",
         "started_at": "2026-11-16T08:19:39Z",
         "stream_id": "319346415461",
-        "viewer_sec": 176691,
+        "viewer_sec": 176799,
         "viewers": 1
       },
       "monthly": {
@@ -4901,15 +4901,15 @@
         "categories": [
           {
             "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 12016
+            "sec": 12124
           }
         ],
-        "hours_sec": [1853,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2963,3600,3600],
-        "last_seen_at": "2026-11-17T21:30:53Z",
+        "hours_sec": [1961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2963,3600,3600],
+        "last_seen_at": "2026-11-17T21:32:41Z",
         "started_at": "2026-11-17T18:10:37Z",
         "stream_id": "319364253925",
-        "viewer_sec": 88806,
-        "viewers": 15
+        "viewer_sec": 90534,
+        "viewers": 17
       },
       "monthly": {
         "2026-10": {
@@ -6909,6 +6909,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-17T21:30:53Z",
+  "updated_at": "2026-11-17T21:32:41Z",
   "viewers_since": "2026-11-02"
 }

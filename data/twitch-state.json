@@ -2637,6 +2637,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 206,
+          "ended_at": "2026-11-17T21:31:00Z",
+          "game": "Poppy Playtime: Chapter 2 - Fly in a Web",
+          "source": "vod",
+          "started_at": "2026-11-17T18:05:09Z",
+          "stream_id": "319440362214",
+          "title": "[BLR] Індзі аўторак. Робім платыну ў Хагі Вагі 2.",
+          "vod": {
+            "gone": false,
+            "id": "2931564119",
+            "seen_at": "2026-11-17T21:32:42Z",
+            "url": "https://www.twitch.tv/videos/2931564119"
+          }
+        },
+        {
           "duration_min": 257,
           "ended_at": "2026-11-16T22:20:35Z",
           "game": "How to Fish",
@@ -2920,44 +2935,29 @@
             "seen_at": "2026-10-23T21:10:51Z",
             "url": "https://www.twitch.tv/videos/2908692154"
           }
-        },
-        {
-          "duration_min": 203,
-          "ended_at": "2026-10-22T21:18:52Z",
-          "game": "Serious Sam 3: BFE",
-          "source": "vod",
-          "started_at": "2026-10-22T17:55:27Z",
-          "stream_id": "317158022740",
-          "title": "[BLR] Рэтра чацвер. Сур'ёзны Сэм. Да першага энкаўнтэра.",
-          "vod": {
-            "gone": false,
-            "id": "2907798491",
-            "seen_at": "2026-10-22T21:20:30Z",
-            "url": "https://www.twitch.tv/videos/2907798491"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 257,
-        "ended_at": "2026-11-16T22:20:35Z",
-        "game": "How to Fish",
+        "duration_min": 206,
+        "ended_at": "2026-11-17T21:31:00Z",
+        "game": "Poppy Playtime: Chapter 2 - Fly in a Web",
         "source": "vod",
-        "started_at": "2026-11-16T18:03:23Z",
-        "stream_id": "317329241300",
-        "title": "[BLR] Каапны панядзеак. Палюем на рыбу",
+        "started_at": "2026-11-17T18:05:09Z",
+        "stream_id": "319440362214",
+        "title": "[BLR] Індзі аўторак. Робім платыну ў Хагі Вагі 2.",
         "vod": {
           "gone": false,
-          "id": "2930669779",
-          "seen_at": "2026-11-16T22:22:28Z",
-          "url": "https://www.twitch.tv/videos/2930669779"
+          "id": "2931564119",
+          "seen_at": "2026-11-17T21:32:42Z",
+          "url": "https://www.twitch.tv/videos/2931564119"
         }
       },
       "live": {
-        "game": "Poppy Playtime: Chapter 2 - Fly in a Web",
-        "since": "2026-11-17T18:05:09Z",
-        "stream_id": "319440362214",
-        "title": "[BLR] Індзі аўторак. Робім платыну ў Хагі Вагі 2.",
-        "viewers": 3
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4354,7 +4354,7 @@
         "since": "2026-11-17T18:10:37Z",
         "stream_id": "319364253925",
         "title": "Вядзьмарымся. Навіград (бел. лакалізацыя) від Іринка подруга",
-        "viewers": 15
+        "viewers": 17
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5332,5 +5332,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-17T21:30:53Z"
+  "updated_at": "2026-11-17T21:32:41Z"
 }
