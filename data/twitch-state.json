@@ -3148,6 +3148,21 @@
       "display_name": "Nine_Ravens_Cemetery",
       "history": [
         {
+          "duration_min": 124,
+          "ended_at": "2026-11-18T21:01:40Z",
+          "game": "Art",
+          "source": "vod",
+          "started_at": "2026-11-18T18:57:58Z",
+          "stream_id": "319263368167",
+          "title": "Петрык і апарат",
+          "vod": {
+            "gone": false,
+            "id": "2932590131",
+            "seen_at": "2026-11-18T21:03:17Z",
+            "url": "https://www.twitch.tv/videos/2932590131"
+          }
+        },
+        {
           "duration_min": 127,
           "ended_at": "2026-11-17T21:07:44Z",
           "game": "Art",
@@ -3431,44 +3446,29 @@
             "seen_at": "2026-10-30T21:14:34Z",
             "url": "https://www.twitch.tv/videos/2915042069"
           }
-        },
-        {
-          "duration_min": 125,
-          "ended_at": "2026-10-29T20:59:25Z",
-          "game": "Art",
-          "source": "vod",
-          "started_at": "2026-10-29T18:54:14Z",
-          "stream_id": "318999344871",
-          "title": "Віна павучок",
-          "vod": {
-            "gone": false,
-            "id": "2914145289",
-            "seen_at": "2026-10-29T21:01:08Z",
-            "url": "https://www.twitch.tv/videos/2914145289"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 127,
-        "ended_at": "2026-11-17T21:07:44Z",
+        "duration_min": 124,
+        "ended_at": "2026-11-18T21:01:40Z",
         "game": "Art",
         "source": "vod",
-        "started_at": "2026-11-17T19:00:19Z",
-        "stream_id": "317252459221",
-        "title": "Малюем і святкуем, бо брыдж із фолен давн",
+        "started_at": "2026-11-18T18:57:58Z",
+        "stream_id": "319263368167",
+        "title": "Петрык і апарат",
         "vod": {
           "gone": false,
-          "id": "2931609558",
-          "seen_at": "2026-11-17T21:09:34Z",
-          "url": "https://www.twitch.tv/videos/2931609558"
+          "id": "2932590131",
+          "seen_at": "2026-11-18T21:03:17Z",
+          "url": "https://www.twitch.tv/videos/2932590131"
         }
       },
       "live": {
-        "game": "Art",
-        "since": "2026-11-18T18:57:58Z",
-        "stream_id": "319263368167",
-        "title": "Петрык і апарат",
-        "viewers": 8
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4354,7 +4354,7 @@
         "since": "2026-11-18T17:55:16Z",
         "stream_id": "317344295124",
         "title": "Лоўтаб-кіт на месцы від Іринка подруга",
-        "viewers": 11
+        "viewers": 10
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5007,7 +5007,7 @@
         "since": "2026-11-18T18:25:18Z",
         "stream_id": "319262778087",
         "title": "Нарэшце Каналізація ◉ Silver Pines",
-        "viewers": 16
+        "viewers": 19
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5382,5 +5382,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-18T21:00:52Z"
+  "updated_at": "2026-11-18T21:03:15Z"
 }
