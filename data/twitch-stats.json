@@ -1157,15 +1157,15 @@
         "categories": [
           {
             "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-            "sec": 236
+            "sec": 800
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,236,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-18T08:21:20Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,800,0,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-18T08:30:44Z",
         "started_at": "2026-11-18T08:17:24Z",
         "stream_id": "319446857062",
-        "viewer_sec": 560,
-        "viewers": 5
+        "viewer_sec": 4790,
+        "viewers": 10
       },
       "monthly": {
         "2026-10": {
@@ -4183,14 +4183,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 80
+            "sec": 644
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-18T08:21:20Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,644,0,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-18T08:30:44Z",
         "started_at": "2026-11-18T08:20:00Z",
         "stream_id": "319371084645",
-        "viewer_sec": 80,
+        "viewer_sec": 644,
         "viewers": 1
       },
       "monthly": {
@@ -6883,6 +6883,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-18T08:21:20Z",
+  "updated_at": "2026-11-18T08:30:44Z",
   "viewers_since": "2026-11-02"
 }
