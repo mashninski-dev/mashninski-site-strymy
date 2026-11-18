@@ -2164,7 +2164,7 @@
         "since": "2026-11-18T21:09:50Z",
         "stream_id": "317346050644",
         "title": "GTA VI па-беларуску! DROPS уключаны",
-        "viewers": 0
+        "viewers": 27
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -4354,7 +4354,7 @@
         "since": "2026-11-18T17:55:16Z",
         "stream_id": "317344295124",
         "title": "Лоўтаб-кіт на месцы від Іринка подруга",
-        "viewers": 17
+        "viewers": 14
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4687,6 +4687,21 @@
       "display_name": "Ucenamescy",
       "history": [
         {
+          "duration_min": 168,
+          "ended_at": "2026-11-18T21:13:48Z",
+          "game": "Silver Pines",
+          "source": "vod",
+          "started_at": "2026-11-18T18:25:18Z",
+          "stream_id": "319262778087",
+          "title": "Нарэшце Каналізація ◉ Silver Pines",
+          "vod": {
+            "gone": false,
+            "id": "2932559446",
+            "seen_at": "2026-11-18T21:15:33Z",
+            "url": "https://www.twitch.tv/videos/2932559446"
+          }
+        },
+        {
           "duration_min": 258,
           "ended_at": "2026-11-16T22:21:58Z",
           "game": "How to Fish",
@@ -4970,44 +4985,29 @@
             "seen_at": "2026-10-22T14:22:20Z",
             "url": "https://www.twitch.tv/videos/2907538713"
           }
-        },
-        {
-          "duration_min": 102,
-          "ended_at": "2026-10-20T15:22:25Z",
-          "game": "Games + Demos",
-          "source": "vod",
-          "started_at": "2026-10-20T13:40:41Z",
-          "stream_id": "319075727206",
-          "title": "Глядзім Штосьці ◉ Games + Demos",
-          "vod": {
-            "gone": false,
-            "id": "2905893826",
-            "seen_at": "2026-10-20T15:24:00Z",
-            "url": "https://www.twitch.tv/videos/2905893826"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 258,
-        "ended_at": "2026-11-16T22:21:58Z",
-        "game": "How to Fish",
+        "duration_min": 168,
+        "ended_at": "2026-11-18T21:13:48Z",
+        "game": "Silver Pines",
         "source": "vod",
-        "started_at": "2026-11-16T18:03:38Z",
-        "stream_id": "319427701222",
-        "title": "Рыбакі ◉ How To Fish",
+        "started_at": "2026-11-18T18:25:18Z",
+        "stream_id": "319262778087",
+        "title": "Нарэшце Каналізація ◉ Silver Pines",
         "vod": {
           "gone": false,
-          "id": "2930670044",
-          "seen_at": "2026-11-16T22:22:28Z",
-          "url": "https://www.twitch.tv/videos/2930670044"
+          "id": "2932559446",
+          "seen_at": "2026-11-18T21:15:33Z",
+          "url": "https://www.twitch.tv/videos/2932559446"
         }
       },
       "live": {
-        "game": "Silver Pines",
-        "since": "2026-11-18T18:25:18Z",
-        "stream_id": "319262778087",
-        "title": "Нарэшце Каналізація ◉ Silver Pines",
-        "viewers": 15
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5382,5 +5382,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-18T21:10:17Z"
+  "updated_at": "2026-11-18T21:15:33Z"
 }

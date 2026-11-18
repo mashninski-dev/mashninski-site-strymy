@@ -2057,15 +2057,15 @@
         "categories": [
           {
             "game": "Grand Theft Auto VI",
-            "sec": 64
+            "sec": 343
           }
         ],
-        "hours_sec": [64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-18T21:10:54Z",
+        "hours_sec": [343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-18T21:15:33Z",
         "started_at": "2026-11-18T21:09:50Z",
         "stream_id": "317346050644",
-        "viewer_sec": 0,
-        "viewers": 0
+        "viewer_sec": 3766,
+        "viewers": 27
       },
       "monthly": {
         "2026-10": {
@@ -4212,14 +4212,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 46254
+            "sec": 46533
           }
         ],
-        "hours_sec": [654,0,0,0,0,0,0,0,0,0,0,2400,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-18T21:10:54Z",
+        "hours_sec": [933,0,0,0,0,0,0,0,0,0,0,2400,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-18T21:15:33Z",
         "started_at": "2026-11-18T08:20:00Z",
         "stream_id": "319371084645",
-        "viewer_sec": 52745,
+        "viewer_sec": 53024,
         "viewers": 1
       },
       "monthly": {
@@ -4920,15 +4920,15 @@
         "categories": [
           {
             "game": "Counter-Strike",
-            "sec": 11738
+            "sec": 12017
           }
         ],
-        "hours_sec": [654,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,284,3600,3600,3600],
-        "last_seen_at": "2026-11-18T21:10:54Z",
+        "hours_sec": [933,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,284,3600,3600,3600],
+        "last_seen_at": "2026-11-18T21:15:33Z",
         "started_at": "2026-11-18T17:55:16Z",
         "stream_id": "317344295124",
-        "viewer_sec": 112167,
-        "viewers": 17
+        "viewer_sec": 116491,
+        "viewers": 14
       },
       "monthly": {
         "2026-10": {
@@ -6041,8 +6041,8 @@
     },
     "ucenamescy": {
       "followers": {
-        "changed_at": "2026-11-15T13:50:37Z",
-        "count": 155,
+        "changed_at": "2026-11-18T21:15:33Z",
+        "count": 156,
         "daily": {
           "2026-10-22": 148,
           "2026-10-23": 148,
@@ -6080,20 +6080,7 @@
           "2026-11-01": 150
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Silver Pines",
-            "sec": 9936
-          }
-        ],
-        "hours_sec": [654,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2082,3600,3600],
-        "last_seen_at": "2026-11-18T21:10:54Z",
-        "started_at": "2026-11-18T18:25:18Z",
-        "stream_id": "319262778087",
-        "viewer_sec": 105465,
-        "viewers": 15
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -6165,21 +6152,34 @@
               "minutes": 192
             },
             "Silver Pines": {
-              "launches": 4,
-              "minutes": 734
+              "launches": 5,
+              "minutes": 902
             },
             "Species: Unknown": {
               "launches": 1,
               "minutes": 129
             }
           },
-          "hours": [329,222,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,271,478,461],
-          "launches": 10,
-          "minutes": 1831,
-          "viewer_minutes": 12153
+          "hours": [343,222,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,306,538,521],
+          "launches": 11,
+          "minutes": 1999,
+          "viewer_minutes": 13955
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Silver Pines",
+              "minutes": 168
+            }
+          ],
+          "ended_at": "2026-11-18T21:13:48Z",
+          "hours": [14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,60,60],
+          "started_at": "2026-11-18T18:25:18Z",
+          "viewer_minutes": 1802,
+          "viewers_last": 15
+        },
         {
           "categories": [
             {
@@ -6979,6 +6979,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-18T21:10:54Z",
+  "updated_at": "2026-11-18T21:15:33Z",
   "viewers_since": "2026-11-02"
 }
