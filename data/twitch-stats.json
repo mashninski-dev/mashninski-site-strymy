@@ -3023,7 +3023,20 @@
           "2026-11-01": 201
         }
       },
-      "in_progress": null,
+      "in_progress": {
+        "categories": [
+          {
+            "game": "Grand Theft Auto: Vice City - The Definitive Edition",
+            "sec": 40
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0],
+        "last_seen_at": "2026-11-18T17:56:36Z",
+        "started_at": "2026-11-18T17:55:56Z",
+        "stream_id": "319262289511",
+        "viewer_sec": 0,
+        "viewers": 0
+      },
       "monthly": {
         "2026-10": {
           "categories": {
@@ -4193,14 +4206,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 34557
+            "sec": 34596
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2400,3600,3600,3600,3600,3600,3600,3600,3600,3357,0,0,0],
-        "last_seen_at": "2026-11-18T17:55:57Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2400,3600,3600,3600,3600,3600,3600,3600,3600,3396,0,0,0],
+        "last_seen_at": "2026-11-18T17:56:36Z",
         "started_at": "2026-11-18T08:20:00Z",
         "stream_id": "319371084645",
-        "viewer_sec": 41048,
+        "viewer_sec": 41087,
         "viewers": 1
       },
       "monthly": {
@@ -4899,11 +4912,11 @@
         "categories": [
           {
             "game": "Counter-Strike",
-            "sec": 41
+            "sec": 80
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0],
-        "last_seen_at": "2026-11-18T17:55:57Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,0,0,0],
+        "last_seen_at": "2026-11-18T17:56:36Z",
         "started_at": "2026-11-18T17:55:16Z",
         "stream_id": "317344295124",
         "viewer_sec": 0,
@@ -6884,14 +6897,14 @@
         "categories": [
           {
             "game": "Escape from Tarkov",
-            "sec": 1151
+            "sec": 1190
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1151,0,0,0],
-        "last_seen_at": "2026-11-18T17:55:57Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1190,0,0,0],
+        "last_seen_at": "2026-11-18T17:56:36Z",
         "started_at": "2026-11-18T17:36:46Z",
         "stream_id": "319261998567",
-        "viewer_sec": 1013,
+        "viewer_sec": 1052,
         "viewers": 1
       },
       "monthly": {
@@ -6938,6 +6951,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-18T17:55:57Z",
+  "updated_at": "2026-11-18T17:56:36Z",
   "viewers_since": "2026-11-02"
 }
