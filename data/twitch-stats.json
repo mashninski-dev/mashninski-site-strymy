@@ -4193,14 +4193,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 26444
+            "sec": 26981
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2400,3600,3600,3600,3600,3600,3600,2444,0,0,0,0,0],
-        "last_seen_at": "2026-11-18T15:40:44Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2400,3600,3600,3600,3600,3600,3600,2981,0,0,0,0,0],
+        "last_seen_at": "2026-11-18T15:49:41Z",
         "started_at": "2026-11-18T08:20:00Z",
         "stream_id": "319371084645",
-        "viewer_sec": 26444,
+        "viewer_sec": 26981,
         "viewers": 1
       },
       "monthly": {
@@ -5772,20 +5772,7 @@
           "2026-11-01": 117
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Just Chatting",
-            "sec": 14469
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1225,3600,3600,3600,2444,0,0,0,0,0],
-        "last_seen_at": "2026-11-18T15:40:44Z",
-        "started_at": "2026-11-18T11:39:35Z",
-        "stream_id": "319257673703",
-        "viewer_sec": 192905,
-        "viewers": 14
-      },
+      "in_progress": null,
       "monthly": {
         "2026-11": {
           "categories": {
@@ -5794,21 +5781,34 @@
               "minutes": 849
             },
             "Just Chatting": {
-              "launches": 6,
-              "minutes": 157
+              "launches": 7,
+              "minutes": 407
             },
             "Slay the Spire II": {
               "launches": 1,
               "minutes": 162
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,5,60,173,240,240,174,109,4,0,31,60,60,11],
-          "launches": 5,
-          "minutes": 1168,
-          "viewer_minutes": 11323
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,5,60,173,260,300,234,169,54,0,31,60,60,11],
+          "launches": 6,
+          "minutes": 1418,
+          "viewer_minutes": 14663
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 250
+            }
+          ],
+          "ended_at": "2026-11-18T15:49:41Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,60,60,60,50,0,0,0,0,0],
+          "started_at": "2026-11-18T11:39:35Z",
+          "viewer_minutes": 3340,
+          "viewers_last": 14
+        },
         {
           "categories": [
             {
@@ -6912,6 +6912,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-18T15:40:44Z",
+  "updated_at": "2026-11-18T15:49:41Z",
   "viewers_since": "2026-11-02"
 }
