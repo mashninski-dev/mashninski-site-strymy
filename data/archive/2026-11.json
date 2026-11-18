@@ -1917,16 +1917,16 @@
       "added_at": "2026-11-16",
       "categories": {
         "Escape from Tarkov": {
-          "launches": 2,
-          "minutes": 31
+          "launches": 3,
+          "minutes": 113
         }
       },
       "display_name": "yozas_gubka",
       "followers_end": null,
       "followers_start": 0,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,15,0,0,0],
-      "launches": 2,
-      "minutes": 31,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,38,59,0,0],
+      "launches": 3,
+      "minutes": 113,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
       "prev_ended_at": null,
       "sessions": [
@@ -1941,10 +1941,16 @@
           "ended_at": "2026-11-17T17:15:23Z",
           "started_at": "2026-11-17T16:55:04Z",
           "viewer_minutes": 10
+        },
+        {
+          "duration_min": 82,
+          "ended_at": "2026-11-18T18:58:59Z",
+          "started_at": "2026-11-18T17:36:46Z",
+          "viewer_minutes": 80
         }
       ],
-      "viewer_minutes": 17
+      "viewer_minutes": 97
     }
   },
-  "updated_at": "2026-11-18T15:49:41Z"
+  "updated_at": "2026-11-18T18:58:59Z"
 }
