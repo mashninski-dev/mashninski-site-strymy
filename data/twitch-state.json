@@ -2957,7 +2957,7 @@
         "since": "2026-11-18T17:55:56Z",
         "stream_id": "319262289511",
         "title": "[BLR] Уступаем у новую эпоху GTA VI. Спідранім GTA VIce city",
-        "viewers": 12
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3468,7 +3468,7 @@
         "since": "2026-11-18T18:57:58Z",
         "stream_id": "319263368167",
         "title": "Петрык і апарат",
-        "viewers": 12
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4354,7 +4354,7 @@
         "since": "2026-11-18T17:55:16Z",
         "stream_id": "317344295124",
         "title": "Лоўтаб-кіт на месцы від Іринка подруга",
-        "viewers": 11
+        "viewers": 12
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5007,7 +5007,7 @@
         "since": "2026-11-18T18:25:18Z",
         "stream_id": "319262778087",
         "title": "Нарэшце Каналізація ◉ Silver Pines",
-        "viewers": 10
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5319,6 +5319,16 @@
       "display_name": "yozas_gubka",
       "history": [
         {
+          "duration_min": 47,
+          "ended_at": "2026-11-18T20:14:37Z",
+          "game": "Escape from Tarkov",
+          "source": "observed",
+          "started_at": "2026-11-18T19:27:45Z",
+          "stream_id": "317345205460",
+          "title": "Таркаў па-беларуску",
+          "vod": null
+        },
+        {
           "duration_min": 82,
           "ended_at": "2026-11-18T18:58:59Z",
           "game": "Escape from Tarkov",
@@ -5350,21 +5360,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 82,
-        "ended_at": "2026-11-18T18:58:59Z",
+        "duration_min": 47,
+        "ended_at": "2026-11-18T20:14:37Z",
         "game": "Escape from Tarkov",
         "source": "observed",
-        "started_at": "2026-11-18T17:36:46Z",
-        "stream_id": "319261998567",
+        "started_at": "2026-11-18T19:27:45Z",
+        "stream_id": "317345205460",
         "title": "Таркаў па-беларуску",
         "vod": null
       },
       "live": {
-        "game": "Escape from Tarkov",
-        "since": "2026-11-18T19:27:45Z",
-        "stream_id": "317345205460",
-        "title": "Таркаў па-беларуску",
-        "viewers": 0
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5372,5 +5382,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-18T20:10:46Z"
+  "updated_at": "2026-11-18T20:14:37Z"
 }
