@@ -214,7 +214,20 @@
           "2026-11-01": 1302
         }
       },
-      "in_progress": null,
+      "in_progress": {
+        "categories": [
+          {
+            "game": "Might and Magic IX",
+            "sec": 50
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-18T09:10:22Z",
+        "started_at": "2026-11-18T09:09:32Z",
+        "stream_id": "317340638548",
+        "viewer_sec": 0,
+        "viewers": 0
+      },
       "monthly": {
         "2026-10": {
           "categories": {
@@ -1157,14 +1170,14 @@
         "categories": [
           {
             "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-            "sec": 2594
+            "sec": 3178
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2556,38,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-18T09:00:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2556,622,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-18T09:10:22Z",
         "started_at": "2026-11-18T08:17:24Z",
         "stream_id": "319446857062",
-        "viewer_sec": 25423,
+        "viewer_sec": 33015,
         "viewers": 13
       },
       "monthly": {
@@ -4183,14 +4196,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 2438
+            "sec": 3022
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2400,38,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-18T09:00:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2400,622,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-18T09:10:22Z",
         "started_at": "2026-11-18T08:20:00Z",
         "stream_id": "319371084645",
-        "viewer_sec": 2438,
+        "viewer_sec": 3022,
         "viewers": 1
       },
       "monthly": {
@@ -6883,6 +6896,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-18T09:00:38Z",
+  "updated_at": "2026-11-18T09:10:22Z",
   "viewers_since": "2026-11-02"
 }
