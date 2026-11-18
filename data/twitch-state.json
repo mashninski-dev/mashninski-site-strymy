@@ -6,6 +6,21 @@
       "display_name": "AngryRalef",
       "history": [
         {
+          "duration_min": 225,
+          "ended_at": "2026-11-18T12:54:26Z",
+          "game": "Might and Magic IX",
+          "source": "vod",
+          "started_at": "2026-11-18T09:09:32Z",
+          "stream_id": "317340638548",
+          "title": "Больш моцы і больш магіі. Might and Magic IX",
+          "vod": {
+            "gone": false,
+            "id": "2932171027",
+            "seen_at": "2026-11-18T12:56:14Z",
+            "url": "https://www.twitch.tv/videos/2932171027"
+          }
+        },
+        {
           "duration_min": 235,
           "ended_at": "2026-11-17T13:00:15Z",
           "game": "The Blood of Dawnwalker",
@@ -289,44 +304,29 @@
             "seen_at": "2026-10-21T12:05:38Z",
             "url": "https://www.twitch.tv/videos/2906639932"
           }
-        },
-        {
-          "duration_min": 221,
-          "ended_at": "2026-10-19T11:55:09Z",
-          "game": "Disco Elysium",
-          "source": "vod",
-          "started_at": "2026-10-19T08:14:16Z",
-          "stream_id": "317090605142",
-          "title": "Адпачываем, глядзім бэту 0.4.0. Disco Elysium",
-          "vod": {
-            "gone": false,
-            "id": "2904909048",
-            "seen_at": "2026-10-19T11:56:40Z",
-            "url": "https://www.twitch.tv/videos/2904909048"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 235,
-        "ended_at": "2026-11-17T13:00:15Z",
-        "game": "The Blood of Dawnwalker",
+        "duration_min": 225,
+        "ended_at": "2026-11-18T12:54:26Z",
+        "game": "Might and Magic IX",
         "source": "vod",
-        "started_at": "2026-11-17T09:05:29Z",
-        "stream_id": "319243904999",
-        "title": "Сярэднявечны вампір на заходзе сонца. The Blood of Dawnwalker",
+        "started_at": "2026-11-18T09:09:32Z",
+        "stream_id": "317340638548",
+        "title": "Больш моцы і больш магіі. Might and Magic IX",
         "vod": {
           "gone": false,
-          "id": "2931263613",
-          "seen_at": "2026-11-17T13:00:41Z",
-          "url": "https://www.twitch.tv/videos/2931263613"
+          "id": "2932171027",
+          "seen_at": "2026-11-18T12:56:14Z",
+          "url": "https://www.twitch.tv/videos/2932171027"
         }
       },
       "live": {
-        "game": "Might and Magic IX",
-        "since": "2026-11-18T09:09:32Z",
-        "stream_id": "317340638548",
-        "title": "Больш моцы і больш магіі. Might and Magic IX",
-        "viewers": 16
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -4027,7 +4027,7 @@
         "since": "2026-11-18T10:55:03Z",
         "stream_id": "319372307941",
         "title": "Зноў лінгвістычныя задачкі! Chants of Sennaar (бел.пераклад). Выбар гледачоў",
-        "viewers": 24
+        "viewers": 34
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -4586,7 +4586,7 @@
         "since": "2026-11-18T11:39:35Z",
         "stream_id": "319257673703",
         "title": "[BEL/ENG] Такога не было і вось зноў...",
-        "viewers": 6
+        "viewers": 7
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0699f21-5b35-4296-944a-f795f4e5170d-profile_image-300x300.png",
@@ -5352,5 +5352,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-18T12:50:38Z"
+  "updated_at": "2026-11-18T12:56:14Z"
 }

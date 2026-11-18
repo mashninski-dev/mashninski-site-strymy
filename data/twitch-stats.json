@@ -214,20 +214,7 @@
           "2026-11-01": 1302
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Might and Magic IX",
-            "sec": 13266
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,3028,3600,3600,3038,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-18T12:50:38Z",
-        "started_at": "2026-11-18T09:09:32Z",
-        "stream_id": "317340638548",
-        "viewer_sec": 185105,
-        "viewers": 16
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -318,6 +305,10 @@
               "launches": 1,
               "minutes": 223
             },
+            "Might and Magic IX": {
+              "launches": 1,
+              "minutes": 225
+            },
             "Nancy Drew: Shadow at the Water's Edge": {
               "launches": 1,
               "minutes": 226
@@ -331,13 +322,26 @@
               "minutes": 235
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,554,660,660,593,8,0,0,0,0,0,0,0],
-          "launches": 11,
-          "minutes": 2475,
-          "viewer_minutes": 39217
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,604,720,720,647,8,0,0,0,0,0,0,0],
+          "launches": 12,
+          "minutes": 2700,
+          "viewer_minutes": 42363
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Might and Magic IX",
+              "minutes": 225
+            }
+          ],
+          "ended_at": "2026-11-18T12:54:26Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,50,60,60,54,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-18T09:09:32Z",
+          "viewer_minutes": 3146,
+          "viewers_last": 16
+        },
         {
           "categories": [
             {
@@ -4200,14 +4204,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 16238
+            "sec": 16574
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2400,3600,3600,3600,3038,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-18T12:50:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2400,3600,3600,3600,3374,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-18T12:56:14Z",
         "started_at": "2026-11-18T08:20:00Z",
         "stream_id": "319371084645",
-        "viewer_sec": 16238,
+        "viewer_sec": 16574,
         "viewers": 1
       },
       "monthly": {
@@ -4500,15 +4504,15 @@
           },
           {
             "game": "Silver Pines",
-            "sec": 6587
+            "sec": 6923
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,297,3600,3038,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-18T12:50:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,297,3600,3374,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-18T12:56:14Z",
         "started_at": "2026-11-18T10:55:03Z",
         "stream_id": "319372307941",
-        "viewer_sec": 130106,
-        "viewers": 24
+        "viewer_sec": 139850,
+        "viewers": 34
       },
       "monthly": {
         "2026-10": {
@@ -5783,15 +5787,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 4263
+            "sec": 4599
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1225,3038,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-18T12:50:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1225,3374,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-18T12:56:14Z",
         "started_at": "2026-11-18T11:39:35Z",
         "stream_id": "319257673703",
-        "viewer_sec": 25168,
-        "viewers": 6
+        "viewer_sec": 27352,
+        "viewers": 7
       },
       "monthly": {
         "2026-11": {
@@ -6919,6 +6923,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-18T12:50:38Z",
+  "updated_at": "2026-11-18T12:56:14Z",
   "viewers_since": "2026-11-02"
 }

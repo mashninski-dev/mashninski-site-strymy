@@ -153,6 +153,10 @@
           "launches": 1,
           "minutes": 223
         },
+        "Might and Magic IX": {
+          "launches": 1,
+          "minutes": 225
+        },
         "Nancy Drew: Shadow at the Water's Edge": {
           "launches": 1,
           "minutes": 226
@@ -169,9 +173,9 @@
       "display_name": "AngryRalef",
       "followers_end": null,
       "followers_start": 1302,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,554,660,660,593,8,0,0,0,0,0,0,0],
-      "launches": 11,
-      "minutes": 2475,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,604,720,720,647,8,0,0,0,0,0,0,0],
+      "launches": 12,
+      "minutes": 2700,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T12:58:11Z",
       "sessions": [
@@ -239,9 +243,15 @@
           "ended_at": "2026-11-17T13:00:15Z",
           "started_at": "2026-11-17T09:05:29Z",
           "viewer_minutes": 3433
+        },
+        {
+          "duration_min": 225,
+          "ended_at": "2026-11-18T12:54:26Z",
+          "started_at": "2026-11-18T09:09:32Z",
+          "viewer_minutes": 3146
         }
       ],
-      "viewer_minutes": 39217
+      "viewer_minutes": 42363
     },
     "annigilatormg42": {
       "added_at": "2026-09-11",
@@ -1924,5 +1934,5 @@
       "viewer_minutes": 17
     }
   },
-  "updated_at": "2026-11-18T12:01:02Z"
+  "updated_at": "2026-11-18T12:56:14Z"
 }
