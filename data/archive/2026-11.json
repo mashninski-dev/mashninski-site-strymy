@@ -1546,16 +1546,16 @@
       "added_at": "2026-10-24",
       "categories": {
         "Just Chatting": {
-          "launches": 3,
-          "minutes": 159
+          "launches": 4,
+          "minutes": 521
         }
       },
       "display_name": "stableChaotic",
       "followers_end": null,
       "followers_start": 8,
-      "hours": [0,0,2,0,0,53,16,28,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-      "launches": 3,
-      "minutes": 159,
+      "hours": [0,0,3,60,60,113,76,88,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 4,
+      "minutes": 521,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-24T11:35:32Z",
       "sessions": [
@@ -1576,9 +1576,15 @@
           "ended_at": "2026-11-17T23:55:12Z",
           "started_at": "2026-11-17T23:52:55Z",
           "viewer_minutes": 0
+        },
+        {
+          "duration_min": 362,
+          "ended_at": "2026-11-18T06:00:22Z",
+          "started_at": "2026-11-17T23:58:46Z",
+          "viewer_minutes": 577
         }
       ],
-      "viewer_minutes": 160
+      "viewer_minutes": 737
     },
     "thelelyskek": {
       "added_at": "2026-11-05",
@@ -1902,5 +1908,5 @@
       "viewer_minutes": 17
     }
   },
-  "updated_at": "2026-11-18T02:43:31Z"
+  "updated_at": "2026-11-18T06:00:22Z"
 }

@@ -4434,6 +4434,16 @@
       "display_name": "stableChaotic",
       "history": [
         {
+          "duration_min": 362,
+          "ended_at": "2026-11-18T06:00:22Z",
+          "game": "Just Chatting",
+          "source": "observed",
+          "started_at": "2026-11-17T23:58:46Z",
+          "stream_id": "319368786149",
+          "title": "Study or work together",
+          "vod": null
+        },
+        {
           "duration_min": 2,
           "ended_at": "2026-11-17T23:55:12Z",
           "game": "Just Chatting",
@@ -4475,21 +4485,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 2,
-        "ended_at": "2026-11-17T23:55:12Z",
+        "duration_min": 362,
+        "ended_at": "2026-11-18T06:00:22Z",
         "game": "Just Chatting",
         "source": "observed",
-        "started_at": "2026-11-17T23:52:55Z",
-        "stream_id": "319368748133",
+        "started_at": "2026-11-17T23:58:46Z",
+        "stream_id": "319368786149",
         "title": "Study or work together",
         "vod": null
       },
       "live": {
-        "game": "Just Chatting",
-        "since": "2026-11-17T23:58:46Z",
-        "stream_id": "319368786149",
-        "title": "Study or work together",
-        "viewers": 3
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/55654b58-bcc0-47ee-970c-1760e375eb72-profile_image-300x300.png",
@@ -5342,5 +5352,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-18T05:40:38Z"
+  "updated_at": "2026-11-18T06:00:22Z"
 }
