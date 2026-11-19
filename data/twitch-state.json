@@ -4421,7 +4421,7 @@
         "since": "2026-11-19T17:19:18Z",
         "stream_id": "317266438997",
         "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
-        "viewers": 5
+        "viewers": 4
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5319,6 +5319,16 @@
       "display_name": "yozas_gubka",
       "history": [
         {
+          "duration_min": 38,
+          "ended_at": "2026-11-19T17:46:10Z",
+          "game": "Escape from Tarkov",
+          "source": "observed",
+          "started_at": "2026-11-19T17:08:35Z",
+          "stream_id": "317266341077",
+          "title": "Таркаў па-беларуску",
+          "vod": null
+        },
+        {
           "duration_min": 47,
           "ended_at": "2026-11-18T20:14:37Z",
           "game": "Escape from Tarkov",
@@ -5360,21 +5370,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 47,
-        "ended_at": "2026-11-18T20:14:37Z",
+        "duration_min": 38,
+        "ended_at": "2026-11-19T17:46:10Z",
         "game": "Escape from Tarkov",
         "source": "observed",
-        "started_at": "2026-11-18T19:27:45Z",
-        "stream_id": "317345205460",
+        "started_at": "2026-11-19T17:08:35Z",
+        "stream_id": "317266341077",
         "title": "Таркаў па-беларуску",
         "vod": null
       },
       "live": {
         "game": "Escape from Tarkov",
-        "since": "2026-11-19T17:08:35Z",
-        "stream_id": "317266341077",
+        "since": "2026-11-19T17:46:10Z",
+        "stream_id": "317266678997",
         "title": "Таркаў па-беларуску",
-        "viewers": 2
+        "viewers": 4
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5382,5 +5392,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-19T17:40:40Z"
+  "updated_at": "2026-11-19T17:47:20Z"
 }

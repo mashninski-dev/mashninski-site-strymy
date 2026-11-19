@@ -4202,14 +4202,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 120040
+            "sec": 120440
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,6000,7200,7200,7200,7200,7200,7200,7200,7200,6040,3600,3600,3600],
-        "last_seen_at": "2026-11-19T17:40:40Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,6000,7200,7200,7200,7200,7200,7200,7200,7200,6440,3600,3600,3600],
+        "last_seen_at": "2026-11-19T17:47:20Z",
         "started_at": "2026-11-18T08:20:00Z",
         "stream_id": "319371084645",
-        "viewer_sec": 146014,
+        "viewer_sec": 146414,
         "viewers": 1
       },
       "monthly": {
@@ -5535,15 +5535,15 @@
         "categories": [
           {
             "game": "Grand Theft Auto VI",
-            "sec": 1282
+            "sec": 1682
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1282,0,0,0],
-        "last_seen_at": "2026-11-19T17:40:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1682,0,0,0],
+        "last_seen_at": "2026-11-19T17:47:20Z",
         "started_at": "2026-11-19T17:19:18Z",
         "stream_id": "317266438997",
-        "viewer_sec": 3780,
-        "viewers": 5
+        "viewer_sec": 5580,
+        "viewers": 4
       },
       "monthly": {
         "2026-10": {
@@ -6882,31 +6882,44 @@
         "categories": [
           {
             "game": "Escape from Tarkov",
-            "sec": 1925
+            "sec": 70
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1925,0,0,0],
-        "last_seen_at": "2026-11-19T17:40:40Z",
-        "started_at": "2026-11-19T17:08:35Z",
-        "stream_id": "317266341077",
-        "viewer_sec": 1595,
-        "viewers": 2
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,0,0,0],
+        "last_seen_at": "2026-11-19T17:47:20Z",
+        "started_at": "2026-11-19T17:46:10Z",
+        "stream_id": "317266678997",
+        "viewer_sec": 280,
+        "viewers": 4
       },
       "monthly": {
         "2026-11": {
           "categories": {
             "Escape from Tarkov": {
-              "launches": 4,
-              "minutes": 160
+              "launches": 5,
+              "minutes": 198
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,38,59,32,15],
-          "launches": 4,
-          "minutes": 160,
-          "viewer_minutes": 97
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,76,59,32,15],
+          "launches": 5,
+          "minutes": 198,
+          "viewer_minutes": 135
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Escape from Tarkov",
+              "minutes": 38
+            }
+          ],
+          "ended_at": "2026-11-19T17:46:10Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0],
+          "started_at": "2026-11-19T17:08:35Z",
+          "viewer_minutes": 38,
+          "viewers_last": 2
+        },
         {
           "categories": [
             {
@@ -6962,6 +6975,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-19T17:40:40Z",
+  "updated_at": "2026-11-19T17:47:20Z",
   "viewers_since": "2026-11-02"
 }
