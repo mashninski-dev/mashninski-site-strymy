@@ -4039,6 +4039,21 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 639,
+          "ended_at": "2026-11-19T04:34:36Z",
+          "game": "The Witcher 3: Wild Hunt Remastered",
+          "source": "vod",
+          "started_at": "2026-11-18T17:55:16Z",
+          "stream_id": "317344295124",
+          "title": "Ну трошкі яшчэ павядзьмарым від Іринка подруга",
+          "vod": {
+            "gone": false,
+            "id": "2932531851",
+            "seen_at": "2026-11-19T04:36:16Z",
+            "url": "https://www.twitch.tv/videos/2932531851"
+          }
+        },
+        {
           "duration_min": 511,
           "ended_at": "2026-11-18T02:41:57Z",
           "game": "The Witcher 3: Wild Hunt Remastered",
@@ -4317,44 +4332,29 @@
             "seen_at": "2026-10-31T02:35:02Z",
             "url": "https://www.twitch.tv/videos/2914848836"
           }
-        },
-        {
-          "duration_min": 558,
-          "ended_at": "2026-10-30T01:04:40Z",
-          "game": "Outlast",
-          "source": "vod",
-          "started_at": "2026-10-29T15:46:30Z",
-          "stream_id": "317204390996",
-          "title": "[СКРЫМЕРЫ ЎКЛЮЧАНЫ] Здымаем кінчык (першае праходжанне) від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2913999538",
-            "seen_at": "2026-10-30T01:06:15Z",
-            "url": "https://www.twitch.tv/videos/2913999538"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 511,
-        "ended_at": "2026-11-18T02:41:57Z",
+        "duration_min": 639,
+        "ended_at": "2026-11-19T04:34:36Z",
         "game": "The Witcher 3: Wild Hunt Remastered",
         "source": "vod",
-        "started_at": "2026-11-17T18:10:37Z",
-        "stream_id": "319364253925",
-        "title": "Вядзьмарымся. Навіград (бел. лакалізацыя) від Іринка подруга",
+        "started_at": "2026-11-18T17:55:16Z",
+        "stream_id": "317344295124",
+        "title": "Ну трошкі яшчэ павядзьмарым від Іринка подруга",
         "vod": {
           "gone": false,
-          "id": "2931568708",
-          "seen_at": "2026-11-18T02:43:32Z",
-          "url": "https://www.twitch.tv/videos/2931568708"
+          "id": "2932531851",
+          "seen_at": "2026-11-19T04:36:16Z",
+          "url": "https://www.twitch.tv/videos/2932531851"
         }
       },
       "live": {
-        "game": "The Witcher 3: Wild Hunt Remastered",
-        "since": "2026-11-18T17:55:16Z",
-        "stream_id": "317344295124",
-        "title": "Ну трошкі яшчэ павядзьмарым від Іринка подруга",
-        "viewers": 10
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5382,5 +5382,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-19T04:30:41Z"
+  "updated_at": "2026-11-19T04:36:16Z"
 }
