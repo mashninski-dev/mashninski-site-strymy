@@ -2164,7 +2164,7 @@
         "since": "2026-11-19T21:13:29Z",
         "stream_id": "317355685588",
         "title": "GTA VI па-беларуску! Дзень 2",
-        "viewers": 6
+        "viewers": 7
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -4366,6 +4366,16 @@
       "display_name": "Sla5her_BY",
       "history": [
         {
+          "duration_min": 367,
+          "ended_at": "2026-11-19T23:26:17Z",
+          "game": "Grand Theft Auto VI",
+          "source": "observed",
+          "started_at": "2026-11-19T17:19:18Z",
+          "stream_id": "317266438997",
+          "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
+          "vod": null
+        },
+        {
           "duration_min": 231,
           "ended_at": "2026-11-11T20:57:40Z",
           "game": "HELLDIVERS",
@@ -4407,21 +4417,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 231,
-        "ended_at": "2026-11-11T20:57:40Z",
-        "game": "HELLDIVERS",
+        "duration_min": 367,
+        "ended_at": "2026-11-19T23:26:17Z",
+        "game": "Grand Theft Auto VI",
         "source": "observed",
-        "started_at": "2026-11-11T17:06:15Z",
-        "stream_id": "317210886869",
-        "title": "[BY] Прыгоды у космасе [Bel/Ukr/Eng]",
+        "started_at": "2026-11-19T17:19:18Z",
+        "stream_id": "317266438997",
+        "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
         "vod": null
       },
       "live": {
-        "game": "Grand Theft Auto VI",
-        "since": "2026-11-19T17:19:18Z",
-        "stream_id": "317266438997",
-        "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
-        "viewers": 2
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5402,5 +5412,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-19T23:20:52Z"
+  "updated_at": "2026-11-19T23:26:17Z"
 }

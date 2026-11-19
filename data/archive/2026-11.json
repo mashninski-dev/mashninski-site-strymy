@@ -1601,6 +1601,10 @@
     "sla5her_by": {
       "added_at": "2026-10-08",
       "categories": {
+        "Grand Theft Auto VI": {
+          "launches": 1,
+          "minutes": 367
+        },
         "HELLDIVERS": {
           "launches": 1,
           "minutes": 231
@@ -1613,9 +1617,9 @@
       "display_name": "Sla5her_BY",
       "followers_end": null,
       "followers_start": 312,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,60,60,50,0,54,60,60,58],
-      "launches": 2,
-      "minutes": 424,
+      "hours": [60,60,26,0,0,0,0,0,0,0,0,0,0,0,0,23,60,60,50,0,95,120,120,118],
+      "launches": 3,
+      "minutes": 791,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-28T21:12:36Z",
       "sessions": [
@@ -1630,9 +1634,15 @@
           "ended_at": "2026-11-11T20:57:40Z",
           "started_at": "2026-11-11T17:06:15Z",
           "viewer_minutes": 352
+        },
+        {
+          "duration_min": 367,
+          "ended_at": "2026-11-19T23:26:17Z",
+          "started_at": "2026-11-19T17:19:18Z",
+          "viewer_minutes": 1722
         }
       ],
-      "viewer_minutes": 1543
+      "viewer_minutes": 3265
     },
     "stablechaotic": {
       "added_at": "2026-10-24",
@@ -2036,5 +2046,5 @@
       "viewer_minutes": 333
     }
   },
-  "updated_at": "2026-11-19T21:22:43Z"
+  "updated_at": "2026-11-19T23:26:17Z"
 }
