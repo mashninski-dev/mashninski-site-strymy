@@ -5370,11 +5370,11 @@
         "vod": null
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Escape from Tarkov",
+        "since": "2026-11-19T17:08:35Z",
+        "stream_id": "317266341077",
+        "title": "Таркаў па-беларуску",
+        "viewers": 0
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5382,5 +5382,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-19T16:30:42Z"
+  "updated_at": "2026-11-19T17:09:02Z"
 }
