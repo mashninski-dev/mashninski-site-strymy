@@ -1844,6 +1844,21 @@
       "display_name": "lepus81",
       "history": [
         {
+          "duration_min": 216,
+          "ended_at": "2026-11-19T00:46:00Z",
+          "game": "Grand Theft Auto VI",
+          "source": "vod",
+          "started_at": "2026-11-18T21:09:50Z",
+          "stream_id": "317346050644",
+          "title": "GTA VI па-беларуску! DROPS уключаны",
+          "vod": {
+            "gone": false,
+            "id": "2932716683",
+            "seen_at": "2026-11-19T00:47:47Z",
+            "url": "https://www.twitch.tv/videos/2932716683"
+          }
+        },
+        {
           "duration_min": 160,
           "ended_at": "2026-11-04T19:07:38Z",
           "game": "Battlefield 6",
@@ -2127,44 +2142,29 @@
             "seen_at": "2026-10-07T16:10:58Z",
             "url": "https://www.twitch.tv/videos/2894240904"
           }
-        },
-        {
-          "duration_min": 247,
-          "ended_at": "2026-10-06T19:24:02Z",
-          "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-          "source": "vod",
-          "started_at": "2026-10-06T15:16:33Z",
-          "stream_id": "317055998676",
-          "title": "Я гэтую самую ісціну выкопваю, а ў гэты час з ёй нешта такое робіцца, што выкопваў-то я ісціну, а выкапаў кучу, прабачце.. не скажу чаго (с)",
-          "vod": {
-            "gone": false,
-            "id": "2893466392",
-            "seen_at": "2026-10-06T19:41:50Z",
-            "url": "https://www.twitch.tv/videos/2893466392"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 160,
-        "ended_at": "2026-11-04T19:07:38Z",
-        "game": "Battlefield 6",
+        "duration_min": 216,
+        "ended_at": "2026-11-19T00:46:00Z",
+        "game": "Grand Theft Auto VI",
         "source": "vod",
-        "started_at": "2026-11-04T16:27:18Z",
-        "stream_id": "317245788884",
-        "title": "БАХ-БАБАХ З ЗЯМЛІ",
+        "started_at": "2026-11-18T21:09:50Z",
+        "stream_id": "317346050644",
+        "title": "GTA VI па-беларуску! DROPS уключаны",
         "vod": {
           "gone": false,
-          "id": "2919411062",
-          "seen_at": "2026-11-04T19:09:22Z",
-          "url": "https://www.twitch.tv/videos/2919411062"
+          "id": "2932716683",
+          "seen_at": "2026-11-19T00:47:47Z",
+          "url": "https://www.twitch.tv/videos/2932716683"
         }
       },
       "live": {
-        "game": "Grand Theft Auto VI",
-        "since": "2026-11-18T21:09:50Z",
-        "stream_id": "317346050644",
-        "title": "GTA VI па-беларуску! DROPS уключаны",
-        "viewers": 8
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -4354,7 +4354,7 @@
         "since": "2026-11-18T17:55:16Z",
         "stream_id": "317344295124",
         "title": "Ну трошкі яшчэ павядзьмарым від Іринка подруга",
-        "viewers": 10
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5382,5 +5382,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-19T00:40:48Z"
+  "updated_at": "2026-11-19T00:47:47Z"
 }
