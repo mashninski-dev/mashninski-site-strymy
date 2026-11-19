@@ -6,6 +6,21 @@
       "display_name": "AngryRalef",
       "history": [
         {
+          "duration_min": 221,
+          "ended_at": "2026-11-19T12:53:29Z",
+          "game": "Scarlet Deer Inn",
+          "source": "vod",
+          "started_at": "2026-11-19T09:12:53Z",
+          "stream_id": "317262865365",
+          "title": "Карчма Чырвонага Аленя. Scarlet Deer Inn",
+          "vod": {
+            "gone": false,
+            "id": "2933506510",
+            "seen_at": "2026-11-19T12:55:12Z",
+            "url": "https://www.twitch.tv/videos/2933506510"
+          }
+        },
+        {
           "duration_min": 225,
           "ended_at": "2026-11-18T12:54:26Z",
           "game": "Might and Magic IX",
@@ -289,44 +304,29 @@
             "seen_at": "2026-10-22T11:41:35Z",
             "url": "https://www.twitch.tv/videos/2907478530"
           }
-        },
-        {
-          "duration_min": 167,
-          "ended_at": "2026-10-21T12:04:00Z",
-          "game": "Disco Elysium",
-          "source": "vod",
-          "started_at": "2026-10-21T09:17:10Z",
-          "stream_id": "317148841172",
-          "title": "Гуляемся-тэстуем бэту 0.4.0. Disco Elysium",
-          "vod": {
-            "gone": false,
-            "id": "2906639932",
-            "seen_at": "2026-10-21T12:05:38Z",
-            "url": "https://www.twitch.tv/videos/2906639932"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 225,
-        "ended_at": "2026-11-18T12:54:26Z",
-        "game": "Might and Magic IX",
+        "duration_min": 221,
+        "ended_at": "2026-11-19T12:53:29Z",
+        "game": "Scarlet Deer Inn",
         "source": "vod",
-        "started_at": "2026-11-18T09:09:32Z",
-        "stream_id": "317340638548",
-        "title": "Больш моцы і больш магіі. Might and Magic IX",
+        "started_at": "2026-11-19T09:12:53Z",
+        "stream_id": "317262865365",
+        "title": "Карчма Чырвонага Аленя. Scarlet Deer Inn",
         "vod": {
           "gone": false,
-          "id": "2932171027",
-          "seen_at": "2026-11-18T12:56:14Z",
-          "url": "https://www.twitch.tv/videos/2932171027"
+          "id": "2933506510",
+          "seen_at": "2026-11-19T12:55:12Z",
+          "url": "https://www.twitch.tv/videos/2933506510"
         }
       },
       "live": {
-        "game": "Scarlet Deer Inn",
-        "since": "2026-11-19T09:12:53Z",
-        "stream_id": "317262865365",
-        "title": "Карчма Чырвонага Аленя. Scarlet Deer Inn",
-        "viewers": 18
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -3695,7 +3695,7 @@
         "since": "2026-11-18T08:20:00Z",
         "stream_id": "319371084645",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 1
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/feb426c4-d99b-47bb-a9dc-8c4259f88e1d-profile_image-300x300.png",
@@ -5382,5 +5382,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-19T12:31:13Z"
+  "updated_at": "2026-11-19T12:55:11Z"
 }

@@ -215,20 +215,7 @@
           "2026-11-01": 1302
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Scarlet Deer Inn",
-            "sec": 13072
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2827,3600,3600,3045,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-19T12:50:45Z",
-        "started_at": "2026-11-19T09:12:53Z",
-        "stream_id": "317262865365",
-        "viewer_sec": 210844,
-        "viewers": 18
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -331,18 +318,35 @@
               "launches": 1,
               "minutes": 214
             },
+            "Scarlet Deer Inn": {
+              "launches": 1,
+              "minutes": 221
+            },
             "The Blood of Dawnwalker": {
               "launches": 1,
               "minutes": 235
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,604,720,720,647,8,0,0,0,0,0,0,0],
-          "launches": 12,
-          "minutes": 2700,
-          "viewer_minutes": 42363
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,651,780,780,700,8,0,0,0,0,0,0,0],
+          "launches": 13,
+          "minutes": 2921,
+          "viewer_minutes": 45926
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Scarlet Deer Inn",
+              "minutes": 221
+            }
+          ],
+          "ended_at": "2026-11-19T12:53:29Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,47,60,60,53,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-19T09:12:53Z",
+          "viewer_minutes": 3563,
+          "viewers_last": 18
+        },
         {
           "categories": [
             {
@@ -4209,15 +4213,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 102645
+            "sec": 102911
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,6000,7200,7200,7200,6645,3600,3600,3600,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-19T12:50:45Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,6000,7200,7200,7200,6911,3600,3600,3600,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-19T12:55:11Z",
         "started_at": "2026-11-18T08:20:00Z",
         "stream_id": "319371084645",
-        "viewer_sec": 118739,
-        "viewers": 1
+        "viewer_sec": 119670,
+        "viewers": 6
       },
       "monthly": {
         "2026-10": {
@@ -6954,6 +6958,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-19T12:50:45Z",
+  "updated_at": "2026-11-19T12:55:11Z",
   "viewers_since": "2026-11-02"
 }
