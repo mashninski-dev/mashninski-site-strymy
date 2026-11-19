@@ -2061,20 +2061,7 @@
           "2026-11-01": 645
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Grand Theft Auto VI",
-            "sec": 9234
-          }
-        ],
-        "hours_sec": [2791,3600,2843,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-19T23:47:23Z",
-        "started_at": "2026-11-19T21:13:29Z",
-        "stream_id": "317355685588",
-        "viewer_sec": 89182,
-        "viewers": 8
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -2118,8 +2105,8 @@
               "minutes": 156
             },
             "Grand Theft Auto VI": {
-              "launches": 1,
-              "minutes": 216
+              "launches": 2,
+              "minutes": 372
             },
             "KILLFLOW": {
               "launches": 3,
@@ -2130,13 +2117,26 @@
               "minutes": 90
             }
           },
-          "hours": [78,60,60,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,59,60,68,68,60],
-          "launches": 5,
-          "minutes": 565,
-          "viewer_minutes": 9314
+          "hours": [125,120,110,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,59,60,68,68,60],
+          "launches": 6,
+          "minutes": 721,
+          "viewer_minutes": 10820
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Grand Theft Auto VI",
+              "minutes": 156
+            }
+          ],
+          "ended_at": "2026-11-19T23:49:53Z",
+          "hours": [47,60,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-19T21:13:29Z",
+          "viewer_minutes": 1506,
+          "viewers_last": 8
+        },
         {
           "categories": [
             {
@@ -4224,14 +4224,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 142043
+            "sec": 142283
           }
         ],
-        "hours_sec": [7200,7200,6443,3600,3600,3600,3600,3600,3600,3600,3600,6000,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200],
-        "last_seen_at": "2026-11-19T23:47:23Z",
+        "hours_sec": [7200,7200,6683,3600,3600,3600,3600,3600,3600,3600,3600,6000,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200],
+        "last_seen_at": "2026-11-19T23:51:23Z",
         "started_at": "2026-11-18T08:20:00Z",
         "stream_id": "319371084645",
-        "viewer_sec": 168017,
+        "viewer_sec": 168257,
         "viewers": 1
       },
       "monthly": {
@@ -6993,6 +6993,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-19T23:47:23Z",
+  "updated_at": "2026-11-19T23:51:23Z",
   "viewers_since": "2026-11-02"
 }

@@ -1844,6 +1844,21 @@
       "display_name": "lepus81",
       "history": [
         {
+          "duration_min": 156,
+          "ended_at": "2026-11-19T23:49:53Z",
+          "game": "Grand Theft Auto VI",
+          "source": "vod",
+          "started_at": "2026-11-19T21:13:29Z",
+          "stream_id": "317355685588",
+          "title": "GTA VI па-беларуску! Дзень 2",
+          "vod": {
+            "gone": false,
+            "id": "2934166933",
+            "seen_at": "2026-11-19T23:51:23Z",
+            "url": "https://www.twitch.tv/videos/2934166933"
+          }
+        },
+        {
           "duration_min": 216,
           "ended_at": "2026-11-19T00:46:00Z",
           "game": "Grand Theft Auto VI",
@@ -2127,44 +2142,29 @@
             "seen_at": "2026-10-08T15:10:56Z",
             "url": "https://www.twitch.tv/videos/2895092782"
           }
-        },
-        {
-          "duration_min": 196,
-          "ended_at": "2026-10-07T16:09:15Z",
-          "game": "Battlefield 6",
-          "source": "vod",
-          "started_at": "2026-10-07T12:53:05Z",
-          "stream_id": "316981535701",
-          "title": "Апошняя частка батлпас, чыста для птушачкі",
-          "vod": {
-            "gone": false,
-            "id": "2894240904",
-            "seen_at": "2026-10-07T16:10:58Z",
-            "url": "https://www.twitch.tv/videos/2894240904"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 216,
-        "ended_at": "2026-11-19T00:46:00Z",
+        "duration_min": 156,
+        "ended_at": "2026-11-19T23:49:53Z",
         "game": "Grand Theft Auto VI",
         "source": "vod",
-        "started_at": "2026-11-18T21:09:50Z",
-        "stream_id": "317346050644",
-        "title": "GTA VI па-беларуску! DROPS уключаны",
+        "started_at": "2026-11-19T21:13:29Z",
+        "stream_id": "317355685588",
+        "title": "GTA VI па-беларуску! Дзень 2",
         "vod": {
           "gone": false,
-          "id": "2932716683",
-          "seen_at": "2026-11-19T00:47:47Z",
-          "url": "https://www.twitch.tv/videos/2932716683"
+          "id": "2934166933",
+          "seen_at": "2026-11-19T23:51:23Z",
+          "url": "https://www.twitch.tv/videos/2934166933"
         }
       },
       "live": {
-        "game": "Grand Theft Auto VI",
-        "since": "2026-11-19T21:13:29Z",
-        "stream_id": "317355685588",
-        "title": "GTA VI па-беларуску! Дзень 2",
-        "viewers": 8
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -5412,5 +5412,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-19T23:47:23Z"
+  "updated_at": "2026-11-19T23:51:23Z"
 }
