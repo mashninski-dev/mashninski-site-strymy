@@ -1101,8 +1101,8 @@
       "added_at": "2026-09-11",
       "categories": {
         "Art": {
-          "launches": 9,
-          "minutes": 1132
+          "launches": 10,
+          "minutes": 1261
         },
         "Dressmaker (2026)": {
           "launches": 2,
@@ -1128,9 +1128,9 @@
       "display_name": "Nine_Ravens_Cemetery",
       "followers_end": null,
       "followers_start": 304,
-      "hours": [244,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,234,1079,1057],
-      "launches": 18,
-      "minutes": 2678,
+      "hours": [252,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,235,1139,1117],
+      "launches": 19,
+      "minutes": 2807,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T22:32:57Z",
       "sessions": [
@@ -1240,9 +1240,15 @@
           "ended_at": "2026-11-18T21:01:40Z",
           "started_at": "2026-11-18T18:57:58Z",
           "viewer_minutes": 995
+        },
+        {
+          "duration_min": 129,
+          "ended_at": "2026-11-19T21:08:28Z",
+          "started_at": "2026-11-19T18:59:06Z",
+          "viewer_minutes": 1134
         }
       ],
-      "viewer_minutes": 20608
+      "viewer_minutes": 21742
     },
     "radyjo_holas": {
       "added_at": "2026-09-11",
@@ -2024,5 +2030,5 @@
       "viewer_minutes": 333
     }
   },
-  "updated_at": "2026-11-19T19:25:14Z"
+  "updated_at": "2026-11-19T21:10:14Z"
 }
