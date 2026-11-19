@@ -4421,7 +4421,7 @@
         "since": "2026-11-19T17:19:18Z",
         "stream_id": "317266438997",
         "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
-        "viewers": 6
+        "viewers": 5
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5384,7 +5384,7 @@
         "since": "2026-11-19T17:46:10Z",
         "stream_id": "317266678997",
         "title": "Таркаў па-беларуску",
-        "viewers": 2
+        "viewers": 3
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5392,5 +5392,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-19T18:40:38Z"
+  "updated_at": "2026-11-19T18:50:39Z"
 }
