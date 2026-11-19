@@ -2164,7 +2164,7 @@
         "since": "2026-11-19T21:13:29Z",
         "stream_id": "317355685588",
         "title": "GTA VI па-беларуску! Дзень 2",
-        "viewers": 3
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -2637,6 +2637,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 183,
+          "ended_at": "2026-11-19T21:20:46Z",
+          "game": "Serious Sam 3: BFE",
+          "source": "vod",
+          "started_at": "2026-11-19T18:18:10Z",
+          "stream_id": "317266966997",
+          "title": "[BLR] Рэтра чацвер. Робім платыну ў сур'ёзным Сэме",
+          "vod": {
+            "gone": false,
+            "id": "2933966112",
+            "seen_at": "2026-11-19T21:22:43Z",
+            "url": "https://www.twitch.tv/videos/2933966112"
+          }
+        },
+        {
           "duration_min": 176,
           "ended_at": "2026-11-18T20:51:41Z",
           "game": "Grand Theft Auto: Vice City - The Definitive Edition",
@@ -2920,44 +2935,29 @@
             "seen_at": "2026-10-26T22:21:22Z",
             "url": "https://www.twitch.tv/videos/2911476740"
           }
-        },
-        {
-          "duration_min": 190,
-          "ended_at": "2026-10-25T21:08:41Z",
-          "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-          "source": "vod",
-          "started_at": "2026-10-25T17:58:35Z",
-          "stream_id": "317132673494",
-          "title": "[BLR] Нядзельны трыял. Сэрца Чарнобыля",
-          "vod": {
-            "gone": false,
-            "id": "2910629202",
-            "seen_at": "2026-10-25T21:10:23Z",
-            "url": "https://www.twitch.tv/videos/2910629202"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 176,
-        "ended_at": "2026-11-18T20:51:41Z",
-        "game": "Grand Theft Auto: Vice City - The Definitive Edition",
+        "duration_min": 183,
+        "ended_at": "2026-11-19T21:20:46Z",
+        "game": "Serious Sam 3: BFE",
         "source": "vod",
-        "started_at": "2026-11-18T17:55:56Z",
-        "stream_id": "319262289511",
-        "title": "[BLR] Уступаем у новую эпоху GTA VI. Спідранім GTA VIce city",
+        "started_at": "2026-11-19T18:18:10Z",
+        "stream_id": "317266966997",
+        "title": "[BLR] Рэтра чацвер. Робім платыну ў сур'ёзным Сэме",
         "vod": {
           "gone": false,
-          "id": "2932532423",
-          "seen_at": "2026-11-18T20:53:21Z",
-          "url": "https://www.twitch.tv/videos/2932532423"
+          "id": "2933966112",
+          "seen_at": "2026-11-19T21:22:43Z",
+          "url": "https://www.twitch.tv/videos/2933966112"
         }
       },
       "live": {
-        "game": "Serious Sam 3: BFE",
-        "since": "2026-11-19T18:18:10Z",
-        "stream_id": "317266966997",
-        "title": "[BLR] Рэтра чацвер. Робім платыну ў сур'ёзным Сэме",
-        "viewers": 7
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4421,7 +4421,7 @@
         "since": "2026-11-19T17:19:18Z",
         "stream_id": "317266438997",
         "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
-        "viewers": 5
+        "viewers": 8
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5402,5 +5402,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-19T21:20:39Z"
+  "updated_at": "2026-11-19T21:22:43Z"
 }

@@ -936,8 +936,8 @@
           "minutes": 127
         },
         "Serious Sam 3: BFE": {
-          "launches": 2,
-          "minutes": 292
+          "launches": 3,
+          "minutes": 475
         },
         "The Sinking City 2": {
           "launches": 1,
@@ -947,9 +947,9 @@
       "display_name": "Mihas_Gareza",
       "followers_end": null,
       "followers_start": 201,
-      "hours": [227,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,132,790,858,700],
-      "launches": 15,
-      "minutes": 2893,
+      "hours": [248,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,132,832,918,760],
+      "launches": 16,
+      "minutes": 3076,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-29T21:31:30Z",
       "sessions": [
@@ -1041,9 +1041,15 @@
           "ended_at": "2026-11-18T20:51:41Z",
           "started_at": "2026-11-18T17:55:56Z",
           "viewer_minutes": 1276
+        },
+        {
+          "duration_min": 183,
+          "ended_at": "2026-11-19T21:20:46Z",
+          "started_at": "2026-11-19T18:18:10Z",
+          "viewer_minutes": 854
         }
       ],
-      "viewer_minutes": 12131
+      "viewer_minutes": 12985
     },
     "ms_bahiema": {
       "added_at": "2026-09-11",
@@ -2030,5 +2036,5 @@
       "viewer_minutes": 333
     }
   },
-  "updated_at": "2026-11-19T21:10:14Z"
+  "updated_at": "2026-11-19T21:22:43Z"
 }
