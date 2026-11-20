@@ -934,8 +934,8 @@
           "minutes": 565
         },
         "Grand Theft Auto: Vice City - The Definitive Edition": {
-          "launches": 1,
-          "minutes": 176
+          "launches": 2,
+          "minutes": 320
         },
         "HELLDIVERS 2": {
           "launches": 1,
@@ -969,9 +969,9 @@
       "display_name": "Mihas_Gareza",
       "followers_end": null,
       "followers_start": 201,
-      "hours": [248,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,132,832,918,760],
-      "launches": 16,
-      "minutes": 3076,
+      "hours": [250,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,132,853,978,820],
+      "launches": 17,
+      "minutes": 3220,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-29T21:31:30Z",
       "sessions": [
@@ -1069,9 +1069,15 @@
           "ended_at": "2026-11-19T21:20:46Z",
           "started_at": "2026-11-19T18:18:10Z",
           "viewer_minutes": 854
+        },
+        {
+          "duration_min": 144,
+          "ended_at": "2026-11-20T21:02:14Z",
+          "started_at": "2026-11-20T18:38:44Z",
+          "viewer_minutes": 560
         }
       ],
-      "viewer_minutes": 12985
+      "viewer_minutes": 13545
     },
     "ms_bahiema": {
       "added_at": "2026-09-11",
@@ -1129,8 +1135,8 @@
       "added_at": "2026-09-11",
       "categories": {
         "Art": {
-          "launches": 10,
-          "minutes": 1261
+          "launches": 11,
+          "minutes": 1383
         },
         "Dressmaker (2026)": {
           "launches": 2,
@@ -1156,9 +1162,9 @@
       "display_name": "Nine_Ravens_Cemetery",
       "followers_end": null,
       "followers_start": 304,
-      "hours": [252,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,235,1139,1117],
-      "launches": 19,
-      "minutes": 2807,
+      "hours": [254,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,235,1199,1177],
+      "launches": 20,
+      "minutes": 2929,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T22:32:57Z",
       "sessions": [
@@ -1274,9 +1280,15 @@
           "ended_at": "2026-11-19T21:08:28Z",
           "started_at": "2026-11-19T18:59:06Z",
           "viewer_minutes": 1134
+        },
+        {
+          "duration_min": 122,
+          "ended_at": "2026-11-20T21:02:00Z",
+          "started_at": "2026-11-20T18:59:43Z",
+          "viewer_minutes": 648
         }
       ],
-      "viewer_minutes": 21742
+      "viewer_minutes": 22390
     },
     "radyjo_holas": {
       "added_at": "2026-09-11",
@@ -2094,5 +2106,5 @@
       "viewer_minutes": 333
     }
   },
-  "updated_at": "2026-11-20T13:25:32Z"
+  "updated_at": "2026-11-20T21:03:42Z"
 }
