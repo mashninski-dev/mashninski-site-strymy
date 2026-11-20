@@ -133,6 +133,10 @@
     "angryralef": {
       "added_at": "2026-09-11",
       "categories": {
+        "Airfix: Dogfighter": {
+          "launches": 1,
+          "minutes": 221
+        },
         "CONTROL Resonant": {
           "launches": 5,
           "minutes": 984
@@ -177,9 +181,9 @@
       "display_name": "AngryRalef",
       "followers_end": null,
       "followers_start": 1302,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,651,780,780,700,8,0,0,0,0,0,0,0],
-      "launches": 13,
-      "minutes": 2921,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,697,840,840,755,8,0,0,0,0,0,0,0],
+      "launches": 14,
+      "minutes": 3142,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T12:58:11Z",
       "sessions": [
@@ -259,9 +263,15 @@
           "ended_at": "2026-11-19T12:53:29Z",
           "started_at": "2026-11-19T09:12:53Z",
           "viewer_minutes": 3563
+        },
+        {
+          "duration_min": 221,
+          "ended_at": "2026-11-20T12:54:44Z",
+          "started_at": "2026-11-20T09:13:42Z",
+          "viewer_minutes": 2990
         }
       ],
-      "viewer_minutes": 45926
+      "viewer_minutes": 48916
     },
     "annigilatormg42": {
       "added_at": "2026-09-11",
@@ -2064,5 +2074,5 @@
       "viewer_minutes": 333
     }
   },
-  "updated_at": "2026-11-20T12:04:51Z"
+  "updated_at": "2026-11-20T12:56:26Z"
 }
