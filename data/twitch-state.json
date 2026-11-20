@@ -3707,6 +3707,21 @@
       "display_name": "Rudzi_Belarus",
       "history": [
         {
+          "duration_min": 137,
+          "ended_at": "2026-11-20T13:13:43Z",
+          "game": "Silver Pines",
+          "source": "vod",
+          "started_at": "2026-11-20T10:56:41Z",
+          "stream_id": "319407094885",
+          "title": "Зноў лінгвістычныя задачкі! Chants of Sennaar (бел.пераклад). Выбар гледачоў",
+          "vod": {
+            "gone": false,
+            "id": "2934807628",
+            "seen_at": "2026-11-20T13:16:27Z",
+            "url": "https://www.twitch.tv/videos/2934807628"
+          }
+        },
+        {
           "duration_min": 142,
           "ended_at": "2026-11-18T13:16:53Z",
           "game": "Silver Pines",
@@ -3990,44 +4005,29 @@
             "seen_at": "2026-10-23T11:00:42Z",
             "url": "https://www.twitch.tv/videos/2908414001"
           }
-        },
-        {
-          "duration_min": 79,
-          "ended_at": "2026-10-22T12:46:50Z",
-          "game": "SILENT HILL: townfall",
-          "source": "vod",
-          "started_at": "2026-10-22T11:27:53Z",
-          "stream_id": "319041766501",
-          "title": "Фінал? Silent Hill Townfall",
-          "vod": {
-            "gone": false,
-            "id": "2907546466",
-            "seen_at": "2026-10-22T12:48:22Z",
-            "url": "https://www.twitch.tv/videos/2907546466"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 142,
-        "ended_at": "2026-11-18T13:16:53Z",
+        "duration_min": 137,
+        "ended_at": "2026-11-20T13:13:43Z",
         "game": "Silver Pines",
         "source": "vod",
-        "started_at": "2026-11-18T10:55:03Z",
-        "stream_id": "319372307941",
+        "started_at": "2026-11-20T10:56:41Z",
+        "stream_id": "319407094885",
         "title": "Зноў лінгвістычныя задачкі! Chants of Sennaar (бел.пераклад). Выбар гледачоў",
         "vod": {
           "gone": false,
-          "id": "2932215992",
-          "seen_at": "2026-11-18T13:18:42Z",
-          "url": "https://www.twitch.tv/videos/2932215992"
+          "id": "2934807628",
+          "seen_at": "2026-11-20T13:16:27Z",
+          "url": "https://www.twitch.tv/videos/2934807628"
         }
       },
       "live": {
-        "game": "Silver Pines",
-        "since": "2026-11-20T10:56:41Z",
-        "stream_id": "319407094885",
-        "title": "Зноў лінгвістычныя задачкі! Chants of Sennaar (бел.пераклад). Выбар гледачоў",
-        "viewers": 35
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -4606,7 +4606,7 @@
         "since": "2026-11-20T10:14:02Z",
         "stream_id": "319406684773",
         "title": "[BEL/ENG] Робім...",
-        "viewers": 6
+        "viewers": 7
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0699f21-5b35-4296-944a-f795f4e5170d-profile_image-300x300.png",
@@ -5412,5 +5412,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-20T13:00:53Z"
+  "updated_at": "2026-11-20T13:16:26Z"
 }
