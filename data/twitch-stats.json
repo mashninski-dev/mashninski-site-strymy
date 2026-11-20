@@ -1179,14 +1179,14 @@
         "categories": [
           {
             "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 548
+            "sec": 562
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,548,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-20T08:21:27Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,562,0,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-20T08:21:41Z",
         "started_at": "2026-11-20T08:12:19Z",
         "stream_id": "319478775654",
-        "viewer_sec": 1799,
+        "viewer_sec": 1897,
         "viewers": 7
       },
       "monthly": {
@@ -4237,14 +4237,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 74
+            "sec": 88
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-20T08:21:27Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,88,0,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-20T08:21:41Z",
         "started_at": "2026-11-20T08:20:13Z",
         "stream_id": "319478831462",
-        "viewer_sec": 74,
+        "viewer_sec": 88,
         "viewers": 1
       },
       "monthly": {
@@ -6985,6 +6985,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-20T08:21:27Z",
+  "updated_at": "2026-11-20T08:21:41Z",
   "viewers_since": "2026-11-02"
 }
