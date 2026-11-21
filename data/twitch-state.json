@@ -3725,7 +3725,7 @@
         "since": "2026-11-20T08:20:13Z",
         "stream_id": "319478831462",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 2
+        "viewers": 3
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd5dab3c-d21b-4377-a487-717db91f8844-profile_image-300x300.png",
@@ -4481,7 +4481,7 @@
         "since": "2026-11-21T14:21:19Z",
         "stream_id": "319498648678",
         "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
-        "viewers": 8
+        "viewers": 6
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5073,11 +5073,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "PEAK",
+        "since": "2026-11-21T17:18:03Z",
+        "stream_id": "319429275749",
+        "title": "Чіл Аўт ◉ Peak",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5472,5 +5472,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-21T17:10:47Z"
+  "updated_at": "2026-11-21T17:18:28Z"
 }
