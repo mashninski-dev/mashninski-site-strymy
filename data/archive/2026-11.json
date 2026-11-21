@@ -397,6 +397,10 @@
     "dzed_ahey": {
       "added_at": "2026-09-11",
       "categories": {
+        "7 Days to Die": {
+          "launches": 1,
+          "minutes": 110
+        },
         "FBC: Firebreak": {
           "launches": 1,
           "minutes": 115
@@ -405,9 +409,9 @@
       "display_name": "Dzed_Ahey",
       "followers_end": null,
       "followers_start": 48,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,60,51,0,0,0,0],
-      "launches": 1,
-      "minutes": 115,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,120,53,0,0,0,0],
+      "launches": 2,
+      "minutes": 225,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-20T20:13:04Z",
       "sessions": [
@@ -416,9 +420,15 @@
           "ended_at": "2026-11-14T16:50:42Z",
           "started_at": "2026-11-14T14:55:46Z",
           "viewer_minutes": 627
+        },
+        {
+          "duration_min": 110,
+          "ended_at": "2026-11-21T16:02:22Z",
+          "started_at": "2026-11-21T14:12:19Z",
+          "viewer_minutes": 251
         }
       ],
-      "viewer_minutes": 627
+      "viewer_minutes": 878
     },
     "dzedmaksim": {
       "added_at": "2026-09-11",
@@ -2140,5 +2150,5 @@
       "viewer_minutes": 333
     }
   },
-  "updated_at": "2026-11-21T15:50:57Z"
+  "updated_at": "2026-11-21T16:04:05Z"
 }
