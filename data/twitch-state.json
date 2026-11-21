@@ -4762,6 +4762,21 @@
       "display_name": "Ucenamescy",
       "history": [
         {
+          "duration_min": 142,
+          "ended_at": "2026-11-21T19:40:23Z",
+          "game": "PEAK",
+          "source": "vod",
+          "started_at": "2026-11-21T17:18:03Z",
+          "stream_id": "319429275749",
+          "title": "Чіл Аўт ◉ Peak",
+          "vod": {
+            "gone": false,
+            "id": "2936312190",
+            "seen_at": "2026-11-21T19:42:12Z",
+            "url": "https://www.twitch.tv/videos/2936312190"
+          }
+        },
+        {
           "duration_min": 253,
           "ended_at": "2026-11-20T23:09:58Z",
           "game": "Silver Pines",
@@ -5045,44 +5060,29 @@
             "seen_at": "2026-10-23T15:26:32Z",
             "url": "https://www.twitch.tv/videos/2908465048"
           }
-        },
-        {
-          "duration_min": 167,
-          "ended_at": "2026-10-22T19:08:18Z",
-          "game": "Ready or Not",
-          "source": "vod",
-          "started_at": "2026-10-22T16:21:40Z",
-          "stream_id": "318905648743",
-          "title": "Фаер он зе холл ◉ Ready Or Not",
-          "vod": {
-            "gone": false,
-            "id": "2907724635",
-            "seen_at": "2026-10-22T19:10:00Z",
-            "url": "https://www.twitch.tv/videos/2907724635"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 253,
-        "ended_at": "2026-11-20T23:09:58Z",
-        "game": "Silver Pines",
+        "duration_min": 142,
+        "ended_at": "2026-11-21T19:40:23Z",
+        "game": "PEAK",
         "source": "vod",
-        "started_at": "2026-11-20T18:56:38Z",
-        "stream_id": "319297028455",
-        "title": "Габэлла Надышла ◉ Silver Pines",
+        "started_at": "2026-11-21T17:18:03Z",
+        "stream_id": "319429275749",
+        "title": "Чіл Аўт ◉ Peak",
         "vod": {
           "gone": false,
-          "id": "2935210150",
-          "seen_at": "2026-11-20T23:10:39Z",
-          "url": "https://www.twitch.tv/videos/2935210150"
+          "id": "2936312190",
+          "seen_at": "2026-11-21T19:42:12Z",
+          "url": "https://www.twitch.tv/videos/2936312190"
         }
       },
       "live": {
-        "game": "PEAK",
-        "since": "2026-11-21T17:18:03Z",
-        "stream_id": "319429275749",
-        "title": "Чіл Аўт ◉ Peak",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5477,5 +5477,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-21T19:40:38Z"
+  "updated_at": "2026-11-21T19:42:12Z"
 }

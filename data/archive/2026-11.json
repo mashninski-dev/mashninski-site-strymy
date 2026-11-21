@@ -1910,6 +1910,10 @@
           "launches": 1,
           "minutes": 192
         },
+        "PEAK": {
+          "launches": 1,
+          "minutes": 142
+        },
         "Silver Pines": {
           "launches": 6,
           "minutes": 1155
@@ -1922,9 +1926,9 @@
       "display_name": "Ucenamescy",
       "followers_end": null,
       "followers_start": 150,
-      "hours": [403,282,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,309,598,581],
-      "launches": 12,
-      "minutes": 2252,
+      "hours": [403,282,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,369,638,581],
+      "launches": 13,
+      "minutes": 2394,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T20:29:57Z",
       "sessions": [
@@ -1998,9 +2002,15 @@
           "ended_at": "2026-11-20T23:09:58Z",
           "started_at": "2026-11-20T18:56:38Z",
           "viewer_minutes": 2167
+        },
+        {
+          "duration_min": 142,
+          "ended_at": "2026-11-21T19:40:23Z",
+          "started_at": "2026-11-21T17:18:03Z",
+          "viewer_minutes": 1109
         }
       ],
-      "viewer_minutes": 16122
+      "viewer_minutes": 17231
     },
     "ulaadzik": {
       "added_at": "2026-09-11",
@@ -2169,5 +2179,5 @@
       "viewer_minutes": 333
     }
   },
-  "updated_at": "2026-11-21T19:19:26Z"
+  "updated_at": "2026-11-21T19:42:12Z"
 }
