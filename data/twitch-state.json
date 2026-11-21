@@ -3498,7 +3498,7 @@
         "since": "2026-11-21T18:25:43Z",
         "stream_id": "317322459094",
         "title": "Хайповая навінка, спартыўны сімулятар",
-        "viewers": 10
+        "viewers": 12
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4396,6 +4396,16 @@
       "display_name": "Sla5her_BY",
       "history": [
         {
+          "duration_min": 298,
+          "ended_at": "2026-11-21T19:19:26Z",
+          "game": "Grand Theft Auto VI",
+          "source": "observed",
+          "started_at": "2026-11-21T14:21:19Z",
+          "stream_id": "319498648678",
+          "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
+          "vod": null
+        },
+        {
           "duration_min": 320,
           "ended_at": "2026-11-20T22:49:35Z",
           "game": "Grand Theft Auto VI",
@@ -4462,26 +4472,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 320,
-        "ended_at": "2026-11-20T22:49:35Z",
+        "duration_min": 298,
+        "ended_at": "2026-11-21T19:19:26Z",
         "game": "Grand Theft Auto VI",
-        "source": "vod",
-        "started_at": "2026-11-20T17:29:10Z",
-        "stream_id": "317362709076",
-        "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
-        "vod": {
-          "gone": true,
-          "id": "2935116801",
-          "seen_at": "2026-11-21T11:10:45Z",
-          "url": "https://www.twitch.tv/videos/2935116801"
-        }
-      },
-      "live": {
-        "game": "Grand Theft Auto VI",
-        "since": "2026-11-21T14:21:19Z",
+        "source": "observed",
+        "started_at": "2026-11-21T14:21:19Z",
         "stream_id": "319498648678",
         "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
-        "viewers": 5
+        "vod": null
+      },
+      "live": {
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5077,7 +5082,7 @@
         "since": "2026-11-21T17:18:03Z",
         "stream_id": "319429275749",
         "title": "Чіл Аўт ◉ Peak",
-        "viewers": 10
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5472,5 +5477,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-21T19:10:40Z"
+  "updated_at": "2026-11-21T19:19:26Z"
 }
