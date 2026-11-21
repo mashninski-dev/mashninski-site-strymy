@@ -3667,20 +3667,7 @@
           "2026-11-01": 304
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "STAR WARS: Galactic Racer",
-            "sec": 12896
-          }
-        ],
-        "hours_sec": [3600,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2057,3600,3600],
-        "last_seen_at": "2026-11-21T22:00:39Z",
-        "started_at": "2026-11-21T18:25:43Z",
-        "stream_id": "317322459094",
-        "viewer_sec": 159240,
-        "viewers": 14
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -3723,6 +3710,10 @@
               "launches": 4,
               "minutes": 488
             },
+            "STAR WARS: Galactic Racer": {
+              "launches": 1,
+              "minutes": 222
+            },
             "Species: Unknown": {
               "launches": 2,
               "minutes": 190
@@ -3732,13 +3723,26 @@
               "minutes": 164
             }
           },
-          "hours": [254,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,235,1199,1177],
-          "launches": 20,
-          "minutes": 2929,
-          "viewer_minutes": 22390
+          "hours": [314,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,269,1259,1237],
+          "launches": 21,
+          "minutes": 3151,
+          "viewer_minutes": 25146
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "STAR WARS: Galactic Racer",
+              "minutes": 222
+            }
+          ],
+          "ended_at": "2026-11-21T22:07:55Z",
+          "hours": [60,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,60,60],
+          "started_at": "2026-11-21T18:25:43Z",
+          "viewer_minutes": 2756,
+          "viewers_last": 14
+        },
         {
           "categories": [
             {
@@ -4172,15 +4176,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 135626
+            "sec": 136167
           }
         ],
-        "hours_sec": [7200,3639,3600,3600,3600,3600,3600,3600,3600,3600,3600,5987,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200],
-        "last_seen_at": "2026-11-21T22:00:39Z",
+        "hours_sec": [7200,4180,3600,3600,3600,3600,3600,3600,3600,3600,3600,5987,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200],
+        "last_seen_at": "2026-11-21T22:09:40Z",
         "started_at": "2026-11-20T08:20:13Z",
         "stream_id": "319478831462",
-        "viewer_sec": 161890,
-        "viewers": 1
+        "viewer_sec": 162972,
+        "viewers": 3
       },
       "monthly": {
         "2026-10": {
@@ -6998,6 +7002,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-21T22:00:39Z",
+  "updated_at": "2026-11-21T22:09:40Z",
   "viewers_since": "2026-11-02"
 }

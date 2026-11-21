@@ -3178,6 +3178,21 @@
       "display_name": "Nine_Ravens_Cemetery",
       "history": [
         {
+          "duration_min": 222,
+          "ended_at": "2026-11-21T22:07:55Z",
+          "game": "STAR WARS: Galactic Racer",
+          "source": "vod",
+          "started_at": "2026-11-21T18:25:43Z",
+          "stream_id": "317322459094",
+          "title": "Хайповая навінка, спартыўны сімулятар",
+          "vod": {
+            "gone": false,
+            "id": "2936385234",
+            "seen_at": "2026-11-21T22:09:41Z",
+            "url": "https://www.twitch.tv/videos/2936385234"
+          }
+        },
+        {
           "duration_min": 122,
           "ended_at": "2026-11-20T21:02:00Z",
           "game": "Art",
@@ -3461,44 +3476,29 @@
             "seen_at": "2026-11-02T21:12:55Z",
             "url": "https://www.twitch.tv/videos/2917769585"
           }
-        },
-        {
-          "duration_min": 164,
-          "ended_at": "2026-11-01T21:37:26Z",
-          "game": "Thief: Deadly Shadows",
-          "source": "vod",
-          "started_at": "2026-11-01T18:52:58Z",
-          "stream_id": "317145548885",
-          "title": "Фінал!",
-          "vod": {
-            "gone": false,
-            "id": "2916920056",
-            "seen_at": "2026-11-01T21:39:07Z",
-            "url": "https://www.twitch.tv/videos/2916920056"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 122,
-        "ended_at": "2026-11-20T21:02:00Z",
-        "game": "Art",
+        "duration_min": 222,
+        "ended_at": "2026-11-21T22:07:55Z",
+        "game": "STAR WARS: Galactic Racer",
         "source": "vod",
-        "started_at": "2026-11-20T18:59:43Z",
-        "stream_id": "317275494357",
-        "title": "Мыш у шоку",
+        "started_at": "2026-11-21T18:25:43Z",
+        "stream_id": "317322459094",
+        "title": "Хайповая навінка, спартыўны сімулятар",
         "vod": {
           "gone": false,
-          "id": "2935213865",
-          "seen_at": "2026-11-20T21:03:44Z",
-          "url": "https://www.twitch.tv/videos/2935213865"
+          "id": "2936385234",
+          "seen_at": "2026-11-21T22:09:41Z",
+          "url": "https://www.twitch.tv/videos/2936385234"
         }
       },
       "live": {
-        "game": "STAR WARS: Galactic Racer",
-        "since": "2026-11-21T18:25:43Z",
-        "stream_id": "317322459094",
-        "title": "Хайповая навінка, спартыўны сімулятар",
-        "viewers": 14
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -3725,7 +3725,7 @@
         "since": "2026-11-20T08:20:13Z",
         "stream_id": "319478831462",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 1
+        "viewers": 3
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd5dab3c-d21b-4377-a487-717db91f8844-profile_image-300x300.png",
@@ -5477,5 +5477,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-21T21:50:47Z"
+  "updated_at": "2026-11-21T22:09:40Z"
 }
