@@ -1504,6 +1504,10 @@
           "launches": 1,
           "minutes": 266
         },
+        "Outlast II": {
+          "launches": 1,
+          "minutes": 411
+        },
         "PAYDAY 2": {
           "launches": 1,
           "minutes": 73
@@ -1517,8 +1521,8 @@
           "minutes": 381
         },
         "The Witcher 3: Wild Hunt Remastered": {
-          "launches": 11,
-          "minutes": 3764
+          "launches": 12,
+          "minutes": 3950
         },
         "Valheim": {
           "launches": 6,
@@ -1528,9 +1532,9 @@
       "display_name": "ShagraeL_BY",
       "followers_end": null,
       "followers_start": 1019,
-      "hours": [1020,1020,1020,1020,893,663,375,82,0,0,0,0,0,0,0,0,0,0,0,29,312,860,1020,1020],
-      "launches": 18,
-      "minutes": 9333,
+      "hours": [1080,1080,1080,1080,915,663,375,82,0,0,0,0,0,0,0,0,0,0,36,89,372,920,1080,1080],
+      "launches": 19,
+      "minutes": 9930,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-11-01T02:02:08Z",
       "sessions": [
@@ -1640,9 +1644,15 @@
           "ended_at": "2026-11-19T04:34:36Z",
           "started_at": "2026-11-18T17:55:16Z",
           "viewer_minutes": 6339
+        },
+        {
+          "duration_min": 597,
+          "ended_at": "2026-11-21T01:21:35Z",
+          "started_at": "2026-11-20T15:24:25Z",
+          "viewer_minutes": 6551
         }
       ],
-      "viewer_minutes": 102031
+      "viewer_minutes": 108582
     },
     "sla5her_by": {
       "added_at": "2026-10-08",
@@ -2118,5 +2128,5 @@
       "viewer_minutes": 333
     }
   },
-  "updated_at": "2026-11-20T23:10:39Z"
+  "updated_at": "2026-11-21T01:23:21Z"
 }
