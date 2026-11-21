@@ -3695,7 +3695,7 @@
         "since": "2026-11-20T08:20:13Z",
         "stream_id": "319478831462",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 2
+        "viewers": 1
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/feb426c4-d99b-47bb-a9dc-8c4259f88e1d-profile_image-300x300.png",
@@ -4374,7 +4374,7 @@
           "stream_id": "317362709076",
           "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
           "vod": {
-            "gone": false,
+            "gone": true,
             "id": "2935116801",
             "seen_at": "2026-11-21T11:10:45Z",
             "url": "https://www.twitch.tv/videos/2935116801"
@@ -4440,7 +4440,7 @@
         "stream_id": "317362709076",
         "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
         "vod": {
-          "gone": false,
+          "gone": true,
           "id": "2935116801",
           "seen_at": "2026-11-21T11:10:45Z",
           "url": "https://www.twitch.tv/videos/2935116801"
@@ -5442,5 +5442,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-21T11:10:45Z"
+  "updated_at": "2026-11-21T11:20:48Z"
 }
