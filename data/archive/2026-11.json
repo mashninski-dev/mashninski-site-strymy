@@ -277,8 +277,8 @@
       "added_at": "2026-09-11",
       "categories": {
         "Empire: Total War": {
-          "launches": 2,
-          "minutes": 396
+          "launches": 3,
+          "minutes": 640
         },
         "Total War: WARHAMMER III": {
           "launches": 3,
@@ -292,9 +292,9 @@
       "display_name": "annigilatormg42",
       "followers_end": null,
       "followers_start": 57,
-      "hours": [65,0,0,0,0,0,0,0,0,0,0,0,0,0,27,60,106,120,62,16,151,180,239,177],
-      "launches": 6,
-      "minutes": 1205,
+      "hours": [65,0,0,0,0,0,0,0,0,0,0,0,0,0,42,120,166,180,111,16,151,180,239,177],
+      "launches": 7,
+      "minutes": 1449,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T21:54:22Z",
       "sessions": [
@@ -332,16 +332,22 @@
           "ended_at": "2026-11-15T15:53:31Z",
           "started_at": "2026-11-15T13:14:00Z",
           "viewer_minutes": 1397
+        },
+        {
+          "duration_min": 244,
+          "ended_at": "2026-11-21T15:49:21Z",
+          "started_at": "2026-11-21T11:45:21Z",
+          "viewer_minutes": 1089
         }
       ],
-      "viewer_minutes": 4730
+      "viewer_minutes": 5819
     },
     "bel_asch": {
       "added_at": "2026-09-11",
       "categories": {
         "Dragon Age: Inquisition": {
-          "launches": 1,
-          "minutes": 145
+          "launches": 2,
+          "minutes": 356
         },
         "Grand Theft Auto: Vice City": {
           "launches": 1,
@@ -355,9 +361,9 @@
       "display_name": "Bel_Asch",
       "followers_end": null,
       "followers_start": 216,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,147,97,45],
-      "launches": 3,
-      "minutes": 344,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,60,60,50,0,54,147,97,45],
+      "launches": 4,
+      "minutes": 555,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T20:47:26Z",
       "sessions": [
@@ -378,9 +384,15 @@
           "ended_at": "2026-11-15T19:17:30Z",
           "started_at": "2026-11-15T17:05:52Z",
           "viewer_minutes": 450
+        },
+        {
+          "duration_min": 211,
+          "ended_at": "2026-11-21T15:49:32Z",
+          "started_at": "2026-11-21T12:18:07Z",
+          "viewer_minutes": 846
         }
       ],
-      "viewer_minutes": 1316
+      "viewer_minutes": 2162
     },
     "dzed_ahey": {
       "added_at": "2026-09-11",
@@ -2128,5 +2140,5 @@
       "viewer_minutes": 333
     }
   },
-  "updated_at": "2026-11-21T11:10:45Z"
+  "updated_at": "2026-11-21T15:50:57Z"
 }

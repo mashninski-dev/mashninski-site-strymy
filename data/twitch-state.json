@@ -338,6 +338,21 @@
       "display_name": "annigilatormg42",
       "history": [
         {
+          "duration_min": 244,
+          "ended_at": "2026-11-21T15:49:21Z",
+          "game": "Empire: Total War",
+          "source": "vod",
+          "started_at": "2026-11-21T11:45:21Z",
+          "stream_id": "319424127717",
+          "title": "Спрабуем збудаваць ЗША)",
+          "vod": {
+            "gone": false,
+            "id": "2936030126",
+            "seen_at": "2026-11-21T15:50:57Z",
+            "url": "https://www.twitch.tv/videos/2936030126"
+          }
+        },
+        {
           "duration_min": 160,
           "ended_at": "2026-11-15T15:53:31Z",
           "game": "Total War: WARHAMMER III",
@@ -621,44 +636,29 @@
             "seen_at": "2026-10-04T11:06:01Z",
             "url": "https://www.twitch.tv/videos/2891134377"
           }
-        },
-        {
-          "duration_min": 203,
-          "ended_at": "2026-10-03T18:35:04Z",
-          "game": "Empire: Total War",
-          "source": "vod",
-          "started_at": "2026-10-03T15:12:04Z",
-          "stream_id": "318809573349",
-          "title": "НАзіраем за рэшткамі Свету, які яшчэ не патрапіў пад зрок гішпанскіх канкістадораў)",
-          "vod": {
-            "gone": false,
-            "id": "2890799548",
-            "seen_at": "2026-10-03T21:09:49Z",
-            "url": "https://www.twitch.tv/videos/2890799548"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 160,
-        "ended_at": "2026-11-15T15:53:31Z",
-        "game": "Total War: WARHAMMER III",
+        "duration_min": 244,
+        "ended_at": "2026-11-21T15:49:21Z",
+        "game": "Empire: Total War",
         "source": "vod",
-        "started_at": "2026-11-15T13:14:00Z",
-        "stream_id": "319411878246",
-        "title": "Змагаемся за жыццёвы прастор для нашай Цёмнай Прыгажуні)",
+        "started_at": "2026-11-21T11:45:21Z",
+        "stream_id": "319424127717",
+        "title": "Спрабуем збудаваць ЗША)",
         "vod": {
           "gone": false,
-          "id": "2929572933",
-          "seen_at": "2026-11-15T15:55:06Z",
-          "url": "https://www.twitch.tv/videos/2929572933"
+          "id": "2936030126",
+          "seen_at": "2026-11-21T15:50:57Z",
+          "url": "https://www.twitch.tv/videos/2936030126"
         }
       },
       "live": {
-        "game": "Empire: Total War",
-        "since": "2026-11-21T11:45:21Z",
-        "stream_id": "319424127717",
-        "title": "Спрабуем збудаваць ЗША)",
-        "viewers": 6
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6f85ccf-8f12-43f4-90e3-1e1cf95ab956-profile_image-300x300.jpeg",
@@ -669,6 +669,21 @@
       "description": "Ты не нічога не бачыў/ла.",
       "display_name": "Bel_Asch",
       "history": [
+        {
+          "duration_min": 211,
+          "ended_at": "2026-11-21T15:49:32Z",
+          "game": "Dragon Age: Inquisition",
+          "source": "vod",
+          "started_at": "2026-11-21T12:18:07Z",
+          "stream_id": "319307635175",
+          "title": "Усе яшчэ сайды ❕ | Dragon Age: Inquisition",
+          "vod": {
+            "gone": false,
+            "id": "2936052526",
+            "seen_at": "2026-11-21T15:50:58Z",
+            "url": "https://www.twitch.tv/videos/2936052526"
+          }
+        },
         {
           "duration_min": 132,
           "ended_at": "2026-11-15T19:17:30Z",
@@ -943,44 +958,29 @@
             "seen_at": "2026-10-04T11:06:03Z",
             "url": "https://www.twitch.tv/videos/2881957017"
           }
-        },
-        {
-          "duration_min": 166,
-          "ended_at": "2026-09-21T15:09:56Z",
-          "game": "Dragon Age: Inquisition",
-          "source": "vod",
-          "started_at": "2026-09-21T12:23:32Z",
-          "stream_id": "318724711014",
-          "title": "Паразмаўляцькі ў нашай новай крэпасці 🏰 | Dragon Age: Inquisition",
-          "vod": {
-            "gone": false,
-            "id": "2880133154",
-            "seen_at": "2026-10-04T11:06:03Z",
-            "url": "https://www.twitch.tv/videos/2880133154"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 132,
-        "ended_at": "2026-11-15T19:17:30Z",
-        "game": "Grand Theft Auto: Vice City",
+        "duration_min": 211,
+        "ended_at": "2026-11-21T15:49:32Z",
+        "game": "Dragon Age: Inquisition",
         "source": "vod",
-        "started_at": "2026-11-15T17:05:52Z",
-        "stream_id": "319339482597",
-        "title": "Знаёмімся з Вайс-Сіці 🌴 | Grand Theft Auto: Vice City",
+        "started_at": "2026-11-21T12:18:07Z",
+        "stream_id": "319307635175",
+        "title": "Усе яшчэ сайды ❕ | Dragon Age: Inquisition",
         "vod": {
           "gone": false,
-          "id": "2929750627",
-          "seen_at": "2026-11-15T19:19:09Z",
-          "url": "https://www.twitch.tv/videos/2929750627"
+          "id": "2936052526",
+          "seen_at": "2026-11-21T15:50:58Z",
+          "url": "https://www.twitch.tv/videos/2936052526"
         }
       },
       "live": {
-        "game": "Dragon Age: Inquisition",
-        "since": "2026-11-21T12:18:07Z",
-        "stream_id": "319307635175",
-        "title": "Усе яшчэ сайды ❕ | Dragon Age: Inquisition",
-        "viewers": 5
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -1568,7 +1568,7 @@
         "since": "2026-11-21T13:10:32Z",
         "stream_id": "319497648102",
         "title": "і зноў тутака",
-        "viewers": 3
+        "viewers": 1
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-03T15:36:12Z",
@@ -3695,10 +3695,10 @@
         "since": "2026-11-20T08:20:13Z",
         "stream_id": "319478831462",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 1
+        "viewers": 2
       },
       "missing_runs": 0,
-      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/feb426c4-d99b-47bb-a9dc-8c4259f88e1d-profile_image-300x300.png",
+      "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd5dab3c-d21b-4377-a487-717db91f8844-profile_image-300x300.png",
       "user_id": "1488296852"
     },
     "rudzi_belarus": {
@@ -5442,5 +5442,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-21T15:40:39Z"
+  "updated_at": "2026-11-21T15:50:57Z"
 }
