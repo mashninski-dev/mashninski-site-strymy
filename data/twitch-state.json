@@ -3725,7 +3725,7 @@
         "since": "2026-11-22T08:20:25Z",
         "stream_id": "319439054693",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 3
+        "viewers": 2
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd5dab3c-d21b-4377-a487-717db91f8844-profile_image-300x300.png",
@@ -5394,6 +5394,16 @@
       "display_name": "yozas_gubka",
       "history": [
         {
+          "duration_min": 26,
+          "ended_at": "2026-11-22T11:00:49Z",
+          "game": "Escape from Tarkov",
+          "source": "observed",
+          "started_at": "2026-11-22T10:35:12Z",
+          "stream_id": "317378351828",
+          "title": "Збягаю з Таркава сола (фарм Кілы на лоў скіле)",
+          "vod": null
+        },
+        {
           "duration_min": 125,
           "ended_at": "2026-11-22T09:34:16Z",
           "game": "Escape from Tarkov",
@@ -5475,21 +5485,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 125,
-        "ended_at": "2026-11-22T09:34:16Z",
+        "duration_min": 26,
+        "ended_at": "2026-11-22T11:00:49Z",
         "game": "Escape from Tarkov",
         "source": "observed",
-        "started_at": "2026-11-22T07:29:25Z",
-        "stream_id": "319510076518",
-        "title": "Збягаю з Таркава сола",
+        "started_at": "2026-11-22T10:35:12Z",
+        "stream_id": "317378351828",
+        "title": "Збягаю з Таркава сола (фарм Кілы на лоў скіле)",
         "vod": null
       },
       "live": {
-        "game": "Escape from Tarkov",
-        "since": "2026-11-22T10:35:12Z",
-        "stream_id": "317378351828",
-        "title": "Збягаю з Таркава сола (фарм Кілы на лоў скіле)",
-        "viewers": 1
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5497,5 +5507,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-22T10:40:40Z"
+  "updated_at": "2026-11-22T11:00:49Z"
 }
