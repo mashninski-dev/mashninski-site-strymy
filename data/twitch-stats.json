@@ -4176,14 +4176,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 169234
+            "sec": 169836
           }
         ],
-        "hours_sec": [7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,4847,5987,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200],
-        "last_seen_at": "2026-11-22T07:20:47Z",
+        "hours_sec": [7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,5449,5987,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200],
+        "last_seen_at": "2026-11-22T07:30:49Z",
         "started_at": "2026-11-20T08:20:13Z",
         "stream_id": "319478831462",
-        "viewer_sec": 197258,
+        "viewer_sec": 197860,
         "viewers": 1
       },
       "monthly": {
@@ -6883,31 +6883,44 @@
         "categories": [
           {
             "game": "Escape from Tarkov",
-            "sec": 962
+            "sec": 84
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,962,0,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-22T07:20:47Z",
-        "started_at": "2026-11-22T07:04:45Z",
-        "stream_id": "319509962982",
-        "viewer_sec": 767,
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-22T07:30:49Z",
+        "started_at": "2026-11-22T07:29:25Z",
+        "stream_id": "319510076518",
+        "viewer_sec": 84,
         "viewers": 1
       },
       "monthly": {
         "2026-11": {
           "categories": {
             "Escape from Tarkov": {
-              "launches": 6,
-              "minutes": 297
+              "launches": 7,
+              "minutes": 322
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,90,119,57,15],
-          "launches": 6,
-          "minutes": 297,
-          "viewer_minutes": 333
+          "hours": [0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,8,8,90,119,57,15],
+          "launches": 7,
+          "minutes": 322,
+          "viewer_minutes": 354
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Escape from Tarkov",
+              "minutes": 25
+            }
+          ],
+          "ended_at": "2026-11-22T07:29:25Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-22T07:04:45Z",
+          "viewer_minutes": 21,
+          "viewers_last": 1
+        },
         {
           "categories": [
             {
@@ -6989,6 +7002,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-22T07:20:47Z",
+  "updated_at": "2026-11-22T07:30:49Z",
   "viewers_since": "2026-11-02"
 }
