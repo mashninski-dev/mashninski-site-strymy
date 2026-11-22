@@ -4150,15 +4150,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 16219
+            "sec": 16736
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2375,3600,3600,3600,3044,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-22T12:50:44Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2375,3600,3600,3600,3561,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-22T12:59:21Z",
         "started_at": "2026-11-22T08:20:25Z",
         "stream_id": "319439054693",
-        "viewer_sec": 40900,
-        "viewers": 2
+        "viewer_sec": 42192,
+        "viewers": 3
       },
       "monthly": {
         "2026-10": {
@@ -5430,7 +5430,20 @@
           "2026-11-01": 312
         }
       },
-      "in_progress": null,
+      "in_progress": {
+        "categories": [
+          {
+            "game": "Grand Theft Auto VI",
+            "sec": 35
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-22T12:59:21Z",
+        "started_at": "2026-11-22T12:58:46Z",
+        "stream_id": "317327501654",
+        "viewer_sec": 0,
+        "viewers": 0
+      },
       "monthly": {
         "2026-10": {
           "categories": {
@@ -6844,14 +6857,14 @@
         "categories": [
           {
             "game": "Escape from Tarkov",
-            "sec": 669
+            "sec": 1186
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,669,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-22T12:50:44Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1186,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-22T12:59:21Z",
         "started_at": "2026-11-22T12:39:35Z",
         "stream_id": "319442020709",
-        "viewer_sec": 596,
+        "viewer_sec": 1630,
         "viewers": 2
       },
       "monthly": {
@@ -7002,6 +7015,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-22T12:50:44Z",
+  "updated_at": "2026-11-22T12:59:21Z",
   "viewers_since": "2026-11-02"
 }
