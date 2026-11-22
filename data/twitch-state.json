@@ -5515,11 +5515,11 @@
         "vod": null
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Escape from Tarkov",
+        "since": "2026-11-22T15:02:56Z",
+        "stream_id": "317289739733",
+        "title": "Збягаю з Таркава з мальцамі ў паці",
+        "viewers": 0
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5527,5 +5527,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-22T15:00:45Z"
+  "updated_at": "2026-11-22T15:03:37Z"
 }
