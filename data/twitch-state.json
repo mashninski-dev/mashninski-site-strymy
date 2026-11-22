@@ -5394,6 +5394,16 @@
       "display_name": "yozas_gubka",
       "history": [
         {
+          "duration_min": 125,
+          "ended_at": "2026-11-22T09:34:16Z",
+          "game": "Escape from Tarkov",
+          "source": "observed",
+          "started_at": "2026-11-22T07:29:25Z",
+          "stream_id": "319510076518",
+          "title": "Збягаю з Таркава сола",
+          "vod": null
+        },
+        {
           "duration_min": 25,
           "ended_at": "2026-11-22T07:29:25Z",
           "game": "Escape from Tarkov",
@@ -5465,21 +5475,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 25,
-        "ended_at": "2026-11-22T07:29:25Z",
+        "duration_min": 125,
+        "ended_at": "2026-11-22T09:34:16Z",
         "game": "Escape from Tarkov",
         "source": "observed",
-        "started_at": "2026-11-22T07:04:45Z",
-        "stream_id": "319509962982",
+        "started_at": "2026-11-22T07:29:25Z",
+        "stream_id": "319510076518",
         "title": "Збягаю з Таркава сола",
         "vod": null
       },
       "live": {
-        "game": "Escape from Tarkov",
-        "since": "2026-11-22T07:29:25Z",
-        "stream_id": "319510076518",
-        "title": "Збягаю з Таркава сола",
-        "viewers": 1
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5487,5 +5497,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-22T09:10:39Z"
+  "updated_at": "2026-11-22T09:34:16Z"
 }

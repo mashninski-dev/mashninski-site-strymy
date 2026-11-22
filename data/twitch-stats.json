@@ -4176,14 +4176,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 4211
+            "sec": 4431
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2375,1836,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-22T09:30:36Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2375,2056,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-22T09:34:16Z",
         "started_at": "2026-11-22T08:20:25Z",
         "stream_id": "319439054693",
-        "viewer_sec": 8778,
+        "viewer_sec": 9218,
         "viewers": 2
       },
       "monthly": {
@@ -6892,35 +6892,35 @@
           "2026-11-01": 0
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Escape from Tarkov",
-            "sec": 7271
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,1835,3600,1836,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-22T09:30:36Z",
-        "started_at": "2026-11-22T07:29:25Z",
-        "stream_id": "319510076518",
-        "viewer_sec": 8464,
-        "viewers": 1
-      },
+      "in_progress": null,
       "monthly": {
         "2026-11": {
           "categories": {
             "Escape from Tarkov": {
-              "launches": 7,
-              "minutes": 322
+              "launches": 8,
+              "minutes": 447
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,8,8,90,119,57,15],
-          "launches": 7,
-          "minutes": 322,
-          "viewer_minutes": 354
+          "hours": [0,0,0,0,0,0,0,0,0,0,56,60,34,0,0,0,0,0,8,8,90,119,57,15],
+          "launches": 8,
+          "minutes": 447,
+          "viewer_minutes": 499
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Escape from Tarkov",
+              "minutes": 125
+            }
+          ],
+          "ended_at": "2026-11-22T09:34:16Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,31,60,34,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-22T07:29:25Z",
+          "viewer_minutes": 145,
+          "viewers_last": 1
+        },
         {
           "categories": [
             {
@@ -7015,6 +7015,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-22T09:30:36Z",
+  "updated_at": "2026-11-22T09:34:16Z",
   "viewers_since": "2026-11-02"
 }
