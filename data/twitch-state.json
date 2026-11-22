@@ -2987,7 +2987,7 @@
         "since": "2026-11-22T16:58:03Z",
         "stream_id": "319517517286",
         "title": "[BLR] Нядзельны трыял. Новы кантрол. 4 гадзіны",
-        "viewers": 8
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3498,7 +3498,7 @@
         "since": "2026-11-22T18:40:09Z",
         "stream_id": "319448274277",
         "title": "Бурзікі, пацукі і іншыя дэмкі",
-        "viewers": 0
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4384,7 +4384,7 @@
         "since": "2026-11-22T13:43:13Z",
         "stream_id": "319324671335",
         "title": "Нібы як 3 гадавіна афілэйту (ай донт ноў ват ту ду эдзішн) від Іринка подруга",
-        "viewers": 11
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4395,6 +4395,16 @@
       "description": "Часам — добры стрымер. Часам — вельмі добры. Але гэта ўжо як фартанё. Стрымлю не рэгулярна, затое з душой 🎮 Гуляю ў розныя гульні, але дупа стабільна гарыць толькі ў Counter-Strike🔥Калі раптам захочаш супрацу, ці проста напісаць «чаму ты зноў памёр?» — пішаш у Telegram ці ў Discord.",
       "display_name": "Sla5her_BY",
       "history": [
+        {
+          "duration_min": 352,
+          "ended_at": "2026-11-22T18:50:46Z",
+          "game": "Grand Theft Auto VI",
+          "source": "observed",
+          "started_at": "2026-11-22T12:58:46Z",
+          "stream_id": "317327501654",
+          "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
+          "vod": null
+        },
         {
           "duration_min": 298,
           "ended_at": "2026-11-21T19:19:26Z",
@@ -4472,21 +4482,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 298,
-        "ended_at": "2026-11-21T19:19:26Z",
+        "duration_min": 352,
+        "ended_at": "2026-11-22T18:50:46Z",
         "game": "Grand Theft Auto VI",
         "source": "observed",
-        "started_at": "2026-11-21T14:21:19Z",
-        "stream_id": "319498648678",
+        "started_at": "2026-11-22T12:58:46Z",
+        "stream_id": "317327501654",
         "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
         "vod": null
       },
       "live": {
-        "game": "Grand Theft Auto VI",
-        "since": "2026-11-22T12:58:46Z",
-        "stream_id": "317327501654",
-        "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
-        "viewers": 5
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5537,5 +5547,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-22T18:40:38Z"
+  "updated_at": "2026-11-22T18:50:46Z"
 }

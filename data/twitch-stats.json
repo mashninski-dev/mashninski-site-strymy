@@ -2975,15 +2975,15 @@
         "categories": [
           {
             "game": "CONTROL Resonant",
-            "sec": 6174
+            "sec": 6763
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117,3600,2457,0,0],
-        "last_seen_at": "2026-11-22T18:40:57Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117,3600,3046,0,0],
+        "last_seen_at": "2026-11-22T18:50:46Z",
         "started_at": "2026-11-22T16:58:03Z",
         "stream_id": "319517517286",
-        "viewer_sec": 21708,
-        "viewers": 8
+        "viewer_sec": 25831,
+        "viewers": 6
       },
       "monthly": {
         "2026-10": {
@@ -3668,15 +3668,15 @@
         "categories": [
           {
             "game": "Games + Demos",
-            "sec": 48
+            "sec": 637
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0],
-        "last_seen_at": "2026-11-22T18:40:57Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,637,0,0],
+        "last_seen_at": "2026-11-22T18:50:46Z",
         "started_at": "2026-11-22T18:40:09Z",
         "stream_id": "319448274277",
-        "viewer_sec": 0,
-        "viewers": 0
+        "viewer_sec": 1767,
+        "viewers": 6
       },
       "monthly": {
         "2026-10": {
@@ -4186,14 +4186,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 37232
+            "sec": 37821
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2375,3600,3600,3600,3600,3600,3600,3600,3600,3600,2457,0,0],
-        "last_seen_at": "2026-11-22T18:40:57Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2375,3600,3600,3600,3600,3600,3600,3600,3600,3600,3046,0,0],
+        "last_seen_at": "2026-11-22T18:50:46Z",
         "started_at": "2026-11-22T08:20:25Z",
         "stream_id": "319439054693",
-        "viewer_sec": 64000,
+        "viewer_sec": 64589,
         "viewers": 1
       },
       "monthly": {
@@ -4853,15 +4853,15 @@
           },
           {
             "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 13212
+            "sec": 13801
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1007,3600,3600,3600,3600,2457,0,0],
-        "last_seen_at": "2026-11-22T18:40:57Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1007,3600,3600,3600,3600,3046,0,0],
+        "last_seen_at": "2026-11-22T18:50:46Z",
         "started_at": "2026-11-22T13:43:13Z",
         "stream_id": "319324671335",
-        "viewer_sec": 176789,
-        "viewers": 11
+        "viewer_sec": 182384,
+        "viewers": 8
       },
       "monthly": {
         "2026-10": {
@@ -5483,20 +5483,7 @@
           "2026-11-01": 312
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Grand Theft Auto VI",
-            "sec": 20531
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,3600,3600,3600,3600,3600,2457,0,0],
-        "last_seen_at": "2026-11-22T18:40:57Z",
-        "started_at": "2026-11-22T12:58:46Z",
-        "stream_id": "317327501654",
-        "viewer_sec": 61186,
-        "viewers": 5
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -5516,8 +5503,8 @@
         "2026-11": {
           "categories": {
             "Grand Theft Auto VI": {
-              "launches": 3,
-              "minutes": 985
+              "launches": 4,
+              "minutes": 1337
             },
             "HELLDIVERS": {
               "launches": 1,
@@ -5528,13 +5515,26 @@
               "minutes": 193
             }
           },
-          "hours": [120,110,26,0,0,0,0,0,0,0,0,0,0,0,0,23,60,99,110,60,186,240,199,178],
-          "launches": 5,
-          "minutes": 1409,
-          "viewer_minutes": 5606
+          "hours": [120,110,26,0,0,0,0,0,0,0,0,0,0,0,0,24,120,159,170,120,246,291,199,178],
+          "launches": 6,
+          "minutes": 1761,
+          "viewer_minutes": 6675
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Grand Theft Auto VI",
+              "minutes": 352
+            }
+          ],
+          "ended_at": "2026-11-22T18:50:46Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,60,60,60,60,51,0,0],
+          "started_at": "2026-11-22T12:58:46Z",
+          "viewer_minutes": 1069,
+          "viewers_last": 5
+        },
         {
           "categories": [
             {
@@ -7070,6 +7070,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-22T18:40:57Z",
+  "updated_at": "2026-11-22T18:50:46Z",
   "viewers_since": "2026-11-02"
 }
