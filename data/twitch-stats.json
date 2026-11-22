@@ -635,24 +635,7 @@
           "2026-11-01": 57
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Total War: WARHAMMER III",
-            "sec": 7284
-          },
-          {
-            "game": "Painkiller",
-            "sec": 4210
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3047,3600,3600,1247,0,0,0,0],
-        "last_seen_at": "2026-11-22T16:20:47Z",
-        "started_at": "2026-11-22T13:09:13Z",
-        "stream_id": "319513720934",
-        "viewer_sec": 51493,
-        "viewers": 6
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -695,22 +678,43 @@
               "launches": 3,
               "minutes": 640
             },
+            "Painkiller": {
+              "launches": 1,
+              "minutes": 70
+            },
             "Total War: WARHAMMER III": {
-              "launches": 3,
-              "minutes": 629
+              "launches": 4,
+              "minutes": 750
             },
             "Tropico 6": {
               "launches": 1,
               "minutes": 180
             }
           },
-          "hours": [65,0,0,0,0,0,0,0,0,0,0,0,0,0,42,120,166,180,111,16,151,180,239,177],
-          "launches": 7,
-          "minutes": 1449,
-          "viewer_minutes": 5819
+          "hours": [65,0,0,0,0,0,0,0,0,0,0,0,0,0,42,120,217,240,171,37,151,180,239,177],
+          "launches": 8,
+          "minutes": 1641,
+          "viewer_minutes": 6680
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Total War: WARHAMMER III",
+              "minutes": 121
+            },
+            {
+              "game": "Painkiller",
+              "minutes": 70
+            }
+          ],
+          "ended_at": "2026-11-22T16:21:20Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,60,60,21,0,0,0,0],
+          "started_at": "2026-11-22T13:09:13Z",
+          "viewer_minutes": 861,
+          "viewers_last": 6
+        },
         {
           "categories": [
             {
@@ -4167,14 +4171,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 28822
+            "sec": 28951
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2375,3600,3600,3600,3600,3600,3600,3600,1247,0,0,0,0],
-        "last_seen_at": "2026-11-22T16:20:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2375,3600,3600,3600,3600,3600,3600,3600,1376,0,0,0,0],
+        "last_seen_at": "2026-11-22T16:22:56Z",
         "started_at": "2026-11-22T08:20:25Z",
         "stream_id": "319439054693",
-        "viewer_sec": 55590,
+        "viewer_sec": 55719,
         "viewers": 1
       },
       "monthly": {
@@ -4834,15 +4838,15 @@
           },
           {
             "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 4802
+            "sec": 4931
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1007,3600,3600,1247,0,0,0,0],
-        "last_seen_at": "2026-11-22T16:20:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1007,3600,3600,1376,0,0,0,0],
+        "last_seen_at": "2026-11-22T16:22:56Z",
         "started_at": "2026-11-22T13:43:13Z",
         "stream_id": "319324671335",
-        "viewer_sec": 76767,
-        "viewers": 10
+        "viewer_sec": 77992,
+        "viewers": 9
       },
       "monthly": {
         "2026-10": {
@@ -5468,15 +5472,15 @@
         "categories": [
           {
             "game": "Grand Theft Auto VI",
-            "sec": 12121
+            "sec": 12250
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,3600,3600,3600,1247,0,0,0,0],
-        "last_seen_at": "2026-11-22T16:20:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,3600,3600,3600,1376,0,0,0,0],
+        "last_seen_at": "2026-11-22T16:22:56Z",
         "started_at": "2026-11-22T12:58:46Z",
         "stream_id": "317327501654",
-        "viewer_sec": 24179,
-        "viewers": 4
+        "viewer_sec": 24759,
+        "viewers": 5
       },
       "monthly": {
         "2026-10": {
@@ -6880,14 +6884,14 @@
         "categories": [
           {
             "game": "Escape from Tarkov",
-            "sec": 4671
+            "sec": 4800
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3424,1247,0,0,0,0],
-        "last_seen_at": "2026-11-22T16:20:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3424,1376,0,0,0,0],
+        "last_seen_at": "2026-11-22T16:22:56Z",
         "started_at": "2026-11-22T15:02:56Z",
         "stream_id": "317289739733",
-        "viewer_sec": 4420,
+        "viewer_sec": 4549,
         "viewers": 1
       },
       "monthly": {
@@ -7051,6 +7055,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-22T16:20:47Z",
+  "updated_at": "2026-11-22T16:22:56Z",
   "viewers_since": "2026-11-02"
 }
