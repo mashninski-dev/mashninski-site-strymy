@@ -3178,6 +3178,21 @@
       "display_name": "Nine_Ravens_Cemetery",
       "history": [
         {
+          "duration_min": 160,
+          "ended_at": "2026-11-22T21:20:06Z",
+          "game": "Games + Demos",
+          "source": "vod",
+          "started_at": "2026-11-22T18:40:09Z",
+          "stream_id": "319448274277",
+          "title": "Бурзікі, пацукі і іншыя дэмкі",
+          "vod": {
+            "gone": false,
+            "id": "2937576012",
+            "seen_at": "2026-11-22T21:20:38Z",
+            "url": "https://www.twitch.tv/videos/2937576012"
+          }
+        },
+        {
           "duration_min": 222,
           "ended_at": "2026-11-21T22:07:55Z",
           "game": "STAR WARS: Galactic Racer",
@@ -3461,44 +3476,29 @@
             "seen_at": "2026-11-03T20:51:00Z",
             "url": "https://www.twitch.tv/videos/2918549612"
           }
-        },
-        {
-          "duration_min": 137,
-          "ended_at": "2026-11-02T21:11:13Z",
-          "game": "Art",
-          "source": "vod",
-          "started_at": "2026-11-02T18:54:30Z",
-          "stream_id": "317151646805",
-          "title": "Вітанкі Петрык",
-          "vod": {
-            "gone": false,
-            "id": "2917769585",
-            "seen_at": "2026-11-02T21:12:55Z",
-            "url": "https://www.twitch.tv/videos/2917769585"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 222,
-        "ended_at": "2026-11-21T22:07:55Z",
-        "game": "STAR WARS: Galactic Racer",
+        "duration_min": 160,
+        "ended_at": "2026-11-22T21:20:06Z",
+        "game": "Games + Demos",
         "source": "vod",
-        "started_at": "2026-11-21T18:25:43Z",
-        "stream_id": "317322459094",
-        "title": "Хайповая навінка, спартыўны сімулятар",
+        "started_at": "2026-11-22T18:40:09Z",
+        "stream_id": "319448274277",
+        "title": "Бурзікі, пацукі і іншыя дэмкі",
         "vod": {
           "gone": false,
-          "id": "2936385234",
-          "seen_at": "2026-11-21T22:09:41Z",
-          "url": "https://www.twitch.tv/videos/2936385234"
+          "id": "2937576012",
+          "seen_at": "2026-11-22T21:20:38Z",
+          "url": "https://www.twitch.tv/videos/2937576012"
         }
       },
       "live": {
-        "game": "Games + Demos",
-        "since": "2026-11-22T18:40:09Z",
-        "stream_id": "319448274277",
-        "title": "Бурзікі, пацукі і іншыя дэмкі",
-        "viewers": 13
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4384,7 +4384,7 @@
         "since": "2026-11-22T13:43:13Z",
         "stream_id": "319324671335",
         "title": "Нібы як 3 гадавіна афілэйту (ай донт ноў ват ту ду эдзішн) від Іринка подруга",
-        "viewers": 15
+        "viewers": 17
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5547,5 +5547,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-22T21:10:48Z"
+  "updated_at": "2026-11-22T21:20:38Z"
 }
