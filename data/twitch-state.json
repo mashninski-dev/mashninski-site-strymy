@@ -1874,6 +1874,21 @@
       "display_name": "lepus81",
       "history": [
         {
+          "duration_min": 168,
+          "ended_at": "2026-11-22T22:26:27Z",
+          "game": "Grand Theft Auto VI",
+          "source": "vod",
+          "started_at": "2026-11-22T19:38:55Z",
+          "stream_id": "317383380948",
+          "title": "GTA VI па-беларуску! Дзень 3",
+          "vod": {
+            "gone": false,
+            "id": "2937640315",
+            "seen_at": "2026-11-22T22:28:02Z",
+            "url": "https://www.twitch.tv/videos/2937640315"
+          }
+        },
+        {
           "duration_min": 156,
           "ended_at": "2026-11-19T23:49:53Z",
           "game": "Grand Theft Auto VI",
@@ -2157,44 +2172,29 @@
             "seen_at": "2026-10-08T18:45:58Z",
             "url": "https://www.twitch.tv/videos/2895221365"
           }
-        },
-        {
-          "duration_min": 164,
-          "ended_at": "2026-10-08T15:09:22Z",
-          "game": "Ghost of Yōtei",
-          "source": "vod",
-          "started_at": "2026-10-08T12:25:47Z",
-          "stream_id": "317067198420",
-          "title": "Ghost of Yotei. Part 15",
-          "vod": {
-            "gone": false,
-            "id": "2895092782",
-            "seen_at": "2026-10-08T15:10:56Z",
-            "url": "https://www.twitch.tv/videos/2895092782"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 156,
-        "ended_at": "2026-11-19T23:49:53Z",
+        "duration_min": 168,
+        "ended_at": "2026-11-22T22:26:27Z",
         "game": "Grand Theft Auto VI",
         "source": "vod",
-        "started_at": "2026-11-19T21:13:29Z",
-        "stream_id": "317355685588",
-        "title": "GTA VI па-беларуску! Дзень 2",
+        "started_at": "2026-11-22T19:38:55Z",
+        "stream_id": "317383380948",
+        "title": "GTA VI па-беларуску! Дзень 3",
         "vod": {
           "gone": false,
-          "id": "2934166933",
-          "seen_at": "2026-11-19T23:51:23Z",
-          "url": "https://www.twitch.tv/videos/2934166933"
+          "id": "2937640315",
+          "seen_at": "2026-11-22T22:28:02Z",
+          "url": "https://www.twitch.tv/videos/2937640315"
         }
       },
       "live": {
-        "game": "Grand Theft Auto VI",
-        "since": "2026-11-22T19:38:55Z",
-        "stream_id": "317383380948",
-        "title": "GTA VI па-беларуску! Дзень 3",
-        "viewers": 10
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -4384,7 +4384,7 @@
         "since": "2026-11-22T13:43:13Z",
         "stream_id": "319324671335",
         "title": "Нібы як 3 гадавіна афілэйту (ай донт ноў ват ту ду эдзішн) від Іринка подруга",
-        "viewers": 16
+        "viewers": 24
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5547,5 +5547,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-22T22:20:48Z"
+  "updated_at": "2026-11-22T22:28:02Z"
 }

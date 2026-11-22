@@ -716,8 +716,8 @@
           "minutes": 156
         },
         "Grand Theft Auto VI": {
-          "launches": 2,
-          "minutes": 372
+          "launches": 3,
+          "minutes": 540
         },
         "KILLFLOW": {
           "launches": 3,
@@ -731,9 +731,9 @@
       "display_name": "lepus81",
       "followers_end": null,
       "followers_start": 645,
-      "hours": [125,120,110,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,59,60,68,68,60],
-      "launches": 6,
-      "minutes": 721,
+      "hours": [185,146,110,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,59,60,68,89,120],
+      "launches": 7,
+      "minutes": 889,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-29T20:06:23Z",
       "sessions": [
@@ -772,9 +772,15 @@
           "ended_at": "2026-11-19T23:49:53Z",
           "started_at": "2026-11-19T21:13:29Z",
           "viewer_minutes": 1506
+        },
+        {
+          "duration_min": 168,
+          "ended_at": "2026-11-22T22:26:27Z",
+          "started_at": "2026-11-22T19:38:55Z",
+          "viewer_minutes": 1618
         }
       ],
-      "viewer_minutes": 10820
+      "viewer_minutes": 12438
     },
     "lilzorka_": {
       "added_at": "2026-09-11",
@@ -2263,5 +2269,5 @@
       "viewer_minutes": 761
     }
   },
-  "updated_at": "2026-11-22T21:20:38Z"
+  "updated_at": "2026-11-22T22:28:02Z"
 }
