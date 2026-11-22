@@ -970,6 +970,10 @@
           "launches": 1,
           "minutes": 62
         },
+        "CONTROL Resonant": {
+          "launches": 1,
+          "minutes": 250
+        },
         "Crimson Desert": {
           "launches": 1,
           "minutes": 311
@@ -1014,9 +1018,9 @@
       "display_name": "Mihas_Gareza",
       "followers_end": null,
       "followers_start": 201,
-      "hours": [250,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,132,853,978,820],
-      "launches": 17,
-      "minutes": 3220,
+      "hours": [258,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,62,192,913,1038,880],
+      "launches": 18,
+      "minutes": 3470,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-29T21:31:30Z",
       "sessions": [
@@ -1120,9 +1124,15 @@
           "ended_at": "2026-11-20T21:02:14Z",
           "started_at": "2026-11-20T18:38:44Z",
           "viewer_minutes": 560
+        },
+        {
+          "duration_min": 250,
+          "ended_at": "2026-11-22T21:08:07Z",
+          "started_at": "2026-11-22T16:58:03Z",
+          "viewer_minutes": 1113
         }
       ],
-      "viewer_minutes": 13545
+      "viewer_minutes": 14658
     },
     "ms_bahiema": {
       "added_at": "2026-09-11",
@@ -2247,5 +2257,5 @@
       "viewer_minutes": 761
     }
   },
-  "updated_at": "2026-11-22T18:50:46Z"
+  "updated_at": "2026-11-22T21:09:48Z"
 }
