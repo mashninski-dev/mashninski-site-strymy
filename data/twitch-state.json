@@ -4486,7 +4486,7 @@
         "since": "2026-11-22T12:58:46Z",
         "stream_id": "317327501654",
         "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
-        "viewers": 0
+        "viewers": 1
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5509,7 +5509,7 @@
         "since": "2026-11-22T12:39:35Z",
         "stream_id": "319442020709",
         "title": "Збягаю з Таркава сола (фарм Кілы на лоў скіле)",
-        "viewers": 2
+        "viewers": 1
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5517,5 +5517,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-22T12:59:21Z"
+  "updated_at": "2026-11-22T13:00:38Z"
 }
