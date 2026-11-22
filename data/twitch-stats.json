@@ -4150,14 +4150,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 12024
+            "sec": 12313
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2375,3600,3600,2449,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-22T11:40:49Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2375,3600,3600,2738,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-22T11:45:38Z",
         "started_at": "2026-11-22T08:20:25Z",
         "stream_id": "319439054693",
-        "viewer_sec": 30425,
+        "viewer_sec": 31003,
         "viewers": 2
       },
       "monthly": {
@@ -6851,7 +6851,20 @@
           "2026-11-01": 0
         }
       },
-      "in_progress": null,
+      "in_progress": {
+        "categories": [
+          {
+            "game": "Escape from Tarkov",
+            "sec": 35
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-22T11:45:38Z",
+        "started_at": "2026-11-22T11:45:03Z",
+        "stream_id": "319512477670",
+        "viewer_sec": 0,
+        "viewers": 0
+      },
       "monthly": {
         "2026-11": {
           "categories": {
@@ -6987,6 +7000,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-22T11:40:49Z",
+  "updated_at": "2026-11-22T11:45:38Z",
   "viewers_since": "2026-11-02"
 }
