@@ -5465,11 +5465,11 @@
         "vod": null
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Escape from Tarkov",
+        "since": "2026-11-22T07:04:45Z",
+        "stream_id": "319509962982",
+        "title": "Збягаю з Таркава сола",
+        "viewers": 0
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5477,5 +5477,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-21T22:30:48Z"
+  "updated_at": "2026-11-22T07:05:21Z"
 }
