@@ -639,15 +639,15 @@
         "categories": [
           {
             "game": "Total War: WARHAMMER III",
-            "sec": 1891
+            "sec": 2047
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1891,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-22T13:40:44Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2047,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-22T13:43:20Z",
         "started_at": "2026-11-22T13:09:13Z",
         "stream_id": "319513720934",
-        "viewer_sec": 4804,
-        "viewers": 8
+        "viewer_sec": 5974,
+        "viewers": 7
       },
       "monthly": {
         "2026-10": {
@@ -4163,14 +4163,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 19219
+            "sec": 19375
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2375,3600,3600,3600,3600,2444,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-22T13:40:44Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2375,3600,3600,3600,3600,2600,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-22T13:43:20Z",
         "started_at": "2026-11-22T08:20:25Z",
         "stream_id": "319439054693",
-        "viewer_sec": 45383,
+        "viewer_sec": 45539,
         "viewers": 1
       },
       "monthly": {
@@ -5402,8 +5402,8 @@
     },
     "sla5her_by": {
       "followers": {
-        "changed_at": "2026-11-21T18:26:13Z",
-        "count": 321,
+        "changed_at": "2026-11-22T13:43:20Z",
+        "count": 322,
         "daily": {
           "2026-10-23": 313,
           "2026-10-24": 313,
@@ -5447,14 +5447,14 @@
         "categories": [
           {
             "game": "Grand Theft Auto VI",
-            "sec": 2518
+            "sec": 2674
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,2444,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-22T13:40:44Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,2600,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-22T13:43:20Z",
         "started_at": "2026-11-22T12:58:46Z",
         "stream_id": "317327501654",
-        "viewer_sec": 3044,
+        "viewer_sec": 3512,
         "viewers": 3
       },
       "monthly": {
@@ -6866,35 +6866,35 @@
           "2026-11-01": 0
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Escape from Tarkov",
-            "sec": 3669
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1225,2444,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-22T13:40:44Z",
-        "started_at": "2026-11-22T12:39:35Z",
-        "stream_id": "319442020709",
-        "viewer_sec": 5377,
-        "viewers": 1
-      },
+      "in_progress": null,
       "monthly": {
         "2026-11": {
           "categories": {
             "Escape from Tarkov": {
-              "launches": 10,
-              "minutes": 514
+              "launches": 11,
+              "minutes": 578
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,56,60,34,25,16,26,0,0,8,8,90,119,57,15],
-          "launches": 10,
-          "minutes": 514,
-          "viewer_minutes": 560
+          "hours": [0,0,0,0,0,0,0,0,0,0,56,60,34,25,16,46,43,0,8,8,90,119,57,15],
+          "launches": 11,
+          "minutes": 578,
+          "viewer_minutes": 652
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Escape from Tarkov",
+              "minutes": 64
+            }
+          ],
+          "ended_at": "2026-11-22T13:43:20Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,43,0,0,0,0,0,0,0],
+          "started_at": "2026-11-22T12:39:35Z",
+          "viewer_minutes": 92,
+          "viewers_last": 1
+        },
         {
           "categories": [
             {
@@ -7028,6 +7028,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-22T13:40:44Z",
+  "updated_at": "2026-11-22T13:43:20Z",
   "viewers_since": "2026-11-02"
 }
