@@ -1169,20 +1169,7 @@
           "2026-11-01": 248
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-            "sec": 12995
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,354,3600,3600,3600,1841,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-23T12:30:41Z",
-        "started_at": "2026-11-23T08:54:06Z",
-        "stream_id": "319525611238",
-        "viewer_sec": 115393,
-        "viewers": 12
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -1242,8 +1229,8 @@
               "minutes": 161
             },
             "S.T.A.L.K.E.R. 2: Heart of Chornobyl": {
-              "launches": 1,
-              "minutes": 222
+              "launches": 2,
+              "minutes": 443
             },
             "Species: Unknown": {
               "launches": 1,
@@ -1258,13 +1245,26 @@
               "minutes": 462
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,8,430,641,660,608,10,0,0,0,0,0,57,60,12],
-          "launches": 13,
-          "minutes": 2485,
-          "viewer_minutes": 17702
+          "hours": [0,0,0,0,0,0,0,0,0,0,8,436,701,720,668,45,0,0,0,0,0,57,60,12],
+          "launches": 14,
+          "minutes": 2706,
+          "viewer_minutes": 19676
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+              "minutes": 221
+            }
+          ],
+          "ended_at": "2026-11-23T12:34:52Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,6,60,60,60,35,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-23T08:54:06Z",
+          "viewer_minutes": 1974,
+          "viewers_last": 12
+        },
         {
           "categories": [
             {
@@ -4150,14 +4150,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 101416
+            "sec": 101774
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5975,7200,7200,7200,5441,3600,3600,3600,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-23T12:30:41Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5975,7200,7200,7200,5799,3600,3600,3600,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-23T12:36:39Z",
         "started_at": "2026-11-22T08:20:25Z",
         "stream_id": "319439054693",
-        "viewer_sec": 128231,
+        "viewer_sec": 128589,
         "viewers": 1
       },
       "monthly": {
@@ -7002,6 +7002,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-23T12:30:41Z",
+  "updated_at": "2026-11-23T12:36:39Z",
   "viewers_since": "2026-11-02"
 }

@@ -456,8 +456,8 @@
           "minutes": 161
         },
         "S.T.A.L.K.E.R. 2: Heart of Chornobyl": {
-          "launches": 1,
-          "minutes": 222
+          "launches": 2,
+          "minutes": 443
         },
         "Species: Unknown": {
           "launches": 1,
@@ -475,9 +475,9 @@
       "display_name": "DzedMaksim",
       "followers_end": null,
       "followers_start": 248,
-      "hours": [0,0,0,0,0,0,0,0,0,0,8,430,641,660,608,10,0,0,0,0,0,57,60,12],
-      "launches": 13,
-      "minutes": 2485,
+      "hours": [0,0,0,0,0,0,0,0,0,0,8,436,701,720,668,45,0,0,0,0,0,57,60,12],
+      "launches": 14,
+      "minutes": 2706,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T12:00:37Z",
       "sessions": [
@@ -557,9 +557,15 @@
           "ended_at": "2026-11-20T12:02:46Z",
           "started_at": "2026-11-20T08:12:19Z",
           "viewer_minutes": 1901
+        },
+        {
+          "duration_min": 221,
+          "ended_at": "2026-11-23T12:34:52Z",
+          "started_at": "2026-11-23T08:54:06Z",
+          "viewer_minutes": 1974
         }
       ],
-      "viewer_minutes": 17702
+      "viewer_minutes": 19676
     },
     "evildive": {
       "added_at": "2026-09-11",
@@ -2281,5 +2287,5 @@
       "viewer_minutes": 761
     }
   },
-  "updated_at": "2026-11-23T06:09:02Z"
+  "updated_at": "2026-11-23T12:36:39Z"
 }
