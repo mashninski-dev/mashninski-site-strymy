@@ -2987,7 +2987,7 @@
         "since": "2026-11-23T17:58:07Z",
         "stream_id": "317390901972",
         "title": "[BLR] Спідранім Вайс Сіці. Мэта - меньш за гадзіну 45",
-        "viewers": 9
+        "viewers": 10
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3498,7 +3498,7 @@
         "since": "2026-11-23T19:00:53Z",
         "stream_id": "319462426725",
         "title": "Рубаем Петрыка",
-        "viewers": 10
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -5088,11 +5088,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "PEAK",
+        "since": "2026-11-23T19:44:27Z",
+        "stream_id": "319533479398",
+        "title": "Чіл Аўт ◉ Peak",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5557,5 +5557,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-23T19:40:46Z"
+  "updated_at": "2026-11-23T19:45:09Z"
 }
