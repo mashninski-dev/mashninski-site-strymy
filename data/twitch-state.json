@@ -3178,6 +3178,21 @@
       "display_name": "Nine_Ravens_Cemetery",
       "history": [
         {
+          "duration_min": 128,
+          "ended_at": "2026-11-23T21:08:52Z",
+          "game": "Art",
+          "source": "vod",
+          "started_at": "2026-11-23T19:00:53Z",
+          "stream_id": "319462426725",
+          "title": "Рубаем Петрыка",
+          "vod": {
+            "gone": false,
+            "id": "2938596440",
+            "seen_at": "2026-11-23T21:10:50Z",
+            "url": "https://www.twitch.tv/videos/2938596440"
+          }
+        },
+        {
           "duration_min": 160,
           "ended_at": "2026-11-22T21:20:06Z",
           "game": "Games + Demos",
@@ -3461,44 +3476,29 @@
             "seen_at": "2026-11-04T21:09:16Z",
             "url": "https://www.twitch.tv/videos/2919528187"
           }
-        },
-        {
-          "duration_min": 227,
-          "ended_at": "2026-11-03T20:49:28Z",
-          "game": "Art",
-          "source": "vod",
-          "started_at": "2026-11-03T17:02:11Z",
-          "stream_id": "319190552933",
-          "title": "Петрывір",
-          "vod": {
-            "gone": false,
-            "id": "2918549612",
-            "seen_at": "2026-11-03T20:51:00Z",
-            "url": "https://www.twitch.tv/videos/2918549612"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 160,
-        "ended_at": "2026-11-22T21:20:06Z",
-        "game": "Games + Demos",
+        "duration_min": 128,
+        "ended_at": "2026-11-23T21:08:52Z",
+        "game": "Art",
         "source": "vod",
-        "started_at": "2026-11-22T18:40:09Z",
-        "stream_id": "319448274277",
-        "title": "Бурзікі, пацукі і іншыя дэмкі",
+        "started_at": "2026-11-23T19:00:53Z",
+        "stream_id": "319462426725",
+        "title": "Рубаем Петрыка",
         "vod": {
           "gone": false,
-          "id": "2937576012",
-          "seen_at": "2026-11-22T21:20:38Z",
-          "url": "https://www.twitch.tv/videos/2937576012"
+          "id": "2938596440",
+          "seen_at": "2026-11-23T21:10:50Z",
+          "url": "https://www.twitch.tv/videos/2938596440"
         }
       },
       "live": {
-        "game": "Art",
-        "since": "2026-11-23T19:00:53Z",
-        "stream_id": "319462426725",
-        "title": "Рубаем Петрыка",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4374,7 +4374,7 @@
         "since": "2026-11-23T18:42:05Z",
         "stream_id": "319532282982",
         "title": "Ну павядзьмарылі далей від Іринка подруга",
-        "viewers": 7
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4486,7 +4486,7 @@
         "since": "2026-11-23T17:29:33Z",
         "stream_id": "319530838374",
         "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
-        "viewers": 3
+        "viewers": 4
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5092,7 +5092,7 @@
         "since": "2026-11-23T19:44:27Z",
         "stream_id": "319533479398",
         "title": "Бліжэй да Эдзі ◉ Silver Pines",
-        "viewers": 10
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5557,5 +5557,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-23T21:00:47Z"
+  "updated_at": "2026-11-23T21:10:49Z"
 }
