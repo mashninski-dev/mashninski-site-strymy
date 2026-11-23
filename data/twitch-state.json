@@ -4486,7 +4486,7 @@
         "since": "2026-11-23T17:29:33Z",
         "stream_id": "319530838374",
         "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
-        "viewers": 7
+        "viewers": 10
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -4772,6 +4772,21 @@
       "display_name": "Ucenamescy",
       "history": [
         {
+          "duration_min": 177,
+          "ended_at": "2026-11-23T22:41:17Z",
+          "game": "Silver Pines",
+          "source": "vod",
+          "started_at": "2026-11-23T19:44:27Z",
+          "stream_id": "319533479398",
+          "title": "Бліжэй да Эдзі ◉ Silver Pines",
+          "vod": {
+            "gone": false,
+            "id": "2938637957",
+            "seen_at": "2026-11-23T22:43:01Z",
+            "url": "https://www.twitch.tv/videos/2938637957"
+          }
+        },
+        {
           "duration_min": 142,
           "ended_at": "2026-11-21T19:40:23Z",
           "game": "PEAK",
@@ -5055,44 +5070,29 @@
             "seen_at": "2026-10-24T16:50:52Z",
             "url": "https://www.twitch.tv/videos/2909465884"
           }
-        },
-        {
-          "duration_min": 164,
-          "ended_at": "2026-10-23T15:24:41Z",
-          "game": "Silver Pines",
-          "source": "vod",
-          "started_at": "2026-10-23T12:40:20Z",
-          "stream_id": "319054408805",
-          "title": "Cрэбныя Сосенькі ◉ Silver Pines",
-          "vod": {
-            "gone": false,
-            "id": "2908465048",
-            "seen_at": "2026-10-23T15:26:32Z",
-            "url": "https://www.twitch.tv/videos/2908465048"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 142,
-        "ended_at": "2026-11-21T19:40:23Z",
-        "game": "PEAK",
+        "duration_min": 177,
+        "ended_at": "2026-11-23T22:41:17Z",
+        "game": "Silver Pines",
         "source": "vod",
-        "started_at": "2026-11-21T17:18:03Z",
-        "stream_id": "319429275749",
-        "title": "Чіл Аўт ◉ Peak",
+        "started_at": "2026-11-23T19:44:27Z",
+        "stream_id": "319533479398",
+        "title": "Бліжэй да Эдзі ◉ Silver Pines",
         "vod": {
           "gone": false,
-          "id": "2936312190",
-          "seen_at": "2026-11-21T19:42:12Z",
-          "url": "https://www.twitch.tv/videos/2936312190"
+          "id": "2938637957",
+          "seen_at": "2026-11-23T22:43:01Z",
+          "url": "https://www.twitch.tv/videos/2938637957"
         }
       },
       "live": {
-        "game": "Silver Pines",
-        "since": "2026-11-23T19:44:27Z",
-        "stream_id": "319533479398",
-        "title": "Бліжэй да Эдзі ◉ Silver Pines",
-        "viewers": 5
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5557,5 +5557,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-23T22:40:39Z"
+  "updated_at": "2026-11-23T22:43:00Z"
 }
