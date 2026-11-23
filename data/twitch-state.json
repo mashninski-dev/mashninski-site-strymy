@@ -4486,7 +4486,7 @@
         "since": "2026-11-23T17:29:33Z",
         "stream_id": "319530838374",
         "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
-        "viewers": 5
+        "viewers": 6
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5535,11 +5535,11 @@
         "vod": null
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Escape from Tarkov",
+        "since": "2026-11-23T17:48:43Z",
+        "stream_id": "319531207654",
+        "title": "Збягаю з Таркава з мальцамі ў паці",
+        "viewers": 0
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5547,5 +5547,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-23T17:40:44Z"
+  "updated_at": "2026-11-23T17:49:23Z"
 }
