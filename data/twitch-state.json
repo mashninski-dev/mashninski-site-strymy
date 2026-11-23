@@ -4482,11 +4482,11 @@
         "vod": null
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Grand Theft Auto VI",
+        "since": "2026-11-23T17:29:33Z",
+        "stream_id": "319530838374",
+        "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
+        "viewers": 0
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5547,5 +5547,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-23T16:40:52Z"
+  "updated_at": "2026-11-23T17:30:01Z"
 }
