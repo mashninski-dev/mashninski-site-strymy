@@ -4069,6 +4069,16 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 790,
+          "ended_at": "2026-11-23T02:53:24Z",
+          "game": "Just Chatting",
+          "source": "observed",
+          "started_at": "2026-11-22T13:43:13Z",
+          "stream_id": "319324671335",
+          "title": "Нібы як 3 гадавіна афілэйту (ай донт ноў ват ту ду эдзішн) від Іринка подруга",
+          "vod": null
+        },
+        {
           "duration_min": 597,
           "ended_at": "2026-11-21T01:21:35Z",
           "game": "Outlast II",
@@ -4347,44 +4357,24 @@
             "seen_at": "2026-11-02T03:08:43Z",
             "url": "https://www.twitch.tv/videos/2916902400"
           }
-        },
-        {
-          "duration_min": 412,
-          "ended_at": "2026-11-01T02:02:08Z",
-          "game": "Outlast",
-          "source": "vod",
-          "started_at": "2026-10-31T19:10:08Z",
-          "stream_id": "317138815957",
-          "title": "[СКРЫМЕРЫ ЎКЛЮЧАНЫ] Бясстрашны кот у справе! (першае праходжанне) від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2916015059",
-            "seen_at": "2026-11-01T02:03:44Z",
-            "url": "https://www.twitch.tv/videos/2916015059"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 597,
-        "ended_at": "2026-11-21T01:21:35Z",
-        "game": "Outlast II",
-        "source": "vod",
-        "started_at": "2026-11-20T15:24:25Z",
-        "stream_id": "319410537445",
-        "title": "[СКРЫМЕРЫ ЎКЛЮЧАНЫ] Час жахаў від Іринка подруга",
-        "vod": {
-          "gone": false,
-          "id": "2934995790",
-          "seen_at": "2026-11-21T01:23:21Z",
-          "url": "https://www.twitch.tv/videos/2934995790"
-        }
-      },
-      "live": {
+        "duration_min": 790,
+        "ended_at": "2026-11-23T02:53:24Z",
         "game": "Just Chatting",
-        "since": "2026-11-22T13:43:13Z",
+        "source": "observed",
+        "started_at": "2026-11-22T13:43:13Z",
         "stream_id": "319324671335",
         "title": "Нібы як 3 гадавіна афілэйту (ай донт ноў ват ту ду эдзішн) від Іринка подруга",
-        "viewers": 14
+        "vod": null
+      },
+      "live": {
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5547,5 +5537,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-23T02:50:48Z"
+  "updated_at": "2026-11-23T02:53:24Z"
 }
