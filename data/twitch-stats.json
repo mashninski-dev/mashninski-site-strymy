@@ -2252,17 +2252,6 @@
           "ended_at": "2026-10-26T18:57:24Z",
           "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,60,60,57,0,0],
           "started_at": "2026-10-26T15:04:44Z"
-        },
-        {
-          "categories": [
-            {
-              "game": "Dishonored",
-              "minutes": 172
-            }
-          ],
-          "ended_at": "2026-10-23T20:26:38Z",
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,60,60,27],
-          "started_at": "2026-10-23T17:34:48Z"
         }
       ]
     },
@@ -2931,20 +2920,7 @@
           "2026-11-01": 201
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Grand Theft Auto: Vice City - The Definitive Edition",
-            "sec": 8553
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,3600,3600,1240],
-        "last_seen_at": "2026-11-23T20:20:40Z",
-        "started_at": "2026-11-23T17:58:07Z",
-        "stream_id": "317390901972",
-        "viewer_sec": 55033,
-        "viewers": 4
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -3044,8 +3020,8 @@
               "minutes": 565
             },
             "Grand Theft Auto: Vice City - The Definitive Edition": {
-              "launches": 2,
-              "minutes": 320
+              "launches": 3,
+              "minutes": 469
             },
             "HELLDIVERS 2": {
               "launches": 1,
@@ -3076,13 +3052,26 @@
               "minutes": 72
             }
           },
-          "hours": [258,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,62,192,913,1038,880],
-          "launches": 18,
-          "minutes": 3470,
-          "viewer_minutes": 14658
+          "hours": [258,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,62,194,973,1098,908],
+          "launches": 19,
+          "minutes": 3619,
+          "viewer_minutes": 15603
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Grand Theft Auto: Vice City - The Definitive Edition",
+              "minutes": 149
+            }
+          ],
+          "ended_at": "2026-11-23T20:27:30Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,60,60,28],
+          "started_at": "2026-11-23T17:58:07Z",
+          "viewer_minutes": 945,
+          "viewers_last": 4
+        },
         {
           "categories": [
             {
@@ -3634,14 +3623,14 @@
         "categories": [
           {
             "game": "Art",
-            "sec": 4787
+            "sec": 5304
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3547,1240],
-        "last_seen_at": "2026-11-23T20:20:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3547,1757],
+        "last_seen_at": "2026-11-23T20:29:17Z",
         "started_at": "2026-11-23T19:00:53Z",
         "stream_id": "319462426725",
-        "viewer_sec": 33725,
+        "viewer_sec": 37861,
         "viewers": 8
       },
       "monthly": {
@@ -4143,14 +4132,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 129615
+            "sec": 130132
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5975,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,4840],
-        "last_seen_at": "2026-11-23T20:20:40Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5975,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,5357],
+        "last_seen_at": "2026-11-23T20:29:17Z",
         "started_at": "2026-11-22T08:20:25Z",
         "stream_id": "319439054693",
-        "viewer_sec": 168105,
+        "viewer_sec": 168622,
         "viewers": 1
       },
       "monthly": {
@@ -4784,14 +4773,14 @@
         "categories": [
           {
             "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 5915
+            "sec": 6432
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1075,3600,1240],
-        "last_seen_at": "2026-11-23T20:20:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1075,3600,1757],
+        "last_seen_at": "2026-11-23T20:29:17Z",
         "started_at": "2026-11-23T18:42:05Z",
         "stream_id": "319532282982",
-        "viewer_sec": 33968,
+        "viewer_sec": 39138,
         "viewers": 10
       },
       "monthly": {
@@ -5424,15 +5413,15 @@
         "categories": [
           {
             "game": "Grand Theft Auto VI",
-            "sec": 10267
+            "sec": 10784
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1827,3600,3600,1240],
-        "last_seen_at": "2026-11-23T20:20:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1827,3600,3600,1757],
+        "last_seen_at": "2026-11-23T20:29:17Z",
         "started_at": "2026-11-23T17:29:33Z",
         "stream_id": "319530838374",
-        "viewer_sec": 44718,
-        "viewers": 2
+        "viewer_sec": 46786,
+        "viewers": 6
       },
       "monthly": {
         "2026-10": {
@@ -6059,15 +6048,15 @@
           },
           {
             "game": "Silver Pines",
-            "sec": 1799
+            "sec": 2316
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,933,1240],
-        "last_seen_at": "2026-11-23T20:20:40Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,933,1757],
+        "last_seen_at": "2026-11-23T20:29:17Z",
         "started_at": "2026-11-23T19:44:27Z",
         "stream_id": "319533479398",
-        "viewer_sec": 9776,
-        "viewers": 8
+        "viewer_sec": 13136,
+        "viewers": 5
       },
       "monthly": {
         "2026-10": {
@@ -7029,6 +7018,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-23T20:20:40Z",
+  "updated_at": "2026-11-23T20:29:17Z",
   "viewers_since": "2026-11-02"
 }

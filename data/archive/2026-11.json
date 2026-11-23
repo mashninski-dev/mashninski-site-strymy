@@ -995,8 +995,8 @@
           "minutes": 565
         },
         "Grand Theft Auto: Vice City - The Definitive Edition": {
-          "launches": 2,
-          "minutes": 320
+          "launches": 3,
+          "minutes": 469
         },
         "HELLDIVERS 2": {
           "launches": 1,
@@ -1030,9 +1030,9 @@
       "display_name": "Mihas_Gareza",
       "followers_end": null,
       "followers_start": 201,
-      "hours": [258,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,62,192,913,1038,880],
-      "launches": 18,
-      "minutes": 3470,
+      "hours": [258,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,62,194,973,1098,908],
+      "launches": 19,
+      "minutes": 3619,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-29T21:31:30Z",
       "sessions": [
@@ -1142,9 +1142,15 @@
           "ended_at": "2026-11-22T21:08:07Z",
           "started_at": "2026-11-22T16:58:03Z",
           "viewer_minutes": 1113
+        },
+        {
+          "duration_min": 149,
+          "ended_at": "2026-11-23T20:27:30Z",
+          "started_at": "2026-11-23T17:58:07Z",
+          "viewer_minutes": 945
         }
       ],
-      "viewer_minutes": 14658
+      "viewer_minutes": 15603
     },
     "ms_bahiema": {
       "added_at": "2026-09-11",
@@ -2293,5 +2299,5 @@
       "viewer_minutes": 865
     }
   },
-  "updated_at": "2026-11-23T19:33:47Z"
+  "updated_at": "2026-11-23T20:29:17Z"
 }

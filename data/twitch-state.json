@@ -2667,6 +2667,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 149,
+          "ended_at": "2026-11-23T20:27:30Z",
+          "game": "Grand Theft Auto: Vice City - The Definitive Edition",
+          "source": "vod",
+          "started_at": "2026-11-23T17:58:07Z",
+          "stream_id": "317390901972",
+          "title": "[BLR] Спідранім Вайс Сіці. Мэта - меньш за гадзіну 45",
+          "vod": {
+            "gone": false,
+            "id": "2938536306",
+            "seen_at": "2026-11-23T20:29:17Z",
+            "url": "https://www.twitch.tv/videos/2938536306"
+          }
+        },
+        {
           "duration_min": 250,
           "ended_at": "2026-11-22T21:08:07Z",
           "game": "CONTROL Resonant",
@@ -2950,44 +2965,29 @@
             "seen_at": "2026-10-29T21:33:09Z",
             "url": "https://www.twitch.tv/videos/2914115626"
           }
-        },
-        {
-          "duration_min": 153,
-          "ended_at": "2026-10-28T21:10:54Z",
-          "game": "Mycopunk",
-          "source": "vod",
-          "started_at": "2026-10-28T18:37:36Z",
-          "stream_id": "319121865701",
-          "title": "[BLR] Каапчык са Слэшарам. Грыбны панк. Глядзім новую ПэВэЕ гульню",
-          "vod": {
-            "gone": false,
-            "id": "2913248074",
-            "seen_at": "2026-10-28T21:12:37Z",
-            "url": "https://www.twitch.tv/videos/2913248074"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 250,
-        "ended_at": "2026-11-22T21:08:07Z",
-        "game": "CONTROL Resonant",
+        "duration_min": 149,
+        "ended_at": "2026-11-23T20:27:30Z",
+        "game": "Grand Theft Auto: Vice City - The Definitive Edition",
         "source": "vod",
-        "started_at": "2026-11-22T16:58:03Z",
-        "stream_id": "319517517286",
-        "title": "[BLR] Нядзельны трыял. Новы кантрол. 4 гадзіны",
+        "started_at": "2026-11-23T17:58:07Z",
+        "stream_id": "317390901972",
+        "title": "[BLR] Спідранім Вайс Сіці. Мэта - меньш за гадзіну 45",
         "vod": {
           "gone": false,
-          "id": "2937468180",
-          "seen_at": "2026-11-22T21:09:48Z",
-          "url": "https://www.twitch.tv/videos/2937468180"
+          "id": "2938536306",
+          "seen_at": "2026-11-23T20:29:17Z",
+          "url": "https://www.twitch.tv/videos/2938536306"
         }
       },
       "live": {
-        "game": "Grand Theft Auto: Vice City - The Definitive Edition",
-        "since": "2026-11-23T17:58:07Z",
-        "stream_id": "317390901972",
-        "title": "[BLR] Спідранім Вайс Сіці. Мэта - меньш за гадзіну 45",
-        "viewers": 4
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4486,7 +4486,7 @@
         "since": "2026-11-23T17:29:33Z",
         "stream_id": "319530838374",
         "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
-        "viewers": 2
+        "viewers": 6
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5092,7 +5092,7 @@
         "since": "2026-11-23T19:44:27Z",
         "stream_id": "319533479398",
         "title": "Бліжэй да Эдзі ◉ Silver Pines",
-        "viewers": 8
+        "viewers": 5
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5557,5 +5557,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-23T20:20:40Z"
+  "updated_at": "2026-11-23T20:29:17Z"
 }
