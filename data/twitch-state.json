@@ -4374,7 +4374,7 @@
         "since": "2026-11-23T18:42:05Z",
         "stream_id": "319532282982",
         "title": "Ну павядзьмарылі далей від Іринка подруга",
-        "viewers": 7
+        "viewers": 14
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4385,6 +4385,16 @@
       "description": "Часам — добры стрымер. Часам — вельмі добры. Але гэта ўжо як фартанё. Стрымлю не рэгулярна, затое з душой 🎮 Гуляю ў розныя гульні, але дупа стабільна гарыць толькі ў Counter-Strike🔥Калі раптам захочаш супрацу, ці проста напісаць «чаму ты зноў памёр?» — пішаш у Telegram ці ў Discord.",
       "display_name": "Sla5her_BY",
       "history": [
+        {
+          "duration_min": 320,
+          "ended_at": "2026-11-23T22:49:16Z",
+          "game": "Grand Theft Auto VI",
+          "source": "observed",
+          "started_at": "2026-11-23T17:29:33Z",
+          "stream_id": "319530838374",
+          "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
+          "vod": null
+        },
         {
           "duration_min": 352,
           "ended_at": "2026-11-22T18:50:46Z",
@@ -4472,21 +4482,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 352,
-        "ended_at": "2026-11-22T18:50:46Z",
+        "duration_min": 320,
+        "ended_at": "2026-11-23T22:49:16Z",
         "game": "Grand Theft Auto VI",
         "source": "observed",
-        "started_at": "2026-11-22T12:58:46Z",
-        "stream_id": "317327501654",
+        "started_at": "2026-11-23T17:29:33Z",
+        "stream_id": "319530838374",
         "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
         "vod": null
       },
       "live": {
-        "game": "Grand Theft Auto VI",
-        "since": "2026-11-23T17:29:33Z",
-        "stream_id": "319530838374",
-        "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
-        "viewers": 10
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5557,5 +5567,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-23T22:43:00Z"
+  "updated_at": "2026-11-23T22:49:16Z"
 }
