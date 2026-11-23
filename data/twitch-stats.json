@@ -2935,14 +2935,14 @@
         "categories": [
           {
             "game": "Grand Theft Auto: Vice City - The Definitive Edition",
-            "sec": 5561
+            "sec": 5740
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,3600,1848,0],
-        "last_seen_at": "2026-11-23T19:30:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,3600,2027,0],
+        "last_seen_at": "2026-11-23T19:33:47Z",
         "started_at": "2026-11-23T17:58:07Z",
         "stream_id": "317390901972",
-        "viewer_sec": 30577,
+        "viewer_sec": 32546,
         "viewers": 11
       },
       "monthly": {
@@ -3634,15 +3634,15 @@
         "categories": [
           {
             "game": "Art",
-            "sec": 1795
+            "sec": 1974
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1795,0],
-        "last_seen_at": "2026-11-23T19:30:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1974,0],
+        "last_seen_at": "2026-11-23T19:33:47Z",
         "started_at": "2026-11-23T19:00:53Z",
         "stream_id": "319462426725",
-        "viewer_sec": 8347,
-        "viewers": 8
+        "viewer_sec": 9868,
+        "viewers": 9
       },
       "monthly": {
         "2026-10": {
@@ -4154,14 +4154,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 126623
+            "sec": 126802
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5975,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,5448,3600],
-        "last_seen_at": "2026-11-23T19:30:48Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5975,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,5627,3600],
+        "last_seen_at": "2026-11-23T19:33:47Z",
         "started_at": "2026-11-22T08:20:25Z",
         "stream_id": "319439054693",
-        "viewer_sec": 165113,
+        "viewer_sec": 165292,
         "viewers": 1
       },
       "monthly": {
@@ -4795,15 +4795,15 @@
         "categories": [
           {
             "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 2923
+            "sec": 3102
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1075,1848,0],
-        "last_seen_at": "2026-11-23T19:30:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1075,2027,0],
+        "last_seen_at": "2026-11-23T19:33:47Z",
         "started_at": "2026-11-23T18:42:05Z",
         "stream_id": "319532282982",
-        "viewer_sec": 14787,
-        "viewers": 8
+        "viewer_sec": 16040,
+        "viewers": 6
       },
       "monthly": {
         "2026-10": {
@@ -5435,15 +5435,15 @@
         "categories": [
           {
             "game": "Grand Theft Auto VI",
-            "sec": 7275
+            "sec": 7454
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1827,3600,1848,0],
-        "last_seen_at": "2026-11-23T19:30:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1827,3600,2027,0],
+        "last_seen_at": "2026-11-23T19:33:47Z",
         "started_at": "2026-11-23T17:29:33Z",
         "stream_id": "319530838374",
-        "viewer_sec": 37677,
-        "viewers": 3
+        "viewer_sec": 38303,
+        "viewers": 4
       },
       "monthly": {
         "2026-10": {
@@ -6835,35 +6835,35 @@
           "2026-11-01": 0
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Escape from Tarkov",
-            "sec": 6125
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,677,3600,1848,0],
-        "last_seen_at": "2026-11-23T19:30:48Z",
-        "started_at": "2026-11-23T17:48:43Z",
-        "stream_id": "319531207654",
-        "viewer_sec": 6041,
-        "viewers": 1
-      },
+      "in_progress": null,
       "monthly": {
         "2026-11": {
           "categories": {
             "Escape from Tarkov": {
-              "launches": 12,
-              "minutes": 692
+              "launches": 13,
+              "minutes": 797
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,56,60,34,25,16,46,43,0,65,64,90,119,57,15],
-          "launches": 12,
-          "minutes": 692,
-          "viewer_minutes": 761
+          "hours": [0,0,0,0,0,0,0,0,0,0,56,60,34,25,16,46,43,0,65,64,101,179,91,15],
+          "launches": 13,
+          "minutes": 797,
+          "viewer_minutes": 865
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Escape from Tarkov",
+              "minutes": 105
+            }
+          ],
+          "ended_at": "2026-11-23T19:33:47Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,60,34,0],
+          "started_at": "2026-11-23T17:48:43Z",
+          "viewer_minutes": 104,
+          "viewers_last": 1
+        },
         {
           "categories": [
             {
@@ -7023,6 +7023,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-23T19:30:48Z",
+  "updated_at": "2026-11-23T19:33:47Z",
   "viewers_since": "2026-11-02"
 }

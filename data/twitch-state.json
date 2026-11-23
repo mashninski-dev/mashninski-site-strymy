@@ -3498,7 +3498,7 @@
         "since": "2026-11-23T19:00:53Z",
         "stream_id": "319462426725",
         "title": "Рубаем Петрыка",
-        "viewers": 8
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4374,7 +4374,7 @@
         "since": "2026-11-23T18:42:05Z",
         "stream_id": "319532282982",
         "title": "Ну павядзьмарылі далей від Іринка подруга",
-        "viewers": 8
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4486,7 +4486,7 @@
         "since": "2026-11-23T17:29:33Z",
         "stream_id": "319530838374",
         "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
-        "viewers": 3
+        "viewers": 4
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5404,6 +5404,16 @@
       "display_name": "yozas_gubka",
       "history": [
         {
+          "duration_min": 105,
+          "ended_at": "2026-11-23T19:33:47Z",
+          "game": "Escape from Tarkov",
+          "source": "observed",
+          "started_at": "2026-11-23T17:48:43Z",
+          "stream_id": "319531207654",
+          "title": "Збягаю з Таркава з мальцамі ў паці",
+          "vod": null
+        },
+        {
           "duration_min": 114,
           "ended_at": "2026-11-22T16:56:29Z",
           "game": "Escape from Tarkov",
@@ -5525,21 +5535,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 114,
-        "ended_at": "2026-11-22T16:56:29Z",
+        "duration_min": 105,
+        "ended_at": "2026-11-23T19:33:47Z",
         "game": "Escape from Tarkov",
         "source": "observed",
-        "started_at": "2026-11-22T15:02:56Z",
-        "stream_id": "317289739733",
+        "started_at": "2026-11-23T17:48:43Z",
+        "stream_id": "319531207654",
         "title": "Збягаю з Таркава з мальцамі ў паці",
         "vod": null
       },
       "live": {
-        "game": "Escape from Tarkov",
-        "since": "2026-11-23T17:48:43Z",
-        "stream_id": "319531207654",
-        "title": "Збягаю з Таркава з мальцамі ў паці",
-        "viewers": 1
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5547,5 +5557,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-23T19:30:48Z"
+  "updated_at": "2026-11-23T19:33:47Z"
 }
