@@ -290,6 +290,10 @@
           "launches": 3,
           "minutes": 640
         },
+        "Gallipoli": {
+          "launches": 1,
+          "minutes": 134
+        },
         "Painkiller": {
           "launches": 1,
           "minutes": 70
@@ -306,9 +310,9 @@
       "display_name": "annigilatormg42",
       "followers_end": null,
       "followers_start": 57,
-      "hours": [65,0,0,0,0,0,0,0,0,0,0,0,0,0,42,120,217,240,171,37,151,180,239,177],
-      "launches": 8,
-      "minutes": 1641,
+      "hours": [65,0,0,0,0,0,0,0,0,0,0,0,0,0,42,120,217,240,171,37,151,203,299,228],
+      "launches": 9,
+      "minutes": 1775,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T21:54:22Z",
       "sessions": [
@@ -358,9 +362,15 @@
           "ended_at": "2026-11-22T16:21:20Z",
           "started_at": "2026-11-22T13:09:13Z",
           "viewer_minutes": 861
+        },
+        {
+          "duration_min": 134,
+          "ended_at": "2026-11-24T20:51:13Z",
+          "started_at": "2026-11-24T18:36:49Z",
+          "viewer_minutes": 469
         }
       ],
-      "viewer_minutes": 6680
+      "viewer_minutes": 7149
     },
     "bel_asch": {
       "added_at": "2026-09-11",
@@ -2383,5 +2393,5 @@
       "viewer_minutes": 1015
     }
   },
-  "updated_at": "2026-11-24T20:44:45Z"
+  "updated_at": "2026-11-24T20:52:59Z"
 }
