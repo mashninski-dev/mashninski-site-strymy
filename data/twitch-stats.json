@@ -217,20 +217,7 @@
           "2026-11-01": 1302
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "HλLF-LIFE",
-            "sec": 10117
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2876,3600,3600,41,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T12:00:41Z",
-        "started_at": "2026-11-24T09:12:04Z",
-        "stream_id": "317301289813",
-        "viewer_sec": 143383,
-        "viewers": 18
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -321,6 +308,10 @@
               "launches": 1,
               "minutes": 137
             },
+            "HλLF-LIFE": {
+              "launches": 1,
+              "minutes": 173
+            },
             "Metroid": {
               "launches": 1,
               "minutes": 223
@@ -346,13 +337,26 @@
               "minutes": 235
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,697,840,840,755,8,0,0,0,0,0,0,0],
-          "launches": 14,
-          "minutes": 3142,
-          "viewer_minutes": 48916
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,745,900,900,760,8,0,0,0,0,0,0,0],
+          "launches": 15,
+          "minutes": 3315,
+          "viewer_minutes": 51384
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "HλLF-LIFE",
+              "minutes": 173
+            }
+          ],
+          "ended_at": "2026-11-24T12:05:03Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,48,60,60,5,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-24T09:12:04Z",
+          "viewer_minutes": 2468,
+          "viewers_last": 18
+        },
         {
           "categories": [
             {
@@ -3416,15 +3420,15 @@
         "categories": [
           {
             "game": "World of Warcraft",
-            "sec": 2602
+            "sec": 2967
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,2561,41,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T12:00:41Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,2561,406,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T12:06:46Z",
         "started_at": "2026-11-24T11:17:19Z",
         "stream_id": "317395048148",
-        "viewer_sec": 25102,
-        "viewers": 12
+        "viewer_sec": 29117,
+        "viewers": 10
       },
       "monthly": {
         "2026-10": {
@@ -4138,14 +4142,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 13205
+            "sec": 13570
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,3600,3600,3600,41,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T12:00:41Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,3600,3600,3600,406,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T12:06:46Z",
         "started_at": "2026-11-24T08:20:36Z",
         "stream_id": "319538683366",
-        "viewer_sec": 13205,
+        "viewer_sec": 13570,
         "viewers": 1
       },
       "monthly": {
@@ -4447,15 +4451,15 @@
           },
           {
             "game": "Silver Pines",
-            "sec": 2398
+            "sec": 2763
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,3052,41,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T12:00:41Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,3052,406,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T12:06:46Z",
         "started_at": "2026-11-24T11:09:08Z",
         "stream_id": "319469905253",
-        "viewer_sec": 58748,
-        "viewers": 25
+        "viewer_sec": 69150,
+        "viewers": 32
       },
       "monthly": {
         "2026-10": {
@@ -7012,6 +7016,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-24T12:00:41Z",
+  "updated_at": "2026-11-24T12:06:46Z",
   "viewers_since": "2026-11-02"
 }
