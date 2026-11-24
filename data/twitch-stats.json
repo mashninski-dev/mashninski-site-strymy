@@ -2521,15 +2521,15 @@
           },
           {
             "game": "ELDEN RING",
-            "sec": 1205
+            "sec": 1807
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1251,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T14:20:51Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1853,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T14:30:53Z",
         "started_at": "2026-11-24T13:59:37Z",
         "stream_id": "319350760423",
-        "viewer_sec": 3909,
-        "viewers": 3
+        "viewer_sec": 6618,
+        "viewers": 6
       },
       "monthly": {
         "2026-10": {
@@ -3433,20 +3433,7 @@
           "2026-11-01": 940
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "World of Warcraft",
-            "sec": 11012
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,2561,3600,3600,1251,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T14:20:51Z",
-        "started_at": "2026-11-24T11:17:19Z",
-        "stream_id": "317395048148",
-        "viewer_sec": 173454,
-        "viewers": 22
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -3468,15 +3455,32 @@
             "Dressmaker (2026)": {
               "launches": 1,
               "minutes": 111
+            },
+            "World of Warcraft": {
+              "launches": 1,
+              "minutes": 192
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,60,24,0,0,0,0],
-          "launches": 1,
-          "minutes": 111,
-          "viewer_minutes": 1563
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,60,60,56,60,24,0,0,0,0],
+          "launches": 2,
+          "minutes": 303,
+          "viewer_minutes": 4637
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "World of Warcraft",
+              "minutes": 192
+            }
+          ],
+          "ended_at": "2026-11-24T14:29:10Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,60,60,29,0,0,0,0,0,0],
+          "started_at": "2026-11-24T11:17:19Z",
+          "viewer_minutes": 3074,
+          "viewers_last": 22
+        },
         {
           "categories": [
             {
@@ -4159,14 +4163,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 21615
+            "sec": 22217
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,3600,3600,3600,3600,3600,1251,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T14:20:51Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,3600,3600,3600,3600,3600,1853,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T14:30:53Z",
         "started_at": "2026-11-24T08:20:36Z",
         "stream_id": "319538683366",
-        "viewer_sec": 21615,
+        "viewer_sec": 22217,
         "viewers": 1
       },
       "monthly": {
@@ -7033,6 +7037,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-24T14:20:51Z",
+  "updated_at": "2026-11-24T14:30:53Z",
   "viewers_since": "2026-11-02"
 }

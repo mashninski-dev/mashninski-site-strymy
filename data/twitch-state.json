@@ -2655,7 +2655,7 @@
         "since": "2026-11-24T13:59:37Z",
         "stream_id": "319350760423",
         "title": "Пярсцёнкі і пярсцяняткі",
-        "viewers": 3
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -2999,6 +2999,21 @@
       "display_name": "ms_bahiema",
       "history": [
         {
+          "duration_min": 192,
+          "ended_at": "2026-11-24T14:29:10Z",
+          "game": "World of Warcraft",
+          "source": "vod",
+          "started_at": "2026-11-24T11:17:19Z",
+          "stream_id": "317395048148",
+          "title": "[BEL] паазероцімся?",
+          "vod": {
+            "gone": false,
+            "id": "2939259077",
+            "seen_at": "2026-11-24T14:30:53Z",
+            "url": "https://www.twitch.tv/videos/2939259077"
+          }
+        },
+        {
           "duration_min": 111,
           "ended_at": "2026-11-10T16:24:07Z",
           "game": "Dressmaker (2026)",
@@ -3040,26 +3055,26 @@
         }
       ],
       "last_stream": {
-        "duration_min": 111,
-        "ended_at": "2026-11-10T16:24:07Z",
-        "game": "Dressmaker (2026)",
+        "duration_min": 192,
+        "ended_at": "2026-11-24T14:29:10Z",
+        "game": "World of Warcraft",
         "source": "vod",
-        "started_at": "2026-11-10T14:32:46Z",
-        "stream_id": "319344637414",
-        "title": "[BEL] крыху тэсцірую новую берлогу",
+        "started_at": "2026-11-24T11:17:19Z",
+        "stream_id": "317395048148",
+        "title": "[BEL] паазероцімся?",
         "vod": {
           "gone": false,
-          "id": "2924924580",
-          "seen_at": "2026-11-10T16:25:42Z",
-          "url": "https://www.twitch.tv/videos/2924924580"
+          "id": "2939259077",
+          "seen_at": "2026-11-24T14:30:53Z",
+          "url": "https://www.twitch.tv/videos/2939259077"
         }
       },
       "live": {
-        "game": "World of Warcraft",
-        "since": "2026-11-24T11:17:19Z",
-        "stream_id": "317395048148",
-        "title": "[BEL] паазероцімся?",
-        "viewers": 22
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/1b38b284-561d-4158-b998-05f6a2664097-profile_image-300x300.png",
@@ -5572,5 +5587,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-24T14:20:51Z"
+  "updated_at": "2026-11-24T14:30:53Z"
 }

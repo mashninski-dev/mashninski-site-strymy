@@ -1174,14 +1174,18 @@
         "Dressmaker (2026)": {
           "launches": 1,
           "minutes": 111
+        },
+        "World of Warcraft": {
+          "launches": 1,
+          "minutes": 192
         }
       },
       "display_name": "ms_bahiema",
       "followers_end": null,
       "followers_start": 940,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,60,24,0,0,0,0],
-      "launches": 1,
-      "minutes": 111,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,60,60,56,60,24,0,0,0,0],
+      "launches": 2,
+      "minutes": 303,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-04T21:50:50Z",
       "sessions": [
@@ -1190,9 +1194,15 @@
           "ended_at": "2026-11-10T16:24:07Z",
           "started_at": "2026-11-10T14:32:46Z",
           "viewer_minutes": 1563
+        },
+        {
+          "duration_min": 192,
+          "ended_at": "2026-11-24T14:29:10Z",
+          "started_at": "2026-11-24T11:17:19Z",
+          "viewer_minutes": 3074
         }
       ],
-      "viewer_minutes": 1563
+      "viewer_minutes": 4637
     },
     "mx_oda": {
       "added_at": "2026-09-11",
@@ -2351,5 +2361,5 @@
       "viewer_minutes": 865
     }
   },
-  "updated_at": "2026-11-24T13:21:00Z"
+  "updated_at": "2026-11-24T14:30:53Z"
 }
