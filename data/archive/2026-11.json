@@ -1500,16 +1500,16 @@
           "minutes": 132
         },
         "Chants of Sennaar": {
-          "launches": 5,
-          "minutes": 426
+          "launches": 6,
+          "minutes": 438
         },
         "Dead Space 2": {
           "launches": 1,
           "minutes": 136
         },
         "Silver Pines": {
-          "launches": 6,
-          "minutes": 722
+          "launches": 7,
+          "minutes": 840
         },
         "The Witcher 3: Wild Hunt Remastered": {
           "launches": 1,
@@ -1519,9 +1519,9 @@
       "display_name": "Rudzi_Belarus",
       "followers_end": null,
       "followers_start": 944,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,21,656,697,152,0,0,0,0,0,0,0],
-      "launches": 12,
-      "minutes": 1525,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,21,707,757,171,0,0,0,0,0,0,0],
+      "launches": 13,
+      "minutes": 1655,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T12:22:19Z",
       "sessions": [
@@ -1596,9 +1596,15 @@
           "ended_at": "2026-11-20T13:13:43Z",
           "started_at": "2026-11-20T10:56:41Z",
           "viewer_minutes": 2971
+        },
+        {
+          "duration_min": 130,
+          "ended_at": "2026-11-24T13:19:05Z",
+          "started_at": "2026-11-24T11:09:08Z",
+          "viewer_minutes": 3983
         }
       ],
-      "viewer_minutes": 37782
+      "viewer_minutes": 41765
     },
     "shagrael_by": {
       "added_at": "2026-09-11",
@@ -2345,5 +2351,5 @@
       "viewer_minutes": 865
     }
   },
-  "updated_at": "2026-11-24T12:06:46Z"
+  "updated_at": "2026-11-24T13:21:00Z"
 }

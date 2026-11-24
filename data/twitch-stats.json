@@ -3420,15 +3420,15 @@
         "categories": [
           {
             "game": "World of Warcraft",
-            "sec": 6811
+            "sec": 7421
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,2561,3600,650,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T13:10:50Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,2561,3600,1260,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T13:21:00Z",
         "started_at": "2026-11-24T11:17:19Z",
         "stream_id": "317395048148",
-        "viewer_sec": 72791,
-        "viewers": 14
+        "viewer_sec": 80721,
+        "viewers": 12
       },
       "monthly": {
         "2026-10": {
@@ -4142,14 +4142,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 17414
+            "sec": 18024
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,3600,3600,3600,3600,650,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T13:10:50Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,3600,3600,3600,3600,1260,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T13:21:00Z",
         "started_at": "2026-11-24T08:20:36Z",
         "stream_id": "319538683366",
-        "viewer_sec": 17414,
+        "viewer_sec": 18024,
         "viewers": 1
       },
       "monthly": {
@@ -4443,24 +4443,7 @@
           "2026-11-01": 944
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Chants of Sennaar",
-            "sec": 695
-          },
-          {
-            "game": "Silver Pines",
-            "sec": 6607
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,3052,3600,650,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T13:10:50Z",
-        "started_at": "2026-11-24T11:09:08Z",
-        "stream_id": "319469905253",
-        "viewer_sec": 220684,
-        "viewers": 37
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -4500,29 +4483,46 @@
               "minutes": 132
             },
             "Chants of Sennaar": {
-              "launches": 5,
-              "minutes": 426
+              "launches": 6,
+              "minutes": 438
             },
             "Dead Space 2": {
               "launches": 1,
               "minutes": 136
             },
             "Silver Pines": {
-              "launches": 6,
-              "minutes": 722
+              "launches": 7,
+              "minutes": 840
             },
             "The Witcher 3: Wild Hunt Remastered": {
               "launches": 1,
               "minutes": 109
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,21,656,697,152,0,0,0,0,0,0,0],
-          "launches": 12,
-          "minutes": 1525,
-          "viewer_minutes": 37782
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,21,707,757,171,0,0,0,0,0,0,0],
+          "launches": 13,
+          "minutes": 1655,
+          "viewer_minutes": 41765
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Chants of Sennaar",
+              "minutes": 12
+            },
+            {
+              "game": "Silver Pines",
+              "minutes": 118
+            }
+          ],
+          "ended_at": "2026-11-24T13:19:05Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,60,19,0,0,0,0,0,0,0],
+          "started_at": "2026-11-24T11:09:08Z",
+          "viewer_minutes": 3983,
+          "viewers_last": 37
+        },
         {
           "categories": [
             {
@@ -7016,6 +7016,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-24T13:10:50Z",
+  "updated_at": "2026-11-24T13:21:00Z",
   "viewers_since": "2026-11-02"
 }
