@@ -1147,7 +1147,20 @@
           "2026-11-01": 248
         }
       },
-      "in_progress": null,
+      "in_progress": {
+        "categories": [
+          {
+            "game": "The Long Dark",
+            "sec": 24
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T08:25:58Z",
+        "started_at": "2026-11-24T08:25:34Z",
+        "stream_id": "319348267751",
+        "viewer_sec": 0,
+        "viewers": 0
+      },
       "monthly": {
         "2026-10": {
           "categories": {
@@ -4099,14 +4112,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 99
+            "sec": 322
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,99,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T08:22:15Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,322,0,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T08:25:58Z",
         "started_at": "2026-11-24T08:20:36Z",
         "stream_id": "319538683366",
-        "viewer_sec": 99,
+        "viewer_sec": 322,
         "viewers": 1
       },
       "monthly": {
@@ -6978,6 +6991,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-24T08:22:15Z",
+  "updated_at": "2026-11-24T08:25:58Z",
   "viewers_since": "2026-11-02"
 }
