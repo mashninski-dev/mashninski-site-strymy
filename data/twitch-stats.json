@@ -176,8 +176,8 @@
   "streamers": {
     "angryralef": {
       "followers": {
-        "changed_at": "2026-11-23T01:30:45Z",
-        "count": 1309,
+        "changed_at": "2026-11-24T19:19:01Z",
+        "count": 1310,
         "daily": {
           "2026-10-25": 1301,
           "2026-10-26": 1301,
@@ -645,15 +645,15 @@
         "categories": [
           {
             "game": "Gallipoli",
-            "sec": 2039
+            "sec": 2532
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1391,648,0],
-        "last_seen_at": "2026-11-24T19:10:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1391,1141,0],
+        "last_seen_at": "2026-11-24T19:19:01Z",
         "started_at": "2026-11-24T18:36:49Z",
         "stream_id": "319545097574",
-        "viewer_sec": 6319,
-        "viewers": 4
+        "viewer_sec": 7798,
+        "viewers": 2
       },
       "monthly": {
         "2026-10": {
@@ -2947,15 +2947,15 @@
         "categories": [
           {
             "game": "Untitled Goose Game",
-            "sec": 3885
+            "sec": 4378
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3237,648,0],
-        "last_seen_at": "2026-11-24T19:10:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3237,1141,0],
+        "last_seen_at": "2026-11-24T19:19:01Z",
         "started_at": "2026-11-24T18:06:03Z",
         "stream_id": "319354303591",
-        "viewer_sec": 25835,
-        "viewers": 8
+        "viewer_sec": 29532,
+        "viewers": 7
       },
       "monthly": {
         "2026-10": {
@@ -3665,15 +3665,15 @@
         "categories": [
           {
             "game": "Art",
-            "sec": 769
+            "sec": 1262
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,121,648,0],
-        "last_seen_at": "2026-11-24T19:10:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,121,1141,0],
+        "last_seen_at": "2026-11-24T19:19:01Z",
         "started_at": "2026-11-24T18:57:59Z",
         "stream_id": "317343520854",
-        "viewer_sec": 1641,
-        "viewers": 3
+        "viewer_sec": 3366,
+        "viewers": 4
       },
       "monthly": {
         "2026-10": {
@@ -4187,14 +4187,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 39012
+            "sec": 39505
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,648,0],
-        "last_seen_at": "2026-11-24T19:10:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,1141,0],
+        "last_seen_at": "2026-11-24T19:19:01Z",
         "started_at": "2026-11-24T08:20:36Z",
         "stream_id": "319538683366",
-        "viewer_sec": 39616,
+        "viewer_sec": 40109,
         "viewers": 1
       },
       "monthly": {
@@ -4847,14 +4847,14 @@
         "categories": [
           {
             "game": "Outlast II",
-            "sec": 1874
+            "sec": 2367
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1226,648,0],
-        "last_seen_at": "2026-11-24T19:10:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1226,1141,0],
+        "last_seen_at": "2026-11-24T19:19:01Z",
         "started_at": "2026-11-24T18:39:34Z",
         "stream_id": "319354889191",
-        "viewer_sec": 5433,
+        "viewer_sec": 8391,
         "viewers": 6
       },
       "monthly": {
@@ -6875,35 +6875,35 @@
           "2026-11-01": 0
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Escape from Tarkov",
-            "sec": 2982
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2334,648,0],
-        "last_seen_at": "2026-11-24T19:10:48Z",
-        "started_at": "2026-11-24T18:21:06Z",
-        "stream_id": "319475376741",
-        "viewer_sec": 8027,
-        "viewers": 2
-      },
+      "in_progress": null,
       "monthly": {
         "2026-11": {
           "categories": {
             "Escape from Tarkov": {
-              "launches": 13,
-              "minutes": 797
+              "launches": 14,
+              "minutes": 855
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,56,60,34,25,16,46,43,0,65,64,101,179,91,15],
-          "launches": 13,
-          "minutes": 797,
-          "viewer_minutes": 865
+          "hours": [0,0,0,0,0,0,0,0,0,0,56,60,34,25,16,46,43,0,65,64,101,218,110,15],
+          "launches": 14,
+          "minutes": 855,
+          "viewer_minutes": 1015
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Escape from Tarkov",
+              "minutes": 58
+            }
+          ],
+          "ended_at": "2026-11-24T19:19:01Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,19,0],
+          "started_at": "2026-11-24T18:21:06Z",
+          "viewer_minutes": 150,
+          "viewers_last": 2
+        },
         {
           "categories": [
             {
@@ -7076,6 +7076,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-24T19:10:48Z",
+  "updated_at": "2026-11-24T19:19:01Z",
   "viewers_since": "2026-11-02"
 }
