@@ -221,15 +221,15 @@
         "categories": [
           {
             "game": "HλLF-LIFE",
-            "sec": 9513
+            "sec": 10048
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2876,3600,3037,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T11:50:37Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2876,3600,3572,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T11:59:32Z",
         "started_at": "2026-11-24T09:12:04Z",
         "stream_id": "317301289813",
-        "viewer_sec": 133616,
-        "viewers": 15
+        "viewer_sec": 142176,
+        "viewers": 17
       },
       "monthly": {
         "2026-10": {
@@ -1160,20 +1160,7 @@
           "2026-11-01": 248
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "The Long Dark",
-            "sec": 12303
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2066,3600,3600,3037,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T11:50:37Z",
-        "started_at": "2026-11-24T08:25:34Z",
-        "stream_id": "319348267751",
-        "viewer_sec": 63490,
-        "viewers": 5
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -1241,21 +1228,34 @@
               "minutes": 129
             },
             "The Long Dark": {
-              "launches": 7,
-              "minutes": 1217
+              "launches": 8,
+              "minutes": 1429
             },
             "The Witcher 3: Wild Hunt Remastered": {
               "launches": 2,
               "minutes": 462
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,8,436,701,720,668,45,0,0,0,0,0,57,60,12],
-          "launches": 14,
-          "minutes": 2706,
-          "viewer_minutes": 19676
+          "hours": [0,0,0,0,0,0,0,0,0,0,8,470,761,780,726,45,0,0,0,0,0,57,60,12],
+          "launches": 15,
+          "minutes": 2918,
+          "viewer_minutes": 20771
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "The Long Dark",
+              "minutes": 212
+            }
+          ],
+          "ended_at": "2026-11-24T11:57:52Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,34,60,60,58,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-24T08:25:34Z",
+          "viewer_minutes": 1095,
+          "viewers_last": 5
+        },
         {
           "categories": [
             {
@@ -3416,15 +3416,15 @@
         "categories": [
           {
             "game": "World of Warcraft",
-            "sec": 1998
+            "sec": 2533
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1998,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T11:50:37Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,2533,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T11:59:32Z",
         "started_at": "2026-11-24T11:17:19Z",
         "stream_id": "317395048148",
-        "viewer_sec": 17354,
-        "viewers": 15
+        "viewer_sec": 24309,
+        "viewers": 11
       },
       "monthly": {
         "2026-10": {
@@ -4138,14 +4138,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 12601
+            "sec": 13136
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,3600,3600,3037,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T11:50:37Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,3600,3600,3572,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T11:59:32Z",
         "started_at": "2026-11-24T08:20:36Z",
         "stream_id": "319538683366",
-        "viewer_sec": 12601,
+        "viewer_sec": 13136,
         "viewers": 1
       },
       "monthly": {
@@ -4447,15 +4447,15 @@
           },
           {
             "game": "Silver Pines",
-            "sec": 1794
+            "sec": 2329
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,2489,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T11:50:37Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,3024,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T11:59:32Z",
         "started_at": "2026-11-24T11:09:08Z",
         "stream_id": "319469905253",
-        "viewer_sec": 44486,
-        "viewers": 23
+        "viewer_sec": 57058,
+        "viewers": 24
       },
       "monthly": {
         "2026-10": {
@@ -7012,6 +7012,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-24T11:50:37Z",
+  "updated_at": "2026-11-24T11:59:32Z",
   "viewers_since": "2026-11-02"
 }
