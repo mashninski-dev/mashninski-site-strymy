@@ -217,7 +217,20 @@
           "2026-11-01": 1302
         }
       },
-      "in_progress": null,
+      "in_progress": {
+        "categories": [
+          {
+            "game": "HλLF-LIFE",
+            "sec": 42
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T09:12:46Z",
+        "started_at": "2026-11-24T09:12:04Z",
+        "stream_id": "317301289813",
+        "viewer_sec": 0,
+        "viewers": 0
+      },
       "monthly": {
         "2026-10": {
           "categories": {
@@ -1151,15 +1164,15 @@
         "categories": [
           {
             "game": "The Long Dark",
-            "sec": 2703
+            "sec": 2832
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2066,637,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T09:10:37Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2066,766,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T09:12:46Z",
         "started_at": "2026-11-24T08:25:34Z",
         "stream_id": "319348267751",
-        "viewer_sec": 12429,
-        "viewers": 6
+        "viewer_sec": 13267,
+        "viewers": 7
       },
       "monthly": {
         "2026-10": {
@@ -4112,14 +4125,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 3001
+            "sec": 3130
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,637,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T09:10:37Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,766,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T09:12:46Z",
         "started_at": "2026-11-24T08:20:36Z",
         "stream_id": "319538683366",
-        "viewer_sec": 3001,
+        "viewer_sec": 3130,
         "viewers": 1
       },
       "monthly": {
@@ -6991,6 +7004,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-24T09:10:37Z",
+  "updated_at": "2026-11-24T09:12:46Z",
   "viewers_since": "2026-11-02"
 }
