@@ -2513,7 +2513,20 @@
           "2026-11-01": 176
         }
       },
-      "in_progress": null,
+      "in_progress": {
+        "categories": [
+          {
+            "game": "The Witcher 3: Wild Hunt Remastered",
+            "sec": 35
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,12,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T14:00:12Z",
+        "started_at": "2026-11-24T13:59:37Z",
+        "stream_id": "319350760423",
+        "viewer_sec": 0,
+        "viewers": 0
+      },
       "monthly": {
         "2026-10": {
           "categories": {
@@ -3420,15 +3433,15 @@
         "categories": [
           {
             "game": "World of Warcraft",
-            "sec": 9209
+            "sec": 9773
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,2561,3600,3048,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T13:50:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,2561,3600,3600,12,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T14:00:12Z",
         "started_at": "2026-11-24T11:17:19Z",
         "stream_id": "317395048148",
-        "viewer_sec": 131703,
-        "viewers": 25
+        "viewer_sec": 145521,
+        "viewers": 24
       },
       "monthly": {
         "2026-10": {
@@ -4142,14 +4155,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 19812
+            "sec": 20376
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,3600,3600,3600,3600,3048,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-24T13:50:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,3600,3600,3600,3600,3600,12,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-24T14:00:12Z",
         "started_at": "2026-11-24T08:20:36Z",
         "stream_id": "319538683366",
-        "viewer_sec": 19812,
+        "viewer_sec": 20376,
         "viewers": 1
       },
       "monthly": {
@@ -7016,6 +7029,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-24T13:50:48Z",
+  "updated_at": "2026-11-24T14:00:12Z",
   "viewers_since": "2026-11-02"
 }
