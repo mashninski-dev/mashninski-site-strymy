@@ -2983,11 +2983,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Untitled Goose Game",
+        "since": "2026-11-24T18:06:03Z",
+        "stream_id": "319354303591",
+        "title": "[BLR] Індзі аўторак. Безыменная гусь-гульня",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -5587,5 +5587,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-24T18:00:48Z"
+  "updated_at": "2026-11-24T18:06:43Z"
 }
