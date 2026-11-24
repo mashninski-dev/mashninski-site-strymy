@@ -1047,14 +1047,18 @@
         "The Sinking City 2": {
           "launches": 1,
           "minutes": 72
+        },
+        "Untitled Goose Game": {
+          "launches": 1,
+          "minutes": 157
         }
       },
       "display_name": "Mihas_Gareza",
       "followers_end": null,
       "followers_start": 201,
-      "hours": [258,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,62,194,973,1098,908],
-      "launches": 19,
-      "minutes": 3619,
+      "hours": [258,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,62,194,1027,1158,951],
+      "launches": 20,
+      "minutes": 3776,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-29T21:31:30Z",
       "sessions": [
@@ -1170,9 +1174,15 @@
           "ended_at": "2026-11-23T20:27:30Z",
           "started_at": "2026-11-23T17:58:07Z",
           "viewer_minutes": 945
+        },
+        {
+          "duration_min": 157,
+          "ended_at": "2026-11-24T20:43:04Z",
+          "started_at": "2026-11-24T18:06:03Z",
+          "viewer_minutes": 1103
         }
       ],
-      "viewer_minutes": 15603
+      "viewer_minutes": 16706
     },
     "ms_bahiema": {
       "added_at": "2026-09-11",
@@ -2373,5 +2383,5 @@
       "viewer_minutes": 1015
     }
   },
-  "updated_at": "2026-11-24T19:19:01Z"
+  "updated_at": "2026-11-24T20:44:45Z"
 }
