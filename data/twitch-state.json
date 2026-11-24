@@ -4069,6 +4069,21 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 466,
+          "ended_at": "2026-11-24T02:27:35Z",
+          "game": "The Witcher 3: Wild Hunt Remastered",
+          "source": "vod",
+          "started_at": "2026-11-23T18:42:05Z",
+          "stream_id": "319532282982",
+          "title": "Ну павядзьмарылі далей від Іринка подруга",
+          "vod": {
+            "gone": false,
+            "id": "2938578238",
+            "seen_at": "2026-11-24T02:29:16Z",
+            "url": "https://www.twitch.tv/videos/2938578238"
+          }
+        },
+        {
           "duration_min": 790,
           "ended_at": "2026-11-23T02:53:24Z",
           "game": "Just Chatting",
@@ -4342,39 +4357,29 @@
             "seen_at": "2026-11-03T02:30:49Z",
             "url": "https://www.twitch.tv/videos/2917772649"
           }
-        },
-        {
-          "duration_min": 515,
-          "ended_at": "2026-11-02T03:07:06Z",
-          "game": "R.E.P.O.",
-          "source": "vod",
-          "started_at": "2026-11-01T18:32:26Z",
-          "stream_id": "319042072935",
-          "title": "Неаканая рэпа від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2916902400",
-            "seen_at": "2026-11-02T03:08:43Z",
-            "url": "https://www.twitch.tv/videos/2916902400"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 790,
-        "ended_at": "2026-11-23T02:53:24Z",
-        "game": "Just Chatting",
-        "source": "observed",
-        "started_at": "2026-11-22T13:43:13Z",
-        "stream_id": "319324671335",
-        "title": "Нібы як 3 гадавіна афілэйту (ай донт ноў ват ту ду эдзішн) від Іринка подруга",
-        "vod": null
-      },
-      "live": {
+        "duration_min": 466,
+        "ended_at": "2026-11-24T02:27:35Z",
         "game": "The Witcher 3: Wild Hunt Remastered",
-        "since": "2026-11-23T18:42:05Z",
+        "source": "vod",
+        "started_at": "2026-11-23T18:42:05Z",
         "stream_id": "319532282982",
         "title": "Ну павядзьмарылі далей від Іринка подруга",
-        "viewers": 11
+        "vod": {
+          "gone": false,
+          "id": "2938578238",
+          "seen_at": "2026-11-24T02:29:16Z",
+          "url": "https://www.twitch.tv/videos/2938578238"
+        }
+      },
+      "live": {
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5567,5 +5572,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-24T02:20:48Z"
+  "updated_at": "2026-11-24T02:29:15Z"
 }
