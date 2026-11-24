@@ -2335,6 +2335,21 @@
       "display_name": "mashninski",
       "history": [
         {
+          "duration_min": 127,
+          "ended_at": "2026-11-24T16:06:47Z",
+          "game": "ELDEN RING",
+          "source": "vod",
+          "started_at": "2026-11-24T13:59:37Z",
+          "stream_id": "319350760423",
+          "title": "Пярсцёнкі і пярсцяняткі",
+          "vod": {
+            "gone": false,
+            "id": "2939344257",
+            "seen_at": "2026-11-24T16:08:39Z",
+            "url": "https://www.twitch.tv/videos/2939344257"
+          }
+        },
+        {
           "duration_min": 142,
           "ended_at": "2026-11-13T15:21:12Z",
           "game": "The Witcher 3: Wild Hunt Remastered",
@@ -2618,44 +2633,29 @@
             "seen_at": "2026-10-26T18:32:07Z",
             "url": "https://www.twitch.tv/videos/2911335640"
           }
-        },
-        {
-          "duration_min": 225,
-          "ended_at": "2026-10-25T14:48:57Z",
-          "game": "Alan Wake's American Nightmare",
-          "source": "vod",
-          "started_at": "2026-10-25T11:03:37Z",
-          "stream_id": "318941529191",
-          "title": "Прачыналкін vs. Засыналкін",
-          "vod": {
-            "gone": false,
-            "id": "2910332153",
-            "seen_at": "2026-10-25T14:50:33Z",
-            "url": "https://www.twitch.tv/videos/2910332153"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 142,
-        "ended_at": "2026-11-13T15:21:12Z",
-        "game": "The Witcher 3: Wild Hunt Remastered",
+        "duration_min": 127,
+        "ended_at": "2026-11-24T16:06:47Z",
+        "game": "ELDEN RING",
         "source": "vod",
-        "started_at": "2026-11-13T12:58:52Z",
-        "stream_id": "319381585382",
-        "title": "Вайбім",
+        "started_at": "2026-11-24T13:59:37Z",
+        "stream_id": "319350760423",
+        "title": "Пярсцёнкі і пярсцяняткі",
         "vod": {
           "gone": false,
-          "id": "2927567576",
-          "seen_at": "2026-11-13T15:22:47Z",
-          "url": "https://www.twitch.tv/videos/2927567576"
+          "id": "2939344257",
+          "seen_at": "2026-11-24T16:08:39Z",
+          "url": "https://www.twitch.tv/videos/2939344257"
         }
       },
       "live": {
-        "game": "ELDEN RING",
-        "since": "2026-11-24T13:59:37Z",
-        "stream_id": "319350760423",
-        "title": "Пярсцёнкі і пярсцяняткі",
-        "viewers": 13
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -5587,5 +5587,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-24T15:50:49Z"
+  "updated_at": "2026-11-24T16:08:39Z"
 }

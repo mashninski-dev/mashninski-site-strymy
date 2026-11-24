@@ -2513,24 +2513,7 @@
           "2026-11-01": 176
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "The Witcher 3: Wild Hunt Remastered",
-            "sec": 69
-          },
-          {
-            "game": "ELDEN RING",
-            "sec": 7199
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,3600,3600,45,0,0,0,0],
-        "last_seen_at": "2026-11-24T16:00:45Z",
-        "started_at": "2026-11-24T13:59:37Z",
-        "stream_id": "319350760423",
-        "viewer_sec": 81124,
-        "viewers": 13
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -2602,8 +2585,8 @@
         "2026-11": {
           "categories": {
             "ELDEN RING": {
-              "launches": 7,
-              "minutes": 713
+              "launches": 8,
+              "minutes": 839
             },
             "Fear & Hunger 2: Termina": {
               "launches": 3,
@@ -2618,17 +2601,34 @@
               "minutes": 80
             },
             "The Witcher 3: Wild Hunt Remastered": {
-              "launches": 4,
-              "minutes": 623
+              "launches": 5,
+              "minutes": 624
             }
           },
-          "hours": [40,0,0,0,0,0,0,0,0,0,0,0,0,54,96,274,513,438,177,37,60,60,90,70],
-          "launches": 15,
-          "minutes": 1910,
-          "viewer_minutes": 20351
+          "hours": [40,0,0,0,0,0,0,0,0,0,0,0,0,54,96,274,513,498,237,44,60,60,90,70],
+          "launches": 16,
+          "minutes": 2037,
+          "viewer_minutes": 21782
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 1
+            },
+            {
+              "game": "ELDEN RING",
+              "minutes": 126
+            }
+          ],
+          "ended_at": "2026-11-24T16:06:47Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,60,7,0,0,0,0],
+          "started_at": "2026-11-24T13:59:37Z",
+          "viewer_minutes": 1431,
+          "viewers_last": 13
+        },
         {
           "categories": [
             {
@@ -4163,14 +4163,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 27609
+            "sec": 28083
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,3600,3600,3600,3600,3600,3600,3600,45,0,0,0,0],
-        "last_seen_at": "2026-11-24T16:00:45Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2364,3600,3600,3600,3600,3600,3600,3600,519,0,0,0,0],
+        "last_seen_at": "2026-11-24T16:08:39Z",
         "started_at": "2026-11-24T08:20:36Z",
         "stream_id": "319538683366",
-        "viewer_sec": 27609,
+        "viewer_sec": 28083,
         "viewers": 1
       },
       "monthly": {
@@ -6831,8 +6831,8 @@
     },
     "yozas_gubka": {
       "followers": {
-        "changed_at": "2026-11-23T01:30:45Z",
-        "count": 7,
+        "changed_at": "2026-11-24T16:08:39Z",
+        "count": 10,
         "daily": {
           "2026-11-16": 0,
           "2026-11-17": 1,
@@ -7037,6 +7037,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-24T16:00:45Z",
+  "updated_at": "2026-11-24T16:08:39Z",
   "viewers_since": "2026-11-02"
 }
