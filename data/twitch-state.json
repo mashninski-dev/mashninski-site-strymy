@@ -3740,7 +3740,7 @@
         "since": "2026-11-24T08:20:36Z",
         "stream_id": "319538683366",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 1
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd5dab3c-d21b-4377-a487-717db91f8844-profile_image-300x300.png",
@@ -4616,6 +4616,16 @@
       "display_name": "thelelyskek",
       "history": [
         {
+          "duration_min": 324,
+          "ended_at": "2026-11-25T15:13:35Z",
+          "game": "Just Chatting",
+          "source": "observed",
+          "started_at": "2026-11-25T09:49:43Z",
+          "stream_id": "319361688551",
+          "title": "[BEL/ENG] SPEEDRUN. СЁННЯ ПАКАЗЫВАЮ ТАЕМНЫЯ ТЭХНІКІ СПІДРАНА. НАВАТ ШАОЛІНСКІЯ МАНАХІ ТАКІХ НЕ ВЕЛАЮЦЬ!",
+          "vod": null
+        },
+        {
           "duration_min": 192,
           "ended_at": "2026-11-20T13:25:32Z",
           "game": "League of Legends",
@@ -4697,21 +4707,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 192,
-        "ended_at": "2026-11-20T13:25:32Z",
-        "game": "League of Legends",
+        "duration_min": 324,
+        "ended_at": "2026-11-25T15:13:35Z",
+        "game": "Just Chatting",
         "source": "observed",
-        "started_at": "2026-11-20T10:14:02Z",
-        "stream_id": "319406684773",
-        "title": "[BEL/ENG] Робім...",
+        "started_at": "2026-11-25T09:49:43Z",
+        "stream_id": "319361688551",
+        "title": "[BEL/ENG] SPEEDRUN. СЁННЯ ПАКАЗЫВАЮ ТАЕМНЫЯ ТЭХНІКІ СПІДРАНА. НАВАТ ШАОЛІНСКІЯ МАНАХІ ТАКІХ НЕ ВЕЛАЮЦЬ!",
         "vod": null
       },
       "live": {
-        "game": "Just Chatting",
-        "since": "2026-11-25T09:49:43Z",
-        "stream_id": "319361688551",
-        "title": "[BEL/ENG] SPEEDRUN. СЁННЯ ПАКАЗЫВАЮ ТАЕМНЫЯ ТЭХНІКІ СПІДРАНА. НАВАТ ШАОЛІНСКІЯ МАНАХІ ТАКІХ НЕ ВЕЛАЮЦЬ!",
-        "viewers": 12
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0699f21-5b35-4296-944a-f795f4e5170d-profile_image-300x300.png",
@@ -5597,5 +5607,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-25T15:10:50Z"
+  "updated_at": "2026-11-25T15:13:35Z"
 }

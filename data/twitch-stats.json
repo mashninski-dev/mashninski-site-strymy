@@ -4192,15 +4192,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 111014
+            "sec": 111179
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5964,7200,7200,7200,7200,7200,7200,4250,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-25T15:10:50Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5964,7200,7200,7200,7200,7200,7200,4415,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-25T15:13:35Z",
         "started_at": "2026-11-24T08:20:36Z",
         "stream_id": "319538683366",
-        "viewer_sec": 112773,
-        "viewers": 1
+        "viewer_sec": 113515,
+        "viewers": 8
       },
       "monthly": {
         "2026-10": {
@@ -5812,36 +5812,7 @@
           "2026-11-01": 117
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Just Chatting",
-            "sec": 3057
-          },
-          {
-            "game": "League of Legends",
-            "sec": 10208
-          },
-          {
-            "game": "Just Chatting",
-            "sec": 415
-          },
-          {
-            "game": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
-            "sec": 5587
-          },
-          {
-            "game": "Just Chatting",
-            "sec": 0
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,617,3600,3600,3600,3600,3600,650,0,0,0,0,0],
-        "last_seen_at": "2026-11-25T15:10:50Z",
-        "started_at": "2026-11-25T09:49:43Z",
-        "stream_id": "319361688551",
-        "viewer_sec": 119113,
-        "viewers": 12
-      },
+      "in_progress": null,
       "monthly": {
         "2026-11": {
           "categories": {
@@ -5850,29 +5821,62 @@
               "minutes": 849
             },
             "Just Chatting": {
-              "launches": 8,
-              "minutes": 434
+              "launches": 11,
+              "minutes": 495
             },
             "League of Legends": {
-              "launches": 1,
-              "minutes": 145
+              "launches": 2,
+              "minutes": 315
             },
             "Megabonk": {
               "launches": 1,
               "minutes": 20
+            },
+            "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition": {
+              "launches": 1,
+              "minutes": 93
             },
             "Slay the Spire II": {
               "launches": 1,
               "minutes": 162
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,5,60,219,320,360,260,169,54,0,31,60,60,11],
-          "launches": 7,
-          "minutes": 1610,
-          "viewer_minutes": 15613
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,5,70,279,380,420,320,229,68,0,31,60,60,11],
+          "launches": 8,
+          "minutes": 1934,
+          "viewer_minutes": 17631
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 51
+            },
+            {
+              "game": "League of Legends",
+              "minutes": 170
+            },
+            {
+              "game": "Just Chatting",
+              "minutes": 7
+            },
+            {
+              "game": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
+              "minutes": 93
+            },
+            {
+              "game": "Just Chatting",
+              "minutes": 3
+            }
+          ],
+          "ended_at": "2026-11-25T15:13:35Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,10,60,60,60,60,60,14,0,0,0,0,0],
+          "started_at": "2026-11-25T09:49:43Z",
+          "viewer_minutes": 2018,
+          "viewers_last": 12
+        },
         {
           "categories": [
             {
@@ -7096,6 +7100,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-25T15:10:50Z",
+  "updated_at": "2026-11-25T15:13:35Z",
   "viewers_since": "2026-11-02"
 }
