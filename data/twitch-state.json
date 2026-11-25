@@ -326,7 +326,7 @@
         "since": "2026-11-25T09:18:41Z",
         "stream_id": "317346130390",
         "title": "Каўбой, дзе ты скарб свой схаваў, га? Nancy Drew: The Secret of Shadow Ranch",
-        "viewers": 17
+        "viewers": 19
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -1474,7 +1474,7 @@
         "since": "2026-11-25T08:18:36Z",
         "stream_id": "319482412645",
         "title": "3# Скіфа голымі рукамі не ўзяць. | S.T.A.L.K.E.R. 2: Heart of Chornobyl беларускаю",
-        "viewers": 8
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -4707,11 +4707,11 @@
         "vod": null
       },
       "live": {
-        "game": "Just Chatting",
+        "game": "League of Legends",
         "since": "2026-11-25T09:49:43Z",
         "stream_id": "319361688551",
         "title": "[BEL/ENG] Сёння толькі лепшая гульня 100-дзя!",
-        "viewers": 2
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0699f21-5b35-4296-944a-f795f4e5170d-profile_image-300x300.png",
@@ -5597,5 +5597,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-25T10:30:51Z"
+  "updated_at": "2026-11-25T10:40:40Z"
 }
