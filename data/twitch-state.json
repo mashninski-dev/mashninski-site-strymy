@@ -3177,11 +3177,11 @@
         "vod": null
       },
       "live": {
-        "game": "DragonSword: Awakening",
+        "game": "Platform 8",
         "since": "2026-11-25T15:14:29Z",
         "stream_id": "316396677738",
-        "title": "Гульнявы вечар | Dragon Sword",
-        "viewers": 0
+        "title": "Гульнявы вечар | Platform 8",
+        "viewers": 1
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/053d6304-575f-448b-96c8-eb55a9bfd99d-profile_image-300x300.png",
@@ -3740,7 +3740,7 @@
         "since": "2026-11-24T08:20:36Z",
         "stream_id": "319538683366",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 8
+        "viewers": 3
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd5dab3c-d21b-4377-a487-717db91f8844-profile_image-300x300.png",
@@ -5607,5 +5607,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-25T15:15:26Z"
+  "updated_at": "2026-11-25T15:20:39Z"
 }
