@@ -103,7 +103,7 @@
       "started_at": "2026-11-12T18:04:12Z"
     },
     "ce583569-ab1d-4159-866a-8f405789e114": {
-      "ended_at": null,
+      "ended_at": "2026-11-25T20:30:41Z",
       "games": [
         "The Game Awards",
         "Hell Let Loose"
@@ -1071,6 +1071,10 @@
           "launches": 1,
           "minutes": 227
         },
+        "Hell Let Loose": {
+          "launches": 1,
+          "minutes": 89
+        },
         "How to Fish": {
           "launches": 2,
           "minutes": 589
@@ -1091,6 +1095,10 @@
           "launches": 3,
           "minutes": 475
         },
+        "The Game Awards": {
+          "launches": 1,
+          "minutes": 88
+        },
         "The Sinking City 2": {
           "launches": 1,
           "minutes": 72
@@ -1103,9 +1111,9 @@
       "display_name": "Mihas_Gareza",
       "followers_end": null,
       "followers_start": 201,
-      "hours": [258,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,62,194,1027,1158,951],
-      "launches": 20,
-      "minutes": 3776,
+      "hours": [258,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,62,221,1087,1218,980],
+      "launches": 21,
+      "minutes": 3953,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-29T21:31:30Z",
       "sessions": [
@@ -1227,9 +1235,15 @@
           "ended_at": "2026-11-24T20:43:04Z",
           "started_at": "2026-11-24T18:06:03Z",
           "viewer_minutes": 1103
+        },
+        {
+          "duration_min": 177,
+          "ended_at": "2026-11-25T20:29:19Z",
+          "started_at": "2026-11-25T17:32:34Z",
+          "viewer_minutes": 736
         }
       ],
-      "viewer_minutes": 16706
+      "viewer_minutes": 17442
     },
     "ms_bahiema": {
       "added_at": "2026-09-11",
@@ -1915,6 +1929,10 @@
           "launches": 1,
           "minutes": 231
         },
+        "Hell Let Loose": {
+          "launches": 1,
+          "minutes": 175
+        },
         "Red Dead Redemption II": {
           "launches": 1,
           "minutes": 193
@@ -1923,9 +1941,9 @@
       "display_name": "Sla5her_BY",
       "followers_end": null,
       "followers_start": 312,
-      "hours": [180,159,26,0,0,0,0,0,0,0,0,0,0,0,0,24,120,159,170,120,276,351,259,238],
-      "launches": 7,
-      "minutes": 2081,
+      "hours": [180,159,26,0,0,0,0,0,0,0,0,0,0,0,0,24,120,159,170,120,300,411,319,269],
+      "launches": 8,
+      "minutes": 2256,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-28T21:12:36Z",
       "sessions": [
@@ -1970,9 +1988,15 @@
           "ended_at": "2026-11-23T22:49:16Z",
           "started_at": "2026-11-23T17:29:33Z",
           "viewer_minutes": 1335
+        },
+        {
+          "duration_min": 175,
+          "ended_at": "2026-11-25T20:30:41Z",
+          "started_at": "2026-11-25T17:35:49Z",
+          "viewer_minutes": 415
         }
       ],
-      "viewer_minutes": 8010
+      "viewer_minutes": 8425
     },
     "stablechaotic": {
       "added_at": "2026-10-24",
@@ -2482,5 +2506,5 @@
       "viewer_minutes": 1072
     }
   },
-  "updated_at": "2026-11-25T18:41:10Z"
+  "updated_at": "2026-11-25T20:30:41Z"
 }

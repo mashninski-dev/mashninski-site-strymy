@@ -980,7 +980,7 @@
         "since": "2026-11-25T18:13:52Z",
         "stream_id": "319556911206",
         "title": "Хто такая Вероніка?! ⛱️ | Resident Evil Code: Veronica X",
-        "viewers": 2
+        "viewers": 1
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -2667,6 +2667,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 177,
+          "ended_at": "2026-11-25T20:29:19Z",
+          "game": "Hell Let Loose",
+          "source": "vod",
+          "started_at": "2026-11-25T17:32:34Z",
+          "stream_id": "319366942951",
+          "title": "[BLR] Каапчык са Слэшарам. Абіраем гульню года",
+          "vod": {
+            "gone": false,
+            "id": "2940495845",
+            "seen_at": "2026-11-25T20:30:42Z",
+            "url": "https://www.twitch.tv/videos/2940495845"
+          }
+        },
+        {
           "duration_min": 157,
           "ended_at": "2026-11-24T20:43:04Z",
           "game": "Untitled Goose Game",
@@ -2950,44 +2965,29 @@
             "seen_at": "2026-11-03T19:19:17Z",
             "url": "https://www.twitch.tv/videos/2918598499"
           }
-        },
-        {
-          "duration_min": 127,
-          "ended_at": "2026-11-01T20:32:11Z",
-          "game": "Resonance: A Plague Tale Legacy",
-          "source": "vod",
-          "started_at": "2026-11-01T18:25:12Z",
-          "stream_id": "317226535636",
-          "title": "[BLR] Нядзельны трыял. Рэзананс. Але не кантрол. Спадчына плак тэйлу",
-          "vod": {
-            "gone": false,
-            "id": "2916896080",
-            "seen_at": "2026-11-01T20:33:52Z",
-            "url": "https://www.twitch.tv/videos/2916896080"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 157,
-        "ended_at": "2026-11-24T20:43:04Z",
-        "game": "Untitled Goose Game",
+        "duration_min": 177,
+        "ended_at": "2026-11-25T20:29:19Z",
+        "game": "Hell Let Loose",
         "source": "vod",
-        "started_at": "2026-11-24T18:06:03Z",
-        "stream_id": "319354303591",
-        "title": "[BLR] Індзі аўторак. Безыменная гусь-гульня",
+        "started_at": "2026-11-25T17:32:34Z",
+        "stream_id": "319366942951",
+        "title": "[BLR] Каапчык са Слэшарам. Абіраем гульню года",
         "vod": {
           "gone": false,
-          "id": "2939532582",
-          "seen_at": "2026-11-24T20:44:46Z",
-          "url": "https://www.twitch.tv/videos/2939532582"
+          "id": "2940495845",
+          "seen_at": "2026-11-25T20:30:42Z",
+          "url": "https://www.twitch.tv/videos/2940495845"
         }
       },
       "live": {
-        "game": "Hell Let Loose",
-        "since": "2026-11-25T17:32:34Z",
-        "stream_id": "319366942951",
-        "title": "[BLR] Каапчык са Слэшарам. Абіраем гульню года",
-        "viewers": 2
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3533,7 +3533,7 @@
         "since": "2026-11-25T18:57:27Z",
         "stream_id": "317405584980",
         "title": "Выем разам з Петрыкам на месяц",
-        "viewers": 8
+        "viewers": 7
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4414,7 +4414,7 @@
         "since": "2026-11-25T18:43:32Z",
         "stream_id": "317311199957",
         "title": "лапкі-mode ON від Іринка подруга",
-        "viewers": 15
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4425,6 +4425,16 @@
       "description": "Часам — добры стрымер. Часам — вельмі добры. Але гэта ўжо як фартанё. Стрымлю не рэгулярна, затое з душой 🎮 Гуляю ў розныя гульні, але дупа стабільна гарыць толькі ў Counter-Strike🔥Калі раптам захочаш супрацу, ці проста напісаць «чаму ты зноў памёр?» — пішаш у Telegram ці ў Discord.",
       "display_name": "Sla5her_BY",
       "history": [
+        {
+          "duration_min": 175,
+          "ended_at": "2026-11-25T20:30:41Z",
+          "game": "Hell Let Loose",
+          "source": "observed",
+          "started_at": "2026-11-25T17:35:49Z",
+          "stream_id": "319488018277",
+          "title": "[BY]  Адпачываем ад GTA [Bel/Ukr/Eng]",
+          "vod": null
+        },
         {
           "duration_min": 320,
           "ended_at": "2026-11-23T22:49:16Z",
@@ -4522,21 +4532,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 320,
-        "ended_at": "2026-11-23T22:49:16Z",
-        "game": "Grand Theft Auto VI",
+        "duration_min": 175,
+        "ended_at": "2026-11-25T20:30:41Z",
+        "game": "Hell Let Loose",
         "source": "observed",
-        "started_at": "2026-11-23T17:29:33Z",
-        "stream_id": "319530838374",
-        "title": "[BY]  АШАЛЕЦЬ [Bel/Ukr/Eng]",
+        "started_at": "2026-11-25T17:35:49Z",
+        "stream_id": "319488018277",
+        "title": "[BY]  Адпачываем ад GTA [Bel/Ukr/Eng]",
         "vod": null
       },
       "live": {
-        "game": "Hell Let Loose",
-        "since": "2026-11-25T17:35:49Z",
-        "stream_id": "319488018277",
-        "title": "[BY]  Адпачываем ад GTA [Bel/Ukr/Eng]",
-        "viewers": 1
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5647,5 +5657,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-25T20:20:47Z"
+  "updated_at": "2026-11-25T20:30:41Z"
 }
