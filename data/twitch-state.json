@@ -980,7 +980,7 @@
         "since": "2026-11-25T18:13:52Z",
         "stream_id": "319556911206",
         "title": "Хто такая Вероніка?! ⛱️ | Resident Evil Code: Veronica X",
-        "viewers": 6
+        "viewers": 5
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -2987,7 +2987,7 @@
         "since": "2026-11-25T17:32:34Z",
         "stream_id": "319366942951",
         "title": "[BLR] Каапчык са Слэшарам. Абіраем гульню года",
-        "viewers": 5
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3086,6 +3086,21 @@
       "display_name": "mx_oda",
       "history": [
         {
+          "duration_min": 205,
+          "ended_at": "2026-11-25T18:39:09Z",
+          "game": "The Stanley Parable: Ultra Deluxe",
+          "source": "vod",
+          "started_at": "2026-11-25T15:14:29Z",
+          "stream_id": "316396677738",
+          "title": "Гульнявы вечар | The stanley parable",
+          "vod": {
+            "gone": false,
+            "id": "2940386418",
+            "seen_at": "2026-11-25T18:41:10Z",
+            "url": "https://www.twitch.tv/videos/2940386418"
+          }
+        },
+        {
           "duration_min": 231,
           "ended_at": "2026-11-13T20:31:03Z",
           "game": "Board Games",
@@ -3167,21 +3182,26 @@
         }
       ],
       "last_stream": {
-        "duration_min": 231,
-        "ended_at": "2026-11-13T20:31:03Z",
-        "game": "Board Games",
-        "source": "observed",
-        "started_at": "2026-11-13T16:40:10Z",
-        "stream_id": "316303113833",
-        "title": "Творчы вечар | Гатуемся да гульні",
-        "vod": null
-      },
-      "live": {
+        "duration_min": 205,
+        "ended_at": "2026-11-25T18:39:09Z",
         "game": "The Stanley Parable: Ultra Deluxe",
-        "since": "2026-11-25T15:14:29Z",
+        "source": "vod",
+        "started_at": "2026-11-25T15:14:29Z",
         "stream_id": "316396677738",
         "title": "Гульнявы вечар | The stanley parable",
-        "viewers": 2
+        "vod": {
+          "gone": false,
+          "id": "2940386418",
+          "seen_at": "2026-11-25T18:41:10Z",
+          "url": "https://www.twitch.tv/videos/2940386418"
+        }
+      },
+      "live": {
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/053d6304-575f-448b-96c8-eb55a9bfd99d-profile_image-300x300.png",
@@ -4516,7 +4536,7 @@
         "since": "2026-11-25T17:35:49Z",
         "stream_id": "319488018277",
         "title": "[BY]  Адпачываем ад GTA [Bel/Ukr/Eng]",
-        "viewers": 7
+        "viewers": 5
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5627,5 +5647,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-25T18:30:48Z"
+  "updated_at": "2026-11-25T18:41:10Z"
 }
