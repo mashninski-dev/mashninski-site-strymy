@@ -1566,8 +1566,8 @@
           "minutes": 136
         },
         "Silver Pines": {
-          "launches": 7,
-          "minutes": 840
+          "launches": 8,
+          "minutes": 1004
         },
         "The Witcher 3: Wild Hunt Remastered": {
           "launches": 1,
@@ -1577,9 +1577,9 @@
       "display_name": "Rudzi_Belarus",
       "followers_end": null,
       "followers_start": 944,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,21,707,757,171,0,0,0,0,0,0,0],
-      "launches": 13,
-      "minutes": 1655,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,21,764,817,218,0,0,0,0,0,0,0],
+      "launches": 14,
+      "minutes": 1819,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T12:22:19Z",
       "sessions": [
@@ -1660,9 +1660,15 @@
           "ended_at": "2026-11-24T13:19:05Z",
           "started_at": "2026-11-24T11:09:08Z",
           "viewer_minutes": 3983
+        },
+        {
+          "duration_min": 164,
+          "ended_at": "2026-11-25T13:47:02Z",
+          "started_at": "2026-11-25T11:03:10Z",
+          "viewer_minutes": 3823
         }
       ],
-      "viewer_minutes": 41765
+      "viewer_minutes": 45588
     },
     "shagrael_by": {
       "added_at": "2026-09-11",
@@ -2421,5 +2427,5 @@
       "viewer_minutes": 1015
     }
   },
-  "updated_at": "2026-11-25T12:44:21Z"
+  "updated_at": "2026-11-25T13:48:57Z"
 }
