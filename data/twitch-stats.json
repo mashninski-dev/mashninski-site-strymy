@@ -4268,14 +4268,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 133245
+            "sec": 133693
           }
         ],
-        "hours_sec": [4881,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5964,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200],
-        "last_seen_at": "2026-11-25T21:21:21Z",
+        "hours_sec": [5329,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5964,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200],
+        "last_seen_at": "2026-11-25T21:28:49Z",
         "started_at": "2026-11-24T08:20:36Z",
         "stream_id": "319538683366",
-        "viewer_sec": 145577,
+        "viewer_sec": 146025,
         "viewers": 1
       },
       "monthly": {
@@ -4930,15 +4930,15 @@
         "categories": [
           {
             "game": "Counter-Strike",
-            "sec": 9469
+            "sec": 9917
           }
         ],
-        "hours_sec": [1281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,988,3600,3600],
-        "last_seen_at": "2026-11-25T21:21:21Z",
+        "hours_sec": [1729,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,988,3600,3600],
+        "last_seen_at": "2026-11-25T21:28:49Z",
         "started_at": "2026-11-25T18:43:32Z",
         "stream_id": "317311199957",
-        "viewer_sec": 102325,
-        "viewers": 18
+        "viewer_sec": 111509,
+        "viewers": 23
       },
       "monthly": {
         "2026-10": {
@@ -5919,34 +5919,21 @@
           "2026-11-01": 117
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Just Chatting",
-            "sec": 148
-          },
-          {
-            "game": "Counter-Strike",
-            "sec": 7244
-          }
-        ],
-        "hours_sec": [1281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2511,3600],
-        "last_seen_at": "2026-11-25T21:21:21Z",
-        "started_at": "2026-11-25T19:18:09Z",
-        "stream_id": "317405748948",
-        "viewer_sec": 34047,
-        "viewers": 6
-      },
+      "in_progress": null,
       "monthly": {
         "2026-11": {
           "categories": {
+            "Counter-Strike": {
+              "launches": 1,
+              "minutes": 128
+            },
             "Dishonored": {
               "launches": 4,
               "minutes": 849
             },
             "Just Chatting": {
-              "launches": 11,
-              "minutes": 493
+              "launches": 12,
+              "minutes": 495
             },
             "League of Legends": {
               "launches": 2,
@@ -5965,13 +5952,30 @@
               "minutes": 162
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,5,70,279,380,420,320,229,66,0,31,60,60,11],
-          "launches": 8,
-          "minutes": 1932,
-          "viewer_minutes": 17609
+          "hours": [29,0,0,0,0,0,0,0,0,0,0,5,70,279,380,420,320,229,66,0,31,60,102,71],
+          "launches": 9,
+          "minutes": 2063,
+          "viewer_minutes": 18221
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 2
+            },
+            {
+              "game": "Counter-Strike",
+              "minutes": 128
+            }
+          ],
+          "ended_at": "2026-11-25T21:28:49Z",
+          "hours": [29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,60],
+          "started_at": "2026-11-25T19:18:09Z",
+          "viewer_minutes": 612,
+          "viewers_last": 6
+        },
         {
           "categories": [
             {
@@ -7223,6 +7227,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-25T21:21:21Z",
+  "updated_at": "2026-11-25T21:28:49Z",
   "viewers_since": "2026-11-02"
 }
