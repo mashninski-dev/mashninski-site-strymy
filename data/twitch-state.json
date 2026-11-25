@@ -3181,7 +3181,7 @@
         "since": "2026-11-25T15:14:29Z",
         "stream_id": "316396677738",
         "title": "Гульнявы вечар | The stanley parable",
-        "viewers": 5
+        "viewers": 3
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/053d6304-575f-448b-96c8-eb55a9bfd99d-profile_image-300x300.png",
@@ -5454,6 +5454,16 @@
       "display_name": "yozas_gubka",
       "history": [
         {
+          "duration_min": 57,
+          "ended_at": "2026-11-25T17:11:02Z",
+          "game": "Escape from Tarkov",
+          "source": "observed",
+          "started_at": "2026-11-25T16:14:06Z",
+          "stream_id": "319555028454",
+          "title": "Збягаю з Таркава сола (караценькі падруб каб глянуць патч)",
+          "vod": null
+        },
+        {
           "duration_min": 58,
           "ended_at": "2026-11-24T19:19:01Z",
           "game": "Escape from Tarkov",
@@ -5595,21 +5605,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 58,
-        "ended_at": "2026-11-24T19:19:01Z",
+        "duration_min": 57,
+        "ended_at": "2026-11-25T17:11:02Z",
         "game": "Escape from Tarkov",
         "source": "observed",
-        "started_at": "2026-11-24T18:21:06Z",
-        "stream_id": "319475376741",
+        "started_at": "2026-11-25T16:14:06Z",
+        "stream_id": "319555028454",
         "title": "Збягаю з Таркава сола (караценькі падруб каб глянуць патч)",
         "vod": null
       },
       "live": {
-        "game": "Escape from Tarkov",
-        "since": "2026-11-25T16:14:06Z",
-        "stream_id": "319555028454",
-        "title": "Збягаю з Таркава сола (караценькі падруб каб глянуць патч)",
-        "viewers": 1
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5617,5 +5627,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-25T16:50:37Z"
+  "updated_at": "2026-11-25T17:11:02Z"
 }

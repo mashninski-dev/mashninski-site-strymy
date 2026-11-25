@@ -3578,15 +3578,15 @@
           },
           {
             "game": "The Stanley Parable: Ultra Deluxe",
-            "sec": 602
+            "sec": 1225
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2731,3600,39,0,0,0],
-        "last_seen_at": "2026-11-25T17:00:39Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2731,3600,662,0,0,0],
+        "last_seen_at": "2026-11-25T17:11:02Z",
         "started_at": "2026-11-25T15:14:29Z",
         "stream_id": "316396677738",
-        "viewer_sec": 17538,
-        "viewers": 5
+        "viewer_sec": 20030,
+        "viewers": 3
       },
       "monthly": {
         "2026-10": {
@@ -4213,14 +4213,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 117603
+            "sec": 118226
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5964,7200,7200,7200,7200,7200,7200,7200,7200,3639,3600,3600,3600],
-        "last_seen_at": "2026-11-25T17:00:39Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5964,7200,7200,7200,7200,7200,7200,7200,7200,4262,3600,3600,3600],
+        "last_seen_at": "2026-11-25T17:11:02Z",
         "started_at": "2026-11-24T08:20:36Z",
         "stream_id": "319538683366",
-        "viewer_sec": 129355,
+        "viewer_sec": 129978,
         "viewers": 1
       },
       "monthly": {
@@ -6920,35 +6920,35 @@
           "2026-11-01": 0
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Escape from Tarkov",
-            "sec": 2793
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2754,39,0,0,0],
-        "last_seen_at": "2026-11-25T17:00:39Z",
-        "started_at": "2026-11-25T16:14:06Z",
-        "stream_id": "319555028454",
-        "viewer_sec": 2793,
-        "viewers": 1
-      },
+      "in_progress": null,
       "monthly": {
         "2026-11": {
           "categories": {
             "Escape from Tarkov": {
-              "launches": 14,
-              "minutes": 855
+              "launches": 15,
+              "minutes": 912
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,56,60,34,25,16,46,43,0,65,64,101,218,110,15],
-          "launches": 14,
-          "minutes": 855,
-          "viewer_minutes": 1015
+          "hours": [0,0,0,0,0,0,0,0,0,0,56,60,34,25,16,46,43,0,65,110,112,218,110,15],
+          "launches": 15,
+          "minutes": 912,
+          "viewer_minutes": 1072
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Escape from Tarkov",
+              "minutes": 57
+            }
+          ],
+          "ended_at": "2026-11-25T17:11:02Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,11,0,0,0],
+          "started_at": "2026-11-25T16:14:06Z",
+          "viewer_minutes": 57,
+          "viewers_last": 1
+        },
         {
           "categories": [
             {
@@ -7134,6 +7134,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-25T17:00:39Z",
+  "updated_at": "2026-11-25T17:11:02Z",
   "viewers_since": "2026-11-02"
 }
