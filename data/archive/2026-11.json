@@ -102,6 +102,27 @@
       ],
       "started_at": "2026-11-12T18:04:12Z"
     },
+    "ce583569-ab1d-4159-866a-8f405789e114": {
+      "ended_at": null,
+      "games": [
+        "The Game Awards",
+        "Hell Let Loose"
+      ],
+      "host_id": "890636706",
+      "participants": [
+        {
+          "id": "890636706",
+          "login": "mihas_gareza",
+          "name": "Mihas_Gareza"
+        },
+        {
+          "id": "137822098",
+          "login": "sla5her_by",
+          "name": "Sla5her_BY"
+        }
+      ],
+      "started_at": "2026-11-25T17:37:05Z"
+    },
     "eaef8ba5-20e3-46c2-ab21-695dfb4d9cd4": {
       "ended_at": "2026-11-16T22:23:59Z",
       "games": [
@@ -2443,5 +2464,5 @@
       "viewer_minutes": 1072
     }
   },
-  "updated_at": "2026-11-25T17:11:02Z"
+  "updated_at": "2026-11-25T17:40:45Z"
 }
