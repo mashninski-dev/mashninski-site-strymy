@@ -4084,6 +4084,21 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 488,
+          "ended_at": "2026-11-25T02:47:14Z",
+          "game": "The Witcher 3: Wild Hunt Remastered",
+          "source": "vod",
+          "started_at": "2026-11-24T18:39:34Z",
+          "stream_id": "319354889191",
+          "title": "пытальнічкі. Скеліге. (бел.лакалізацыя) від Іринка подруга",
+          "vod": {
+            "gone": false,
+            "id": "2939562466",
+            "seen_at": "2026-11-25T02:48:51Z",
+            "url": "https://www.twitch.tv/videos/2939562466"
+          }
+        },
+        {
           "duration_min": 466,
           "ended_at": "2026-11-24T02:27:35Z",
           "game": "The Witcher 3: Wild Hunt Remastered",
@@ -4357,44 +4372,29 @@
             "seen_at": "2026-11-04T02:11:11Z",
             "url": "https://www.twitch.tv/videos/2918562321"
           }
-        },
-        {
-          "duration_min": 451,
-          "ended_at": "2026-11-03T02:29:09Z",
-          "game": "The Witcher 3: Wild Hunt Remastered",
-          "source": "vod",
-          "started_at": "2026-11-02T18:57:49Z",
-          "stream_id": "319181933157",
-          "title": "Глядзім Украінскую АГУЧКУ Вядзьмара від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2917772649",
-            "seen_at": "2026-11-03T02:30:49Z",
-            "url": "https://www.twitch.tv/videos/2917772649"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 466,
-        "ended_at": "2026-11-24T02:27:35Z",
+        "duration_min": 488,
+        "ended_at": "2026-11-25T02:47:14Z",
         "game": "The Witcher 3: Wild Hunt Remastered",
         "source": "vod",
-        "started_at": "2026-11-23T18:42:05Z",
-        "stream_id": "319532282982",
-        "title": "Ну павядзьмарылі далей від Іринка подруга",
+        "started_at": "2026-11-24T18:39:34Z",
+        "stream_id": "319354889191",
+        "title": "пытальнічкі. Скеліге. (бел.лакалізацыя) від Іринка подруга",
         "vod": {
           "gone": false,
-          "id": "2938578238",
-          "seen_at": "2026-11-24T02:29:16Z",
-          "url": "https://www.twitch.tv/videos/2938578238"
+          "id": "2939562466",
+          "seen_at": "2026-11-25T02:48:51Z",
+          "url": "https://www.twitch.tv/videos/2939562466"
         }
       },
       "live": {
-        "game": "The Witcher 3: Wild Hunt Remastered",
-        "since": "2026-11-24T18:39:34Z",
-        "stream_id": "319354889191",
-        "title": "пытальнічкі. Скеліге. (бел.лакалізацыя) від Іринка подруга",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5597,5 +5597,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-25T02:40:46Z"
+  "updated_at": "2026-11-25T02:48:50Z"
 }
