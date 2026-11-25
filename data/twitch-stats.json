@@ -221,14 +221,14 @@
         "categories": [
           {
             "game": "Nancy Drew: The Secret of Shadow Ranch",
-            "sec": 9727
+            "sec": 10200
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2479,3600,3600,48,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-25T12:00:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2479,3600,3600,521,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-25T12:08:41Z",
         "started_at": "2026-11-25T09:18:41Z",
         "stream_id": "317346130390",
-        "viewer_sec": 147580,
+        "viewer_sec": 155148,
         "viewers": 16
       },
       "monthly": {
@@ -1043,8 +1043,8 @@
     },
     "dzed_ahey": {
       "followers": {
-        "changed_at": "2026-11-23T01:30:45Z",
-        "count": 51,
+        "changed_at": "2026-11-25T12:08:41Z",
+        "count": 52,
         "daily": {
           "2026-10-26": 47,
           "2026-10-27": 47,
@@ -1194,20 +1194,7 @@
           "2026-11-01": 248
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-            "sec": 13332
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2484,3600,3600,3600,48,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-25T12:00:48Z",
-        "started_at": "2026-11-25T08:18:36Z",
-        "stream_id": "319482412645",
-        "viewer_sec": 106258,
-        "viewers": 9
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -1267,8 +1254,8 @@
               "minutes": 161
             },
             "S.T.A.L.K.E.R. 2: Heart of Chornobyl": {
-              "launches": 2,
-              "minutes": 443
+              "launches": 3,
+              "minutes": 671
             },
             "Species: Unknown": {
               "launches": 1,
@@ -1283,13 +1270,26 @@
               "minutes": 462
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,8,470,761,780,726,45,0,0,0,0,0,57,60,12],
-          "launches": 15,
-          "minutes": 2918,
-          "viewer_minutes": 20771
+          "hours": [0,0,0,0,0,0,0,0,0,0,8,511,821,840,786,52,0,0,0,0,0,57,60,12],
+          "launches": 16,
+          "minutes": 3146,
+          "viewer_minutes": 22598
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+              "minutes": 228
+            }
+          ],
+          "ended_at": "2026-11-25T12:06:58Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,41,60,60,60,7,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-25T08:18:36Z",
+          "viewer_minutes": 1827,
+          "viewers_last": 9
+        },
         {
           "categories": [
             {
@@ -4199,14 +4199,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 99612
+            "sec": 100085
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5964,7200,7200,7200,3648,3600,3600,3600,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-25T12:00:48Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5964,7200,7200,7200,4121,3600,3600,3600,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-25T12:08:41Z",
         "started_at": "2026-11-24T08:20:36Z",
         "stream_id": "319538683366",
-        "viewer_sec": 101371,
+        "viewer_sec": 101844,
         "viewers": 1
       },
       "monthly": {
@@ -4493,15 +4493,15 @@
         "categories": [
           {
             "game": "Silver Pines",
-            "sec": 3458
+            "sec": 3931
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,3410,48,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-25T12:00:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,3410,521,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-25T12:08:41Z",
         "started_at": "2026-11-25T11:03:10Z",
         "stream_id": "319483550437",
-        "viewer_sec": 49045,
-        "viewers": 15
+        "viewer_sec": 57559,
+        "viewers": 21
       },
       "monthly": {
         "2026-10": {
@@ -5827,14 +5827,14 @@
           },
           {
             "game": "League of Legends",
-            "sec": 4808
+            "sec": 5281
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,617,3600,3600,48,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-25T12:00:48Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,617,3600,3600,521,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-25T12:08:41Z",
         "started_at": "2026-11-25T09:49:43Z",
         "stream_id": "319361688551",
-        "viewer_sec": 27047,
+        "viewer_sec": 28466,
         "viewers": 3
       },
       "monthly": {
@@ -6550,8 +6550,8 @@
     },
     "watafakablr": {
       "followers": {
-        "changed_at": "2026-11-23T16:50:45Z",
-        "count": 482,
+        "changed_at": "2026-11-25T12:08:41Z",
+        "count": 483,
         "daily": {
           "2026-10-26": 473,
           "2026-10-27": 475,
@@ -7091,6 +7091,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-25T12:00:48Z",
+  "updated_at": "2026-11-25T12:08:41Z",
   "viewers_since": "2026-11-02"
 }
