@@ -1874,6 +1874,21 @@
       "display_name": "lepus81",
       "history": [
         {
+          "duration_min": 186,
+          "ended_at": "2026-11-26T19:19:15Z",
+          "game": "Grand Theft Auto VI",
+          "source": "vod",
+          "started_at": "2026-11-26T16:13:01Z",
+          "stream_id": "317410790740",
+          "title": "GTA VI па-беларуску! Дзень 4",
+          "vod": {
+            "gone": false,
+            "id": "2941414262",
+            "seen_at": "2026-11-26T19:20:56Z",
+            "url": "https://www.twitch.tv/videos/2941414262"
+          }
+        },
+        {
           "duration_min": 168,
           "ended_at": "2026-11-22T22:26:27Z",
           "game": "Grand Theft Auto VI",
@@ -2157,44 +2172,29 @@
             "seen_at": "2026-10-17T21:37:57Z",
             "url": "https://www.twitch.tv/videos/2903450787"
           }
-        },
-        {
-          "duration_min": 167,
-          "ended_at": "2026-10-08T18:44:25Z",
-          "game": "Ready or Not",
-          "source": "vod",
-          "started_at": "2026-10-08T15:57:35Z",
-          "stream_id": "317068569300",
-          "title": "ТРАТАТАТА! OVER!",
-          "vod": {
-            "gone": false,
-            "id": "2895221365",
-            "seen_at": "2026-10-08T18:45:58Z",
-            "url": "https://www.twitch.tv/videos/2895221365"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 168,
-        "ended_at": "2026-11-22T22:26:27Z",
+        "duration_min": 186,
+        "ended_at": "2026-11-26T19:19:15Z",
         "game": "Grand Theft Auto VI",
         "source": "vod",
-        "started_at": "2026-11-22T19:38:55Z",
-        "stream_id": "317383380948",
-        "title": "GTA VI па-беларуску! Дзень 3",
+        "started_at": "2026-11-26T16:13:01Z",
+        "stream_id": "317410790740",
+        "title": "GTA VI па-беларуску! Дзень 4",
         "vod": {
           "gone": false,
-          "id": "2937640315",
-          "seen_at": "2026-11-22T22:28:02Z",
-          "url": "https://www.twitch.tv/videos/2937640315"
+          "id": "2941414262",
+          "seen_at": "2026-11-26T19:20:56Z",
+          "url": "https://www.twitch.tv/videos/2941414262"
         }
       },
       "live": {
-        "game": "Grand Theft Auto VI",
-        "since": "2026-11-26T16:13:01Z",
-        "stream_id": "317410790740",
-        "title": "GTA VI па-беларуску! Дзень 4",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -3533,7 +3533,7 @@
         "since": "2026-11-26T18:55:25Z",
         "stream_id": "317317898837",
         "title": "\"Ў-ў-ў!..\" - Вые Петрык",
-        "viewers": 5
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4414,7 +4414,7 @@
         "since": "2026-11-26T16:57:01Z",
         "stream_id": "317316982357",
         "title": "Касьмічныя піў-піў від Іринка подруга",
-        "viewers": 5
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5177,7 +5177,7 @@
         "since": "2026-11-26T17:09:05Z",
         "stream_id": "319500118885",
         "title": "Бліжэй да Эдзі ◉ Silver Pines",
-        "viewers": 8
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5654,7 +5654,7 @@
         "since": "2026-11-26T16:46:35Z",
         "stream_id": "319379665511",
         "title": "Збягаю з Таркава з мальцамі (фідзім на ледаколе)",
-        "viewers": 3
+        "viewers": 2
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5662,5 +5662,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-26T19:11:43Z"
+  "updated_at": "2026-11-26T19:20:55Z"
 }
