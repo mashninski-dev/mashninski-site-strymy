@@ -238,7 +238,20 @@
           "2026-11-01": 1302
         }
       },
-      "in_progress": null,
+      "in_progress": {
+        "categories": [
+          {
+            "game": "Empire: Total War",
+            "sec": 31
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-26T09:24:49Z",
+        "started_at": "2026-11-26T09:24:18Z",
+        "stream_id": "317314358485",
+        "viewer_sec": 0,
+        "viewers": 0
+      },
       "monthly": {
         "2026-10": {
           "categories": {
@@ -4268,14 +4281,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 3591
+            "sec": 3842
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2353,1238,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-26T09:20:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2353,1489,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-26T09:24:49Z",
         "started_at": "2026-11-26T08:20:47Z",
         "stream_id": "319563420902",
-        "viewer_sec": 2697,
+        "viewer_sec": 2948,
         "viewers": 1
       },
       "monthly": {
@@ -7225,6 +7238,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-26T09:20:38Z",
+  "updated_at": "2026-11-26T09:24:49Z",
   "viewers_since": "2026-11-02"
 }
