@@ -4414,7 +4414,7 @@
         "since": "2026-11-26T16:57:01Z",
         "stream_id": "317316982357",
         "title": "Топ-катцент на Скеліге (бел. лакалізацыя) від Іринка подруга",
-        "viewers": 8
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4425,6 +4425,16 @@
       "description": "Часам — добры стрымер. Часам — вельмі добры. Але гэта ўжо як фартанё. Стрымлю не рэгулярна, затое з душой 🎮 Гуляю ў розныя гульні, але дупа стабільна гарыць толькі ў Counter-Strike🔥Калі раптам захочаш супрацу, ці проста напісаць «чаму ты зноў памёр?» — пішаш у Telegram ці ў Discord.",
       "display_name": "Sla5her_BY",
       "history": [
+        {
+          "duration_min": 298,
+          "ended_at": "2026-11-26T23:10:30Z",
+          "game": "Grand Theft Auto VI",
+          "source": "observed",
+          "started_at": "2026-11-26T18:12:21Z",
+          "stream_id": "319381146983",
+          "title": "[BY]  Гайд як будаваць стасункі [Bel/Ukr/Eng]",
+          "vod": null
+        },
         {
           "duration_min": 175,
           "ended_at": "2026-11-25T20:30:41Z",
@@ -4532,21 +4542,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 175,
-        "ended_at": "2026-11-25T20:30:41Z",
-        "game": "Hell Let Loose",
+        "duration_min": 298,
+        "ended_at": "2026-11-26T23:10:30Z",
+        "game": "Grand Theft Auto VI",
         "source": "observed",
-        "started_at": "2026-11-25T17:35:49Z",
-        "stream_id": "319488018277",
-        "title": "[BY]  Адпачываем ад GTA [Bel/Ukr/Eng]",
+        "started_at": "2026-11-26T18:12:21Z",
+        "stream_id": "319381146983",
+        "title": "[BY]  Гайд як будаваць стасункі [Bel/Ukr/Eng]",
         "vod": null
       },
       "live": {
-        "game": "Grand Theft Auto VI",
-        "since": "2026-11-26T18:12:21Z",
-        "stream_id": "319381146983",
-        "title": "[BY]  Гайд як будаваць стасункі [Bel/Ukr/Eng]",
-        "viewers": 6
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5672,5 +5682,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-26T23:04:31Z"
+  "updated_at": "2026-11-26T23:10:30Z"
 }
