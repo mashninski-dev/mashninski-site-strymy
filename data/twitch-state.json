@@ -670,6 +670,21 @@
       "display_name": "Bel_Asch",
       "history": [
         {
+          "duration_min": 415,
+          "ended_at": "2026-11-26T16:40:03Z",
+          "game": "Dragon Age: Inquisition",
+          "source": "vod",
+          "started_at": "2026-11-26T09:45:22Z",
+          "stream_id": "319375680615",
+          "title": "Цмокапад 🔥 | Dragon Age: Inquisition",
+          "vod": {
+            "gone": false,
+            "id": "2941199674",
+            "seen_at": "2026-11-26T16:41:37Z",
+            "url": "https://www.twitch.tv/videos/2941199674"
+          }
+        },
+        {
           "duration_min": 142,
           "ended_at": "2026-11-25T20:35:56Z",
           "game": "Resident Evil Code: Veronica X HD",
@@ -943,44 +958,29 @@
             "seen_at": "2026-10-04T11:06:03Z",
             "url": "https://www.twitch.tv/videos/2886483835"
           }
-        },
-        {
-          "duration_min": 233,
-          "ended_at": "2026-09-25T20:00:15Z",
-          "game": "Dragon Age: Inquisition",
-          "source": "vod",
-          "started_at": "2026-09-25T16:07:15Z",
-          "stream_id": "318576601191",
-          "title": "Шпацыр па Заходнім падыходзе 🏜️ | Dragon Age: Inquisition",
-          "vod": {
-            "gone": false,
-            "id": "2883683986",
-            "seen_at": "2026-09-25T20:00:57Z",
-            "url": "https://www.twitch.tv/videos/2883683986"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 142,
-        "ended_at": "2026-11-25T20:35:56Z",
-        "game": "Resident Evil Code: Veronica X HD",
+        "duration_min": 415,
+        "ended_at": "2026-11-26T16:40:03Z",
+        "game": "Dragon Age: Inquisition",
         "source": "vod",
-        "started_at": "2026-11-25T18:13:52Z",
-        "stream_id": "319556911206",
-        "title": "Хто такая Вероніка?! ⛱️ | Resident Evil Code: Veronica X",
+        "started_at": "2026-11-26T09:45:22Z",
+        "stream_id": "319375680615",
+        "title": "Цмокапад 🔥 | Dragon Age: Inquisition",
         "vod": {
           "gone": false,
-          "id": "2940534060",
-          "seen_at": "2026-11-25T20:37:40Z",
-          "url": "https://www.twitch.tv/videos/2940534060"
+          "id": "2941199674",
+          "seen_at": "2026-11-26T16:41:37Z",
+          "url": "https://www.twitch.tv/videos/2941199674"
         }
       },
       "live": {
-        "game": "Dragon Age: Inquisition",
-        "since": "2026-11-26T09:45:22Z",
-        "stream_id": "319375680615",
-        "title": "Цмокапад 🔥 | Dragon Age: Inquisition",
-        "viewers": 6
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -2194,7 +2194,7 @@
         "since": "2026-11-26T16:13:01Z",
         "stream_id": "317410790740",
         "title": "GTA VI па-беларуску! Дзень 4",
-        "viewers": 7
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -5662,5 +5662,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-26T16:30:40Z"
+  "updated_at": "2026-11-26T16:41:36Z"
 }
