@@ -4,7 +4,8 @@
     "3904e7d2-6375-4b06-bf61-05cb267b8029": {
       "ended_at": null,
       "games": [
-        "Species: Unknown"
+        "Species: Unknown",
+        "Silver Pines"
       ],
       "host_id": "694310267",
       "participants": [
@@ -17,6 +18,11 @@
           "id": "1190272765",
           "login": "dzedmaksim",
           "name": "DzedMaksim"
+        },
+        {
+          "id": "837601083",
+          "login": "ucenamescy",
+          "name": "Ucenamescy"
         }
       ],
       "started_at": "2026-11-26T17:06:36Z"
@@ -2588,5 +2594,5 @@
       "viewer_minutes": 1072
     }
   },
-  "updated_at": "2026-11-26T17:09:48Z"
+  "updated_at": "2026-11-26T17:10:49Z"
 }
