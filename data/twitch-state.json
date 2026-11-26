@@ -1474,7 +1474,7 @@
         "since": "2026-11-26T17:01:23Z",
         "stream_id": "319500000101",
         "title": "Кааператыўны жахасьцік з @Ucenamescy @shagrael_by | Species: Unkown беларуская мова",
-        "viewers": 2
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -2194,7 +2194,7 @@
         "since": "2026-11-26T16:13:01Z",
         "stream_id": "317410790740",
         "title": "GTA VI па-беларуску! Дзень 4",
-        "viewers": 12
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -3529,11 +3529,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Art",
+        "since": "2026-11-26T18:55:25Z",
+        "stream_id": "317317898837",
+        "title": "\"Ў-ў-ў!..\" - Вые Петрык",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4414,7 +4414,7 @@
         "since": "2026-11-26T16:57:01Z",
         "stream_id": "317316982357",
         "title": "Касьмічныя піў-піў від Іринка подруга",
-        "viewers": 6
+        "viewers": 5
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4546,7 +4546,7 @@
         "since": "2026-11-26T18:12:21Z",
         "stream_id": "319381146983",
         "title": "[BY]  Гайд як будаваць стасункі [Bel/Ukr/Eng]",
-        "viewers": 2
+        "viewers": 3
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -5654,7 +5654,7 @@
         "since": "2026-11-26T16:46:35Z",
         "stream_id": "319379665511",
         "title": "Збягаю з Таркава з мальцамі (фідзім на ледаколе)",
-        "viewers": 2
+        "viewers": 1
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-11-15T17:39:15Z",
@@ -5662,5 +5662,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-26T18:50:41Z"
+  "updated_at": "2026-11-26T18:55:59Z"
 }
