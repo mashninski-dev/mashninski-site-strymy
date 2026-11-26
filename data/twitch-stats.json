@@ -3804,14 +3804,14 @@
         "categories": [
           {
             "game": "Art",
-            "sec": 6368
+            "sec": 6393
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,275,3600,2493],
-        "last_seen_at": "2026-11-26T20:41:33Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,275,3600,2518],
+        "last_seen_at": "2026-11-26T20:41:58Z",
         "started_at": "2026-11-26T18:55:25Z",
         "stream_id": "317317898837",
-        "viewer_sec": 49706,
+        "viewer_sec": 49906,
         "viewers": 8
       },
       "monthly": {
@@ -4330,14 +4330,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 44446
+            "sec": 44471
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2353,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,2493],
-        "last_seen_at": "2026-11-26T20:41:33Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2353,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,2518],
+        "last_seen_at": "2026-11-26T20:41:58Z",
         "started_at": "2026-11-26T08:20:47Z",
         "stream_id": "319563420902",
-        "viewer_sec": 44146,
+        "viewer_sec": 44171,
         "viewers": 1
       },
       "monthly": {
@@ -5007,14 +5007,14 @@
         "categories": [
           {
             "game": "Species: Unknown",
-            "sec": 13472
+            "sec": 13497
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,179,3600,3600,3600,2493],
-        "last_seen_at": "2026-11-26T20:41:33Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,179,3600,3600,3600,2518],
+        "last_seen_at": "2026-11-26T20:41:58Z",
         "started_at": "2026-11-26T16:57:01Z",
         "stream_id": "317316982357",
-        "viewer_sec": 91303,
+        "viewer_sec": 91503,
         "viewers": 8
       },
       "monthly": {
@@ -5664,14 +5664,14 @@
         "categories": [
           {
             "game": "Grand Theft Auto VI",
-            "sec": 8952
+            "sec": 8977
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2859,3600,2493],
-        "last_seen_at": "2026-11-26T20:41:33Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2859,3600,2518],
+        "last_seen_at": "2026-11-26T20:41:58Z",
         "started_at": "2026-11-26T18:12:21Z",
         "stream_id": "319381146983",
-        "viewer_sec": 17900,
+        "viewer_sec": 17975,
         "viewers": 3
       },
       "monthly": {
@@ -6367,24 +6367,7 @@
           "2026-11-01": 150
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Silver Pines",
-            "sec": 8524
-          },
-          {
-            "game": "Species: Unknown",
-            "sec": 4224
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3055,3600,3600,2493],
-        "last_seen_at": "2026-11-26T20:41:33Z",
-        "started_at": "2026-11-26T17:09:05Z",
-        "stream_id": "319500118885",
-        "viewer_sec": 82008,
-        "viewers": 6
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -6460,21 +6443,38 @@
               "minutes": 148
             },
             "Silver Pines": {
-              "launches": 7,
-              "minutes": 1325
+              "launches": 8,
+              "minutes": 1467
             },
             "Species: Unknown": {
-              "launches": 1,
-              "minutes": 129
+              "launches": 2,
+              "minutes": 199
             }
           },
-          "hours": [463,323,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,369,654,641],
-          "launches": 14,
-          "minutes": 2571,
-          "viewer_minutes": 18520
+          "hours": [463,323,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,119,429,714,682],
+          "launches": 15,
+          "minutes": 2783,
+          "viewer_minutes": 19886
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Silver Pines",
+              "minutes": 142
+            },
+            {
+              "game": "Species: Unknown",
+              "minutes": 70
+            }
+          ],
+          "ended_at": "2026-11-26T20:41:25Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,60,60,41],
+          "started_at": "2026-11-26T17:09:05Z",
+          "viewer_minutes": 1366,
+          "viewers_last": 6
+        },
         {
           "categories": [
             {
@@ -7319,6 +7319,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-26T20:41:33Z",
+  "updated_at": "2026-11-26T20:41:58Z",
   "viewers_since": "2026-11-02"
 }
