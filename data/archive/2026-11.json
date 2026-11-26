@@ -565,8 +565,8 @@
           "minutes": 671
         },
         "Species: Unknown": {
-          "launches": 1,
-          "minutes": 129
+          "launches": 2,
+          "minutes": 258
         },
         "The Long Dark": {
           "launches": 8,
@@ -580,9 +580,9 @@
       "display_name": "DzedMaksim",
       "followers_end": null,
       "followers_start": 248,
-      "hours": [0,0,0,0,0,0,0,0,0,0,8,511,821,840,786,52,0,0,0,0,0,57,60,12],
-      "launches": 16,
-      "minutes": 3146,
+      "hours": [0,0,0,0,0,0,0,0,0,0,8,511,821,840,786,52,0,0,0,0,59,117,70,12],
+      "launches": 17,
+      "minutes": 3275,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T12:00:37Z",
       "sessions": [
@@ -680,9 +680,15 @@
           "ended_at": "2026-11-25T12:06:58Z",
           "started_at": "2026-11-25T08:18:36Z",
           "viewer_minutes": 1827
+        },
+        {
+          "duration_min": 129,
+          "ended_at": "2026-11-26T19:09:58Z",
+          "started_at": "2026-11-26T17:01:23Z",
+          "viewer_minutes": 401
         }
       ],
-      "viewer_minutes": 22598
+      "viewer_minutes": 22999
     },
     "evildive": {
       "added_at": "2026-09-11",
@@ -2594,5 +2600,5 @@
       "viewer_minutes": 1072
     }
   },
-  "updated_at": "2026-11-26T17:10:49Z"
+  "updated_at": "2026-11-26T19:11:43Z"
 }
