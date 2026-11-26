@@ -4104,6 +4104,21 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 435,
+          "ended_at": "2026-11-26T01:58:22Z",
+          "game": "Counter-Strike",
+          "source": "vod",
+          "started_at": "2026-11-25T18:43:32Z",
+          "stream_id": "317311199957",
+          "title": "лапкі-mode ON від Іринка подруга",
+          "vod": {
+            "gone": false,
+            "id": "2940560700",
+            "seen_at": "2026-11-26T01:59:58Z",
+            "url": "https://www.twitch.tv/videos/2940560700"
+          }
+        },
+        {
           "duration_min": 488,
           "ended_at": "2026-11-25T02:47:14Z",
           "game": "The Witcher 3: Wild Hunt Remastered",
@@ -4377,44 +4392,29 @@
             "seen_at": "2026-11-05T02:09:50Z",
             "url": "https://www.twitch.tv/videos/2919491904"
           }
-        },
-        {
-          "duration_min": 531,
-          "ended_at": "2026-11-04T02:09:35Z",
-          "game": "The Witcher 3: Wild Hunt Remastered",
-          "source": "vod",
-          "started_at": "2026-11-03T17:18:15Z",
-          "stream_id": "319067372135",
-          "title": "Працягваем Велен від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2918562321",
-            "seen_at": "2026-11-04T02:11:11Z",
-            "url": "https://www.twitch.tv/videos/2918562321"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 488,
-        "ended_at": "2026-11-25T02:47:14Z",
-        "game": "The Witcher 3: Wild Hunt Remastered",
+        "duration_min": 435,
+        "ended_at": "2026-11-26T01:58:22Z",
+        "game": "Counter-Strike",
         "source": "vod",
-        "started_at": "2026-11-24T18:39:34Z",
-        "stream_id": "319354889191",
-        "title": "пытальнічкі. Скеліге. (бел.лакалізацыя) від Іринка подруга",
+        "started_at": "2026-11-25T18:43:32Z",
+        "stream_id": "317311199957",
+        "title": "лапкі-mode ON від Іринка подруга",
         "vod": {
           "gone": false,
-          "id": "2939562466",
-          "seen_at": "2026-11-25T02:48:51Z",
-          "url": "https://www.twitch.tv/videos/2939562466"
+          "id": "2940560700",
+          "seen_at": "2026-11-26T01:59:58Z",
+          "url": "https://www.twitch.tv/videos/2940560700"
         }
       },
       "live": {
-        "game": "Counter-Strike",
-        "since": "2026-11-25T18:43:32Z",
-        "stream_id": "317311199957",
-        "title": "лапкі-mode ON від Іринка подруга",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5662,5 +5662,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-26T01:40:49Z"
+  "updated_at": "2026-11-26T01:59:58Z"
 }

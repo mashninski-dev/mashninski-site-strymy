@@ -1747,8 +1747,8 @@
           "minutes": 93
         },
         "Counter-Strike": {
-          "launches": 4,
-          "minutes": 1185
+          "launches": 5,
+          "minutes": 1620
         },
         "ELDEN RING": {
           "launches": 1,
@@ -1794,9 +1794,9 @@
       "display_name": "ShagraeL_BY",
       "followers_end": null,
       "followers_start": 1019,
-      "hours": [1260,1260,1260,1260,1095,791,375,82,0,0,0,0,0,0,0,0,17,60,96,149,432,1018,1260,1260],
-      "launches": 22,
-      "minutes": 11674,
+      "hours": [1320,1320,1320,1320,1153,791,375,82,0,0,0,0,0,0,0,0,17,60,96,149,432,1034,1320,1320],
+      "launches": 23,
+      "minutes": 12109,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-11-01T02:02:08Z",
       "sessions": [
@@ -1930,9 +1930,15 @@
           "ended_at": "2026-11-25T02:47:14Z",
           "started_at": "2026-11-24T18:39:34Z",
           "viewer_minutes": 6370
+        },
+        {
+          "duration_min": 435,
+          "ended_at": "2026-11-26T01:58:22Z",
+          "started_at": "2026-11-25T18:43:32Z",
+          "viewer_minutes": 5386
         }
       ],
-      "viewer_minutes": 129741
+      "viewer_minutes": 135127
     },
     "sla5her_by": {
       "added_at": "2026-10-08",
@@ -2532,5 +2538,5 @@
       "viewer_minutes": 1072
     }
   },
-  "updated_at": "2026-11-25T21:28:49Z"
+  "updated_at": "2026-11-26T01:59:58Z"
 }
