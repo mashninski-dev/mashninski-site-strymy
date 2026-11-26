@@ -1639,8 +1639,8 @@
           "minutes": 132
         },
         "Chants of Sennaar": {
-          "launches": 6,
-          "minutes": 438
+          "launches": 7,
+          "minutes": 537
         },
         "Dead Space 2": {
           "launches": 1,
@@ -1658,9 +1658,9 @@
       "display_name": "Rudzi_Belarus",
       "followers_end": null,
       "followers_start": 944,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,21,764,817,218,0,0,0,0,0,0,0],
-      "launches": 14,
-      "minutes": 1819,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,21,824,856,218,0,0,0,0,0,0,0],
+      "launches": 15,
+      "minutes": 1918,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-30T12:22:19Z",
       "sessions": [
@@ -1747,9 +1747,15 @@
           "ended_at": "2026-11-25T13:47:02Z",
           "started_at": "2026-11-25T11:03:10Z",
           "viewer_minutes": 3823
+        },
+        {
+          "duration_min": 99,
+          "ended_at": "2026-11-26T12:39:01Z",
+          "started_at": "2026-11-26T10:59:55Z",
+          "viewer_minutes": 2331
         }
       ],
-      "viewer_minutes": 45588
+      "viewer_minutes": 47919
     },
     "shagrael_by": {
       "added_at": "2026-09-11",
@@ -2550,5 +2556,5 @@
       "viewer_minutes": 1072
     }
   },
-  "updated_at": "2026-11-26T09:28:57Z"
+  "updated_at": "2026-11-26T12:40:44Z"
 }

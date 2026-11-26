@@ -242,15 +242,15 @@
         "categories": [
           {
             "game": "Empire: Total War",
-            "sec": 10483
+            "sec": 11080
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,1436,3600,3600,1847,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-26T12:30:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,1436,3600,3600,2444,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-26T12:40:44Z",
         "started_at": "2026-11-26T09:36:04Z",
         "stream_id": "317352699862",
-        "viewer_sec": 169528,
-        "viewers": 16
+        "viewer_sec": 185050,
+        "viewers": 36
       },
       "monthly": {
         "2026-10": {
@@ -962,15 +962,15 @@
         "categories": [
           {
             "game": "Dragon Age: Inquisition",
-            "sec": 9925
+            "sec": 10522
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,878,3600,3600,1847,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-26T12:30:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,878,3600,3600,2444,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-26T12:40:44Z",
         "started_at": "2026-11-26T09:45:22Z",
         "stream_id": "319375680615",
-        "viewer_sec": 36763,
-        "viewers": 6
+        "viewer_sec": 40643,
+        "viewers": 7
       },
       "monthly": {
         "2026-10": {
@@ -4296,14 +4296,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 15000
+            "sec": 15597
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2353,3600,3600,3600,1847,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-26T12:30:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2353,3600,3600,3600,2444,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-26T12:40:44Z",
         "started_at": "2026-11-26T08:20:47Z",
         "stream_id": "319563420902",
-        "viewer_sec": 14106,
+        "viewer_sec": 14703,
         "viewers": 1
       },
       "monthly": {
@@ -4599,20 +4599,7 @@
           "2026-11-01": 944
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Chants of Sennaar",
-            "sec": 5452
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,5,3600,1847,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-26T12:30:47Z",
-        "started_at": "2026-11-26T10:59:55Z",
-        "stream_id": "319376167399",
-        "viewer_sec": 125560,
-        "viewers": 29
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -4652,8 +4639,8 @@
               "minutes": 132
             },
             "Chants of Sennaar": {
-              "launches": 6,
-              "minutes": 438
+              "launches": 7,
+              "minutes": 537
             },
             "Dead Space 2": {
               "launches": 1,
@@ -4668,13 +4655,26 @@
               "minutes": 109
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,21,764,817,218,0,0,0,0,0,0,0],
-          "launches": 14,
-          "minutes": 1819,
-          "viewer_minutes": 45588
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,21,824,856,218,0,0,0,0,0,0,0],
+          "launches": 15,
+          "minutes": 1918,
+          "viewer_minutes": 47919
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Chants of Sennaar",
+              "minutes": 99
+            }
+          ],
+          "ended_at": "2026-11-26T12:39:01Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,39,0,0,0,0,0,0,0,0],
+          "started_at": "2026-11-26T10:59:55Z",
+          "viewer_minutes": 2331,
+          "viewers_last": 29
+        },
         {
           "categories": [
             {
@@ -7266,6 +7266,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-26T12:30:47Z",
+  "updated_at": "2026-11-26T12:40:44Z",
   "viewers_since": "2026-11-02"
 }

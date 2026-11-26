@@ -326,7 +326,7 @@
         "since": "2026-11-26T09:36:04Z",
         "stream_id": "317352699862",
         "title": "Спрэчкі з Прусіяй, але і астатнія суседзі ўсё не супакояцца. Empire: Total War",
-        "viewers": 16
+        "viewers": 36
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -980,7 +980,7 @@
         "since": "2026-11-26T09:45:22Z",
         "stream_id": "319375680615",
         "title": "Цмокапад 🔥 | Dragon Age: Inquisition",
-        "viewers": 6
+        "viewers": 7
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -3772,6 +3772,21 @@
       "display_name": "Rudzi_Belarus",
       "history": [
         {
+          "duration_min": 99,
+          "ended_at": "2026-11-26T12:39:01Z",
+          "game": "Chants of Sennaar",
+          "source": "vod",
+          "started_at": "2026-11-26T10:59:55Z",
+          "stream_id": "319376167399",
+          "title": "Магчыма фінальны заход у Chants of Sennaar (бел.пераклад)",
+          "vod": {
+            "gone": false,
+            "id": "2941229120",
+            "seen_at": "2026-11-26T12:40:45Z",
+            "url": "https://www.twitch.tv/videos/2941229120"
+          }
+        },
+        {
           "duration_min": 164,
           "ended_at": "2026-11-25T13:47:02Z",
           "game": "Silver Pines",
@@ -4055,44 +4070,29 @@
             "seen_at": "2026-10-27T13:44:20Z",
             "url": "https://www.twitch.tv/videos/2912093500"
           }
-        },
-        {
-          "duration_min": 135,
-          "ended_at": "2026-10-26T13:22:33Z",
-          "game": "SILENT HILL: townfall",
-          "source": "vod",
-          "started_at": "2026-10-26T11:07:39Z",
-          "stream_id": "319151974630",
-          "title": "Бясконцыя Ціхія Пагоркі: Townfall. Фінал блізка?",
-          "vod": {
-            "gone": false,
-            "id": "2911223793",
-            "seen_at": "2026-10-26T13:24:13Z",
-            "url": "https://www.twitch.tv/videos/2911223793"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 164,
-        "ended_at": "2026-11-25T13:47:02Z",
-        "game": "Silver Pines",
+        "duration_min": 99,
+        "ended_at": "2026-11-26T12:39:01Z",
+        "game": "Chants of Sennaar",
         "source": "vod",
-        "started_at": "2026-11-25T11:03:10Z",
-        "stream_id": "319483550437",
-        "title": "Прыгоды ў аграгарадку Silver Pines працягваюцца",
+        "started_at": "2026-11-26T10:59:55Z",
+        "stream_id": "319376167399",
+        "title": "Магчыма фінальны заход у Chants of Sennaar (бел.пераклад)",
         "vod": {
           "gone": false,
-          "id": "2940242999",
-          "seen_at": "2026-11-25T13:48:57Z",
-          "url": "https://www.twitch.tv/videos/2940242999"
+          "id": "2941229120",
+          "seen_at": "2026-11-26T12:40:45Z",
+          "url": "https://www.twitch.tv/videos/2941229120"
         }
       },
       "live": {
-        "game": "Chants of Sennaar",
-        "since": "2026-11-26T10:59:55Z",
-        "stream_id": "319376167399",
-        "title": "Магчыма фінальны заход у Chants of Sennaar (бел.пераклад)",
-        "viewers": 29
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -5662,5 +5662,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-26T12:30:47Z"
+  "updated_at": "2026-11-26T12:40:44Z"
 }
