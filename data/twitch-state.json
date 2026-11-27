@@ -658,7 +658,7 @@
         "since": "2026-11-27T20:44:58Z",
         "stream_id": "319518594405",
         "title": "Будуем Свабоду з калючым дротам ды вышкамі з аўтаматчыкамі))",
-        "viewers": 0
+        "viewers": 2
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6f85ccf-8f12-43f4-90e3-1e1cf95ab956-profile_image-300x300.jpeg",
@@ -2655,7 +2655,7 @@
         "since": "2026-11-27T18:52:35Z",
         "stream_id": "319395168999",
         "title": "Даследванні глыбіні",
-        "viewers": 10
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -4414,7 +4414,7 @@
         "since": "2026-11-27T19:02:51Z",
         "stream_id": "319582786022",
         "title": "D2 Survivors від Іринка подруга",
-        "viewers": 7
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4867,6 +4867,21 @@
       "display_name": "Ucenamescy",
       "history": [
         {
+          "duration_min": 22,
+          "ended_at": "2026-11-27T20:46:03Z",
+          "game": "Silver Pines",
+          "source": "vod",
+          "started_at": "2026-11-27T20:24:13Z",
+          "stream_id": "319396862311",
+          "title": "Фінгал Гісторыі ◉ Silver Pines",
+          "vod": {
+            "gone": false,
+            "id": "2942555205",
+            "seen_at": "2026-11-27T20:47:47Z",
+            "url": "https://www.twitch.tv/videos/2942555205"
+          }
+        },
+        {
           "duration_min": 212,
           "ended_at": "2026-11-26T20:41:25Z",
           "game": "Species: Unknown",
@@ -5150,44 +5165,29 @@
             "seen_at": "2026-10-27T22:17:07Z",
             "url": "https://www.twitch.tv/videos/2912370945"
           }
-        },
-        {
-          "duration_min": 182,
-          "ended_at": "2026-10-26T19:41:01Z",
-          "game": "Silver Pines",
-          "source": "vod",
-          "started_at": "2026-10-26T16:39:11Z",
-          "stream_id": "317184486100",
-          "title": "Эдзік згубіўся ◉ Silver Pines #3",
-          "vod": {
-            "gone": false,
-            "id": "2911411099",
-            "seen_at": "2026-10-26T19:42:46Z",
-            "url": "https://www.twitch.tv/videos/2911411099"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 212,
-        "ended_at": "2026-11-26T20:41:25Z",
-        "game": "Species: Unknown",
+        "duration_min": 22,
+        "ended_at": "2026-11-27T20:46:03Z",
+        "game": "Silver Pines",
         "source": "vod",
-        "started_at": "2026-11-26T17:09:05Z",
-        "stream_id": "319500118885",
-        "title": "Планетарныя Прыгоды ◉ Species Unknown",
+        "started_at": "2026-11-27T20:24:13Z",
+        "stream_id": "319396862311",
+        "title": "Фінгал Гісторыі ◉ Silver Pines",
         "vod": {
           "gone": false,
-          "id": "2941461051",
-          "seen_at": "2026-11-26T20:41:58Z",
-          "url": "https://www.twitch.tv/videos/2941461051"
+          "id": "2942555205",
+          "seen_at": "2026-11-27T20:47:47Z",
+          "url": "https://www.twitch.tv/videos/2942555205"
         }
       },
       "live": {
-        "game": "Silver Pines",
-        "since": "2026-11-27T20:24:13Z",
-        "stream_id": "319396862311",
-        "title": "Фінгал Гісторыі ◉ Silver Pines",
-        "viewers": 4
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5234,7 +5234,7 @@
         "since": "2026-11-27T19:02:24Z",
         "stream_id": "317419622868",
         "title": "[BEL] не гуляю ў GTA VI",
-        "viewers": 7
+        "viewers": 8
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-08-16T21:51:53Z",
@@ -5682,5 +5682,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-27T20:45:38Z"
+  "updated_at": "2026-11-27T20:47:47Z"
 }
