@@ -658,7 +658,7 @@
         "since": "2026-11-27T20:44:58Z",
         "stream_id": "319518594405",
         "title": "Будуем Свабоду з калючым дротам ды вышкамі з аўтаматчыкамі))",
-        "viewers": 5
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6f85ccf-8f12-43f4-90e3-1e1cf95ab956-profile_image-300x300.jpeg",
@@ -4414,7 +4414,7 @@
         "since": "2026-11-27T19:02:51Z",
         "stream_id": "319582786022",
         "title": "D2 Survivors від Іринка подруга",
-        "viewers": 8
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5199,6 +5199,21 @@
       "display_name": "ulaadzik",
       "history": [
         {
+          "duration_min": 138,
+          "ended_at": "2026-11-27T21:20:20Z",
+          "game": "Just Chatting",
+          "source": "vod",
+          "started_at": "2026-11-27T19:02:24Z",
+          "stream_id": "317419622868",
+          "title": "[BEL] не гуляю ў GTA VI",
+          "vod": {
+            "gone": false,
+            "id": "2942474804",
+            "seen_at": "2026-11-27T21:20:39Z",
+            "url": "https://www.twitch.tv/videos/2942474804"
+          }
+        },
+        {
           "duration_min": 124,
           "ended_at": "2026-11-02T20:23:43Z",
           "game": "Just Chatting",
@@ -5215,26 +5230,26 @@
         }
       ],
       "last_stream": {
-        "duration_min": 124,
-        "ended_at": "2026-11-02T20:23:43Z",
+        "duration_min": 138,
+        "ended_at": "2026-11-27T21:20:20Z",
         "game": "Just Chatting",
         "source": "vod",
-        "started_at": "2026-11-02T18:19:27Z",
-        "stream_id": "317151368917",
-        "title": "[BEL] уладзік акуратна едзе на пежо",
+        "started_at": "2026-11-27T19:02:24Z",
+        "stream_id": "317419622868",
+        "title": "[BEL] не гуляю ў GTA VI",
         "vod": {
-          "gone": true,
-          "id": "2917741476",
-          "seen_at": "2026-11-02T20:25:16Z",
-          "url": "https://www.twitch.tv/videos/2917741476"
+          "gone": false,
+          "id": "2942474804",
+          "seen_at": "2026-11-27T21:20:39Z",
+          "url": "https://www.twitch.tv/videos/2942474804"
         }
       },
       "live": {
-        "game": "Just Chatting",
-        "since": "2026-11-27T19:02:24Z",
-        "stream_id": "317419622868",
-        "title": "[BEL] не гуляю ў GTA VI",
-        "viewers": 13
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-08-16T21:51:53Z",
@@ -5682,5 +5697,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-27T21:16:29Z"
+  "updated_at": "2026-11-27T21:20:39Z"
 }

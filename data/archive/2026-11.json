@@ -2475,16 +2475,16 @@
       "added_at": "2026-09-11",
       "categories": {
         "Just Chatting": {
-          "launches": 1,
-          "minutes": 124
+          "launches": 2,
+          "minutes": 262
         }
       },
       "display_name": "ulaadzik",
       "followers_end": null,
       "followers_start": 181,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,60,24],
-      "launches": 1,
-      "minutes": 124,
+      "hours": [20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,118,84],
+      "launches": 2,
+      "minutes": 262,
       "prev_broadcast_at": "2026-08-16T21:51:53Z",
       "prev_ended_at": null,
       "sessions": [
@@ -2493,9 +2493,15 @@
           "ended_at": "2026-11-02T20:23:43Z",
           "started_at": "2026-11-02T18:19:27Z",
           "viewer_minutes": 1029
+        },
+        {
+          "duration_min": 138,
+          "ended_at": "2026-11-27T21:20:20Z",
+          "started_at": "2026-11-27T19:02:24Z",
+          "viewer_minutes": 1004
         }
       ],
-      "viewer_minutes": 1029
+      "viewer_minutes": 2033
     },
     "watafakablr": {
       "added_at": "2026-09-11",
@@ -2698,5 +2704,5 @@
       "viewer_minutes": 1327
     }
   },
-  "updated_at": "2026-11-27T21:16:15Z"
+  "updated_at": "2026-11-27T21:20:39Z"
 }
