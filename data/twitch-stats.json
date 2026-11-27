@@ -4316,15 +4316,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 103790
+            "sec": 103946
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5953,7200,7200,7200,7200,4237,3600,3600,3600,3600,3600,3600,3600],
-        "last_seen_at": "2026-11-27T13:10:37Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5953,7200,7200,7200,7200,4393,3600,3600,3600,3600,3600,3600,3600],
+        "last_seen_at": "2026-11-27T13:13:13Z",
         "started_at": "2026-11-26T08:20:47Z",
         "stream_id": "319563420902",
-        "viewer_sec": 103490,
-        "viewers": 1
+        "viewer_sec": 104114,
+        "viewers": 7
       },
       "monthly": {
         "2026-10": {
@@ -4597,20 +4597,7 @@
           "2026-11-01": 944
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Silver Pines",
-            "sec": 8082
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,245,3600,3600,637,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-27T13:10:37Z",
-        "started_at": "2026-11-27T10:55:55Z",
-        "stream_id": "319389710055",
-        "viewer_sec": 169655,
-        "viewers": 32
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -4658,21 +4645,34 @@
               "minutes": 136
             },
             "Silver Pines": {
-              "launches": 8,
-              "minutes": 1004
+              "launches": 9,
+              "minutes": 1139
             },
             "The Witcher 3: Wild Hunt Remastered": {
               "launches": 1,
               "minutes": 109
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,21,824,856,218,0,0,0,0,0,0,0],
-          "launches": 15,
-          "minutes": 1918,
-          "viewer_minutes": 47919
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,25,884,916,229,0,0,0,0,0,0,0],
+          "launches": 16,
+          "minutes": 2053,
+          "viewer_minutes": 50755
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Silver Pines",
+              "minutes": 135
+            }
+          ],
+          "ended_at": "2026-11-27T13:10:53Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,4,60,60,11,0,0,0,0,0,0,0],
+          "started_at": "2026-11-27T10:55:55Z",
+          "viewer_minutes": 2836,
+          "viewers_last": 32
+        },
         {
           "categories": [
             {
@@ -7287,6 +7287,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-27T13:10:37Z",
+  "updated_at": "2026-11-27T13:13:13Z",
   "viewers_since": "2026-11-02"
 }

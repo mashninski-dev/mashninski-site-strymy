@@ -3760,7 +3760,7 @@
         "since": "2026-11-26T08:20:47Z",
         "stream_id": "319563420902",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 1
+        "viewers": 7
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd5dab3c-d21b-4377-a487-717db91f8844-profile_image-300x300.png",
@@ -3771,6 +3771,21 @@
       "description": "Беларускі стрымер, аглядальнік на YouTube",
       "display_name": "Rudzi_Belarus",
       "history": [
+        {
+          "duration_min": 135,
+          "ended_at": "2026-11-27T13:10:53Z",
+          "game": "Silver Pines",
+          "source": "vod",
+          "started_at": "2026-11-27T10:55:55Z",
+          "stream_id": "319389710055",
+          "title": "Разблытваем блытаніну ў Срэбранасасноўску (бел.пераклад). Silver Pines",
+          "vod": {
+            "gone": false,
+            "id": "2942135316",
+            "seen_at": "2026-11-27T13:13:13Z",
+            "url": "https://www.twitch.tv/videos/2942135316"
+          }
+        },
         {
           "duration_min": 99,
           "ended_at": "2026-11-26T12:39:01Z",
@@ -4055,44 +4070,29 @@
             "seen_at": "2026-10-28T12:51:21Z",
             "url": "https://www.twitch.tv/videos/2912962939"
           }
-        },
-        {
-          "duration_min": 130,
-          "ended_at": "2026-10-27T13:42:41Z",
-          "game": "Chants of Sennaar",
-          "source": "vod",
-          "started_at": "2026-10-27T11:32:36Z",
-          "stream_id": "319105958757",
-          "title": "І зноў шыфроўкі на беларускай мове. Chants of Sennaar",
-          "vod": {
-            "gone": false,
-            "id": "2912093500",
-            "seen_at": "2026-10-27T13:44:20Z",
-            "url": "https://www.twitch.tv/videos/2912093500"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 99,
-        "ended_at": "2026-11-26T12:39:01Z",
-        "game": "Chants of Sennaar",
+        "duration_min": 135,
+        "ended_at": "2026-11-27T13:10:53Z",
+        "game": "Silver Pines",
         "source": "vod",
-        "started_at": "2026-11-26T10:59:55Z",
-        "stream_id": "319376167399",
-        "title": "Магчыма фінальны заход у Chants of Sennaar (бел.пераклад)",
+        "started_at": "2026-11-27T10:55:55Z",
+        "stream_id": "319389710055",
+        "title": "Разблытваем блытаніну ў Срэбранасасноўску (бел.пераклад). Silver Pines",
         "vod": {
           "gone": false,
-          "id": "2941229120",
-          "seen_at": "2026-11-26T12:40:45Z",
-          "url": "https://www.twitch.tv/videos/2941229120"
+          "id": "2942135316",
+          "seen_at": "2026-11-27T13:13:13Z",
+          "url": "https://www.twitch.tv/videos/2942135316"
         }
       },
       "live": {
-        "game": "Silver Pines",
-        "since": "2026-11-27T10:55:55Z",
-        "stream_id": "319389710055",
-        "title": "Разблытваем блытаніну ў Срэбранасасноўску (бел.пераклад). Silver Pines",
-        "viewers": 32
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -5682,5 +5682,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-27T13:10:37Z"
+  "updated_at": "2026-11-27T13:13:13Z"
 }
