@@ -382,16 +382,16 @@
           "minutes": 750
         },
         "Tropico 6": {
-          "launches": 1,
-          "minutes": 180
+          "launches": 2,
+          "minutes": 364
         }
       },
       "display_name": "annigilatormg42",
       "followers_end": null,
       "followers_start": 57,
-      "hours": [65,0,0,0,0,0,0,0,0,0,0,0,0,0,42,120,217,240,171,37,151,203,299,228],
-      "launches": 9,
-      "minutes": 1775,
+      "hours": [125,60,48,0,0,0,0,0,0,0,0,0,0,0,42,120,217,240,171,37,151,203,299,243],
+      "launches": 10,
+      "minutes": 1959,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T21:54:22Z",
       "sessions": [
@@ -447,9 +447,15 @@
           "ended_at": "2026-11-24T20:51:13Z",
           "started_at": "2026-11-24T18:36:49Z",
           "viewer_minutes": 469
+        },
+        {
+          "duration_min": 184,
+          "ended_at": "2026-11-27T23:48:29Z",
+          "started_at": "2026-11-27T20:44:58Z",
+          "viewer_minutes": 858
         }
       ],
-      "viewer_minutes": 7149
+      "viewer_minutes": 8007
     },
     "bel_asch": {
       "added_at": "2026-09-11",
@@ -2716,5 +2722,5 @@
       "viewer_minutes": 1327
     }
   },
-  "updated_at": "2026-11-27T22:56:26Z"
+  "updated_at": "2026-11-27T23:50:07Z"
 }
