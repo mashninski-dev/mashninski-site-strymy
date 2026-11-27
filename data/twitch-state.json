@@ -670,6 +670,21 @@
       "display_name": "Bel_Asch",
       "history": [
         {
+          "duration_min": 86,
+          "ended_at": "2026-11-27T16:16:22Z",
+          "game": "Special Events",
+          "source": "vod",
+          "started_at": "2026-11-27T14:49:58Z",
+          "stream_id": "319511986917",
+          "title": "Навіны Шаўковай песні 🪡 | Cherry Time! Special Presentation - November 2026",
+          "vod": {
+            "gone": false,
+            "id": "2942262400",
+            "seen_at": "2026-11-27T16:18:08Z",
+            "url": "https://www.twitch.tv/videos/2942262400"
+          }
+        },
+        {
           "duration_min": 415,
           "ended_at": "2026-11-26T16:40:03Z",
           "game": "Dragon Age: Inquisition",
@@ -943,44 +958,29 @@
             "seen_at": "2026-10-03T21:09:51Z",
             "url": "https://www.twitch.tv/videos/2890898306"
           }
-        },
-        {
-          "duration_min": 140,
-          "ended_at": "2026-09-28T19:34:37Z",
-          "game": "Dragon Age: Inquisition",
-          "source": "vod",
-          "started_at": "2026-09-28T17:14:39Z",
-          "stream_id": "318614898535",
-          "title": "Інквізітарскія справы ⚔️ | Dragon Age: Inquisition",
-          "vod": {
-            "gone": false,
-            "id": "2886483835",
-            "seen_at": "2026-10-04T11:06:03Z",
-            "url": "https://www.twitch.tv/videos/2886483835"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 415,
-        "ended_at": "2026-11-26T16:40:03Z",
-        "game": "Dragon Age: Inquisition",
+        "duration_min": 86,
+        "ended_at": "2026-11-27T16:16:22Z",
+        "game": "Special Events",
         "source": "vod",
-        "started_at": "2026-11-26T09:45:22Z",
-        "stream_id": "319375680615",
-        "title": "Цмокапад 🔥 | Dragon Age: Inquisition",
+        "started_at": "2026-11-27T14:49:58Z",
+        "stream_id": "319511986917",
+        "title": "Навіны Шаўковай песні 🪡 | Cherry Time! Special Presentation - November 2026",
         "vod": {
           "gone": false,
-          "id": "2941199674",
-          "seen_at": "2026-11-26T16:41:37Z",
-          "url": "https://www.twitch.tv/videos/2941199674"
+          "id": "2942262400",
+          "seen_at": "2026-11-27T16:18:08Z",
+          "url": "https://www.twitch.tv/videos/2942262400"
         }
       },
       "live": {
-        "game": "Special Events",
-        "since": "2026-11-27T14:49:58Z",
-        "stream_id": "319511986917",
-        "title": "Навіны Шаўковай песні 🪡 | Cherry Time! Special Presentation - November 2026",
-        "viewers": 11
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -5682,5 +5682,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-27T16:10:39Z"
+  "updated_at": "2026-11-27T16:18:07Z"
 }

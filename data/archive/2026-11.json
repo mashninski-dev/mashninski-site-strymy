@@ -469,14 +469,18 @@
         "Resident Evil Code: Veronica X HD": {
           "launches": 1,
           "minutes": 142
+        },
+        "Special Events": {
+          "launches": 1,
+          "minutes": 86
         }
       },
       "display_name": "Bel_Asch",
       "followers_end": null,
       "followers_start": 216,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,15,60,60,102,120,120,110,40,54,193,157,81],
-      "launches": 6,
-      "minutes": 1112,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,15,60,60,102,120,130,170,56,54,193,157,81],
+      "launches": 7,
+      "minutes": 1198,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T20:47:26Z",
       "sessions": [
@@ -515,9 +519,15 @@
           "ended_at": "2026-11-26T16:40:03Z",
           "started_at": "2026-11-26T09:45:22Z",
           "viewer_minutes": 2583
+        },
+        {
+          "duration_min": 86,
+          "ended_at": "2026-11-27T16:16:22Z",
+          "started_at": "2026-11-27T14:49:58Z",
+          "viewer_minutes": 658
         }
       ],
-      "viewer_minutes": 5186
+      "viewer_minutes": 5844
     },
     "dzed_ahey": {
       "added_at": "2026-09-11",
@@ -2664,5 +2674,5 @@
       "viewer_minutes": 1327
     }
   },
-  "updated_at": "2026-11-27T13:13:13Z"
+  "updated_at": "2026-11-27T16:18:07Z"
 }
