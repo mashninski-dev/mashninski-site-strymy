@@ -658,7 +658,7 @@
         "since": "2026-11-27T20:44:58Z",
         "stream_id": "319518594405",
         "title": "Будуем Свабоду з калючым дротам ды вышкамі з аўтаматчыкамі))",
-        "viewers": 4
+        "viewers": 5
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6f85ccf-8f12-43f4-90e3-1e1cf95ab956-profile_image-300x300.jpeg",
@@ -2335,6 +2335,21 @@
       "display_name": "mashninski",
       "history": [
         {
+          "duration_min": 156,
+          "ended_at": "2026-11-27T21:28:35Z",
+          "game": "ELDEN RING",
+          "source": "vod",
+          "started_at": "2026-11-27T18:52:35Z",
+          "stream_id": "319395168999",
+          "title": "Даследванні глыбіні",
+          "vod": {
+            "gone": false,
+            "id": "2942463720",
+            "seen_at": "2026-11-27T21:30:09Z",
+            "url": "https://www.twitch.tv/videos/2942463720"
+          }
+        },
+        {
           "duration_min": 127,
           "ended_at": "2026-11-24T16:06:47Z",
           "game": "ELDEN RING",
@@ -2618,44 +2633,29 @@
             "seen_at": "2026-10-27T16:40:03Z",
             "url": "https://www.twitch.tv/videos/2912174566"
           }
-        },
-        {
-          "duration_min": 225,
-          "ended_at": "2026-10-26T18:30:22Z",
-          "game": "The Witcher 3: Wild Hunt Remastered",
-          "source": "vod",
-          "started_at": "2026-10-26T14:45:32Z",
-          "stream_id": "318957087847",
-          "title": "Я ўжо не памятаю, што мы рабілі",
-          "vod": {
-            "gone": false,
-            "id": "2911335640",
-            "seen_at": "2026-10-26T18:32:07Z",
-            "url": "https://www.twitch.tv/videos/2911335640"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 127,
-        "ended_at": "2026-11-24T16:06:47Z",
+        "duration_min": 156,
+        "ended_at": "2026-11-27T21:28:35Z",
         "game": "ELDEN RING",
         "source": "vod",
-        "started_at": "2026-11-24T13:59:37Z",
-        "stream_id": "319350760423",
-        "title": "Пярсцёнкі і пярсцяняткі",
+        "started_at": "2026-11-27T18:52:35Z",
+        "stream_id": "319395168999",
+        "title": "Даследванні глыбіні",
         "vod": {
           "gone": false,
-          "id": "2939344257",
-          "seen_at": "2026-11-24T16:08:39Z",
-          "url": "https://www.twitch.tv/videos/2939344257"
+          "id": "2942463720",
+          "seen_at": "2026-11-27T21:30:09Z",
+          "url": "https://www.twitch.tv/videos/2942463720"
         }
       },
       "live": {
-        "game": "ELDEN RING",
-        "since": "2026-11-27T18:52:35Z",
-        "stream_id": "319395168999",
-        "title": "Даследванні глыбіні",
-        "viewers": 4
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -4414,7 +4414,7 @@
         "since": "2026-11-27T19:02:51Z",
         "stream_id": "319582786022",
         "title": "D2 Survivors від Іринка подруга",
-        "viewers": 9
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5187,7 +5187,7 @@
         "since": "2026-11-27T21:14:56Z",
         "stream_id": "319397650151",
         "title": "Фінгал Гісторыі ◉ Silver Pines",
-        "viewers": 13
+        "viewers": 12
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -5697,5 +5697,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-27T21:21:57Z"
+  "updated_at": "2026-11-27T21:30:09Z"
 }

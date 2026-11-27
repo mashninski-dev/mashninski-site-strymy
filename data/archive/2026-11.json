@@ -1009,8 +1009,8 @@
       "added_at": "2026-09-11",
       "categories": {
         "ELDEN RING": {
-          "launches": 8,
-          "minutes": 839
+          "launches": 9,
+          "minutes": 995
         },
         "Fear & Hunger 2: Termina": {
           "launches": 3,
@@ -1032,9 +1032,9 @@
       "display_name": "mashninski",
       "followers_end": null,
       "followers_start": 176,
-      "hours": [40,0,0,0,0,0,0,0,0,0,0,0,0,54,96,274,513,498,237,44,60,60,90,70],
-      "launches": 16,
-      "minutes": 2037,
+      "hours": [69,0,0,0,0,0,0,0,0,0,0,0,0,54,96,274,513,498,237,44,60,67,150,130],
+      "launches": 17,
+      "minutes": 2193,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T20:36:05Z",
       "sessions": [
@@ -1132,9 +1132,15 @@
           "ended_at": "2026-11-24T16:06:47Z",
           "started_at": "2026-11-24T13:59:37Z",
           "viewer_minutes": 1431
+        },
+        {
+          "duration_min": 156,
+          "ended_at": "2026-11-27T21:28:35Z",
+          "started_at": "2026-11-27T18:52:35Z",
+          "viewer_minutes": 950
         }
       ],
-      "viewer_minutes": 21782
+      "viewer_minutes": 22732
     },
     "mihas_gareza": {
       "added_at": "2026-09-11",
@@ -2704,5 +2710,5 @@
       "viewer_minutes": 1327
     }
   },
-  "updated_at": "2026-11-27T21:20:39Z"
+  "updated_at": "2026-11-27T21:30:09Z"
 }
