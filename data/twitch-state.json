@@ -1154,6 +1154,21 @@
       "display_name": "DzedMaksim",
       "history": [
         {
+          "duration_min": 213,
+          "ended_at": "2026-11-27T12:02:34Z",
+          "game": "The Witcher 3: Wild Hunt Remastered",
+          "source": "vod",
+          "started_at": "2026-11-27T08:29:38Z",
+          "stream_id": "319576059110",
+          "title": "#19 Дадатковыя задачы і пытальнікі Навіграда | The Witcher 3 Remastered беларуская мова",
+          "vod": {
+            "gone": false,
+            "id": "2942081225",
+            "seen_at": "2026-11-27T12:04:21Z",
+            "url": "https://www.twitch.tv/videos/2942081225"
+          }
+        },
+        {
           "duration_min": 129,
           "ended_at": "2026-11-26T19:09:58Z",
           "game": "Species: Unknown",
@@ -1437,44 +1452,29 @@
             "seen_at": "2026-10-30T09:32:36Z",
             "url": "https://www.twitch.tv/videos/2914690080"
           }
-        },
-        {
-          "duration_min": 6,
-          "ended_at": "2026-10-30T09:18:46Z",
-          "game": "The Witcher 3: Wild Hunt",
-          "source": "vod",
-          "started_at": "2026-10-30T09:12:27Z",
-          "stream_id": "319005408615",
-          "title": "#16 Задачы і сюжэт Навіграда і Велена закрылі. Рэжым бадзягі \"ON\" | The Witcher 3 беларуская мова",
-          "vod": {
-            "gone": false,
-            "id": "2914685808",
-            "seen_at": "2026-10-30T09:20:20Z",
-            "url": "https://www.twitch.tv/videos/2914685808"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 129,
-        "ended_at": "2026-11-26T19:09:58Z",
-        "game": "Species: Unknown",
+        "duration_min": 213,
+        "ended_at": "2026-11-27T12:02:34Z",
+        "game": "The Witcher 3: Wild Hunt Remastered",
         "source": "vod",
-        "started_at": "2026-11-26T17:01:23Z",
-        "stream_id": "319500000101",
-        "title": "Кааператыўны жахасьцік з @Ucenamescy @shagrael_by | Species: Unkown беларуская мова",
+        "started_at": "2026-11-27T08:29:38Z",
+        "stream_id": "319576059110",
+        "title": "#19 Дадатковыя задачы і пытальнікі Навіграда | The Witcher 3 Remastered беларуская мова",
         "vod": {
           "gone": false,
-          "id": "2941454028",
-          "seen_at": "2026-11-26T19:11:43Z",
-          "url": "https://www.twitch.tv/videos/2941454028"
+          "id": "2942081225",
+          "seen_at": "2026-11-27T12:04:21Z",
+          "url": "https://www.twitch.tv/videos/2942081225"
         }
       },
       "live": {
-        "game": "The Witcher 3: Wild Hunt Remastered",
-        "since": "2026-11-27T08:29:38Z",
-        "stream_id": "319576059110",
-        "title": "#19 Дадатковыя задачы і пытальнікі Навіграда | The Witcher 3 Remastered беларуская мова",
-        "viewers": 8
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -4092,7 +4092,7 @@
         "since": "2026-11-27T10:55:55Z",
         "stream_id": "319389710055",
         "title": "Разблытваем блытаніну ў Срэбранасасноўску (бел.пераклад). Silver Pines",
-        "viewers": 14
+        "viewers": 24
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -5682,5 +5682,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-27T12:00:45Z"
+  "updated_at": "2026-11-27T12:04:21Z"
 }
