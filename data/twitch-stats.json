@@ -2652,15 +2652,15 @@
         "categories": [
           {
             "game": "ELDEN RING",
-            "sec": 3492
+            "sec": 3813
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,445,3047,0],
-        "last_seen_at": "2026-11-27T19:50:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,445,3368,0],
+        "last_seen_at": "2026-11-27T19:56:08Z",
         "started_at": "2026-11-27T18:52:35Z",
         "stream_id": "319395168999",
-        "viewer_sec": 8362,
-        "viewers": 3
+        "viewer_sec": 9485,
+        "viewers": 4
       },
       "monthly": {
         "2026-10": {
@@ -3045,20 +3045,7 @@
           "2026-11-01": 201
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Grand Theft Auto: Vice City - The Definitive Edition",
-            "sec": 7087
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,440,3600,3047,0],
-        "last_seen_at": "2026-11-27T19:50:47Z",
-        "started_at": "2026-11-27T17:52:40Z",
-        "stream_id": "319581646310",
-        "viewer_sec": 37765,
-        "viewers": 6
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -3158,8 +3145,8 @@
               "minutes": 565
             },
             "Grand Theft Auto: Vice City - The Definitive Edition": {
-              "launches": 3,
-              "minutes": 469
+              "launches": 4,
+              "minutes": 591
             },
             "HELLDIVERS 2": {
               "launches": 1,
@@ -3202,13 +3189,26 @@
               "minutes": 157
             }
           },
-          "hours": [258,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,62,221,1141,1278,1020],
-          "launches": 22,
-          "minutes": 4107,
-          "viewer_minutes": 18024
+          "hours": [258,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,62,228,1201,1332,1020],
+          "launches": 23,
+          "minutes": 4229,
+          "viewer_minutes": 18676
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Grand Theft Auto: Vice City - The Definitive Edition",
+              "minutes": 122
+            }
+          ],
+          "ended_at": "2026-11-27T19:54:30Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,60,54,0],
+          "started_at": "2026-11-27T17:52:40Z",
+          "viewer_minutes": 652,
+          "viewers_last": 6
+        },
         {
           "categories": [
             {
@@ -3833,15 +3833,15 @@
         "categories": [
           {
             "game": "Art",
-            "sec": 3083
+            "sec": 3404
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,3047,0],
-        "last_seen_at": "2026-11-27T19:50:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,3368,0],
+        "last_seen_at": "2026-11-27T19:56:08Z",
         "started_at": "2026-11-27T18:59:24Z",
         "stream_id": "319516411877",
-        "viewer_sec": 14208,
-        "viewers": 7
+        "viewer_sec": 16615,
+        "viewers": 8
       },
       "monthly": {
         "2026-10": {
@@ -4361,14 +4361,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 127800
+            "sec": 128121
           }
         ],
-        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5953,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,6647,3600],
-        "last_seen_at": "2026-11-27T19:50:47Z",
+        "hours_sec": [3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,5953,7200,7200,7200,7200,7200,7200,7200,7200,7200,7200,6968,3600],
+        "last_seen_at": "2026-11-27T19:56:08Z",
         "started_at": "2026-11-26T08:20:47Z",
         "stream_id": "319563420902",
-        "viewer_sec": 155389,
+        "viewer_sec": 155710,
         "viewers": 1
       },
       "monthly": {
@@ -5018,14 +5018,14 @@
         "categories": [
           {
             "game": "Diablo II: Resurrected",
-            "sec": 2876
+            "sec": 3197
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2876,0],
-        "last_seen_at": "2026-11-27T19:50:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3197,0],
+        "last_seen_at": "2026-11-27T19:56:08Z",
         "started_at": "2026-11-27T19:02:51Z",
         "stream_id": "319582786022",
-        "viewer_sec": 17635,
+        "viewer_sec": 19561,
         "viewers": 6
       },
       "monthly": {
@@ -6766,15 +6766,15 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 2903
+            "sec": 3224
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2903,0],
-        "last_seen_at": "2026-11-27T19:50:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3224,0],
+        "last_seen_at": "2026-11-27T19:56:08Z",
         "started_at": "2026-11-27T19:02:24Z",
         "stream_id": "317419622868",
-        "viewer_sec": 17351,
-        "viewers": 9
+        "viewer_sec": 19919,
+        "viewers": 7
       },
       "monthly": {
         "2026-11": {
@@ -7347,6 +7347,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-27T19:50:47Z",
+  "updated_at": "2026-11-27T19:56:08Z",
   "viewers_since": "2026-11-02"
 }
