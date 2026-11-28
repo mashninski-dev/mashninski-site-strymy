@@ -1594,11 +1594,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "GeoGuessr",
+        "since": "2026-11-28T11:56:48Z",
+        "stream_id": "319591289830",
+        "title": "суботні стрым",
+        "viewers": 0
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-03T15:36:12Z",
@@ -2655,7 +2655,7 @@
         "since": "2026-11-28T11:10:46Z",
         "stream_id": "319590851686",
         "title": "Грузінскі кароткі метр + Elden Ring",
-        "viewers": 5
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -5702,5 +5702,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-28T11:40:46Z"
+  "updated_at": "2026-11-28T11:57:17Z"
 }
