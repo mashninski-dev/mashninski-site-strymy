@@ -719,15 +719,15 @@
         "categories": [
           {
             "game": "Empire: Total War",
-            "sec": 1558
+            "sec": 2042
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1558,0,0,0],
-        "last_seen_at": "2026-11-28T17:40:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2042,0,0,0],
+        "last_seen_at": "2026-11-28T17:48:51Z",
         "started_at": "2026-11-28T17:14:49Z",
         "stream_id": "319408231527",
-        "viewer_sec": 4223,
-        "viewers": 3
+        "viewer_sec": 6159,
+        "viewers": 5
       },
       "monthly": {
         "2026-10": {
@@ -983,20 +983,7 @@
           "2026-11-01": 216
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Resident Evil Code: Veronica X HD",
-            "sec": 17658
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,811,3600,3600,3600,3600,2447,0,0,0],
-        "last_seen_at": "2026-11-28T17:40:47Z",
-        "started_at": "2026-11-28T12:46:29Z",
-        "stream_id": "319404481767",
-        "viewer_sec": 76557,
-        "viewers": 8
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -1036,21 +1023,34 @@
               "minutes": 67
             },
             "Resident Evil Code: Veronica X HD": {
-              "launches": 1,
-              "minutes": 142
+              "launches": 2,
+              "minutes": 443
             },
             "Special Events": {
               "launches": 1,
               "minutes": 86
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,15,60,60,102,120,130,170,56,54,193,157,81],
-          "launches": 7,
-          "minutes": 1198,
-          "viewer_minutes": 5844
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,15,60,60,116,180,190,230,116,101,193,157,81],
+          "launches": 8,
+          "minutes": 1499,
+          "viewer_minutes": 7171
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Resident Evil Code: Veronica X HD",
+              "minutes": 301
+            }
+          ],
+          "ended_at": "2026-11-28T17:47:17Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,60,60,60,60,47,0,0,0],
+          "started_at": "2026-11-28T12:46:29Z",
+          "viewer_minutes": 1327,
+          "viewers_last": 8
+        },
         {
           "categories": [
             {
@@ -4377,14 +4377,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 33589
+            "sec": 34073
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2342,3600,3600,3600,3600,3600,3600,3600,3600,2447,0,0,0],
-        "last_seen_at": "2026-11-28T17:40:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2342,3600,3600,3600,3600,3600,3600,3600,3600,2931,0,0,0],
+        "last_seen_at": "2026-11-28T17:48:51Z",
         "started_at": "2026-11-28T08:20:58Z",
         "stream_id": "319589414374",
-        "viewer_sec": 33862,
+        "viewer_sec": 34346,
         "viewers": 1
       },
       "monthly": {
@@ -5692,15 +5692,15 @@
         "categories": [
           {
             "game": "Grand Theft Auto VI",
-            "sec": 7747
+            "sec": 8231
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1700,3600,2447,0,0,0],
-        "last_seen_at": "2026-11-28T17:40:47Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1700,3600,2931,0,0,0],
+        "last_seen_at": "2026-11-28T17:48:51Z",
         "started_at": "2026-11-28T15:31:40Z",
         "stream_id": "319593831782",
-        "viewer_sec": 10399,
-        "viewers": 2
+        "viewer_sec": 11609,
+        "viewers": 3
       },
       "monthly": {
         "2026-10": {
@@ -7418,6 +7418,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-28T17:40:47Z",
+  "updated_at": "2026-11-28T17:48:51Z",
   "viewers_since": "2026-11-02"
 }
