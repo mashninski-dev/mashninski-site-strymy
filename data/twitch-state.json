@@ -992,6 +992,21 @@
       "display_name": "Dzed_Ahey",
       "history": [
         {
+          "duration_min": 159,
+          "ended_at": "2026-11-28T12:44:10Z",
+          "game": "7 Days to Die",
+          "source": "vod",
+          "started_at": "2026-11-28T10:05:31Z",
+          "stream_id": "319590241126",
+          "title": "Гуляем у 7 Days to Die па-беларуску",
+          "vod": {
+            "gone": false,
+            "id": "2943128123",
+            "seen_at": "2026-11-28T12:45:52Z",
+            "url": "https://www.twitch.tv/videos/2943128123"
+          }
+        },
+        {
           "duration_min": 110,
           "ended_at": "2026-11-21T16:02:22Z",
           "game": "7 Days to Die",
@@ -1123,26 +1138,26 @@
         }
       ],
       "last_stream": {
-        "duration_min": 110,
-        "ended_at": "2026-11-21T16:02:22Z",
+        "duration_min": 159,
+        "ended_at": "2026-11-28T12:44:10Z",
         "game": "7 Days to Die",
         "source": "vod",
-        "started_at": "2026-11-21T14:12:19Z",
-        "stream_id": "317281271637",
+        "started_at": "2026-11-28T10:05:31Z",
+        "stream_id": "319590241126",
         "title": "Гуляем у 7 Days to Die па-беларуску",
         "vod": {
           "gone": false,
-          "id": "2936138454",
-          "seen_at": "2026-11-21T16:04:05Z",
-          "url": "https://www.twitch.tv/videos/2936138454"
+          "id": "2943128123",
+          "seen_at": "2026-11-28T12:45:52Z",
+          "url": "https://www.twitch.tv/videos/2943128123"
         }
       },
       "live": {
-        "game": "7 Days to Die",
-        "since": "2026-11-28T10:05:31Z",
-        "stream_id": "319590241126",
-        "title": "Гуляем у 7 Days to Die па-беларуску",
-        "viewers": 2
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b3e18b5-6d45-4af2-9abb-eec6eb3a1264-profile_image-300x300.png",
@@ -1598,7 +1613,7 @@
         "since": "2026-11-28T11:56:48Z",
         "stream_id": "319591289830",
         "title": "суботні стрым",
-        "viewers": 4
+        "viewers": 5
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-03T15:36:12Z",
@@ -2651,11 +2666,11 @@
         }
       },
       "live": {
-        "game": "Just Chatting",
+        "game": "ELDEN RING",
         "since": "2026-11-28T11:10:46Z",
         "stream_id": "319590851686",
         "title": "Грузінскі кароткі метр + Elden Ring",
-        "viewers": 8
+        "viewers": 7
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -5702,5 +5717,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-28T12:40:39Z"
+  "updated_at": "2026-11-28T12:45:52Z"
 }
