@@ -1021,16 +1021,16 @@
       "added_at": "2026-09-11",
       "categories": {
         "ELDEN RING": {
-          "launches": 9,
-          "minutes": 995
+          "launches": 10,
+          "minutes": 1102
         },
         "Fear & Hunger 2: Termina": {
           "launches": 3,
           "minutes": 452
         },
         "Just Chatting": {
-          "launches": 1,
-          "minutes": 42
+          "launches": 2,
+          "minutes": 137
         },
         "Lucky Tower Ultimate": {
           "launches": 1,
@@ -1044,9 +1044,9 @@
       "display_name": "mashninski",
       "followers_end": null,
       "followers_start": 176,
-      "hours": [69,0,0,0,0,0,0,0,0,0,0,0,0,54,96,274,513,498,237,44,60,67,150,130],
-      "launches": 17,
-      "minutes": 2193,
+      "hours": [69,0,0,0,0,0,0,0,0,0,0,0,0,54,145,334,573,531,237,44,60,67,150,130],
+      "launches": 18,
+      "minutes": 2395,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-31T20:36:05Z",
       "sessions": [
@@ -1150,9 +1150,15 @@
           "ended_at": "2026-11-27T21:28:35Z",
           "started_at": "2026-11-27T18:52:35Z",
           "viewer_minutes": 950
+        },
+        {
+          "duration_min": 202,
+          "ended_at": "2026-11-28T14:32:56Z",
+          "started_at": "2026-11-28T11:10:46Z",
+          "viewer_minutes": 1080
         }
       ],
-      "viewer_minutes": 22732
+      "viewer_minutes": 23812
     },
     "mihas_gareza": {
       "added_at": "2026-09-11",
@@ -2750,5 +2756,5 @@
       "viewer_minutes": 1327
     }
   },
-  "updated_at": "2026-11-28T12:45:52Z"
+  "updated_at": "2026-11-28T14:34:40Z"
 }

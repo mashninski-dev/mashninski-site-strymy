@@ -258,7 +258,7 @@
           "2026-11-27": 1312,
           "2026-11-28": 1312
         },
-        "fail_runs": 1,
+        "fail_runs": 0,
         "snapshots": {
           "2026-10-01": 1293,
           "2026-11-01": 1302
@@ -974,15 +974,15 @@
         "categories": [
           {
             "game": "Resident Evil Code: Veronica X HD",
-            "sec": 6253
+            "sec": 6491
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,811,3600,1842,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-28T14:30:42Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,811,3600,2080,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-28T14:34:40Z",
         "started_at": "2026-11-28T12:46:29Z",
         "stream_id": "319404481767",
-        "viewer_sec": 17069,
-        "viewers": 3
+        "viewer_sec": 17902,
+        "viewers": 4
       },
       "monthly": {
         "2026-10": {
@@ -1190,7 +1190,7 @@
           "2026-11-27": 53,
           "2026-11-28": 53
         },
-        "fail_runs": 1,
+        "fail_runs": 0,
         "snapshots": {
           "2026-10-01": 41,
           "2026-11-01": 48
@@ -1811,15 +1811,15 @@
         "categories": [
           {
             "game": "GeoGuessr",
-            "sec": 9234
+            "sec": 9472
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,192,3600,3600,1842,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-28T14:30:42Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,192,3600,3600,2080,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-28T14:34:40Z",
         "started_at": "2026-11-28T11:56:48Z",
         "stream_id": "319591289830",
-        "viewer_sec": 29224,
-        "viewers": 2
+        "viewer_sec": 29938,
+        "viewers": 4
       },
       "monthly": {
         "2026-10": {
@@ -2443,7 +2443,7 @@
           "2026-11-27": 135,
           "2026-11-28": 135
         },
-        "fail_runs": 1,
+        "fail_runs": 0,
         "snapshots": {
           "2026-10-01": 130,
           "2026-11-01": 134
@@ -2650,30 +2650,13 @@
           "2026-11-27": 192,
           "2026-11-28": 191
         },
-        "fail_runs": 1,
+        "fail_runs": 0,
         "snapshots": {
           "2026-10-01": 162,
           "2026-11-01": 176
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Just Chatting",
-            "sec": 5706
-          },
-          {
-            "game": "ELDEN RING",
-            "sec": 6290
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,2954,3600,3600,1842,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-28T14:30:42Z",
-        "started_at": "2026-11-28T11:10:46Z",
-        "stream_id": "319590851686",
-        "viewer_sec": 64248,
-        "viewers": 4
-      },
+      "in_progress": null,
       "monthly": {
         "2026-10": {
           "categories": {
@@ -2745,16 +2728,16 @@
         "2026-11": {
           "categories": {
             "ELDEN RING": {
-              "launches": 9,
-              "minutes": 995
+              "launches": 10,
+              "minutes": 1102
             },
             "Fear & Hunger 2: Termina": {
               "launches": 3,
               "minutes": 452
             },
             "Just Chatting": {
-              "launches": 1,
-              "minutes": 42
+              "launches": 2,
+              "minutes": 137
             },
             "Lucky Tower Ultimate": {
               "launches": 1,
@@ -2765,13 +2748,30 @@
               "minutes": 624
             }
           },
-          "hours": [69,0,0,0,0,0,0,0,0,0,0,0,0,54,96,274,513,498,237,44,60,67,150,130],
-          "launches": 17,
-          "minutes": 2193,
-          "viewer_minutes": 22732
+          "hours": [69,0,0,0,0,0,0,0,0,0,0,0,0,54,145,334,573,531,237,44,60,67,150,130],
+          "launches": 18,
+          "minutes": 2395,
+          "viewer_minutes": 23812
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 95
+            },
+            {
+              "game": "ELDEN RING",
+              "minutes": 107
+            }
+          ],
+          "ended_at": "2026-11-28T14:32:56Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,60,60,33,0,0,0,0,0,0],
+          "started_at": "2026-11-28T11:10:46Z",
+          "viewer_minutes": 1080,
+          "viewers_last": 4
+        },
         {
           "categories": [
             {
@@ -4364,14 +4364,14 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 22184
+            "sec": 22422
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2342,3600,3600,3600,3600,3600,1842,0,0,0,0,0,0],
-        "last_seen_at": "2026-11-28T14:30:42Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2342,3600,3600,3600,3600,3600,2080,0,0,0,0,0,0],
+        "last_seen_at": "2026-11-28T14:34:40Z",
         "started_at": "2026-11-28T08:20:58Z",
         "stream_id": "319589414374",
-        "viewer_sec": 21300,
+        "viewer_sec": 21538,
         "viewers": 1
       },
       "monthly": {
@@ -6019,7 +6019,7 @@
           "2026-11-27": 124,
           "2026-11-28": 124
         },
-        "fail_runs": 1,
+        "fail_runs": 0,
         "snapshots": {
           "2026-11-01": 117
         }
@@ -7392,6 +7392,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-28T14:30:42Z",
+  "updated_at": "2026-11-28T14:34:40Z",
   "viewers_since": "2026-11-02"
 }

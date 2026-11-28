@@ -980,7 +980,7 @@
         "since": "2026-11-28T12:46:29Z",
         "stream_id": "319404481767",
         "title": "Час пакут 🥲 | Resident Evil Code: Veronica X",
-        "viewers": 3
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -1613,7 +1613,7 @@
         "since": "2026-11-28T11:56:48Z",
         "stream_id": "319591289830",
         "title": "суботні стрым",
-        "viewers": 2
+        "viewers": 4
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-03T15:36:12Z",
@@ -2350,6 +2350,21 @@
       "display_name": "mashninski",
       "history": [
         {
+          "duration_min": 202,
+          "ended_at": "2026-11-28T14:32:56Z",
+          "game": "ELDEN RING",
+          "source": "vod",
+          "started_at": "2026-11-28T11:10:46Z",
+          "stream_id": "319590851686",
+          "title": "Грузінскі кароткі метр + Elden Ring",
+          "vod": {
+            "gone": false,
+            "id": "2943158937",
+            "seen_at": "2026-11-28T14:34:41Z",
+            "url": "https://www.twitch.tv/videos/2943158937"
+          }
+        },
+        {
           "duration_min": 156,
           "ended_at": "2026-11-27T21:28:35Z",
           "game": "ELDEN RING",
@@ -2633,44 +2648,29 @@
             "seen_at": "2026-10-29T17:18:16Z",
             "url": "https://www.twitch.tv/videos/2913904380"
           }
-        },
-        {
-          "duration_min": 153,
-          "ended_at": "2026-10-27T16:38:22Z",
-          "game": "The Witcher 3: Wild Hunt Remastered",
-          "source": "vod",
-          "started_at": "2026-10-27T14:05:42Z",
-          "stream_id": "318968872935",
-          "title": "Які квэст робім сёння?",
-          "vod": {
-            "gone": false,
-            "id": "2912174566",
-            "seen_at": "2026-10-27T16:40:03Z",
-            "url": "https://www.twitch.tv/videos/2912174566"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 156,
-        "ended_at": "2026-11-27T21:28:35Z",
+        "duration_min": 202,
+        "ended_at": "2026-11-28T14:32:56Z",
         "game": "ELDEN RING",
         "source": "vod",
-        "started_at": "2026-11-27T18:52:35Z",
-        "stream_id": "319395168999",
-        "title": "Даследванні глыбіні",
+        "started_at": "2026-11-28T11:10:46Z",
+        "stream_id": "319590851686",
+        "title": "Грузінскі кароткі метр + Elden Ring",
         "vod": {
           "gone": false,
-          "id": "2942463720",
-          "seen_at": "2026-11-27T21:30:09Z",
-          "url": "https://www.twitch.tv/videos/2942463720"
+          "id": "2943158937",
+          "seen_at": "2026-11-28T14:34:41Z",
+          "url": "https://www.twitch.tv/videos/2943158937"
         }
       },
       "live": {
-        "game": "ELDEN RING",
-        "since": "2026-11-28T11:10:46Z",
-        "stream_id": "319590851686",
-        "title": "Грузінскі кароткі метр + Elden Ring",
-        "viewers": 4
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -5717,5 +5717,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-28T14:30:42Z"
+  "updated_at": "2026-11-28T14:34:40Z"
 }
