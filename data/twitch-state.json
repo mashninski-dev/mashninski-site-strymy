@@ -980,7 +980,7 @@
         "since": "2026-11-28T12:46:29Z",
         "stream_id": "319404481767",
         "title": "Час пакут 🥲 | Resident Evil Code: Veronica X",
-        "viewers": 6
+        "viewers": 3
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -1548,6 +1548,21 @@
       "display_name": "imPani4",
       "history": [
         {
+          "duration_min": 254,
+          "ended_at": "2026-11-28T16:11:08Z",
+          "game": "GeoGuessr",
+          "source": "vod",
+          "started_at": "2026-11-28T11:56:48Z",
+          "stream_id": "319591289830",
+          "title": "суботні стрым",
+          "vod": {
+            "gone": false,
+            "id": "2943182196",
+            "seen_at": "2026-11-28T16:12:54Z",
+            "url": "https://www.twitch.tv/videos/2943182196"
+          }
+        },
+        {
           "duration_min": 231,
           "ended_at": "2026-11-21T17:01:57Z",
           "game": "GeoGuessr",
@@ -1594,26 +1609,26 @@
         }
       ],
       "last_stream": {
-        "duration_min": 231,
-        "ended_at": "2026-11-21T17:01:57Z",
+        "duration_min": 254,
+        "ended_at": "2026-11-28T16:11:08Z",
         "game": "GeoGuessr",
         "source": "vod",
-        "started_at": "2026-11-21T13:10:32Z",
-        "stream_id": "319497648102",
-        "title": "і зноў тутака",
+        "started_at": "2026-11-28T11:56:48Z",
+        "stream_id": "319591289830",
+        "title": "суботні стрым",
         "vod": {
           "gone": false,
-          "id": "2936090283",
-          "seen_at": "2026-11-21T17:03:48Z",
-          "url": "https://www.twitch.tv/videos/2936090283"
+          "id": "2943182196",
+          "seen_at": "2026-11-28T16:12:54Z",
+          "url": "https://www.twitch.tv/videos/2943182196"
         }
       },
       "live": {
-        "game": "GeoGuessr",
-        "since": "2026-11-28T11:56:48Z",
-        "stream_id": "319591289830",
-        "title": "суботні стрым",
-        "viewers": 2
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-03T15:36:12Z",
@@ -5717,5 +5732,5 @@
       "user_id": "1211332409"
     }
   },
-  "updated_at": "2026-11-28T16:10:47Z"
+  "updated_at": "2026-11-28T16:12:54Z"
 }
